@@ -1,0 +1,28 @@
+Java does not have an exact equivalent to the `System.Reflection.PropertyInfo.GetGetMethod` method in C#. However, you can use the following methods in Java to achieve similar functionality:
+
+* `java.lang.Class.getDeclaredMethods()`: This method returns an array of all the methods declared by a class or interface, including public and private methods.
+* `java.lang.Class.getMethod(String name)`: This method returns a `Method` object that represents the method with the specified name in the class or interface.
+* `java.lang.reflect.Method.invoke(Object obj, Object... args)`: This method invokes the method represented by the `Method` object on the specified object with the specified arguments.
+
+Here's an example of how you can use these methods to get a reference to a property's getter method in Java:
+```java
+import java.lang.reflect.Method;
+
+public class PropertyInfo {
+    private Class<?> type;
+    private String name;
+
+    public PropertyInfo(Class<?> type, String name) {
+        this.type = type;
+        this.name = name;
+    }
+
+    public Method getGetMethod() throws NoSuchMethodException {
+        return type.getDeclaredMethods().stream()
+                .filter(method -> method.getName().equals("get" + name))
+                .findFirst()
+                .orElseThrow(() -> new NoSuchMethodException("No such getter method found"));
+    }
+}
+```
+In this example, the `PropertyInfo` class has a `type` field that represents the type of the property, and a `name` field that represents the name of the property. The `getGetMethod()` method uses reflection to find the getter method for the property by searching through all the declared methods in the `type` class and returning the first one that matches the expected name (i.e., "get" followed by the name of the property). If no such method is found, a `NoSuchMethodException` is thrown.

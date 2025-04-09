@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to `torch.nn.init.xavier_normal`:
+
+1. `CNTK.initializer.XavierNormal`
+2. `CNTK.initializer.GlorotNormal`
+3. `CNTK.initializer.HeNormal`
+4. `CNTK.initializer.LeCunNormal`
+5. `CNTK.initializer.KaimingNormal`

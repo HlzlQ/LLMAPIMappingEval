@@ -1,0 +1,5 @@
+1. System.Char.IsLower
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.Equals
+4. System.Globalization.CultureInfo.CurrentCulture.CompareInfo.IndexOf
+5. System.Linq.Enumerable.Any

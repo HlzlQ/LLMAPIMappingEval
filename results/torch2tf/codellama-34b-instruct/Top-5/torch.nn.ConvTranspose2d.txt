@@ -1,0 +1,5 @@
+  tf.keras.layers.Conv2DTranspose
+tf.keras.layers.SeparableConv2DTranspose
+tf.keras.layers.DepthwiseConv2DTranspose
+tf.keras.layers.Convolution2DTranspose
+tf.keras.layers.Deconvolution2D

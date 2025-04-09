@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.identity`:
+
+1. `mxnet.ndarray.identity`
+2. `mxnet.symbol.identity`
+3. `mxnet.initializer.Identity`
+4. `mxnet.optimizer.Identity`
+5. `mxnet.regularizer.Identity`

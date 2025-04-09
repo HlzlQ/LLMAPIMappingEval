@@ -1,0 +1,1 @@
+System.IO.TextReader.Read() in C# corresponds to java.io.BufferedReader.read() in Java.

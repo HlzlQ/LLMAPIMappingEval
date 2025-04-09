@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.substring` in C#:
+
+1. java.lang.String.substring
+2. java.lang.String.subSequence
+3. java.util.regex.Matcher.group
+4. java.nio.CharBuffer.subSequence
+5. org.apache.commons.lang3.StringUtils.substring
+6. org.apache.commons.text.StringUtils.substring
+7. com.google.common.base.Strings.substring
+8. java.text.BreakIterator.substring
+9. javax.swing.text.Segment.substring
+10. org.eclipse.jface.text.String.substring

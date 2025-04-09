@@ -1,0 +1,2 @@
+
+PyTorch equivalent of `tensorflow.keras.metrics.CosineSimilarity` is `torch.nn.CosineSimilarity`.

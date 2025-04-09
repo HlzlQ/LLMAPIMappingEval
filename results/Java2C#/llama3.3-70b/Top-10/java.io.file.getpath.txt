@@ -1,0 +1,10 @@
+1. System.IO.Path.GetFullPath
+2. System.IO.FileInfo.FullName
+3. System.IO.DirectoryInfo.FullName
+4. System.IO.Path.Combine
+5. System.IO.Path.GetFileName
+6. System.IO.Path.GetDirectoryName
+7. System.IO.File.GetAttributes
+8. System.IO.Path.HasExtension
+9. System.IO.Path.ChangeExtension
+10. System.IO.Path.GetTempPath

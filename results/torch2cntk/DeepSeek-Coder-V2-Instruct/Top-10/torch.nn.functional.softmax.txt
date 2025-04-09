@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.log_softmax, torch.nn.Softmax, torch.nn.LogSoftmax, torch.nn.CrossEntropyLoss, torch.nn.NLLLoss, torch.nn.BCELoss, torch.nn.BCEWithLogitsLoss, torch.nn.MSELoss, torch.nn.L1Loss, torch.nn.SmoothL1Loss

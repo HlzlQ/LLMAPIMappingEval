@@ -1,0 +1,5 @@
+torch.nn.Tanh  
+torch.tanh  
+torch.nn.functional.tanh  
+torch.nn.modules.activation.Tanh  
+torch.nn.functional.tanhshrink

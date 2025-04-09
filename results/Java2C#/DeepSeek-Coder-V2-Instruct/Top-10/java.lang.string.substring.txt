@@ -1,0 +1,10 @@
+1. System.String.Substring
+2. System.Text.StringBuilder.ToString
+3. System.Text.RegularExpressions.Match.Value
+4. System.Text.RegularExpressions.Group.Value
+5. System.Text.RegularExpressions.Capture.Value
+6. System.Text.Json.JsonElement.GetRawText
+7. System.Xml.Linq.XElement.Value
+8. System.Data.DataTable.Select
+9. System.Collections.Generic.List<T>.ToString
+10. System.IO.StringReader.ReadToEnd

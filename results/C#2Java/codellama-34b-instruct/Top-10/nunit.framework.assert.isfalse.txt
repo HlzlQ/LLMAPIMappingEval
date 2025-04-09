@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the given C# API:
+
+1. `org.junit.Assert.assertFalse`
+2. `org.testng.Assert.assertFalse`
+3. `com.google.common.truth.Truth.assertThat(boolean).isFalse()`
+4. `org.hamcrest.MatcherAssert.assertThat(boolean, org.hamcrest.CoreMatchers.is(false))`
+5. `junit.framework.Assert.assertFalse`
+6. `org.easymock.EasyMock.expectLastCall().andReturn(false)`
+7. `org.mockito.Mockito.when(boolean).thenReturn(false)`
+8. `com.jayway.awaitility.Awaitility.await().atMost(1, TimeUnit.SECONDS).until(boolean, org.hamcrest.CoreMatchers.is(false))`
+9. `org.assertj.core.api.Assertions.assertThat(boolean).isFalse()`
+10. `com.google.common.truth.Truth8.assertThat(boolean).isFalse()`

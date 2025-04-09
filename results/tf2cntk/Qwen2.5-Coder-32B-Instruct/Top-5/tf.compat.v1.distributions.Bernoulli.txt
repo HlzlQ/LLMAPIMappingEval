@@ -1,0 +1,5 @@
+cntk.random.bernoulli
+cntk.ops.random_bernoulli
+cntk.layers.Bernoulli
+cntk.distributions.Bernoulli
+cntk.losses.binary_cross_entropy_with_logits

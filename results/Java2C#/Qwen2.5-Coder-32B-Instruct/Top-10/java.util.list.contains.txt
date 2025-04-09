@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Contains  
+System.Collections.ArrayList.Contains  
+System.Collections.Generic.IList<T>.Contains  
+System.Collections.ICollection.Contains  
+System.Linq.Enumerable.Contains  
+System.Collections.Specialized.StringCollection.Contains  
+System.Collections.ObjectModel.Collection<T>.Contains  
+System.Collections.Concurrent.ConcurrentBag<T>.Contains  
+System.Collections.Concurrent.ConcurrentQueue<T>.Contains  
+System.Collections.Concurrent.ConcurrentStack<T>.Contains

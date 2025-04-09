@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to `torch.nn.functional.log_softmax`:
+
+1. `tf.keras.layers.Softmax`
+2. `tf.keras.activations.softmax`
+3. `tf.keras.backend.softmax`
+4. `tf.math.softmax`
+5. `tf.nn.softmax`
+6. `tf.nn.log_softmax`
+7. `tf.keras.layers.LogSoftmax`
+8. `tf.keras.activations.log_softmax`
+9. `tf.keras.backend.log_softmax`
+10. `tf.math.log_softmax`

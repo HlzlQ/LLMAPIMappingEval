@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `glorot_uniform` initializer:
+
+1. `mxnet.initializers.GlorotUniform()`
+2. `mxnet.initializers.XavierUniform()`
+3. `mxnet.initializers.HeUniform()`
+4. `mxnet.initializers.LeCunUniform()`
+5. `mxnet.initializers.KaimingUniform()`
+6. `mxnet.initializers.VarianceScaling()`
+7. `mxnet.initializers.RandomNormal()`
+8. `mxnet.initializers.RandomUniform()`
+9. `mxnet.initializers.TruncatedNormal()`
+10. `mxnet.initializers.Orthogonal()`

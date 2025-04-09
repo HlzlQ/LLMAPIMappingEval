@@ -1,0 +1,5 @@
+mxnet.gluon.nn.BatchNorm
+mxnet.ndarray.BatchNorm
+mxnet.symbol.BatchNorm
+mxnet.gluon.contrib.nn.GroupNorm
+mxnet.gluon.contrib.nn.InstanceNorm

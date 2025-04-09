@@ -1,0 +1,10 @@
+System.Enum.GetName
+System.Enum.GetNames
+System.Enum.Parse
+System.Enum.IsDefined
+System.Enum.ToObject
+System.Enum.HasFlag
+System.Enum.GetUnderlyingType
+System.Enum.Format
+System.Enum.TryParse
+System.Enum.GetValues

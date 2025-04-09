@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.sql.ResultSet.wasNull()
+2. java.sql.SQLDataReader.isDBNull()
+3. oracle.jdbc.OracleResultSet.wasNull()
+4. com.microsoft.sqlserver.jdbc.SQLServerResultSet.wasNull()
+5. org.postgresql.jdbc.PgResultSet.wasNull()
+6. com.ibm.db2.jcc.DB2ResultSet.wasNull()
+7. com.mysql.cj.jdbc.resultset.ResultSetImpl.wasNull()
+8. org.apache.derby.client.am.ResultSet.wasNull()
+9. com.sybase.jdbc4.jdbc.SybResultSet.wasNull()
+10. jtds.jdbc.JtdsResultSet.wasNull()

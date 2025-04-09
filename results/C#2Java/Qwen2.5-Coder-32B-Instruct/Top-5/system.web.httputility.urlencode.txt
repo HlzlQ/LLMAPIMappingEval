@@ -1,0 +1,5 @@
+java.net.URLEncoder.encode  
+javax.servlet.http.HttpServletResponse.encodeURL  
+org.apache.commons.lang3.StringEscapeUtils.escapeUrl  
+org.springframework.web.util.UriComponentsBuilder.fromUriString  
+com.google.common.net.UrlEscapers.urlFormParameterEscaper

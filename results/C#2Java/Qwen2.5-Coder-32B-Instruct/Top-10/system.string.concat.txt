@@ -1,0 +1,10 @@
+java.lang.String.concat  
+java.lang.StringBuilder.append  
+java.lang.StringBuffer.append  
+java.util.Arrays.toString  
+java.text.MessageFormat.format  
+java.lang.String.join  
+java.nio.file.Paths.get  
+java.net.URI.create  
+java.time.format.DateTimeFormatter.format  
+java.math.BigDecimal.toPlainString

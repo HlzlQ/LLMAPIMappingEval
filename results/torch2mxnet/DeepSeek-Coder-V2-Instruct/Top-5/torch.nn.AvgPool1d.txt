@@ -1,0 +1,2 @@
+
+Answer: torch.nn.AvgPool1d -> mxnet.ndarray.contrib.AveragePooling1D

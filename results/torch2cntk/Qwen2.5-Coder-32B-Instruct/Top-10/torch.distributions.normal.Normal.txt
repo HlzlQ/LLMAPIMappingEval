@@ -1,0 +1,10 @@
+cntk.gaussian
+cntk.random.normal
+cntk.distributions.normal
+cntk.ops.normal_like
+cntk.initializer.normal
+cntk.layers.GaussianRandomInitializer
+cntk.layers.NormalDistribution
+cntk.losses.gaussian
+cntk.metrics.gaussian
+cntk.functions.gaussian

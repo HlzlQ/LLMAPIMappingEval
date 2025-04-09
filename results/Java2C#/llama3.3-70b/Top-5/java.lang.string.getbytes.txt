@@ -1,0 +1,5 @@
+1. System.Text.Encoding.GetBytes
+2. System.Text.Encoding.UTF8.GetBytes
+3. System.Text.Encoding.Unicode.GetBytes
+4. System.Text.Encoding.BigEndianUnicode.GetBytes
+5. System.Text.Encoding.ASCII.GetBytes

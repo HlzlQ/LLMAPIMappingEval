@@ -1,0 +1,10 @@
+java.lang.Enum.toString  
+java.util.Arrays.toString  
+java.lang.String.valueOf  
+java.text.MessageFormat.format  
+java.lang.Object.toString  
+java.util.Formatter.format  
+java.nio.file.Files.toString  
+java.io.File.toString  
+java.net.URL.toString  
+java.net.URI.toString

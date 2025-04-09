@@ -1,0 +1,5 @@
+System.Collections.IEnumerator.MoveNext  
+System.Collections.Generic.IEnumerator<T>.MoveNext  
+System.Collections.IEnumerable.GetEnumerator  
+System.Collections.Generic.IEnumerable<T>.GetEnumerator  
+System.Collections.ICollection.CopyTo

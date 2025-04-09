@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Add
+2. System.Collections.ArrayList.Add
+3. System.Collections.ObjectModel.Collection<T>.Add
+4. System.ComponentModel.BindingList<T>.Add
+5. System.Windows.Forms.ListBox.ObjectCollection.Add
+6. System.Windows.Controls.ItemCollection.Add
+7. System.Collections.Specialized.StringCollection.Add
+8. System.Collections.Generic.SortedSet<T>.Add
+9. System.Collections.Generic.HashSet<T>.Add
+10. System.Collections.Generic.Dictionary<TKey,TValue>.Add

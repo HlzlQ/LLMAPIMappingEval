@@ -1,0 +1,4 @@
+
+Answer: ```python
+['torch.nn.init.kaiming_uniform_', 'torch.nn.init.xavier_uniform_', 'torch.nn.init.he_normal_', 'torch.nn.init.lecun_normal_', 'torch.nn.init.kaiming_normal_', 'torch.nn.init.xavier_normal_', 'torch.nn.init.glorot_uniform_', 'torch.nn.init.he_uniform_', 'torch.nn.init.lecun_uniform_', 'torch.nn.init.kaiming_uniform_']
+```

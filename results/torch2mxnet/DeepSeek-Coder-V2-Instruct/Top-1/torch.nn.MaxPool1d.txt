@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The corresponding MaxPool1d function in MXNet should be mxnet.gluon.nn.MaxPool1D
+print("mxnet.gluon.nn.MaxPool1D")
+<jupyter_output>
+mxnet.gluon.nn.MaxPool1D

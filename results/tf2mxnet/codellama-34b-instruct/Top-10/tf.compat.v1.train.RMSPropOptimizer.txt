@@ -1,0 +1,12 @@
+  tf.compat.v1.train.RMSPropOptimizer is a TensorFlow API for RMSProp optimization. Here are 10 MXNet APIs with similar functions:
+
+1. mxnet.optimizer.RMSProp
+2. mxnet.optimizer.RMSPropOptimizer
+3. mxnet.optimizer.RMSPropSGD
+4. mxnet.optimizer.RMSPropMomentum
+5. mxnet.optimizer.RMSPropNesterov
+6. mxnet.optimizer.RMSPropAdam
+7. mxnet.optimizer.RMSPropAdagrad
+8. mxnet.optimizer.RMSPropAdadelta
+9. mxnet.optimizer.RMSPropAdamW
+10. mxnet.optimizer.RMSPropNadam

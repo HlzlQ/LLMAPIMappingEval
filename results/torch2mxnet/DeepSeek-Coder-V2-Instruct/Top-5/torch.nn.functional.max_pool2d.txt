@@ -1,0 +1,6 @@
+
+Answer: torch.nn.functional.max_pool2d -> mxnet.ndarray.max_pooling2d
+torch.nn.MaxPool2d -> mxnet.gluon.nn.MaxPool2d
+torch.nn.AvgPool2d -> mxnet.gluon.nn.AvgPool2d
+mxnet.symbol.contrib.BilinearResize2D -> torch.nn.functional.interpolate (with mode='bilinear')
+mxnet.ndarray.contrib.BilinearResize2D -> torch.nn.functional.interpolate (with mode='bilinear')

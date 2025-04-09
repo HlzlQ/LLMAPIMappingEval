@@ -1,0 +1,27 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+```python
+import mxnet as mx
+mx.__version__
+```
+
+```python
+# TensorFlow API to MXNet API mapping
+tensorflow_to_mxnet = {
+    'tf.layers.max_pooling3d': 'mxnet.ndarray.Pooling',
+    # Add more mappings here if necessary
+}
+
+# Output the names of the 5 most likely APIs in MXNet
+likely_mxnet_apis = [
+    'mxnet.ndarray.Pooling',
+    'mxnet.symbol.Pooling',
+    'mxnet.gluon.nn.MaxPool3D',
+    'mxnet.image.contrib.BilinearResize2D',
+    'mxnet.image.contrib.NearestNeighborResize2D'
+]
+```

@@ -1,0 +1,7 @@
+  tf.keras.models.save_model() is not directly available in MXNet. However, there are a few alternatives that can be used to save a model in MXNet:
+
+1. mxnet.gluon.nn.Sequential.export(): This method allows you to export the model architecture and weights as a JSON file.
+2. mxnet.gluon.nn.HybridBlock.save_parameters(): This method saves the model parameters in an MXNet-specific format.
+3. mxnet.gluon.nn.HybridBlock.export(): This method allows you to export the model architecture and weights as a JSON file.
+4. mxnet.ndarray.save(): This method allows you to save the model parameters as an MXNet-specific binary file.
+5. mxnet.symbol.save(): This method allows you to save the model architecture as an MXNet-specific symbolic graph.

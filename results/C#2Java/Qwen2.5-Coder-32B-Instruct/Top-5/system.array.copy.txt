@@ -1,0 +1,5 @@
+java.lang.System.arraycopy  
+java.util.Arrays.copyOf  
+java.util.Arrays.copyOfRange  
+java.nio.Buffer.duplicate  
+java.nio.ByteBuffer.put

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.Collections.Generic.List<T>.Get` method:
+
+1. `java.util.ArrayList<E>.get(int index)`
+2. `java.util.LinkedList<E>.get(int index)`
+3. `java.util.Vector<E>.get(int index)`
+4. `java.util.Stack<E>.get(int index)`
+5. `java.util.Queue<E>.get(int index)`
+6. `java.util.PriorityQueue<E>.get(int index)`
+7. `java.util.concurrent.CopyOnWriteArrayList<E>.get(int index)`
+8. `java.util.concurrent.ConcurrentLinkedDeque<E>.get(int index)`
+9. `java.util.concurrent.ConcurrentSkipListSet<E>.get(int index)`
+10. `java.util.concurrent.ConcurrentSkipListMap<K,V>.get(int index)`

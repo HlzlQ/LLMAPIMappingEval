@@ -1,0 +1,17 @@
+
+CNTK does not have a direct equivalent of PyTorch's `torch.nn.functional.elu`. However, you can achieve a similar result using CNTK's `cntk.ops.relu` function with the `alpha` parameter set to 1.0.
+
+Here is an example:
+```
+import cntk as C
+
+# PyTorch code
+x = torch.tensor([-2, -1, 0, 1, 2])
+y = F.elu(x)
+print(y) # [-1.6487213, -0.5934021, 0.0, 1.0, 2.0]
+
+# CNTK code
+x = C.constant([-2, -1, 0, 1, 2])
+y = C.ops.relu(x, alpha=1.0)
+print(y) # [-1.6487213, -0.5934021, 0.0, 1.0, 2.0]
+```

@@ -1,0 +1,6 @@
+
+* `torch.nn.functional.avg_pool1d`
+* `torch.nn.AvgPool1d`
+* `torch.nn.modules.pooling.AvgPool1d`
+* `torch.nn.modules.pooling.AveragePooling1d`
+* `torch.nn.functional.avg_pool2d` (for 2D average pooling)

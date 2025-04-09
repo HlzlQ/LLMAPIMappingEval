@@ -1,0 +1,5 @@
+cntk.losses.cross_entropy_with_softmax
+cntk.losses.cross_entropy_with_logsoftmax
+cntk.losses.softmax_cross_entropy
+cntk.losses.log_softmax_cross_entropy
+cntk.losses.sparse_categorical_crossentropy

@@ -1,0 +1,2 @@
+
+Answer: tensorflow.keras.layers.ZeroPadding2D -> cntk.layers.Convolution2D

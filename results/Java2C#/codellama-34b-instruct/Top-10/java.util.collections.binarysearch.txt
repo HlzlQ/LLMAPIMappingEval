@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.collections.binarysearch`:
+
+1. `System.Collections.Generic.List<T>.BinarySearch`
+2. `System.Linq.Enumerable.BinarySearch`
+3. `System.Collections.Specialized.StringCollection.BinarySearch`
+4. `System.Collections.ArrayList.BinarySearch`
+5. `System.Collections.Hashtable.BinarySearch`
+6. `System.Collections.SortedList.BinarySearch`
+7. `System.Collections.Generic.SortedDictionary<TKey, TValue>.BinarySearch`
+8. `System.Collections.Generic.SortedSet<T>.BinarySearch`
+9. `System.Collections.Concurrent.ConcurrentBag<T>.BinarySearch`
+10. `System.Collections.Concurrent.ConcurrentQueue<T>.BinarySearch`

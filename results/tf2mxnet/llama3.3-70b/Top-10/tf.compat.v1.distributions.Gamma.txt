@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.distributions.Gamma`:
+
+1. mxnet.ndarray.random.gamma
+2. mxnet.sym.random.gamma
+3. mxnet.gluon.loss.GammaLoss
+4. mxnet.gluon.nn.Gamma
+5. mxnet.ndarray.LinalgGamma
+6. mxnet.sym.LinalgGamma
+7. mxnet.gluon.probability.distributions.Gamma
+8. mxnet.ndarray.random.gammaln
+9. mxnet.sym.random.gammaln
+10. mxnet.gluon.loss.LogGammaLoss

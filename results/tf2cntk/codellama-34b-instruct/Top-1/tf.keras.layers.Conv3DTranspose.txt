@@ -1,0 +1,22 @@
+
+CNTK does not have a direct equivalent of `Conv3DTranspose` from TensorFlow. However, you can achieve similar functionality by using the `convolution_transpose` function in CNTK. Here's an example:
+```csharp
+using CNTK;
+
+// Define the input and output shapes
+var inputShape = new int[] { 10, 10, 10 };
+var outputShape = new int[] { 20, 20, 20 };
+
+// Create a convolutional transpose layer
+var convTransposeLayer = ConvolutionalTranspose(inputShape, outputShape, numFilters: 32, kernelSize: (5, 5, 5), stride: (1, 1, 1));
+
+// Define the input and output variables
+var inputVariable = Variable.InputVariable(inputShape, DataType.Float);
+var outputVariable = convTransposeLayer.Output;
+
+// Create a model using the convolutional transpose layer
+var model = Model.Create(inputVariable, outputVariable);
+```
+In this example, we define an input shape of (10, 10, 10) and an output shape of (20, 20, 20). We then create a convolutional transpose layer with 32 filters, a kernel size of (5, 5, 5), and a stride of (1, 1, 1). The `ConvolutionalTranspose` function returns a `Function` object that we can use to define the model. We then create an input variable and an output variable using the `Variable.InputVariable` and `Function.Output` methods, respectively. Finally, we create a model using the `Model.Create` method.
+
+Note that this is just one possible way to implement a convolutional transpose layer in CNTK. There may be other ways to achieve similar functionality depending on your specific use case.

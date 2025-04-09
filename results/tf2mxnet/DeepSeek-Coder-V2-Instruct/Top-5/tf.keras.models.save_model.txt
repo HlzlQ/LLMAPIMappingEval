@@ -1,0 +1,8 @@
+
+Answer: ```
+1. mxnet.ndarray.save
+2. mxnet.model.save_checkpoint
+3. mxnet.module.save_params
+4. gluon.Model.save_parameters
+5. save_model
+```

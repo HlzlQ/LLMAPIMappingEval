@@ -1,0 +1,10 @@
+System.Convert.ToInt64
+System.Int64.Parse
+System.Int64.TryParse
+System.Numerics.BigInteger.Parse
+System.Numerics.BigInteger.TryParse
+System.Linq.Enumerable.LongCount
+System.Math.BigMul
+System.BitConverter.ToInt64
+System.Runtime.InteropServices.Marshal.ReadInt64
+System.IO.BinaryReader.ReadInt64

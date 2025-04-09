@@ -1,0 +1,5 @@
+1. mxnet.ndarray.hinge_loss
+2. mxnet.gluon.loss.HingeLoss
+3. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+4. mxnet.ndarray.sigmoid_cross_entropy
+5. mxnet.gluon.loss.BinaryCrossEntropyLoss

@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the given TensorFlow API:
+
+1. mxnet.rnn.LSTMCell
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.contrib.rnn.LSTMCell
+4. mxnet.rnn.cells.LSTMCell
+5. mxnet.gluon.rnn.cells.LSTMCell

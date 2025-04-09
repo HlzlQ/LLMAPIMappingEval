@@ -1,0 +1,5 @@
+1. tf.math.tanh
+2. tf.keras.activations.tanh
+3. tf.nn.tanh
+4. tf.tanh
+5. tf.keras.layers.Activation('tanh')

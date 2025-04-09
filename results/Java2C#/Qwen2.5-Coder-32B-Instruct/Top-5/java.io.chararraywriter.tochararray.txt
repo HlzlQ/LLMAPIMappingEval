@@ -1,0 +1,5 @@
+System.Text.StringBuilder.ToString
+System.Text.StringBuilder.ToCharArray
+System.IO.StringWriter.ToString
+System.IO.StringWriter.ToCharArray
+System.Text.StringBuilder.CopyTo

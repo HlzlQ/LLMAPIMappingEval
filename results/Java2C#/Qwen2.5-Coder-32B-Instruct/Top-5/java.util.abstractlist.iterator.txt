@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.GetEnumerator  
+System.Collections.ArrayList.GetEnumerator  
+System.Collections.Generic.IList<T>.GetEnumerator  
+System.Collections.ICollection.GetEnumerator  
+System.Collections.Generic.Collection<T>.GetEnumerator

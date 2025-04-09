@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch `torch.split` API:
+
+1. `cntk.split`
+2. `cntk.tensor.split`
+3. `cntk.array.split`
+4. `cntk.variable.split`
+5. `cntk.functional.split`
+6. `cntk.ops.split`
+7. `cntk.layers.split`
+8. `cntk.models.split`
+9. `cntk.utils.split`
+10. `cntk.nn.split`

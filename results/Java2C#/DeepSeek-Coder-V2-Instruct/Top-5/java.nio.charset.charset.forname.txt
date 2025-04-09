@@ -1,0 +1,5 @@
+1. Encoding.GetEncoding(string)
+2. System.Text.Encoding.GetEncoding(string)
+3. System.Text.Encoding.GetProviderEncoding(string)
+4. System.Text.Encoding.Default
+5. System.Text.Encoding.GetEncodings()

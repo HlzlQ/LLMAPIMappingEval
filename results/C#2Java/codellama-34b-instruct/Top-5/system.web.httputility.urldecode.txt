@@ -1,0 +1,7 @@
+  Sure, here are the top 5 APIs in Java that have similar functionality to `system.web.httputility.urldecode` in C#:
+
+1. `java.net.URLDecoder`: This class provides methods for decoding URLs and retrieving their components. It has a method called `decode()` that can be used to decode a URL-encoded string.
+2. `org.apache.commons.codec.binary.Base64`: This class provides methods for encoding and decoding binary data using the Base64 algorithm. It has a method called `decodeBase64()` that can be used to decode a Base64-encoded string.
+3. `javax.xml.bind.DatatypeConverter`: This class provides methods for converting between XML schema datatypes and Java datatypes. It has a method called `parseAnySimpleType()` that can be used to parse an XML schema datatype and return the corresponding Java object.
+4. `java.util.UUID`: This class provides methods for working with universally unique identifiers (UUIDs). It has a method called `fromString()` that can be used to convert a string representation of a UUID into a `UUID` object.
+5. `org.apache.commons.codec.binary.Hex`: This class provides methods for encoding and decoding binary data using the hexadecimal algorithm. It has a method called `decodeHex()` that can be used to decode a hex-encoded string.

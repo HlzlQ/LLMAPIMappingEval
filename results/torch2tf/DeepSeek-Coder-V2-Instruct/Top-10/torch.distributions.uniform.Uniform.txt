@@ -1,0 +1,13 @@
+
+Answer: ```
+1. tfp.distributions.Uniform
+2. tf.random.uniform
+3. tf.random.normal
+4. tf.random.truncated_normal
+5. tf.random.shuffle
+6. tf.random.categorical
+7. tf.random.poisson
+8. tf.random.gamma
+9. tf.random.exponential
+10. tf.random.log_uniform
+```

@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that match the functionality of `torch.nn.LSTM`:
+
+1. `CNTK.Recurrence`
+2. `CNTK.LSTM`
+3. `CNTK.GRU`
+4. `CNTK.RecurrentLayer`
+5. `CNTK.SequenceOverRecurrence`
+6. `CNTK.Fold`
+7. `CNTK.Unfold`
+8. `CNTK.RNNStep`
+9. `CNTK.RecurrenceWithOutput`
+10. `CNTK.LSTMPComponent`

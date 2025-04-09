@@ -1,0 +1,10 @@
+1. tf.keras.optimizers.RMSprop
+2. tf.train.RMSPropOptimizer
+3. tf.compat.v1.train.RMSPropOptimizer
+4. tf.optimizers.RMSprop
+5. tf.keras.optimizers.Ftrl
+6. tf.train.FtrlOptimizer
+7. tf.compat.v1.train.FtrlOptimizer
+8. tf.optimizers.Adagrad
+9. tf.train.AdagradOptimizer
+10. tf.compat.v1.train.AdagradOptimizer

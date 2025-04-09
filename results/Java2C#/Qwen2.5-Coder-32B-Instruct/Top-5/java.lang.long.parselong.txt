@@ -1,0 +1,5 @@
+System.Int64.Parse  
+System.Convert.ToInt64  
+System.Int64.TryParse  
+System.Convert.ChangeType  
+System.Numerics.BigInteger.Parse

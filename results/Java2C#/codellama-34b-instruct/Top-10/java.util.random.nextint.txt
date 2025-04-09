@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Random.Next()
+2. Random.Next(int32)
+3. Random.Next(int32, int32)
+4. Random.NextBytes(byte[])
+5. Random.NextDouble()
+6. Random.NextGaussian()
+7. Random.NextInt32()
+8. Random.NextInt64()
+9. Random.NextSingle()
+10. Random.NextUInt32()

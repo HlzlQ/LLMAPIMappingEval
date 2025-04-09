@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.runtime.availableprocessors`:
+
+1. `System.Environment.ProcessorCount`
+2. `System.Runtime.InteropServices.RuntimeInformation.AvailableProcessors`
+3. `System.Diagnostics.PerformanceCounterCategory.InstanceName`
+4. `System.Management.Instrumentation.InstanceName`
+5. `Microsoft.Win32.RegistryKey.GetValue`
+6. `System.IO.File.ReadAllText`
+7. `System.IO.File.ReadAllLines`
+8. `System.IO.File.ReadAllBytes`
+9. `System.IO.StreamReader.ReadToEnd`
+10. `System.IO.StreamReader.ReadLine`

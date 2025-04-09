@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.ndarray.Convolution
+2. mxnet.symbol.Deconvolution
+3. mxnet.gluon.nn.Conv3DTranspose
+4. mxnet.sym.Deconvolution
+5. mxnet.ndarray.Deconvolution

@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Conv2d | mxnet.ndarray.convolution |
+  | torch.nn.MaxPool2d | mxnet.ndarray.pooling.max_pool2d |
+  | torch.nn.AvgPool2d | mxnet.ndarray.pooling.avg_pool2d |
+  | torch.nn.BatchNorm2d | mxnet.ndarray.batch_norm |
+  | torch.nn.ReLU | mxnet.ndarray.relu |

@@ -1,0 +1,2 @@
+
+CNTK's equivalent of torch.nn.RNN is cntk.layers.Recurrent.

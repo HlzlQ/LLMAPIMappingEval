@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.Softmax`:
+
+1. `CNTK.softmax`
+2. `CNTK.SoftmaxActivation`
+3. `CNTK.activation.softmax`
+4. `CNTK.ops.softmax`
+5. `CNTK.layers.Softmax`
+6. `CNTK.functions.softmax`
+7. `CNTK.softmax_layer`
+8. `CNTK.nn.softmax`
+9. `CNTK.layers.Activation_softmax`
+10. `CNTK.ops.softmax_activation`

@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet APIs with similar functions:
+
+1. mxnet.ndarray.Flatten
+2. mxnet gluon.nn.Flatten
+3. mxnet.gluon.contrib.nn.Flatten
+4. mxnet.ndarray.Reshape
+5. mxnet.gluon.nn.DenseFlat

@@ -1,0 +1,10 @@
+java.io.Writer.write
+java.io.BufferedWriter.write
+java.io.FileWriter.write
+java.io.PrintWriter.write
+java.io.OutputStreamWriter.write
+java.nio.file.Files.write
+java.lang.Appendable.append
+java.util.Formatter.format
+java.io.StringWriter.write
+java.io.CharArrayWriter.write

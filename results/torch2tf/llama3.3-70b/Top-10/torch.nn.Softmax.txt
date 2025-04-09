@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.Softmax`:
+
+1. tf.nn.softmax
+2. tf.keras.activations.softmax
+3. tf.math.softmax
+4. tf.keras.layers.Softmax
+5. tf.compat.v1.nn.softmax
+6. tf.compat.v1.keras.activations.softmax
+7. tf.compat.v2.nn.softmax
+8. tf.raw_ops.Softmax
+9. tf.keras.backend.softmax
+10. tf.nn.log_softmax

@@ -1,0 +1,2 @@
+
+Answer: torch.nn.init.normal_, C.initializer_value, C.initializer_glorot_uniform, C.initializer_he_uniform, C.initializer_xavier_uniform

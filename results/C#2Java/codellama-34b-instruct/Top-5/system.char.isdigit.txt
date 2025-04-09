@@ -1,0 +1,12 @@
+  Sure! Here are the 5 most likely Java APIs for each of the C# APIs you mentioned:
+
+1. System.Char.IsDigit()
+	* Java equivalent: Character.isDigit(char ch)
+2. System.String.ToLower()
+	* Java equivalent: String.toLowerCase()
+3. System.String.ToUpper()
+	* Java equivalent: String.toUpperCase()
+4. System.String.Trim()
+	* Java equivalent: String.trim()
+5. System.String.Split(char separator)
+	* Java equivalent: String.split(String regex)

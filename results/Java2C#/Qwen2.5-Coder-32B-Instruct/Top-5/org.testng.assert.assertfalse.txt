@@ -1,0 +1,5 @@
+NUnit.Framework.Assert.IsFalse  
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse  
+Xunit.Assert.False  
+FluentAssertions.Assertions.AssertionScope.FailWith  
+NSubstitute.ReceivedExtensions.DidNotReceiveWithAnyArgs

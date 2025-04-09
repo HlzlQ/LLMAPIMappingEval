@@ -1,0 +1,16 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.meshgrid | mxnet.ndarray.meshgrid |
+  | torch.meshgrid(torch.arange(3), torch.arange(4)) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3])) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='ij') | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='ij') |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='xy') | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='xy') |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='ij', sparse=True) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='ij', sparse=True) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='xy', sparse=True) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='xy', sparse=True) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='ij', sparse=False) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='ij', sparse=False) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='xy', sparse=False) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='xy', sparse=False) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='ij', sparse=True, copy=True) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='ij', sparse=True, copy=True) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='xy', sparse=True, copy=True) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='xy', sparse=True, copy=True) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='ij', sparse=False, copy=True) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='ij', sparse=False, copy=True) |
+  | torch.meshgrid(torch.arange(3), torch.arange(4), indexing='xy', sparse=False, copy=True) | mxnet.ndarray.meshgrid(mxnet.ndarray([0, 1, 2]), mxnet.ndarray([0, 1, 2, 3]), indexing='xy', sparse=False, copy=True) |
+
+Note: The above table shows the mapping between PyTorch and MXNet APIs for creating a meshgrid. The `torch.meshgrid` function in PyTorch creates a grid of points, while the `mxnet.ndarray.meshgrid` function in MXNet also creates a grid of points, but with some additional options for specifying the indexing and sparsity of the grid.

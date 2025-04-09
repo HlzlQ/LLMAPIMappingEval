@@ -1,0 +1,5 @@
+System.Collections.ArrayList.Add
+System.Collections.Generic.List<T>.Add
+System.Collections.Generic.Collection<T>.Add
+System.Collections.Specialized.StringCollection.Add
+System.Collections.ObjectModel.Collection<T>.Add

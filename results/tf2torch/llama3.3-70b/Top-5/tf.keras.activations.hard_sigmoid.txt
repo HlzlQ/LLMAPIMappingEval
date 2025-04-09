@@ -1,0 +1,5 @@
+1. torch.nn.Hardsigmoid
+2. torch.sigmoid
+3. torch.nn.Sigmoid
+4. torch.tanh
+5. torch.nn.Tanhshrink

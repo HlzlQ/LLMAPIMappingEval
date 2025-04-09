@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.log_softmax, tf.nn.log_softmax, tf.keras.activations.softmax, torch.nn.Softmax, tf.nn.softmax

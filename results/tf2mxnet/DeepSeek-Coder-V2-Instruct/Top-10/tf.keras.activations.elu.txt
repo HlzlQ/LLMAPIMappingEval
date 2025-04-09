@@ -1,0 +1,13 @@
+
+
+1. mxnet.ndarray.LeakyReLU
+2. mxnet.ndarray.ELU
+3. mxnet.ndarray.relu
+4. mxnet.ndarray.sigmoid
+5. mxnet.ndarray.softmax
+6. mxnet.ndarray.tanh
+7. mxnet.ndarray.softplus
+8. mxnet.ndarray.selu
+9. mxnet.ndarray.hard_sigmoid
+10. mxnet.ndarray.exp
+```

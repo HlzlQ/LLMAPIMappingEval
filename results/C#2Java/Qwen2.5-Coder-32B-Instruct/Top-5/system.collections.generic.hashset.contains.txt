@@ -1,0 +1,5 @@
+java.util.HashSet.contains
+java.util.LinkedHashSet.contains
+java.util.concurrent.ConcurrentHashMap.containsKey
+java.util.Set.contains
+java.util.Collection.contains

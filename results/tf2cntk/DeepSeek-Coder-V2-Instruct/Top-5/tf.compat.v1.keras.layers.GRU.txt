@@ -1,0 +1,8 @@
+
+```python
+import tensorflow as tf
+tf_gru = tf.keras.layers.GRU
+```
+Answer: ```python
+cntk_gru = C.layers.RecurrentLayer(C.layers.LSTMCell(hidden_dim), return_sequences=False)
+```

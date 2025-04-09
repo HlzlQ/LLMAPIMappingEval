@@ -1,0 +1,10 @@
+java.security.MessageDigest.getInstance  
+java.security.MessageDigest.update  
+java.security.MessageDigest.digest  
+java.security.MessageDigest.reset  
+java.security.MessageDigest.getAlgorithm  
+java.security.MessageDigest.getProvider  
+java.security.MessageDigest.clone  
+java.security.MessageDigest.equals  
+java.security.MessageDigest.hashCode  
+java.security.MessageDigest.toString

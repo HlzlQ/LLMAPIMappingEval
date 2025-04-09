@@ -1,0 +1,5 @@
+1. cntk.learners.Adam
+2. cntk.learners.Adamax
+3. cntk.learners.Nadam
+4. cntk.learners.Rmsprop
+5. cntk.learners.MomentumSGD

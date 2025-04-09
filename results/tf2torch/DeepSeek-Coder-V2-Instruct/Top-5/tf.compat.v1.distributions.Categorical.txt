@@ -1,0 +1,6 @@
+
+Answer: 1. torch.distributions.categorical.Categorical
+2. torch.nn.functional.one_hot
+3. torch.argmax
+4. torch.tensor
+5. torch.softmax

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for transposed convolutional layers:
+
+1. `mxnet.ndarray.Conv2DTranspose`
+2. `mxnet.symbol.Convolution2DTranspose`
+3. `mxnet.gluon.nn.Conv2DTranspose`
+4. `mxnet.contrib.sym.Convolution2DTranspose`
+5. `mxnet.contrib.ndarray.Conv2DTranspose`

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.keras.layers.BatchNormalization`:
+
+1. `cntk.layers.BatchNormalization`
+2. `cntk.layers.Normalize`
+3. `cntk.layers.Standardize`
+4. `cntk.layers.Scale`
+5. `cntk.layers.LayerNormalization`
+6. `cntk.layers.InstanceNormalization`
+7. `cntk.layers.GroupNormalization`
+8. `cntk.layers.LocalResponseNormalization`
+9. `cntk.layers.MeanVarianceNormalize`
+10. `cntk.layers.Standardization`

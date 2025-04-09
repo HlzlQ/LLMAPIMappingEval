@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.elu`:
+
+1. `mxnet.ndarray.ELU`
+2. `mxnet.ndarray.elu`
+3. `mxnet.ndarray.activation.ELU`
+4. `mxnet.ndarray.activation.elu`
+5. `mxnet.ndarray.activation.LeakyReLU`
+6. `mxnet.ndarray.activation.leaky_relu`
+7. `mxnet.ndarray.activation.PReLU`
+8. `mxnet.ndarray.activation.prelu`
+9. `mxnet.ndarray.activation.RReLU`
+10. `mxnet.ndarray.activation.rrelu`

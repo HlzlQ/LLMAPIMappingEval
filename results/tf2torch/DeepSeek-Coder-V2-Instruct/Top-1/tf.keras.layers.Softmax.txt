@@ -1,0 +1,8 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+Answer: ```python
+torch.nn.functional.softmax
+```

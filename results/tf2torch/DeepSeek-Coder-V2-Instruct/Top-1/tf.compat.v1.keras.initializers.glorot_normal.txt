@@ -1,0 +1,11 @@
+
+```python
+import torch
+from torch import nn
+
+# Example usage:
+initializer = nn.init.xavier_normal_
+```
+Answer: ```python
+initializer = nn.init.xavier_normal_
+```

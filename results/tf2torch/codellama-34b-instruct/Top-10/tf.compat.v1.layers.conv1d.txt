@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that can be used for the same functionality as TensorFlow's `tensorflow.compat.v1.layers.conv1d`:
+
+1. `torch.nn.Conv1d`
+2. `torch.nn.functional.conv1d`
+3. `torch.nn.modules.conv.Conv1d`
+4. `torch.nn.modules.conv.ConvTranspose1d`
+5. `torch.nn.modules.conv.Conv2d`
+6. `torch.nn.modules.conv.Conv3d`
+7. `torch.nn.modules.conv.ConvTranspose2d`
+8. `torch.nn.modules.conv.ConvTranspose3d`
+9. `torch.nn.modules.conv.MaxPool1d`
+10. `torch.nn.modules.conv.AvgPool1d`

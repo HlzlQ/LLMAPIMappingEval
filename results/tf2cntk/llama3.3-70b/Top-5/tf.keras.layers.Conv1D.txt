@@ -1,0 +1,5 @@
+1. Convolution
+2. ConvolutionLayer
+3. SequentialConvolution
+4. ConvolutionTranspose
+5. Convolution2D (note: CNTK does not have a direct equivalent of Conv1D, but Convolution can be used with 1D data)

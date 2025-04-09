@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.MaxPool3d`:
+
+1. tf.keras.layers.MaxPooling3D
+2. tf.nn.max_pool3d
+3. tf.compat.v1.nn.max_pool3d
+4. tf.keras.layers.AveragePooling3D
+5. tf.nn.avg_pool3d
+6. tf.compat.v1.nn.avg_pool3d
+7. tf.keras.layers.Pooling3D
+8. tf.nn.pool
+9. tf.keras.layers.MaxPool3D
+10. tf.layers.MaxPooling3D

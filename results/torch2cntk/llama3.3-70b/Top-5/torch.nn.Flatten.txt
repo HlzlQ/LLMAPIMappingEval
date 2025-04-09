@@ -1,0 +1,5 @@
+1. cntk.layers.Flatten
+2. cntk.layers.Reshape
+3. cntk.layers.Density
+4. cntk.layers.Transpose
+5. cntk.layers.SequenceLast

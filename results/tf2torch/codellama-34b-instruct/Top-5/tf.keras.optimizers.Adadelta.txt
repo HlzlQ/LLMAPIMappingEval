@@ -1,0 +1,6 @@
+
+* `torch.optim.Adadelta`
+* `torch.optim.Adagrad`
+* `torch.optim.Adam`
+* `torch.optim.RMSprop`
+* `torch.optim.SGD`

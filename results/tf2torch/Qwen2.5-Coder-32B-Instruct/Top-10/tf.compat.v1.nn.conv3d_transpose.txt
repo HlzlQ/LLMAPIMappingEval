@@ -1,0 +1,10 @@
+torch.nn.functional.conv_transpose3d  
+torch.nn.ConvTranspose3d  
+torch.nn.functional.conv3d  
+torch.nn.Conv3d  
+torch.nn.functional.interpolate  
+torch.nn.Upsample  
+torch.nn.MaxUnpool3d  
+torch.nn.AvgPool3d  
+torch.nn.AdaptiveAvgPool3d  
+torch.nn.AdaptiveMaxPool3d

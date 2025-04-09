@@ -1,0 +1,5 @@
+torch.flatten  
+torch.nn.Flatten  
+torch.Tensor.view  
+torch.Tensor.reshape  
+torch.Tensor.squeeze

@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.contrib.BilinearResize2D
+2. mxnet.ndarray.contrib.PixelShuffle
+3. mxnet.ndarray.contrib.Deconvolution
+4. mxnet.ndarray.UpSampling
+5. mxnet.ndarray.Convolution
+6. mxnet.ndarray.Pooling
+7. mxnet.ndarray.BatchNorm
+8. mxnet.ndarray.Activation
+9. mxnet.ndarray.FullyConnected
+10. mxnet.ndarray.Dropout

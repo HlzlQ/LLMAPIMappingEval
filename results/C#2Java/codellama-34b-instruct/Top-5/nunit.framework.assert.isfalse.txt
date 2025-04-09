@@ -1,0 +1,7 @@
+Here are five possible Java APIs that correspond to the given C# API:
+
+1. `org.junit.Assert.assertFalse`
+2. `org.testng.Assert.assertFalse`
+3. `com.google.common.truth.Truth.assertThat(boolean).isFalse()`
+4. `org.hamcrest.Matchers.is(false)`
+5. `org.mockito.Mockito.verify(boolean, org.mockito.ArgumentMatchers.any()).never()`

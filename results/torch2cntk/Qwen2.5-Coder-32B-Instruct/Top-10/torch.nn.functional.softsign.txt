@@ -1,0 +1,10 @@
+cntk.ops.element_times
+cntk.ops.reciprocal
+cntk.ops.sigmoid
+cntk.ops.tanh
+cntk.ops.relu
+cntk.ops.softmax
+cntk.ops.log_softmax
+cntk.ops.hard_sigmoid
+cntk.ops.elu
+cntk.ops.swish

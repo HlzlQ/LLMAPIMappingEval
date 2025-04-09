@@ -1,0 +1,11 @@
+
+Answer: 1. torch.flatten
+2. numpy.reshape
+3. tensorflow.keras.layers.Reshape
+4. tensorflow.keras.layers.Flatten
+5. torch.Tensor.view
+6. numpy.ravel
+7. tensorflow.keras.layers.Dense
+8. torch.nn.Flatten
+9. numpy.ndarray.reshape
+10. tensorflow.keras.layers.Conv2D

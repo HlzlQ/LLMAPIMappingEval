@@ -1,0 +1,1 @@
+  pool.avg_pool3d

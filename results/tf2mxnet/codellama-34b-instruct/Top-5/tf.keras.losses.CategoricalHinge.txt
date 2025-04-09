@@ -1,0 +1,5 @@
+  * mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+  * mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+  * mxnet.gluon.loss.SoftmaxOutput
+  * mxnet.gluon.loss.SigmoidOutput
+  * mxnet.gluon.loss.HingeLoss

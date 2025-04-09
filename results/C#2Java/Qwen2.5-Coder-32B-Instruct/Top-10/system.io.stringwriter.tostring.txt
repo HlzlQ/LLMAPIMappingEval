@@ -1,0 +1,10 @@
+java.io.StringWriter.toString
+java.lang.StringBuilder.toString
+java.lang.StringBuffer.toString
+java.nio.CharBuffer.toString
+java.util.Formatter.toString
+javax.swing.text.AbstractDocument.Content.toString
+javax.xml.transform.dom.DOMSource.getNode().toString
+org.apache.commons.io.output.StringBuilderWriter.toString
+org.apache.commons.io.output.StringWriterWithEncoding.toString
+org.w3c.dom.Node.toString

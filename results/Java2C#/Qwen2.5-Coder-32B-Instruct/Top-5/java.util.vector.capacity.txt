@@ -1,0 +1,5 @@
+System.Collections.ArrayList.Capacity  
+System.Collections.Generic.List<T>.Capacity  
+System.Collections.Concurrent.ConcurrentBag<T>.Count  
+System.Collections.Concurrent.ConcurrentQueue<T>.Count  
+System.Collections.Concurrent.ConcurrentStack<T>.Count

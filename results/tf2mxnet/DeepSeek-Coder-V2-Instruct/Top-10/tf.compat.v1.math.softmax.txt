@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.softmax
+2. mxnet.symbol.softmax
+3. gluon.nn.Softmax
+4. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+5. mxnet.ndarray.log_softmax
+6. mxnet.symbol.log_softmax
+7. mxnet.gluon.loss.LogisticLoss
+8. mxnet.ndarray.pick
+9. mxnet.symbol.pick
+10. mxnet.gluon.nn.Activation

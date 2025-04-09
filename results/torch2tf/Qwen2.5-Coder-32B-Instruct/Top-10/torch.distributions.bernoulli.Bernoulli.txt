@@ -1,0 +1,10 @@
+tfp.distributions.Bernoulli  
+tf.random.set_seed  
+tf.random.uniform  
+tf.math.greater_equal  
+tf.reduce_mean  
+tf.reduce_sum  
+tf.nn.sigmoid  
+tf.losses.BinaryCrossentropy  
+tf.keras.layers.Dense  
+tf.keras.optimizers.Adam

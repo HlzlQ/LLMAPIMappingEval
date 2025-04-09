@@ -1,0 +1,11 @@
+
+Answer: 1. tf.initializers.Constant
+2. tf.keras.initializers.Constant
+3. tf.compat.v1.initializers.constant
+4. tf.initializers.zeros
+5. tf.keras.initializers.Zeros
+6. tf.compat.v1.initializers.zeros
+7. tf.initializers.ones
+8. tf.keras.initializers.Ones
+9. tf.compat.v1.initializers.ones
+10. tf.initializers.random_normal

@@ -1,0 +1,5 @@
+cntk.ops.identity
+cntk.layers.Dense
+cntk.layers.LinearLayer
+cntk.models.Sequential
+cntk.functions.linear_times_constant

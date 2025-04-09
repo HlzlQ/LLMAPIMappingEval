@@ -1,0 +1,5 @@
+1. java.lang.String.startsWith(java.lang.String)
+2. java.lang.CharSequence.startsWith(java.lang.String)
+3. java.util.regex.Pattern.matches(java.lang.String)
+4. java.nio.file.Path.startsWith(java.nio.file.Path)
+5. java.nio.file.Files.isSameFile(java.nio.file.Path, java.nio.file.Path)

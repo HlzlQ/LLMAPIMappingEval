@@ -1,0 +1,26 @@
+
+
+```python
+import mxnet as mx
+from mxnet import gluon
+
+# Example usage:
+# Define a simple neural network using Gluon
+net = gluon.nn.Sequential()
+net.add(gluon.nn.Dense(256, activation='relu'))
+net.add(gluon.nn.Dropout(0.5))
+net.add(gluon.nn.Dense(10, activation='softmax'))
+```
+
+The most likely MXNet APIs that correspond to the PyTorch `torch.nn.functional.dropout` are:
+
+1. mxnet.ndarray.Dropout
+2. mxnet.symbol.Dropout
+3. mxnet.gluon.Block.add_module
+4. mxnet.gluon.HybridBlock.hybridize
+5. mxnet.gluon.nn.Dropout
+6. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+7. mxnet.initializer.Uniform
+8. mxnet.initializer.Normal
+9. mxnet.initializer.Constant
+10. mxnet.gluon.nn.Dense

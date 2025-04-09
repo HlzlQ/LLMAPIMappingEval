@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `hinge_loss`:
+
+1. `mxnet.ndarray.hinge_loss`
+2. `mxnet.gluon.loss.HingeLoss`
+3. `mxnet.symbol.hinge_loss`
+4. `mxnet.ndarray.softmax_cross_entropy`
+5. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+6. `mxnet.symbol.softmax_cross_entropy`
+7. `mxnet.ndarray.sparse_categorical_crossentropy`
+8. `mxnet.gluon.loss.SparseCategoricalCrossEntropyLoss`
+9. `mxnet.symbol.sparse_categorical_crossentropy`
+10. `mxnet.ndarray.categorical_hinge_loss`

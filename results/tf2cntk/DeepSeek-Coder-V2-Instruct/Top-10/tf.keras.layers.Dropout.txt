@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.ops.dropout
+2. cntk.layers.Dropout
+3. cntk.contrib.layers.Dropout
+4. cntk.layers.Convolution2D
+5. cntk.layers.Dense
+6. cntk.layers.MaxPooling2D
+7. cntk.layers.AveragePooling2D
+8. cntk.layers.BatchNormalization
+9. cntk.layers.Activation
+10. cntk.ops.relu

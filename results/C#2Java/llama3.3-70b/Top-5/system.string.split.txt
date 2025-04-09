@@ -1,0 +1,5 @@
+1. java.lang.String.split
+2. java.util.regex.Pattern.split
+3. org.apache.commons.lang3.StringUtils.split
+4. java.nio.charset.StandardCharsets.toString().split
+5. org.springframework.util.StringUtils.splitArrayElementsIntoProperties

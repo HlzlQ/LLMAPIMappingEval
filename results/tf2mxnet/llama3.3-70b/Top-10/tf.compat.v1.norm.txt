@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.norm`:
+
+1. mxnet.ndarray.norm
+2. mxnet.gluon.nn.L2Normalization
+3. mxnet.gluon.nn.L1Normalization
+4. mxnet.ndarray.L2Norm
+5. mxnet.ndarray.L1Norm
+6. mxnet.gluon.loss.L2Loss
+7. mxnet.gluon.loss.L1Loss
+8. mxnet.ndarray.normalize
+9. mxnet.gluon.nn.Normalize
+10. mxnet.ndarray.batch_norm

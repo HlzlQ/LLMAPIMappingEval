@@ -1,0 +1,10 @@
+System.Text.Encoding.GetBytes  
+System.Text.UTF8Encoding.GetBytes  
+System.Text.UnicodeEncoding.GetBytes  
+System.Text.ASCIIEncoding.GetBytes  
+System.Text.Latin1Encoding.GetBytes  
+System.Text.Encoding.Default.GetBytes  
+System.Text.Encoding.BigEndianUnicode.GetBytes  
+System.Text.Encoding.UTF32Encoding.GetBytes  
+System.Text.Encoding.GetEncoding.GetBytes  
+System.Text.Encoding.RegisterProvider.GetBytes

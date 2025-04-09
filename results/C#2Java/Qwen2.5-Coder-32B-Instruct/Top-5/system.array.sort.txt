@@ -1,0 +1,5 @@
+java.util.Arrays.sort
+java.util.Collections.sort
+java.util.List.sort
+java.util.stream.Stream.sorted
+java.util.Comparator.comparing

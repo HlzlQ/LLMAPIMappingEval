@@ -1,0 +1,5 @@
+1. java.io.File.exists
+2. java.nio.file.Files.exists
+3. java.nio.file.Paths.get.exists
+4. java.io.FileInputStream.exists (not applicable, FileInputStream does not have exists method)
+5. java.nio.file.FileSystemProvider.checkAccess

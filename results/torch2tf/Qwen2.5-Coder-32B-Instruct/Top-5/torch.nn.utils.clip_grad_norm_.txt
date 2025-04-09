@@ -1,0 +1,5 @@
+tf.clip_by_global_norm  
+tf.keras.optimizers.schedules.LearningRateSchedule  
+tf.train.GradientDescentOptimizer  
+tf.compat.v1.train.Optimizer  
+tf.math.reduce_sum

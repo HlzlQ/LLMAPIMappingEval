@@ -1,0 +1,11 @@
+
+Answer: 1. tf.train.AdagradOptimizer
+2. tf.compat.v1.train.AdagradOptimizer
+3. tf.contrib.opt.AdagradOptimizer
+4. tf.keras.optimizers.legacy.Adagrad
+5. tf.keras.optimizers.Adagrad
+6. tf.optimizers.Adagrad
+7. tf.train.AdamOptimizer
+8. tf.compat.v1.train.AdamOptimizer
+9. tf.contrib.opt.AdamOptimizer
+10. tf.keras.optimizers.legacy.Adam

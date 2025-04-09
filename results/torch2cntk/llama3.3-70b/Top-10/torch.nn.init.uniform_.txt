@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.init.uniform_`:
+
+1. `cntk.initializer.uniform`
+2. `cntk.initializer.uniform_scale`
+3. `cntk.layers.initializers.uniform`
+4. `cntk.layers.initializers.uniform_scale`
+5. `cntk.Parameter.init_uniform`
+6. `cntk.Parameter.init_uniform_scale`
+7. `cntk.Trainer.init_uniform`
+8. `cntk.Trainer.init_uniform_scale`
+9. `cntk.layers.uniform_initializer`
+10. `cntk.layers.uniform_scale_initializer`

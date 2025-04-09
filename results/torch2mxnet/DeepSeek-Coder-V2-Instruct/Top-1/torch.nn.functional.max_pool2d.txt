@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The corresponding MXNet function for torch.nn.functional.max_pool2d is mxnet.ndarray.Pooling
+print("mxnet.ndarray.Pooling")
+<jupyter_output>
+mxnet.ndarray.Pooling

@@ -1,0 +1,5 @@
+1. System.Numerics.Vector.Clone()
+2. System.Array.Clone()
+3. System.Collections.Generic.List<T>.Clone()
+4. System.String.Clone()
+5. System.Object.MemberwiseClone()

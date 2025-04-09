@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `nunit.framework.assert.areequal`:
+
+1. org.junit.Assert.assertEquals
+2. org.testng.Assert.assertEquals
+3. junit.framework.Assert.assertEquals
+4. org.hamcrest.MatcherAssert.assertThat
+5. org.junit.jupiter.api.Assertions.assertEquals
+6. org.testng.annotations.Test.assertEquals
+7. com.google.common.truth.Truth.assertThat
+8. org.apache.commons.lang3.Validate.isTrue
+9. org.easymock.EasyMock.assertEquals
+10. org.springframework.test.util.AssertionUtils.assertEquals

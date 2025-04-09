@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for max pooling in 3D:
+
+1. `mxnet.ndarray.max_pooling3d`
+2. `mxnet.symbol.MaxPooling3D`
+3. `mxnet.gluon.nn.MaxPooling3D`
+4. `mxnet.contrib.ndarray.max_pooling3d`
+5. `mxnet.contrib.symbol.MaxPooling3D`
+6. `mxnet.contrib.gluon.nn.MaxPooling3D`
+7. `mxnet.ndarray.pooling.max_pooling3d`
+8. `mxnet.symbol.pooling.MaxPooling3D`
+9. `mxnet.gluon.nn.pooling.MaxPooling3D`
+10. `mxnet.contrib.ndarray.pooling.max_pooling3d`

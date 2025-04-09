@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each Java API:
+
+1. java.io.Writer.write(int c)
+	* C# equivalent: System.IO.TextWriter.Write(char value)
+2. java.io.Writer.write(char[] cbuf, int off, int len)
+	* C# equivalent: System.IO.TextWriter.Write(char[] buffer, int index, int count)
+3. java.io.Writer.write(String str)
+	* C# equivalent: System.IO.TextWriter.Write(string value)
+4. java.io.Writer.write(String str, int off, int len)
+	* C# equivalent: System.IO.TextWriter.Write(string value, int index, int count)
+5. java.io.Writer.flush()
+	* C# equivalent: System.IO.TextWriter.Flush()

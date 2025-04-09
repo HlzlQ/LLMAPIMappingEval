@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.util.collection.iterator`:
+
+1. `System.Collections.IEnumerator`
+2. `System.Collections.Generic.IEnumerator<T>`
+3. `System.Collections.Generic.List<T>.Enumerator`
+4. `System.Collections.Generic.LinkedList<T>.Enumerator`
+5. `System.Collections.Generic.Queue<T>.Enumerator`
+6. `System.Collections.Generic.Stack<T>.Enumerator`
+7. `System.Collections.Generic.HashSet<T>.Enumerator`
+8. `System.Collections.Generic.SortedSet<T>.Enumerator`
+9. `System.Collections.Generic.Dictionary<TKey, TValue>.Enumerator`
+10. `System.Collections.Generic.SortedDictionary<TKey, TValue>.Enumerator`

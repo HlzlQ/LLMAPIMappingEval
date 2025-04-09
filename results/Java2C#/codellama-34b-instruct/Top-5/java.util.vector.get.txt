@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Vector.Get(int index)
+2. System.Collections.Generic.List<T>.Get(int index)
+3. System.Collections.ArrayList.Get(int index)
+4. System.Collections.Specialized.NameObjectCollectionBase.Get(int index)
+5. System.Collections.Specialized.StringCollection.Get(int index)

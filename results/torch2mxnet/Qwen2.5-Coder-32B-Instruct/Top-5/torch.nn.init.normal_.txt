@@ -1,0 +1,5 @@
+mxnet.ndarray.random.normal
+mxnet.init.Normal
+mxnet.gluon.nn.initializer.Normal
+mxnet.ndarray.contrib.sampling.random_normal
+mxnet.symbol.random.normal

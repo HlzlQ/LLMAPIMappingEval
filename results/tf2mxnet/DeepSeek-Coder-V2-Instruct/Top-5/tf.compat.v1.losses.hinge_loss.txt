@@ -1,0 +1,2 @@
+
+Answer: sparse_categorical_crossentropy, categorical_crossentropy, mean_squared_error, hinge_loss, softmax_cross_entropy

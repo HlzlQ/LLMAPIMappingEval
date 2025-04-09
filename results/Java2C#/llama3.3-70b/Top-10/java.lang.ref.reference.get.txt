@@ -1,0 +1,10 @@
+1. System.Runtime.InteropServices.GCHandle.AddrOfPinnedObject
+2. System.WeakReference.Target
+3. System.Runtime.InteropServices.GCHandle.Free
+4. System.Runtime.InteropServices.GCHandle.GetType
+5. System.Runtime.InteropServices.GCHandle.Equals
+6. System.Runtime.InteropServices.GCHandle.GetHashCode
+7. System.Runtime.InteropServices.GCHandle.ToString
+8. System.Runtime.InteropServices.GCHandle.Addrtype
+9. Microsoft.Win32.SafeHandles.SafeHandle.DangerousGetHandle
+10. System.Runtime.InteropServices.GCHandle.IsAllocated

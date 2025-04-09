@@ -1,0 +1,10 @@
+cntk.losses.squared_error
+cntk.losses.mean_squared_error
+cntk.losses.regression_loss
+cntk.losses.l2_loss
+cntk.losses.mse
+cntk.losses.mean_square_error
+cntk.losses.square_error
+cntk.losses.l2_norm
+cntk.losses.euclidean_distance
+cntk.losses.norm_difference

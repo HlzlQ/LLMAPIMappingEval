@@ -1,0 +1,8 @@
+  The C# API "system.data.sqlclient.sqldatareader.getfloat" can be mapped to the following Java APIs:
+
+1. java.sql.ResultSet.getFloat(int columnIndex)
+2. java.sql.ResultSet.getFloat(String columnLabel)
+3. java.sql.CallableStatement.getFloat(int parameterIndex)
+4. java.sql.CallableStatement.getFloat(String parameterName)
+5. java.sql.PreparedStatement.getFloat(int parameterIndex)
+6. java.sql.PreparedStatement.getFloat(String parameterName)

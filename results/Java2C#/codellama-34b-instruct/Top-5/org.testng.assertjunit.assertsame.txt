@@ -1,0 +1,12 @@
+  Sure! Here are the 5 most likely C# APIs for each Java API:
+
+1. org.testng.Assert.assertEquals(double expected, double actual)
+	* C#: Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual(double expected, double actual)
+2. org.testng.Assert.assertNotNull(Object object)
+	* C#: Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull(object)
+3. org.testng.Assert.assertTrue(boolean condition)
+	* C#: Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue(bool condition)
+4. org.testng.Assert.assertFalse(boolean condition)
+	* C#: Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse(bool condition)
+5. org.testng.Assert.fail()
+	* C#: Microsoft.VisualStudio.TestTools.UnitTesting.Assert.Fail()

@@ -1,0 +1,14 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.norm`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Norm`: This API calculates the norm of a tensor along a specified axis.
+* `mxnet.ndarray.LpNorm`: This API calculates the Lp-norm of a tensor along a specified axis.
+
+For example, to calculate the 2-norm of a tensor `x` along the last axis, you can use:
+```
+import mxnet as mx
+
+x = mx.ndarray([[1, 2], [3, 4]])
+mx.ndarray.Norm(x, axis=-1)
+```
+This will return a tensor with shape `(2,)` and values `[3, 5]`.

@@ -1,0 +1,6 @@
+
+Answer: 1. tf.math.softsign
+2. tf.nn.softsign
+3. tf.keras.activations.softsign
+4. tf.compat.v1.nn.softsign
+5. tf.contrib.distributions.bijectors.Softsign

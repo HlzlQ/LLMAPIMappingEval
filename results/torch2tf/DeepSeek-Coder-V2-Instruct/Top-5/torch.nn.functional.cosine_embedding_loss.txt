@@ -1,0 +1,7 @@
+
+
+1. tf.keras.losses.CosineSimilarity
+2. tf.keras.losses.MeanSquaredError
+3. tf.keras.losses.Hinge
+4. tf.keras.losses.CategoricalCrossentropy
+5. tf.keras.losses.SparseCategoricalCrossentropy

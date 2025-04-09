@@ -1,0 +1,9 @@
+  The C# API `system.data.sqlclient.sqldatareader.nextresult` is used to advance the reader to the next result set in a batch of results. In Java, you can use the following APIs to achieve the same functionality:
+
+1. `java.sql.ResultSet.next()` - Advances the cursor to the next row in the current result set.
+2. `java.sql.Statement.getMoreResults()` - Retrieves the next result set from a batch of results.
+3. `java.sql.Statement.getUpdateCount()` - Returns the number of rows affected by an update, insert, or delete statement.
+4. `java.sql.ResultSetMetaData.getColumnCount()` - Returns the number of columns in the current result set.
+5. `java.sql.ResultSetMetaData.getColumnName(int column)` - Returns the name of a column in the current result set.
+
+Note that these APIs are not exact equivalents of the C# API, but they provide similar functionality and can be used to achieve the same results in Java.

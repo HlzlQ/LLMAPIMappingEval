@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for uniform initialization:
+
+1. `tf.initializers.uniform`
+2. `tf.keras.initializers.Uniform`
+3. `tf.keras.layers.Dense.kernel_initializer` with `distribution='uniform'`
+4. `tf.keras.layers.Conv2D.kernel_initializer` with `distribution='uniform'`
+5. `tf.keras.layers.Embedding.embeddings_initializer` with `distribution='uniform'`

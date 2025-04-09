@@ -1,0 +1,5 @@
+1. System.Math.Max
+2. Math.Max
+3. double.MaxValue
+4. float.MaxValue
+5. int.MaxValue

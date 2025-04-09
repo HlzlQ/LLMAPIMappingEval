@@ -1,0 +1,10 @@
+  tf.keras.layers.LayerNormalization
+  tf.keras.layers.BatchNormalization
+  tf.keras.layers.InstanceNormalization
+  tf.keras.layers.GroupNormalization
+  tf.keras.layers.SwitchNormalization
+  tf.keras.layers.WeightNormalization
+  tf.keras.layers.LayerNorm
+  tf.keras.layers.BatchNorm
+  tf.keras.layers.InstanceNorm
+  tf.keras.layers.GroupNorm

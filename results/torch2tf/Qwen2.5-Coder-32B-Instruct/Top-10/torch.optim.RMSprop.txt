@@ -1,0 +1,10 @@
+tf.keras.optimizers.RMSprop  
+tf.train.RMSPropOptimizer  
+tf.compat.v1.train.RMSPropOptimizer  
+tf.keras.optimizers.experimental.RMSprop  
+tf.keras.optimizers.schedules.ExponentialDecay  
+tf.keras.optimizers.schedules.PiecewiseConstantDecay  
+tf.keras.optimizers.schedules.InverseTimeDecay  
+tf.keras.optimizers.schedules.CosineDecay  
+tf.keras.optimizers.schedules.CosineDecayRestarts  
+tf.keras.optimizers.Adam

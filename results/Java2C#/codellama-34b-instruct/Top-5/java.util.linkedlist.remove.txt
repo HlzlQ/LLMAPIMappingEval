@@ -1,0 +1,5 @@
+System.Collections.Generic.LinkedList<T>.Remove
+System.Collections.Generic.LinkedList<T>.RemoveFirst
+System.Collections.Generic.LinkedList<T>.RemoveLast
+System.Collections.Generic.LinkedList<T>.RemoveAt
+System.Collections.Generic.LinkedList<T>.Clear

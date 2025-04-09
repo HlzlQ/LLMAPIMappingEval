@@ -1,0 +1,10 @@
+System.IO.Stream.Write  
+System.IO.BinaryWriter.Write  
+System.IO.FileStream.Write  
+System.IO.MemoryStream.Write  
+System.IO.BufferedStream.Write  
+System.Net.Sockets.NetworkStream.Write  
+System.IO.Compression.DeflateStream.Write  
+System.IO.Compression.GZipStream.Write  
+System.Security.Cryptography.CryptoStream.Write  
+System.IO.IsolatedStorage.IsolatedStorageFileStream.Write

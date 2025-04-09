@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.Enumerator.MoveNext` in C#:
+
+1. java.util.Iterator.hasNext
+2. java.util.Iterator.next
+3. java.util.Enumeration.hasMoreElements
+4. java.util.Enumeration.nextElement
+5. java.util.ListIterator.hasNext
+6. java.util.ListIterator.next
+7. java.util.ArrayList.iterator
+8. java.util.LinkedList.listIterator
+9. java.util.Collections.enumeration
+10. java.util.AbstractList.listIterator

@@ -1,0 +1,29 @@
+Java does not have a direct equivalent to the `System.Text.RegularExpressions.GroupCollection` class in C#. However, you can use the `java.util.regex` package to perform regular expression matching and extract groups from strings.
+
+Here are some of the most commonly used methods in Java for working with regular expressions:
+
+* `Pattern`: This is the main class for working with regular expressions in Java. It provides methods for compiling and matching patterns, as well as for retrieving information about the matches.
+* `Matcher`: This class represents a matcher object that can be used to perform pattern matching on a given input string. It provides methods for testing whether a pattern matches, for finding all occurrences of a pattern in an input string, and for replacing all occurrences of a pattern with a given replacement string.
+* `PatternSyntaxException`: This exception is thrown when there is a syntax error in the regular expression pattern.
+* `MatchResult`: This interface provides information about a match that has been found by a matcher object. It includes methods for retrieving the start and end indices of the match, as well as the matched string itself.
+
+To perform the same operation as the C# code you provided, you could use the following Java code:
+```
+import java.util.regex.*;
+
+public class Example {
+    public static void main(String[] args) {
+        String input = "Hello, World!";
+        Pattern pattern = Pattern.compile("\\w+");
+        Matcher matcher = pattern.matcher(input);
+        while (matcher.find()) {
+            System.out.println(matcher.group());
+        }
+    }
+}
+```
+This code will output the following:
+```
+Hello
+World
+```

@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.distributions.Bernoulli`:
+
+1. mxnet.ndarray.random.bernoulli
+2. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+3. mxnet.gluon.loss.LogisticLoss
+4. mxnet.ndarray.sample_bernoulli
+5. mxnet.gluon.nn.Bernoulli
+6. mxnet.ndarray.random.uniform
+7. mxnet.gluon.loss.BinaryCrossEntropyLoss
+8. mxnet.ndarray.where
+9. mxnet.gluon.nn.Sigmoid
+10. mxnet.ndarray.random.exponential

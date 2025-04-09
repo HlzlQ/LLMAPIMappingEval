@@ -1,0 +1,6 @@
+
+Answer: 1. tfp.distributions.Beta
+2. tf.contrib.distributions.Beta
+3. tf.distributions.Beta
+4. tf.keras.layers.experimental.preprocessing.RandomBeta
+5. tf.random.beta

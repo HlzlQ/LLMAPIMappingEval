@@ -1,0 +1,10 @@
+tf.nn.depth_to_space  
+tf.image.resize  
+tf.image.resize_nearest_neighbor  
+tf.image.resize_bilinear  
+tf.image.resize_bicubic  
+tf.image.resize_lanczos3  
+tf.image.resize_lanczos5  
+tf.image.resize_gaussian  
+tf.image.resize_area  
+tf.image.resize_with_crop_or_pad

@@ -1,0 +1,10 @@
+1. System.Environment.GetEnvironmentVariable
+2. System.AppDomain.CurrentDomain.GetData
+3. System.Reflection.Assembly.GetExecutingAssembly
+4. Microsoft.Win32.Registry.GetValue
+5. System.Diagnostics.Process.StartInfo.EnvironmentVariables
+6. System.Security.Principal.WindowsIdentity.GetCurrent
+7. System.Runtime.InteropServices.RuntimeEnvironment.GetSystemVersion
+8. System.AppDomain.CurrentDomain.SetupInformation.ApplicationName
+9. System.Reflection.Assembly.GetEntryAssembly
+10. System.Environment.GetCommandLineArgs

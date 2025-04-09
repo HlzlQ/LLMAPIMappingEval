@@ -1,0 +1,3 @@
+
+
+mxnet_equivalent = "mxnet.init.Zero"

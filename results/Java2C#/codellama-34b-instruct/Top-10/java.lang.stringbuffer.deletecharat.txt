@@ -1,0 +1,12 @@
+  Sure! Here are the 10 most likely C# APIs for the Java API `java.lang.stringbuffer.deletecharat`:
+
+1. `System.Text.StringBuilder.Remove(int startIndex, int length)`
+2. `System.Text.StringBuilder.Delete(int startIndex, int length)`
+3. `System.Text.StringBuilder.Replace(string oldValue, string newValue, int startIndex, int count)`
+4. `System.Text.StringBuilder.Remove(char value, int startIndex, int count)`
+5. `System.Text.StringBuilder.Delete(char value, int startIndex, int count)`
+6. `System.Text.StringBuilder.Replace(string oldValue, string newValue, int startIndex, int count, StringComparison comparisonType)`
+7. `System.Text.StringBuilder.Remove(string value, int startIndex, int count, StringComparison comparisonType)`
+8. `System.Text.StringBuilder.Delete(string value, int startIndex, int count, StringComparison comparisonType)`
+9. `System.Text.StringBuilder.Replace(char oldValue, char newValue, int startIndex, int count)`
+10. `System.Text.StringBuilder.Remove(char value, int startIndex, int count, StringComparison comparisonType)`

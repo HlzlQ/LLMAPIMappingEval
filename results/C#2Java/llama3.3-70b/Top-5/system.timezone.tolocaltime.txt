@@ -1,0 +1,5 @@
+1. java.util.Calendar.getInstance()
+2. java.util.Date.toLocaleString()
+3. java.time.ZoneId.systemDefault()
+4. java.time.Instant.now().atZone(java.time.ZoneId.systemDefault())
+5. java.time.LocalDateTime.now()

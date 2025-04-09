@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.contrib.space_to_depth
+2. mxnet.sym.contrib.space_to_depth
+3. mxnet.image.contrib.space_to_depth
+4. mxnet.gluon.nn.SpaceToDepth
+5. mxnet.symbol.contrib.space_to_depth
+6. mxnet.ndarray.contrib.depth_to_space
+7. mxnet.sym.contrib.depth_to_space
+8. mxnet.image.contrib.depth_to_space
+9. mxnet.gluon.nn.DepthToSpace
+10. mxnet.symbol.contrib.depth_to_space

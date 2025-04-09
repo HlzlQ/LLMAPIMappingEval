@@ -1,0 +1,1 @@
+  tf.tensordot(a, b) = mx.nd.tensordot(a, b)

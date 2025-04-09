@@ -1,0 +1,5 @@
+System.String.ToUpper  
+System.Text.Casing.UppercaseMapping  
+System.Globalization.TextInfo.ToTitleCase  
+System.Globalization.TextInfo.ToUpper  
+System.Globalization.CultureInfo.TextInfo.ToUpper

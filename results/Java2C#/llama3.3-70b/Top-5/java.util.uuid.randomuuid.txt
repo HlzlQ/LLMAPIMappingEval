@@ -1,0 +1,5 @@
+1. System.Guid.NewGuid
+2. System.Guid.Parse
+3. System.Security.Cryptography.RandomNumberGenerator
+4. System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.GenerateGuid
+5. Microsoft.AspNetCore.Identity.UUIDGuidIdGenerator

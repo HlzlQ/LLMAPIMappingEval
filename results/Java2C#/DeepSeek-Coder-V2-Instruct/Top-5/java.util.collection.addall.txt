@@ -1,0 +1,5 @@
+1. List<T>.AddRange(IEnumerable<T>)
+2. CollectionExtensions.AddRange(ICollection<T>, IEnumerable<T>)
+3. ObservableCollection<T>.AddRange(IEnumerable<T>)
+4. ConcurrentBag<T>.AddRange(IEnumerable<T>)
+5. HashSet<T>.UnionWith(IEnumerable<T>)

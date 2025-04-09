@@ -1,0 +1,5 @@
+java.nio.charset.Charset.encode
+java.lang.String.getBytes
+java.nio.ByteBuffer.putCharSequence
+java.nio.charset.StandardCharsets.toCharset
+java.nio.charset.CharsetEncoder.encode

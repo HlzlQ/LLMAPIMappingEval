@@ -1,0 +1,10 @@
+cntk.ops.element_divide  
+cntk.ops.reduce_sum  
+cntk.ops.reshape  
+cntk.ops.clip  
+cntk.ops.softmax  
+cntk.ops.sigmoid  
+cntk.ops.tanh  
+cntk.ops.log  
+cntk.ops.exp  
+cntk.ops.sqrt

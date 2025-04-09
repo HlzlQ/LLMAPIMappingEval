@@ -1,0 +1,10 @@
+System.Collections.Generic.Dictionary<TKey,TValue>.ContainsValue  
+System.Collections.Hashtable.ContainsValue  
+System.Collections.Specialized.HybridDictionary.ContainsValue  
+System.Collections.Specialized.ListDictionary.ContainsValue  
+System.Collections.Specialized.NameValueCollection.GetValues  
+System.Collections.Concurrent.ConcurrentDictionary<TKey,TValue>.ContainsValue  
+System.Collections.ObjectModel.KeyedCollection<TKey,TItem>.Contains  
+System.Linq.Enumerable.Any<TSource>  
+System.Collections.Generic.SortedList<TKey,TValue>.ContainsValue  
+System.Collections.Generic.Dictionary<TKey,TValue>.TryGetValue

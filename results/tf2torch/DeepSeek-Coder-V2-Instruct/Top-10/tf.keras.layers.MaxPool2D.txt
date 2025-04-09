@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.MaxPool2d
+2. tensorflow.keras.layers.AveragePooling2D
+3. tensorflow.keras.layers.GlobalMaxPooling2D
+4. torch.nn.AvgPool2d
+5. tensorflow.keras.layers.MaxPooling2D
+6. torch.nn.AdaptiveMaxPool2d
+7. tensorflow.keras.layers.AveragePooling1D
+8. tensorflow.keras.layers.GlobalAveragePooling2D
+9. torch.nn.Conv2d
+10. tensorflow.keras.layers.Conv2D

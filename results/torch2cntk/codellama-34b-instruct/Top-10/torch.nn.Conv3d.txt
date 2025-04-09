@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.Conv3d`:
+
+1. `cntk.layers.Convolution3D`
+2. `cntk.layers.Conv3D`
+3. `cntk.layers.Conv3DTranspose`
+4. `cntk.layers.Conv3DWithBias`
+5. `cntk.layers.Conv3DWithoutBias`
+6. `cntk.layers.Conv3DWithBatchNorm`
+7. `cntk.layers.Conv3DWithInstanceNorm`
+8. `cntk.layers.Conv3DWithLayerNorm`
+9. `cntk.layers.Conv3DWithGroupNorm`
+10. `cntk.layers.Conv3DWithDepthwiseSeparable`

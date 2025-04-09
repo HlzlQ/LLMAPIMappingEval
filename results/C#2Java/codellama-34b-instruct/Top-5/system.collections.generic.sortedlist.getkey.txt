@@ -1,0 +1,9 @@
+The C# API `system.collections.generic.sortedlist.getkey` is used to retrieve a key from a sorted list in .NET. The equivalent Java API for this functionality is `java.util.SortedMap.getKey`.
+
+Here are the full names of 5 APIs that you might find useful:
+
+1. `java.util.SortedMap.getKey`
+2. `java.util.TreeMap.getKey`
+3. `java.util.NavigableMap.getKey`
+4. `java.util.ConcurrentSkipListMap.getKey`
+5. `java.util.Collections.sort`

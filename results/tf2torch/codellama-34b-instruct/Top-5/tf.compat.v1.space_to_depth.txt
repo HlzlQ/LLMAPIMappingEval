@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to `tensorflow.compat.v1.space_to_depth`:
+
+1. `torch.nn.functional.space_to_depth`
+2. `torch.nn.modules.conv.SpaceToDepth`
+3. `torch.nn.modules.pooling.SpaceToDepth`
+4. `torch.nn.modules.normalization.SpaceToDepth`
+5. `torch.nn.modules.activation.SpaceToDepth`

@@ -1,0 +1,1 @@
+mx.nd.contrib.hard_sigmoid

@@ -1,0 +1,10 @@
+1. System.IO.StreamWriter.Write
+2. System.Console.WriteLine
+3. System.Text.StringBuilder.Append
+4. System.Net.Sockets.NetworkStream.Write
+5. System.Security.Cryptography.SHA256.Create().ComputeHash
+6. System.Xml.XmlWriter.WriteString
+7. System.IO.File.WriteAllText
+8. System.Web.HttpResponse.Write
+9. System.Data.SqlClient.SqlCommand.ExecuteNonQuery
+10. System.Diagnostics.Debug.WriteLine

@@ -1,0 +1,7 @@
+  tf.compat.v1.train.AdadeltaOptimizer is a TensorFlow API for implementing the Adadelta optimization algorithm. Here are five MXNet APIs that have similar functions:
+
+1. mxnet.optimizer.AdaDelta: This is an implementation of the Adadelta optimization algorithm in MXNet. It has similar parameters and usage as the TensorFlow API.
+2. mxnet.optimizer.Adam: This is another popular optimization algorithm that is similar to Adadelta. It has a similar interface to the TensorFlow API, but with different parameter names.
+3. mxnet.optimizer.SGD: This is a simple stochastic gradient descent optimizer that can be used for training neural networks. It has a similar interface to the TensorFlow API, but with different parameter names.
+4. mxnet.optimizer.RMSProp: This is an optimization algorithm that divides the learning rate by an exponentially decaying average of squared gradients. It has a similar interface to the TensorFlow API, but with different parameter names.
+5. mxnet.optimizer.Adagrad: This is an optimization algorithm that adapts the learning rate for each parameter based on the gradient's magnitude. It has a similar interface to the TensorFlow API, but with different parameter names.

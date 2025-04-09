@@ -1,0 +1,5 @@
+1. mxnet.ndarray.unique
+2. mxnet.nd.array.unique
+3. mxnet.gluon.utils.unique
+4. mxnet.numpy.unique
+5. mxnet.base.mx.real_unique

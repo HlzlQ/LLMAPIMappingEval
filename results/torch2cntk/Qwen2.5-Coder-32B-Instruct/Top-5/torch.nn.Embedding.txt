@@ -1,0 +1,5 @@
+cntk.layers.Embedding
+cntk.ops.embedding_parameter
+cntk.initializer.uniform
+cntk.initializer.glorot_uniform
+cntk.initializer.normal

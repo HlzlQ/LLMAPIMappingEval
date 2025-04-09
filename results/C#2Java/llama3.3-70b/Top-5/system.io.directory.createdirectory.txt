@@ -1,0 +1,5 @@
+1. java.io.File.mkdir()
+2. java.nio.file.Files.createDirectory()
+3. java.nio.file.Paths.get().toFile().mkdir()
+4. java.io.File.mkdirs()
+5. java.nio.file.Files.createDirectories()

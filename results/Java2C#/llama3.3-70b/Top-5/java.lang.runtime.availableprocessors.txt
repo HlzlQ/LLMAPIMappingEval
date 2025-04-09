@@ -1,0 +1,5 @@
+1. System.Environment.ProcessorCount
+2. System.Runtime.InteropServices.RuntimeInformation.ProcessorCount
+3. Microsoft.Win32.Registry.GetValue
+4. System.Management.ManagementObjectSearcher
+5. System.Diagnostics.Process.GetCurrentProcess.ProcessorAffinity

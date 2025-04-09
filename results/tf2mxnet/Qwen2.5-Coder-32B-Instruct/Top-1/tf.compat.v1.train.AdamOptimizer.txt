@@ -1,0 +1,1 @@
+mxnet.gluon.Trainer with mxnet.optimizer.Adam

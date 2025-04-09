@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.type.isinstanceoftype` in C#:
+
+1. java.lang.Class.isInstance()
+2. java.lang.Object.getClass()
+3. java.lang.Class.isAssignableFrom()
+4. java.lang.reflect.Modifier.isInterface()
+5. java.lang.reflect.Method.isBridge()
+6. java.lang.reflect.Field.getType()
+7. java.lang.reflect.Constructor.getParameterTypes()
+8. java.lang.Class.getSuperclass()
+9. java.lang.Class.getInterfaces()
+10. java.lang.Class.getComponentType()

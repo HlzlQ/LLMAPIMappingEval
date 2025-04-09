@@ -1,0 +1,12 @@
+
+
+1. mxnet.gluon.nn.Dense
+2. mxnet.ndarray.FullyConnected
+3. mxnet.symbol.FullyConnected
+4. nn.Linear
+5. torch.nn.Linear
+6. tensorflow.keras.layers.Dense
+7. keras.layers.Dense
+8. tf.layers.Dense
+9. tf.compat.v1.layers.Dense
+10. mxnet.gluon.nn.Dense

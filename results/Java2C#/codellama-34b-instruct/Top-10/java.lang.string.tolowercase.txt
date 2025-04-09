@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java `String.toLowerCase()` method:
+
+1. `string.ToLower()`
+2. `string.ToLowerInvariant()`
+3. `string.ToLower(CultureInfo.CurrentCulture)`
+4. `string.ToLower(CultureInfo.CurrentUICulture)`
+5. `string.ToLower(CultureInfo.InvariantCulture)`
+6. `string.ToLower(CultureInfo.InstalledUICulture)`
+7. `string.ToLower(CultureInfo.DefaultThreadCurrentCulture)`
+8. `string.ToLower(CultureInfo.DefaultThreadCurrentUICulture)`
+9. `string.ToLower(CultureInfo.GetCultureInfo("en-US"))`
+10. `string.ToLower(CultureInfo.GetCultureInfo("en-GB"))`

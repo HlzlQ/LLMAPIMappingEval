@@ -1,0 +1,10 @@
+java.util.Map.getOrDefault  
+java.util.Map.containsKey  
+java.util.Map.containsValue  
+java.util.Map.putIfAbsent  
+java.util.Map.remove  
+java.util.Map.replace  
+java.util.Map.computeIfPresent  
+java.util.Map.computeIfAbsent  
+java.util.Map.merge  
+java.util.Map.forEach

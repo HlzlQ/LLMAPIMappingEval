@@ -1,0 +1,7 @@
+  Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.activations.hard_sigmoid`:
+
+1. `torch.nn.Hardsigmoid`
+2. `torch.nn.HardSigmoid`
+3. `torch.nn.functional.hardsigmoid`
+4. `torch.nn.functional.hard_sigmoid`
+5. `torch.nn.modules.activation.Hardsigmoid`

@@ -1,0 +1,5 @@
+1. torch.nn.Linear
+2. torch.nn.Module
+3. torch.nn.Sequential
+4. torch.nn.functional.linear
+5. torch.nn.Dense

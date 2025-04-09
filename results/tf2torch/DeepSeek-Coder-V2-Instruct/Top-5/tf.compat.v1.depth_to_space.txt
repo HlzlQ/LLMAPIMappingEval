@@ -1,0 +1,7 @@
+
+
+1. torch.nn.functional.pixel_shuffle
+2. torch.nn.PixelShuffle
+3. torch.nn.functional.interpolate
+4. torch.nn.Upsample
+5. torch.nn.ConvTranspose2d

@@ -1,0 +1,1 @@
+tf.nn.depth_to_space

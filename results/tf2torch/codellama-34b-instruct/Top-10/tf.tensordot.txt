@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.tensordot`:
+
+1. `torch.dot`
+2. `torch.matmul`
+3. `torch.mm`
+4. `torch.bmm`
+5. `torch.einsum`
+6. `torch.inner`
+7. `torch.outer`
+8. `torch.tensordot`
+9. `torch.tensor_dot`
+10. `torch.tensor_matmul`

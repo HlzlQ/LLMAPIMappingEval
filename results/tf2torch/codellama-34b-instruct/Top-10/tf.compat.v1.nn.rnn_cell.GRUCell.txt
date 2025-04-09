@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.nn.rnn_cell.GRUCell`:
+
+1. `torch.nn.GRU`
+2. `torch.nn.GRUCell`
+3. `torch.nn.RNNCell`
+4. `torch.nn.LSTMCell`
+5. `torch.nn.RNN`
+6. `torch.nn.LSTM`
+7. `torch.nn.GRUModule`
+8. `torch.nn.LSTMModule`
+9. `torch.nn.RNNModule`
+10. `torch.nn.SequentialRNN`

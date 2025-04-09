@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the given C# API:
+
+1. org.junit.Assert.assertTrue(boolean)
+2. org.testng.Assert.assertTrue(boolean)
+3. org.easymock.EasyMock.expect(boolean)
+4. org.mockito.Mockito.verify(boolean)
+5. org.hamcrest.Matchers.is(boolean)
+6. org.hamcrest.CoreMatchers.is(boolean)
+7. org.assertj.core.api.Assertions.assertThat(boolean)
+8. org.fest.assertions.api.Assertions.assertThat(boolean)
+9. org.fluentlenium.core.FluentAdapter.assertTrue(boolean)
+10. org.springframework.test.web.servlet.result.MockMvcResultMatchers.isTrue(boolean)

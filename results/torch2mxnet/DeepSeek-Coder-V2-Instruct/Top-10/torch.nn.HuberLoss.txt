@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `MSELoss`
+2. `L1Loss`
+3. `CrossEntropyLoss`
+4. `NLLLoss`
+5. `BCELoss`
+6. `BCEWithLogitsLoss`
+7. `SmoothL1Loss`
+8. `PoissonNLLLoss`
+9. `CosineEmbeddingLoss`
+10. `HingeEmbeddingLoss`

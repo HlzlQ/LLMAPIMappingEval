@@ -1,0 +1,10 @@
+java.lang.String.equals
+java.util.Objects.equals
+java.lang.String.equalsIgnoreCase
+java.nio.file.Files.isSameFile
+java.security.MessageDigest.equals
+java.awt.Component.equals
+java.applet.Applet.equals
+java.net.URL.equals
+java.net.URI.equals
+java.math.BigInteger.equals

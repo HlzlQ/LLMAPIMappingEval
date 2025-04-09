@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.web.httputility.urldecode`:
+
+1. `java.net.URLDecoder` - This class provides methods for decoding URLs, including the `decode()` method which can be used to decode a URL using the specified encoding scheme.
+2. `org.apache.commons.codec.binary.Base64` - This class provides methods for encoding and decoding binary data using the Base64 algorithm. It includes a `decodeBase64()` method that can be used to decode a Base64-encoded string.
+3. `javax.xml.bind.DatatypeConverter` - This class provides methods for converting between XML schema datatypes and Java datatypes, including the `parseBase64Binary()` method which can be used to parse a Base64-encoded binary data.
+4. `java.util.Base64` - This class provides methods for encoding and decoding binary data using the Base64 algorithm. It includes a `decode()` method that can be used to decode a Base64-encoded string.
+5. `org.apache.commons.codec.binary.Hex` - This class provides methods for encoding and decoding binary data using the hexadecimal representation. It includes a `decodeHex()` method that can be used to decode a hexadecimal-encoded string.
+6. `java.util.Hex` - This class provides methods for encoding and decoding binary data using the hexadecimal representation. It includes a `decode()` method that can be used to decode a hexadecimal-encoded string.
+7. `org.apache.commons.codec.binary.StringUtils` - This class provides methods for working with strings, including the `getBytes()` method which can be used to convert a string to a byte array.
+8. `java.lang.String` - This class provides methods for working with strings, including the `getBytes()` method which can be used to convert a string to a byte array.
+9. `org.apache.commons.codec.binary.BaseNCodec` - This class provides methods for encoding and decoding binary data using the BaseN algorithm. It includes a `decode()` method that can be used to decode a BaseN-encoded string.
+10. `java.util.BaseNCodec` - This class provides methods for encoding and decoding binary data using the BaseN algorithm. It includes a `decode()` method that can be used to decode a BaseN-encoded string.

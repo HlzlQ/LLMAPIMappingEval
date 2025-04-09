@@ -1,0 +1,10 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Add
+2. System.Collections.Generic.Dictionary<TKey, TValue>.TryAdd
+3. System.Collections.Hashtable.Set
+4. System.Collections.IDictionary.Add
+5. System.Collections.IDictionary.Item
+6. System.Collections.Generic.SortedDictionary<TKey, TValue>.Add
+7. System.Collections.Specialized.NameValueCollection.Add
+8. System.Collections.Generic.Dictionary<TKey, TValue>.Item
+9. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryAdd
+10. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.compareordinal` in C#:
+
+1. java.lang.String.compareTo
+2. java.lang.String.compareToIgnoreCase
+3. java.util.Comparator.naturalOrder
+4. java.util.Comparator.comparing
+5. java.text.Collator.compare
+6. java.lang.Character.compare
+7. java.lang.String.codePointCompare
+8. java.util.Objects.compare
+9. java.lang.Comparable.compareTo
+10. java.util.Collections.reverseOrder

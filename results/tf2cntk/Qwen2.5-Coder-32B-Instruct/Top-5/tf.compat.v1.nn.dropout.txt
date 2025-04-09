@@ -1,0 +1,5 @@
+cntk.dropout
+cntk.layers.Dropout
+cntk.ops.dropout
+cntk.models.dropout
+cntk.functions.dropout

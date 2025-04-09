@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.LayerNormalization`:
+
+1. `cntk.layers.normalization.LayerNormalization`
+2. `cntk.layers.normalization.BatchNormalization`
+3. `cntk.layers.normalization.InstanceNormalization`
+4. `cntk.layers.normalization.GroupNormalization`
+5. `cntk.layers.normalization.WeightNormalization`
+6. `cntk.layers.normalization.LayerNorm`
+7. `cntk.layers.normalization.BatchNorm`
+8. `cntk.layers.normalization.InstanceNorm`
+9. `cntk.layers.normalization.GroupNorm`
+10. `cntk.layers.normalization.WeightNorm`

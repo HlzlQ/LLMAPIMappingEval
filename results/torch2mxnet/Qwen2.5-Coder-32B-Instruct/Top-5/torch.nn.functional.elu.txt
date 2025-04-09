@@ -1,0 +1,5 @@
+mxnet.ndarray.Activation
+mxnet.symbol.Activation
+mxnet.gluon.nn.LeakyReLU
+mxnet.gluon.nn.PReLU
+mxnet.gluon.nn.ELU

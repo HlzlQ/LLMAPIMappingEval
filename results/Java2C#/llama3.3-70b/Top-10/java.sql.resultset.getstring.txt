@@ -1,0 +1,10 @@
+1. System.Data.SqlClient.SqlDataReader.GetString
+2. System.Data.Common.DbDataReader.GetString
+3. Microsoft.Data.SqlClient.SqlDataReader.GetString
+4. System.Data.Odbc.OdbcDataReader.GetString
+5. System.Data.OleDb.OleDbType.String
+6. Npgsql.NpgsqlDataReader.GetString
+7. MySql.Data.MySqlClient.MySqlDataReader.GetString
+8. Oracle.ManagedDataAccess.Client.OracleDataReader.GetString
+9. System.Data.SQLite.SQLiteDataReader.GetString
+10. FirebirdSql.Data.FirebirdClient.FbDataReader.GetString

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.optim.Adam`:
+
+1. `cntk.learners.adam`
+2. `cntk.learners.adam_async`
+3. `cntk.learners.adam_sync`
+4. `cntk.learners.adam_minibatch`
+5. `cntk.learners.adam_batch`
+6. `cntk.learners.adam_stochastic`
+7. `cntk.learners.adam_sgd`
+8. `cntk.learners.adam_momentum`
+9. `cntk.learners.adam_nesterov`
+10. `cntk.learners.adam_rmsprop`

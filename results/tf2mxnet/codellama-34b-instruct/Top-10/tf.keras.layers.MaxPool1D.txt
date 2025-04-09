@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.MaxPool1D`:
+
+1. `mxnet.gluon.nn.MaxPool1D`
+2. `mxnet.ndarray.max_pooling_1d`
+3. `mxnet.ndarray.max_pooling_1d_with_mask`
+4. `mxnet.ndarray.max_pooling_1d_with_indices`
+5. `mxnet.gluon.nn.MaxPool2D`
+6. `mxnet.ndarray.max_pooling_2d`
+7. `mxnet.ndarray.max_pooling_2d_with_mask`
+8. `mxnet.ndarray.max_pooling_2d_with_indices`
+9. `mxnet.gluon.nn.MaxPool3D`
+10. `mxnet.ndarray.max_pooling_3d`

@@ -1,0 +1,9 @@
+
+MXNet does not have an exact equivalent of `torch.nn.Linear`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.symbol.FullyConnected`: This API creates a fully connected layer with a linear activation function. It takes in the input data and produces output data.
+* `mxnet.symbol.Dense`: This API creates a dense layer with a linear activation function. It takes in the input data and produces output data.
+
+Both of these APIs can be used to create a linear layer, but they have slightly different parameters and usage. `FullyConnected` is more flexible and allows you to specify the number of hidden units, while `Dense` is simpler and assumes that the number of hidden units is equal to the number of input features.
+
+Therefore, if you want to create a linear layer with MXNet, you can use either `FullyConnected` or `Dense`, depending on your specific needs.

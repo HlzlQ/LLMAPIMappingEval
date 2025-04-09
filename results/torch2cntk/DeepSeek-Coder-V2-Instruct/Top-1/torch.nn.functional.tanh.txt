@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.tanh")
+<jupyter_output>
+CNTK.tanh

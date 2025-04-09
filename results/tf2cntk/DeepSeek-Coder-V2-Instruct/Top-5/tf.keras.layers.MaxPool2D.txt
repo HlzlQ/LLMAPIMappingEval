@@ -1,0 +1,2 @@
+
+Answer: MaxPooling1D, MaxPooling2D, AvgPooling1D, AvgPooling2D, GlobalMaxPool1D

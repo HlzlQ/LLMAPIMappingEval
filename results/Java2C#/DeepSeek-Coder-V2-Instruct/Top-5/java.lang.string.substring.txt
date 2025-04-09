@@ -1,0 +1,5 @@
+1. Substring(Int32 startIndex)
+2. Substring(Int32 startIndex, Int32 length)
+3. ToString()
+4. ToLower()
+5. ToUpper()

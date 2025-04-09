@@ -1,0 +1,5 @@
+System.IO.FileStream.Read  
+System.IO.BinaryReader.Read  
+System.IO.StreamReader.Read  
+System.IO.File.OpenRead  
+System.IO.File.ReadAllBytes

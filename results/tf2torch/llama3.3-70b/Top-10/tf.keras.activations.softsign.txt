@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.activations.softsign`:
+
+1. torch.nn.Softsign
+2. torch.sigmoid
+3. torch.tanh
+4. torch.relu
+5. torch.leaky_relu
+6. torch.softmax
+7. torch.log_softmax
+8. torch.softplus
+9. torch.hardtanh
+10. torch.nn.Tanhshrink

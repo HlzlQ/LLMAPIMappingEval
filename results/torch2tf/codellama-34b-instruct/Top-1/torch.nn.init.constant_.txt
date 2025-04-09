@@ -1,0 +1,2 @@
+
+The PyTorch API `torch.nn.init.constant_` initializes a tensor with a constant value. The equivalent function in TensorFlow is `tf.fill`.

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.elu`:
+
+1. CNTK ELU
+2. CNTK LeakyReLUBinary
+3. CNTK ReLU
+4. CNTK Sigmoid
+5. CNTK Tanh
+6. CNTK Softmax
+7. CNTK Softplus
+8. CNTK HardTanh
+9. CNTK LeakyReLU
+10. CNTK ExponentialLinearUnit

@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely C# APIs that correspond to the Java API `java.lang.String.compareTo`:
+
+1. `System.String.CompareTo`
+2. `System.String.CompareToOrdinal`
+3. `System.String.CompareToIgnoreCase`
+4. `System.String.Equals`
+5. `System.String.StartsWith`
+6. `System.String.EndsWith`
+7. `System.String.IndexOf`
+8. `System.String.LastIndexOf`
+9. `System.String.Contains`
+10. `System.String.IsNullOrEmpty`

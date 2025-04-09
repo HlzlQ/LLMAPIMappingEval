@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.math.log_softmax`:
+
+1. mxnet.ndarray.softmax
+2. mxnet.ndarray.log_softmax
+3. mxnet.gluon.nn.Softmax
+4. mxnet.gluon.nn.LogSoftmax
+5. mxnet.nd.softmax
+6. mxnet.nd.log_softmax
+7. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+8. mxnet.gluon.loss.LogisticLoss
+9. mxnet.ndarray.softmax_output
+10. mxnet.gluon.nn.Activation

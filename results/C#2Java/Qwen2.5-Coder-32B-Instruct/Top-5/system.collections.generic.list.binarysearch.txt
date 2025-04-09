@@ -1,0 +1,5 @@
+java.util.Collections.binarySearch
+java.util.List.indexOf
+java.util.ArrayList.indexOf
+java.util.LinkedList.indexOf
+java.util.Arrays.binarySearch

@@ -1,0 +1,7 @@
+
+
+1. torch.einsum
+2. numpy.einstein_sum
+3. tensorflow.linalg.einsum
+4. jax.numpy.einsum
+5. mxnet.ndarray.einsum

@@ -1,0 +1,8 @@
+
+Answer: ```
+1. tf.clip_by_global_norm
+2. tf.train.ClipGradientOptimizer
+3. tf.nn.clip_by_value
+4. tf.keras.optimizers.legacy.ClipNorm
+5. tf.contrib.layers.optimize_loss
+```

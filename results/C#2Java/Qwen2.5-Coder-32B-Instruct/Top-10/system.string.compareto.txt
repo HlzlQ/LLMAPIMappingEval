@@ -1,0 +1,10 @@
+java.lang.String.compareTo
+java.lang.String.compareToIgnoreCase
+java.math.BigInteger.compareTo
+java.math.BigDecimal.compareTo
+java.time.LocalDate.compareTo
+java.time.LocalTime.compareTo
+java.time.LocalDateTime.compareTo
+java.time.ZonedDateTime.compareTo
+java.nio.file.Path.compareTo
+java.util.Date.compareTo

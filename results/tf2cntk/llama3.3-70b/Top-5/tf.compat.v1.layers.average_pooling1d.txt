@@ -1,0 +1,5 @@
+1. CNTKPoolingLayer
+2. AveragePooling
+3. PoolingLayer
+4. AveragePool
+5. pooling_layer_average_pooling

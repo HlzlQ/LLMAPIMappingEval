@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.HingeEmbeddingLoss`:
+
+1. tf.keras.losses.Hinge
+2. tf.keras.losses.SquaredHinge
+3. tf.losses.hinge_loss
+4. tf.losses.mean_squared_error
+5. tf.metrics.mean_absolute_error
+6. tf.keras.optimizers.Adagrad
+7. tf.keras.layers.Embedding
+8. tf.nn.sigmoid_cross_entropy_with_logits
+9. tf.keras.losses.CosineSimilarity
+10. tf.keras.losses.MeanSquaredError

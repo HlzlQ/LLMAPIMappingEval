@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator.MoveNext
+2. System.Collections.Generic.IEnumerator.MoveNext
+3. System.Data.Common.DbEnumerator.MoveNext
+4. System.Linq.Enumerable.MoveNext
+5. System.Collections.DictionaryEnumerator.MoveNext
+6. System.Collections.Hashtable.GetEnumerator
+7. System.Collections.SortedList.SortedListEnumerator.MoveNext
+8. System.ComponentModel.Design.Serialization.CodeDomSerializer.MoveNext
+9. System.Runtime.InteropServices.ComTypes.IEnumVARIANT.Next
+10. System.Data.SqlClient.SqlDataReader.Read

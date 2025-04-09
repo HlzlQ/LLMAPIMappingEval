@@ -1,0 +1,19 @@
+
+
+```python
+import torch
+from torch import nn
+from torch.nn import functional as F
+```
+
+### Answer:
+1. `tf.reduce_mean` -> `torch.mean`
+2. `tf.matmul` -> `torch.matmul`
+3. `tf.concat` -> `torch.cat`
+4. `tf.split` -> `torch.split`
+5. `tf.reshape` -> `torch.reshape`
+6. `tf.transpose` -> `torch.transpose`
+7. `tf.nn.softmax` -> `torch.nn.functional.softmax`
+8. `tf.gradients` -> Not applicable in PyTorch (use `torch.autograd.grad`)
+9. `tf.no_gradient` -> Not applicable in PyTorch (use `torch.Tensor.requires_grad = False`)
+10. `tf.placeholder` -> Not applicable in PyTorch (use `torch.tensor` or `torch.FloatTensor`)

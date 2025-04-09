@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.AddRange
+System.Linq.Enumerable.Concat
+System.Collections.Generic.Dictionary<TKey,TValue>.Union
+System.Collections.ObjectModel.Collection<T>.AddRange
+System.Collections.Generic.HashSet<T>.UnionWith

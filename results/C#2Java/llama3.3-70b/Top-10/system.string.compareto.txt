@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.compareto` in C#:
+
+1. java.lang.String.compareTo
+2. java.lang.String.compareToIgnoreCase
+3. java.lang.String.equals
+4. java.util.Comparator.compare
+5. java.text.Collator.compare
+6. java.lang.Object.compareTo
+7. java.lang.Character.compare
+8. java.lang.Integer.compare
+9. java.util.Objects.compare
+10. java.lang.Comparable.compareTo

@@ -1,0 +1,10 @@
+System.WeakReference.Target
+System.Runtime.InteropServices.GCHandle.Target
+System.Runtime.Remoting.Messaging.CallContext.GetData
+System.Threading.ThreadLocal<T>.Value
+System.Collections.Concurrent.ConcurrentDictionary<TKey,TValue>.TryGetValue
+System.Collections.Generic.Dictionary<TKey,TValue>.TryGetValue
+System.Linq.Enumerable.FirstOrDefault
+System.Linq.Enumerable.SingleOrDefault
+System.Reflection.FieldInfo.GetValue
+System.Reflection.PropertyInfo.GetValue

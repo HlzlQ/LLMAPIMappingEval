@@ -1,0 +1,10 @@
+System.Collections.Hashtable.Item
+System.Collections.Generic.Dictionary<TKey,TValue>.TryGetValue
+System.Collections.Generic.Dictionary<TKey,TValue>.this[]
+System.Collections.Specialized.HybridDictionary.Item
+System.Collections.Specialized.ListDictionary.Item
+System.Collections.Specialized.NameValueCollection.Get
+System.Collections.Specialized.StringCollection.Item
+System.Collections.ArrayList.Item
+System.Data.DataTable.Rows
+System.Windows.Forms.ListViewItemCollection.Item

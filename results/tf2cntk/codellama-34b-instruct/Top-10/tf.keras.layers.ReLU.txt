@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.ReLU`:
+
+1. `cntk.layers.relu`
+2. `cntk.layers.activation.relu`
+3. `cntk.layers.activation.rectified_linear`
+4. `cntk.layers.activation.leaky_relu`
+5. `cntk.layers.activation.parametric_relu`
+6. `cntk.layers.activation.softplus`
+7. `cntk.layers.activation.swish`
+8. `cntk.layers.activation.silu`
+9. `cntk.layers.activation.selu`
+10. `cntk.layers.activation.gelu`

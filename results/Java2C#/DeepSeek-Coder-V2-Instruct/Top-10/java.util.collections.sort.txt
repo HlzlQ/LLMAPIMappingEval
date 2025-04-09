@@ -1,0 +1,10 @@
+System.Linq.OrderBy
+Array.Sort
+List<T>.Sort
+SortedSet<T>.Add
+SortedDictionary<TKey, TValue>.Add
+SortedList<TKey, TValue>.Add
+ConcurrentDictionary<TKey, TValue>.TryAdd
+HashSet<T>.Add
+PriorityQueue<T>.Enqueue
+SortedSet<T>.Contains

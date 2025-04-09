@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.init.ones_`:
+
+1. mxnet.ndarray.ones
+2. mxnet.initializer.One
+3. mxnet.gluon.nn.Dense(weight_initializer='ones')
+4. mxnet.gluon.nn.Conv2D(weight_initializer='ones')
+5. mxnet.nd.ones_like
+6. mxnet.ndarray.full
+7. mxnet.gluon.Parameter(initializer='ones')
+8. mxnet.initializer.Constant(value=1)
+9. mxnet.gluon.nn.Embedding(weight_initializer='ones')
+10. mxnet.ndarray.full_like

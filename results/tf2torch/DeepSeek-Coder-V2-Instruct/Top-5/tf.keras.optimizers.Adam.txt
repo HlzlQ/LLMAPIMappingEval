@@ -1,0 +1,6 @@
+
+Answer: 1. torch.optim.Adam
+2. torch.optim.SGD
+3. torch.nn.MSELoss
+4. torch.nn.CrossEntropyLoss
+5. torch.nn.Sequential

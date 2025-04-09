@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.LayerNorm`:
+
+1. tf.keras.layers.LayerNormalization
+2. tf.compat.v1.layers.layer_normalization
+3. tf.nn.layer_normalize
+4. tf.keras.layers.Normalization
+5. tf.layers.LayerNormalization
+6. tf.layers.normalization
+7. tf.nn.normalize
+8. tf.keras.layers.BatchNormalization
+9. tf.layers.batch_normalization
+10. tf.nn.batch_normalization

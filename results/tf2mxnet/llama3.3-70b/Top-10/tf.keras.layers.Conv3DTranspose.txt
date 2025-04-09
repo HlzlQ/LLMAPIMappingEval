@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.Conv3DTranspose`:
+
+1. mxnet.gluon.nn.Conv3DTranspose
+2. mxnet.ndarray.Conv3DTranspose
+3. mxnet.gluon.contrib.nn.Conv3DTranspose
+4. mxnet.symbol.Conv3DTranspose
+5. mxnet.gluon.nn.Deconv3D
+6. mxnet.ndarray.Deconv3D
+7. mxnet.gluon.contrib.nn.Deconv3D
+8. mxnet.symbol.Deconv3D
+9. mxnet.gluon.nn.TransposeConv3D
+10. mxnet.gluon.nn.Conv3DTTranspose

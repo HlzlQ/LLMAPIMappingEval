@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+2. NUnit.Framework.Assert.AreEqual
+3. System.Diagnostics.Debug.Assert
+4. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.Equals
+5. NUnit.Framework.Assert.Equals
+6. xunit.assert.Equal
+7. FluentAssertions.Primitives.ObjectAssertions.BeEqualTo
+8. Shouldly.ShouldBe
+9. xunit.assert.StrictEqual
+10. NUnit.Framework.Constraint.EqualTo

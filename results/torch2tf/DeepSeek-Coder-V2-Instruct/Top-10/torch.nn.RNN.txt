@@ -1,0 +1,13 @@
+
+
+1. tf.keras.layers.SimpleRNN
+2. tf.keras.layers.GRU
+3. tf.keras.layers.LSTM
+4. tf.keras.layers.RNN
+5. tf.compat.v1.nn.rnn_cell_impl.BasicRNNCell
+6. tf.compat.v1.nn.rnn_cell_impl.GRUCell
+7. tf.compat.v1.nn.rnn_cell_impl.LSTMCell
+8. tf.keras.layers.StackedRNNCells
+9. tf.keras.layers.Bidirectional
+10. tf.keras.layers.CuDNNGRU
+```

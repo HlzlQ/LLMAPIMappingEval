@@ -1,0 +1,10 @@
+System.Net.Dns.GetHostName()
+System.Net.IPAddress.get_HostName()
+System.Net.Sockets.Socket.RemoteEndPoint.Address.ToString()
+System.Net.NetworkInformation.IPGlobalProperties.HostName
+System.Net.HttpListenerRequest.UserHostName
+System.Net.Dns.GetHostEntry(string)
+System.Net.Dns.Resolve(string)
+System.Net.Dns.BeginGetHostByName(string, System.AsyncCallback, object)
+System.Net.Dns.EndGetHostByName(IAsyncResult)
+System.Net.Dns.GetHostByAddress(IPAddress)

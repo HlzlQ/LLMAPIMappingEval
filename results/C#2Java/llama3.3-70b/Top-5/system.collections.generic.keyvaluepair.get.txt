@@ -1,0 +1,5 @@
+1. java.util.AbstractMap.SimpleEntry
+2. java.util.Map.Entry
+3. android.util.Pair
+4. org.apache.commons.lang3.tuple.Pair
+5. javatuples.Pair

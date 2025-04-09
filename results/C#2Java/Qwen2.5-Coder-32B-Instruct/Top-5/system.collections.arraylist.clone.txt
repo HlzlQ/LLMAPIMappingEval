@@ -1,0 +1,5 @@
+java.util.ArrayList.clone  
+java.lang.Object.clone  
+java.util.List.copyOf  
+java.util.ArrayList.<init>(Collection<? extends E> c)  
+java.util.Collections.copy(List<? super T> dest, List<? extends T> src)

@@ -1,0 +1,5 @@
+java.lang.Character.isDigit
+java.lang.String.matches
+java.util.regex.Pattern.matches
+java.text.NumberFormat.parse
+java.math.BigInteger.probablePrime

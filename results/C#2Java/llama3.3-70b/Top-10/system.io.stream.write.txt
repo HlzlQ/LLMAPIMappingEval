@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.io.stream.write` in C#:
+
+1. java.io.OutputStream.write
+2. java.io.FileWriter.write
+3. java.io.BufferedWriter.write
+4. java.io.PrintWriter.write
+5. java.nio.channels.FileChannel.write
+6. java.nio.ByteBuffer.put
+7. java.io.DataOutputStream.write
+8. java.io.ObjectOutputStream.write
+9. java.io.FilterOutputStream.write
+10. java.io.FileOutputStream.write

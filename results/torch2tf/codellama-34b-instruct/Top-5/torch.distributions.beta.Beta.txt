@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.distributions.beta.Beta`:
+
+1. `tf.distributions.Beta`
+2. `tf.distributions.BetaWithSoftplusConcentration`
+3. `tf.distributions.BetaWithSoftplusRate`
+4. `tf.distributions.BetaWithSoftplusConcentrationAndRate`
+5. `tf.distributions.BetaWithSoftplusConcentrationAndRateLogits`

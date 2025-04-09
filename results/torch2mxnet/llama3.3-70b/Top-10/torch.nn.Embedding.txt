@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.Embedding`:
+
+1. mxnet.ndarray.Embedding
+2. mxnet.gluon.nn.Embedding
+3. mxnet.gluon.nn.DenseEmbedding
+4. mxnet.ndarray.sparse.Embedding
+5. mxnet.gluon.nn.SparseEmbedding
+6. mxnet.ndarray.EmbeddingBag
+7. mxnet.gluon.nn.EmbeddingBag
+8. mxnet.ndarray.FullyIndexableEmbedding
+9. mxnet.gluon.nn.FullyIndexableEmbedding
+10. mxnet.gluon.nn.IndexedEmbedding

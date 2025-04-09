@@ -1,0 +1,7 @@
+Here are the 5 PyTorch API names:
+
+1. torch.nn.MSELoss
+2. torch.nn.functional.mse_loss
+3. torch.mean
+4. torch.pow
+5. torch.nn.L1Loss

@@ -1,0 +1,5 @@
+1. tf.is_tensor
+2. tf.Tensor
+3. tf.convert_to_tensor
+4. tf.check_ops.is_tensor
+5. tf.debugging.is_tensor

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to `torch.nn.init.xavier_normal`:
+
+1. `CNTK.initializers.xavier_normal`
+2. `CNTK.initializers.xavier_normal_initializer`
+3. `CNTK.initializers.xavier_normal_uniform`
+4. `CNTK.initializers.xavier_normal_uniform_initializer`
+5. `CNTK.initializers.xavier_normal_glorot`
+6. `CNTK.initializers.xavier_normal_glorot_initializer`
+7. `CNTK.initializers.xavier_normal_he`
+8. `CNTK.initializers.xavier_normal_he_initializer`
+9. `CNTK.initializers.xavier_normal_lecun`
+10. `CNTK.initializers.xavier_normal_lecun_initializer`

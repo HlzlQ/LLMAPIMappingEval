@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.ndarray.uniform
+2. mxnet.symbol.uniform
+3. mxnet.gluon.parameter.Uniform
+4. mxnet.initializer.Uniform
+5. mxnet.image.uniform_filter

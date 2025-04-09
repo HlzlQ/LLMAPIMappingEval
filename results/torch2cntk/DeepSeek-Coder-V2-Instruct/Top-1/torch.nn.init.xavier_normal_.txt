@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: 'cntk.initializer.glorot_normal'
+<jupyter_output>
+<empty_output>

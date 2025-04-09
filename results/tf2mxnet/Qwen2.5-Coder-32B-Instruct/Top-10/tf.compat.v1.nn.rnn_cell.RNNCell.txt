@@ -1,0 +1,10 @@
+mxnet.gluon.rnn.RNNCell
+mxnet.gluon.rnn.LSTMCell
+mxnet.gluon.rnn.GRUCell
+mxnet.gluon.rnn.BasicRNNCell
+mxnet.gluon.rnn.VariationalDropoutCell
+mxnet.gluon.rnn.ResidualCell
+mxnet.gluon.rnn.BidirectionalCell
+mxnet.gluon.rnn.SequentialRNNCell
+mxnet.gluon.rnn.DropoutCell
+mxnet.gluon.rnn.ZoneoutCell

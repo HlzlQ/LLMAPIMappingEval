@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.compat.v1.nn.fractional_max_pool`:
+
+1. `torch.nn.functional.max_pool2d`
+2. `torch.nn.functional.adaptive_max_pool2d`
+3. `torch.nn.functional.fractional_max_pool2d`
+4. `torch.nn.functional.max_unpool2d`
+5. `torch.nn.functional.adaptive_max_unpool2d`
+6. `torch.nn.functional.fractional_max_unpool2d`
+7. `torch.nn.functional.max_pool3d`
+8. `torch.nn.functional.adaptive_max_pool3d`
+9. `torch.nn.functional.fractional_max_pool3d`
+10. `torch.nn.functional.max_unpool3d`

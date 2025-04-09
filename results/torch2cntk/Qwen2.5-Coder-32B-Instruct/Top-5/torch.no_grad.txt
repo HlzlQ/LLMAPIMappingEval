@@ -1,0 +1,5 @@
+cntk.disable_training
+cntk.Function.infer_outputs
+cntk.as_composite
+cntk.combine
+cntk.Constant

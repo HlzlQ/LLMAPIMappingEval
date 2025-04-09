@@ -1,0 +1,14 @@
+
+MXNet does not have an exact equivalent of TensorFlow's `AveragePooling1D` layer. However, you can achieve a similar effect by using the `mxnet.ndarray.pooling` module with the `avg_pool1d` function. Here is an example:
+```
+import mxnet as mx
+
+# Create a 3D tensor with shape (batch_size, sequence_length, num_channels)
+data = mx.nd.random.normal(shape=(10, 5, 2))
+
+# Apply average pooling to the last dimension of the tensor
+pooled_data = mx.nd.pooling.avg_pool1d(data, kernel_size=3, stride=2)
+```
+In this example, `mx.nd.pooling.avg_pool1d` is used to apply average pooling to the last dimension of the input tensor `data`. The `kernel_size` parameter specifies the size of the pooling window, and the `stride` parameter specifies the stride of the pooling operation.
+
+Note that MXNet's `avg_pool1d` function is a bit different from TensorFlow's `AveragePooling1D` layer in terms of its input and output shapes. In MXNet, the input tensor must have at least 3 dimensions, while in TensorFlow, the input tensor can have any number of dimensions. Additionally, MXNet's `avg_pool1d` function returns a tensor with the same shape as the input tensor, except for the last dimension, which is reduced by the pooling window size. In contrast, TensorFlow's `AveragePooling1D` layer returns a tensor with a different shape than the input tensor, depending on the pooling parameters and the input tensor's shape.

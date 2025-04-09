@@ -1,0 +1,10 @@
+tf.nn.elu  
+tf.keras.activations.elu  
+tf.math.elu  
+tf.raw_ops.Elu  
+tf.compat.v1.nn.elu  
+tf.compat.v2.nn.elu  
+tf.compat.v1.keras.activations.elu  
+tf.compat.v2.keras.activations.elu  
+tf.experimental.numpy.elu  
+tf.experimental.tensorrt.elu

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `AdagradOptimizer`:
+
+1. `cntk.learners.adagrad`
+2. `cntk.learners.adagrad_momentum`
+3. `cntk.learners.adagrad_nesterov`
+4. `cntk.learners.adam`
+5. `cntk.learners.rmsprop`
+6. `cntk.learners.sgd`
+7. `cntk.learners.momentum_sgd`
+8. `cntk.learners.nesterov_accelerated_gradient`
+9. `cntk.learners.adagrad_max`
+10. `cntk.learners.adagrad_min`

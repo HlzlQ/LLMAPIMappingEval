@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that are similar to `tensorflow.unique`:
+
+1. torch.unique
+2. torch.tensor.unique
+3. torch.Tensor.unique
+4. torch.unique_consecutive
+5. torch.return_inverse

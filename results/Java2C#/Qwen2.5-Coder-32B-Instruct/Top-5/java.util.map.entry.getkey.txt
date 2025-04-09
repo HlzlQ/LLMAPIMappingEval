@@ -1,0 +1,5 @@
+System.Collections.Generic.KeyValuePair<TKey,TValue>.Key  
+System.Linq.Enumerable.ToDictionary<TSource,TKey,TElement>(IEnumerable<TSource>,Func<TSource,TKey>,Func<TSource,TElement>).Keys  
+System.Collections.Generic.Dictionary<TKey,TValue>.Keys  
+System.Collections.Concurrent.ConcurrentDictionary<TKey,TValue>.Keys  
+System.Collections.Specialized.NameValueCollection.GetKey(int)

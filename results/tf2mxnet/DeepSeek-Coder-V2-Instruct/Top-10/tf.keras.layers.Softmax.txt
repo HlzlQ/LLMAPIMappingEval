@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.softmax
+2. mxnet.symbol.softmax
+3. mxnet.gluon.nn.Softmax
+4. mxnet.ndarray.Activation
+5. mxnet.symbol.Activation
+6. mxnet.gluon.nn.Activation
+7. tensorflow.keras.layers.Activation
+8. tensorflow.keras.activations.softmax
+9. tensorflow.keras.layers.Dense
+10. tensorflow.keras.layers.Softmax

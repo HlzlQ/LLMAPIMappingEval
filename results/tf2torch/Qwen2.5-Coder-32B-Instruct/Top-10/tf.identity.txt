@@ -1,0 +1,10 @@
+torch.tensor
+torch.clone
+torch.view
+torch.reshape
+torch.squeeze
+torch.unsqueeze
+torch.transpose
+torch.permute
+torch.cat
+torch.stack

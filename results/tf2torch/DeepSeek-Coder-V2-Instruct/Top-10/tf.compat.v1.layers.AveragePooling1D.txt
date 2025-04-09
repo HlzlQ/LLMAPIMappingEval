@@ -1,0 +1,11 @@
+
+1. nn.AvgPool1d
+2. nn.AdaptiveAvgPool1d
+3. F.avg_pool1d
+4. torch.nn.functional.avg_pool1d
+5. tf.layers.AveragePooling1D
+6. tf.keras.layers.AveragePooling1D
+7. tf.compat.v1.layers.AvgPooling1D
+8. tf.compat.v1.layers.AveragePooling1D
+9. torch.nn.functional.avg_pool1d
+10. nn.AvgPool2d

@@ -1,0 +1,5 @@
+tf.random.uniform
+tfp.distributions.Uniform
+tf.random.set_seed
+tf.math.reduce_mean
+tf.math.reduce_variance

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.beans.propertydescriptor.getwritemethod`:
+
+1. `System.ComponentModel.PropertyDescriptor.GetWriteMethod`
+2. `System.Reflection.PropertyInfo.GetSetMethod`
+3. `System.Reflection.MemberInfo.GetMethod`
+4. `System.Reflection.MethodInfo.GetBaseDefinition`
+5. `System.Reflection.MethodInfo.GetGenericMethodDefinition`
+6. `System.Reflection.MethodInfo.GetParameters`
+7. `System.Reflection.ParameterInfo.GetCustomAttributes`
+8. `System.Reflection.MemberInfo.GetCustomAttributes`
+9. `System.Reflection.PropertyInfo.GetAccessors`
+10. `System.Reflection.EventInfo.GetAddMethod`

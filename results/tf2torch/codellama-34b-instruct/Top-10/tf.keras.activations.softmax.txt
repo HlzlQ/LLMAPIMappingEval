@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.activations.softmax`:
+
+1. `torch.nn.Softmax`
+2. `torch.nn.functional.softmax`
+3. `torch.nn.SoftmaxActivation`
+4. `torch.nn.SoftmaxFunction`
+5. `torch.nn.SoftmaxLayer`
+6. `torch.nn.SoftmaxModule`
+7. `torch.nn.SoftmaxNeuron`
+8. `torch.nn.SoftmaxOutput`
+9. `torch.nn.SoftmaxUnit`
+10. `torch.nn.SoftmaxVector`

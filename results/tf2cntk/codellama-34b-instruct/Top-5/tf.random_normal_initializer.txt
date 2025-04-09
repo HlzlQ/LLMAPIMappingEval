@@ -1,0 +1,5 @@
+  tf.keras.initializers.RandomNormal(mean=0.0, stddev=1.0)
+CNTK.initializer.glorot_normal()
+CNTK.initializer.he_normal()
+CNTK.initializer.lecun_normal()
+CNTK.initializer.xavier_normal()

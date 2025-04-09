@@ -1,0 +1,10 @@
+System.Double.IsNaN
+System.Math.IsNaN
+System.Single.IsNaN
+System.Numerics.BigInteger.IsNaN
+System.Numerics.Complex.IsNaN
+System.Numerics.Vector.IsNaN
+System.Numerics.Matrix4x4.IsNaN
+System.Numerics.Plane.IsNaN
+System.Numerics.Quaternion.IsNaN
+System.Numerics.Ray.IsNaN

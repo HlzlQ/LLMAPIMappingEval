@@ -1,0 +1,12 @@
+Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.KeyValuePair<TKey, TValue>.Value
+2. System.Collections.Specialized.NameObjectCollectionBase.Get(int)
+3. System.Collections.Specialized.NameObjectCollectionBase.Get(string)
+4. System.Collections.Specialized.NameValueCollection.Get(int)
+5. System.Collections.Specialized.NameValueCollection.Get(string)
+6. System.Collections.Generic.Dictionary<TKey, TValue>.Item[TKey]
+7. System.Collections.Generic.SortedList<TKey, TValue>.Item[TKey]
+8. System.Collections.Generic.SortedDictionary<TKey, TValue>.Item[TKey]
+9. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Item[TKey]
+10. System.Linq.Lookup<TKey, TElement>.Item[TKey]

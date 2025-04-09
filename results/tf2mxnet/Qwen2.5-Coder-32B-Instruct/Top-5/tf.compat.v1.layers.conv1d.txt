@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Conv1D  
+mxnet.ndarray.convolution_1d  
+mxnet.symbol.Convolution  
+mxnet.gluon.nn.HybridSequential  
+mxnet.gluon.nn.Sequential

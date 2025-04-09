@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent TensorFlow APIs for `torch.distributions.dirichlet.Dirichlet`:
+
+1. tfd.Dirichlet
+2. tfp.distributions.Dirichlet
+3. tf.keras.layers.Dense
+4. tf.random.gamma
+5. tf.math.log
+6. tf.linalg.diag
+7. tf.reduce_sum
+8. tf.nn.softmax
+9. tfp.bijectors.SoftmaxCentered
+10. tfp.distributions.RelaxedOneHotCategorical

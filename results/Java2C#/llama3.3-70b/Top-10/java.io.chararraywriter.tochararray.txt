@@ -1,0 +1,10 @@
+1. System.Text.StringBuilder.ToString
+2. System.IO.StreamWriter.Flush
+3. System.IO.MemoryStream.ToArray
+4. System.Text.Encoding.GetChars
+5. System.Text.UTF8Encoding.GetBytes
+6. System.IO.StringReader.ReadToEnd
+7. System.Text.StringBuilder.CopyTo
+8. System.IO.TextWriter.WriteLine
+9. System.Text.ASCIIEncoding.GetChars
+10. System.Convert.ToBase64String

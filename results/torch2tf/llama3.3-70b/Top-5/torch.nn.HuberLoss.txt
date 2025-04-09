@@ -1,0 +1,5 @@
+1. tf.keras.losses.Huber
+2. tf.compat.v1.losses.huber_loss
+3. tf.nn.sampled_softmax_loss
+4. tf.keras.losses.MeanSquaredError
+5. tf.keras.losses.MeanAbsoluteError

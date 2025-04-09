@@ -1,0 +1,10 @@
+System.IO.StreamWriter.Write  
+System.IO.TextWriter.Write  
+System.Console.Write  
+System.Diagnostics.Debug.Write  
+System.Diagnostics.Trace.Write  
+System.Web.HttpResponse.Write  
+System.Windows.Forms.Control.Text  
+System.Windows.Forms.TextBox.AppendText  
+System.Windows.Forms.RichTextBox.AppendText  
+System.IO.StringWriter.Write

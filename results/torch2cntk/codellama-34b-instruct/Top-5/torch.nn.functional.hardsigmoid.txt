@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.hardsigmoid`:
+
+1. `cntk.layers.HardSigmoid`
+2. `cntk.layers.Sigmoid` with `hard_sigmoid=True`
+3. `cntk.layers.Activation` with `activation='hard_sigmoid'`
+4. `cntk.layers.Dense` with `activation='hard_sigmoid'`
+5. `cntk.layers.Conv2D` with `activation='hard_sigmoid'` (if the input is a 2D convolutional layer)

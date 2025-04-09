@@ -1,0 +1,5 @@
+1. tf.keras.initializers.Orthogonal
+2. tf.initializers.orthogonal
+3. tf.keras.initializers.RandomOrthogonal
+4. tf.random.orthogonal
+5. tf.initializers Orthogonal

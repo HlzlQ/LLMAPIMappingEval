@@ -1,0 +1,5 @@
+1. System.IO.File.Exists
+2. System.IO.Directory.Exists
+3. System.IO.Path.GetFileName
+4. System.IO.Path.GetFullPath
+5. System.IO.FileSystemInfo.Exists

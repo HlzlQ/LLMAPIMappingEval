@@ -1,0 +1,10 @@
+1. System.Char.IsUpper
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.Equals
+4. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase
+5. System.Text.Encoding.ASCII.ToUpper
+6. System.Linq.Enumerable.All
+7. System.String.IndexOf
+8. System.Text.RegularExpressions.Regex.Replace
+9. System.Char.IsLetterOrDigit
+10. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToUpper

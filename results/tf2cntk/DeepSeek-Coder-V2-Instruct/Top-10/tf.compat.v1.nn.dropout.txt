@@ -1,0 +1,19 @@
+
+```python
+import cntk as C
+```
+
+```python
+cntk_dropout_apis = [
+    "Dropout",
+    "GaussianDropout",
+    "SpatialDropout",
+    "AlphaDropout",
+    "UniformDropout",
+    "FeatureDropout",
+    "GaussianNoise",
+    "PoissonNoise",
+    "LaplaceNoise",
+    "RationalQuadraticKernel"
+]
+```

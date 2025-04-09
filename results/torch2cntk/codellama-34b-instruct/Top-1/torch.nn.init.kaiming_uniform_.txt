@@ -1,0 +1,7 @@
+
+CNTK does not have an exact equivalent of `torch.nn.init.kaiming_uniform`. However, you can use the following CNTK APIs to achieve similar functionality:
+
+* `cntk.initializer.glorot_normal`: This initializes the weights with a normal distribution with mean 0 and standard deviation 1/sqrt(fan_in).
+* `cntk.initializer.glorot_uniform`: This initializes the weights with a uniform distribution between -limit and limit, where limit is sqrt(6/fan_in).
+
+Both of these APIs are similar to `kaiming_uniform` in that they use a normal or uniform distribution to initialize the weights, but they do not have the same exact parameters as `kaiming_uniform`.

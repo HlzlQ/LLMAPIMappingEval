@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.ConvTranspose2d
+2. torch.nn.functional.conv_transpose2d
+3. F.interpolate (with appropriate parameters)
+4. nn.UpsamplingTranspose2D (if available in PyTorch, otherwise mention it's not supported and suggest using 3 or another method)
+5. tf.compat.v1.nn.conv2d_transpose

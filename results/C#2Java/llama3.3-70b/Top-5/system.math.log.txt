@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.math.log` in C#:
+
+1. java.lang.Math.log
+2. java.lang.Math.log10
+3. java.lang.Math.log1p
+4. java.lang.Math.exp
+5. java.lang.Math.pow

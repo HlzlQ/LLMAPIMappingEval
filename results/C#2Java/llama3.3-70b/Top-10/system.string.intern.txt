@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.intern` in C#:
+
+1. java.lang.String.intern()
+2. java.lang.String.hashCode()
+3. java.lang.String.equals()
+4. java.lang.String.compareTo()
+5. java.lang.String.compareToIgnoreCase()
+6. java.lang.String.indexOf()
+7. java.lang.String.lastIndexOf()
+8. java.lang.String.substring()
+9. java.lang.String.concat()
+10. java.lang.String.valueOf()

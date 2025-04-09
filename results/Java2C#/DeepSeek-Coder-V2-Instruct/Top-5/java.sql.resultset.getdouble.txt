@@ -1,0 +1,5 @@
+1. GetDouble(int columnIndex)
+2. GetDouble(string columnName)
+3. GetDecimal(int columnIndex)
+4. GetDecimal(string columnName)
+5. ToDecimal(object value)

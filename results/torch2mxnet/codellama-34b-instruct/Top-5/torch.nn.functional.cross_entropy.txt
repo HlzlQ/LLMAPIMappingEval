@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.cross_entropy`:
+
+1. `mxnet.ndarray.softmax_cross_entropy`
+2. `mxnet.ndarray.sparse_softmax_cross_entropy`
+3. `mxnet.ndarray.log_softmax_cross_entropy`
+4. `mxnet.ndarray.sparse_log_softmax_cross_entropy`
+5. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`

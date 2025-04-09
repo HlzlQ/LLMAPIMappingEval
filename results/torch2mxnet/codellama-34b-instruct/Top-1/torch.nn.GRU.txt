@@ -1,0 +1,13 @@
+
+MXNet does not have a direct equivalent to PyTorch's `nn.GRU` module. However, you can use the `mxnet.rnn.GRUCell` class to create a GRU cell, which is similar to the `nn.GRU` module in PyTorch.
+
+Here's an example of how you might use the `mxnet.rnn.GRUCell` class to create a GRU cell in MXNet:
+```
+import mxnet as mx
+
+# Create a GRU cell with 10 units and a dropout rate of 0.5
+gru_cell = mx.rnn.GRUCell(num_units=10, dropout=0.5)
+```
+Note that the `mxnet.rnn.GRUCell` class takes different arguments than the `nn.GRU` module in PyTorch. In particular, it takes a `num_units` argument to specify the number of units in the GRU cell, and a `dropout` argument to specify the dropout rate for the cell.
+
+Also note that MXNet's `mxnet.rnn.GRUCell` class does not have a built-in `bidirectional` option like PyTorch's `nn.GRU`. If you want to create a bidirectional GRU in MXNet, you will need to use the `mxnet.rnn.Bidirectional` wrapper class and pass it a `mxnet.rnn.GRUCell` instance as an argument.

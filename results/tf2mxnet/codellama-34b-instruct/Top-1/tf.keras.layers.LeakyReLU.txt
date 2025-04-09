@@ -1,0 +1,9 @@
+
+MXNet does not have a direct equivalent of the `LeakyReLU` layer from TensorFlow. However, you can achieve similar functionality using the `leaky_relu` activation function in MXNet. Here's an example:
+```python
+import mxnet as mx
+
+# Define a LeakyReLU layer with alpha=0.3
+layer = mx.gluon.nn.LeakyReLU(alpha=0.3)
+```
+In this example, the `LeakyReLU` layer is defined with an alpha value of 0.3, which controls the slope of the negative part of the activation function. The `leaky_relu` activation function in MXNet has a similar purpose and can be used to achieve similar results as the `LeakyReLU` layer from TensorFlow.

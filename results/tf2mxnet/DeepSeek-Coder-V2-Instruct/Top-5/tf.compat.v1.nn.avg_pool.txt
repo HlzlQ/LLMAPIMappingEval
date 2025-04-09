@@ -1,0 +1,13 @@
+
+
+```python
+import tensorflow as tf
+import mxnet as mx
+```
+
+### Answer:
+1. `tf.nn.avg_pool`
+2. `mx.ndarray.contrib.BilinearResize2D`
+3. `mx.ndarray.Pooling`
+4. `mx.gluon.nn.AvgPool2d`
+5. `tf.keras.layers.AveragePooling2D`

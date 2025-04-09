@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.AbstractList.iterator()`:
+
+1. `System.Collections.Generic.List<T>.GetEnumerator()`
+2. `System.Collections.Generic.IEnumerable<T>.GetEnumerator()`
+3. `System.Linq.Enumerable.GetEnumerator()`
+4. `System.Collections.ArrayList.GetEnumerator()`
+5. `System.Collections.Specialized.NameObjectCollectionBase.Keys.GetEnumerator()`
+6. `System.Collections.Specialized.NameObjectCollectionBase.Values.GetEnumerator()`
+7. `System.Collections.Generic.Dictionary<TKey, TValue>.GetEnumerator()`
+8. `System.Collections.Generic.HashSet<T>.GetEnumerator()`
+9. `System.Collections.Generic.LinkedList<T>.GetEnumerator()`
+10. `System.Collections.Generic.Queue<T>.GetEnumerator()`

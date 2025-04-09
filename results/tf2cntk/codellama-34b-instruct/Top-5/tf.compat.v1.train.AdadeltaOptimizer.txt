@@ -1,0 +1,6 @@
+
+* `cntk.learners.adadelta`
+* `cntk.learners.adadelta_with_gradient_clipping`
+* `cntk.learners.adadelta_with_l1_regularization`
+* `cntk.learners.adadelta_with_l2_regularization`
+* `cntk.learners.adadelta_with_l1_and_l2_regularization`

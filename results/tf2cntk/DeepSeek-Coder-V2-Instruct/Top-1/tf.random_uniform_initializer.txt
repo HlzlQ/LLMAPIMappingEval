@@ -1,0 +1,4 @@
+
+CNTK.glorot_uniform_initializer
+<jupyter_output>
+<empty_output>

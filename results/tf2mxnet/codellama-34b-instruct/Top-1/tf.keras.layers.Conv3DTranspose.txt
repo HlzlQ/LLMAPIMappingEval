@@ -1,0 +1,13 @@
+
+MXNet does not have a direct equivalent of `Conv3DTranspose` from TensorFlow. However, you can use the `Deconvolution` layer in MXNet to achieve similar functionality.
+
+Here's an example of how you can use the `Deconvolution` layer in MXNet to perform 3D transposed convolution:
+```
+import mxnet as mx
+
+# Define a Deconvolution layer with 3D transposed convolution
+deconv = mx.gluon.nn.Deconvolution(channels=128, kernel_size=(3, 3, 3), strides=(2, 2, 2), padding=(1, 1, 1))
+```
+In this example, the `Deconvolution` layer is defined with a 3D transposed convolution kernel size of (3, 3, 3) and a stride of (2, 2, 2). The `padding` argument is set to (1, 1, 1) to ensure that the output shape is the same as the input shape.
+
+Note that the `Deconvolution` layer in MXNet does not have a built-in activation function, so you may need to add an additional activation layer if desired.

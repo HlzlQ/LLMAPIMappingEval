@@ -1,0 +1,2 @@
+
+CNTK equivalent: `cntk.ops.functions.save_model`

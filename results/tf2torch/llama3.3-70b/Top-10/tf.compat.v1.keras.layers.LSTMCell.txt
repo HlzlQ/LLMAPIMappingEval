@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.keras.layers.LSTMCell`:
+
+1. torch.nn.LSTMCell
+2. torch.nn.GRUCell
+3. torch.nn.RNNCell
+4. torch.nn.LSTM
+5. torch.nn.GRU
+6. torch.nn.RNN
+7. torch.nn.ModuleList
+8. torch.nn.Sequential
+9. torch.nn.LSTMCellWithProjection
+10. torch.nn.MultiheadAttention

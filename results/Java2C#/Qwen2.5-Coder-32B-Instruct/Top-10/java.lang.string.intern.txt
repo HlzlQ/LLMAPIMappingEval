@@ -1,0 +1,10 @@
+System.String.Intern  
+System.String.IsInterned  
+System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode  
+System.Text.Encoding.GetString  
+System.Text.Encoding.GetBytes  
+System.IO.MemoryStream.ToArray  
+System.Array.Copy  
+System.Buffer.BlockCopy  
+System.Collections.Generic.List<T>.ToArray  
+System.Linq.Enumerable.ToArray

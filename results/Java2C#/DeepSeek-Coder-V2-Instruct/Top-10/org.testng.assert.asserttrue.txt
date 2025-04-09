@@ -1,0 +1,10 @@
+System.Diagnostics.Contracts.Contract.Requires
+System.Diagnostics.Contracts.Contract.Ensures
+System.Diagnostics.Contracts.Contract.Assert
+System.Threading.Tasks.Task.WhenAll
+System.Linq.Enumerable.Any
+System.Linq.Enumerable.All
+System.Linq.Queryable.FirstOrDefault
+System.Linq.Queryable.SingleOrDefault
+System.Collections.Generic.List`1.Contains
+System.Collections.Generic.Dictionary`2.TryGetValue

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.activations.hard_sigmoid`:
+
+1. torch.nn.Hardsigmoid
+2. torch.sigmoid
+3. torch.nn.Sigmoid
+4. torch.tanh
+5. torch.nn.Tanh
+6. torch.relu
+7. torch.nn.ReLU
+8. torch.nn.LeakyReLU
+9. torch.nn.Softmax
+10. torch.nn.LogSigmoid

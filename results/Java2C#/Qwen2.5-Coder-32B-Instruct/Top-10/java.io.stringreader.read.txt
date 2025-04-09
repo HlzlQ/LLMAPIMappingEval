@@ -1,0 +1,10 @@
+System.IO.StringReader.Read
+System.IO.StringReader.ReadToEnd
+System.IO.StringReader.Peek
+System.IO.StringReader.ReadLine
+System.IO.TextReader.Read
+System.IO.TextReader.ReadToEnd
+System.IO.TextReader.Peek
+System.IO.TextReader.ReadLine
+System.IO.StreamReader.Read
+System.IO.StreamReader.ReadToEnd

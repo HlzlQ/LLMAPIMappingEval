@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent TensorFlow APIs for `torch.distributions.bernoulli.Bernoulli`:
+
+1. tfp.distributions.Bernoulli
+2. tf.keras.layers.Bernoulli
+3. tf.random.Bernoulli
+4. tfp.distributions.Distribution
+5. tfp.distributions.DiscreteDistribution
+6. tfp.distributions.Categorical
+7. tfp.distributions.RelaxedBernoulli
+8. tfp.distributions.SigmoidBernoulli
+9. tfp.layers.DistributionLambda
+10. tfp.bijectors.Sigmoid

@@ -1,0 +1,10 @@
+1. Char.IsUpper
+2. String.ToCharArray
+3. Char.GetNumericValue
+4. Char.IsDigit
+5. Char.IsLetterOrDigit
+6. Char.IsLower
+7. Char.IsSymbol
+8. Char.IsPunctuation
+9. Char.IsSeparator
+10. Char.IsWhiteSpace

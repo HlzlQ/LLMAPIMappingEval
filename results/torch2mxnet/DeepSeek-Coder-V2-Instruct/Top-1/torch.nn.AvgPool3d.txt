@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet API: mxnet.ndarray.AvgPool3D
+print("mxnet.ndarray.AvgPool3D")
+<jupyter_output>
+mxnet.ndarray.AvgPool3D

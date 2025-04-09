@@ -1,0 +1,5 @@
+1. System.Data.IDataReader.GetFloat
+2. System.Data.SqlClient.SqlDataReader.GetFloat
+3. System.Data.OleDb.OleDbDataReader.GetFloat
+4. System.Data.Common.DbDataReader.GetFloat
+5. Microsoft.Data.SqlClient.SqlDataReader.GetFloat

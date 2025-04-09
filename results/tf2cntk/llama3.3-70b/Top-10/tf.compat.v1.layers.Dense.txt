@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.layers.Dense`:
+
+1. `cntk.layers.Dense`
+2. `cntk.layers.FullyConnected`
+3. `cntk.layers.Linear`
+4. `cntk.ops.dense`
+5. `cntk.layers.DenseLayer`
+6. `cntk.layers.InnerProduct`
+7. `cntk.layers.MatrixMultiply`
+8. `cntk.layers.Affine`
+9. `cntk.layers.LinearLayer`
+10. `cntk.layers.FullyConnectedLayer`

@@ -1,0 +1,10 @@
+torch.save  
+torch.jit.save  
+torch.nn.Module.load_state_dict  
+torch.jit.trace  
+torch.jit.script  
+torch.onnx.export  
+torch.savez  
+torch.savez_compressed  
+torch.load  
+torch.jit.load

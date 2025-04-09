@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the Java API `java.security.messagedigest.reset`:
+
+1. System.Security.Cryptography.HashAlgorithm.Initialize()
+2. System.Security.Cryptography.MD5.Initialize()
+3. System.Security.Cryptography.SHA1.Initialize()
+4. System.Security.Cryptography.SHA256.Initialize()
+5. System.Security.Cryptography.SHA384.Initialize()
+6. System.Security.Cryptography.SHA512.Initialize()
+7. System.Security.Cryptography.RIPEMD160.Initialize()
+8. System.Security.Cryptography.Whirlpool.Initialize()
+9. System.Security.Cryptography.Gost3411.Initialize()
+10. System.Security.Cryptography.Haval5_256.Initialize()

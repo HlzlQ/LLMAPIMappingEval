@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.beta.Beta
+2. torch.distributions.distribution.Distribution
+3. torch.distributions.constraints.interval.Interval
+4. torch.distributions.transforms.exp_bijector.ExpTransform
+5. torch.distributions.transforms.power_transform.PowerTransform
+6. torch.distributions.transforms.affine_transform.AffineTransform
+7. torch.distributions.transforms.identity_transform.IdentityTransform
+8. torch.distributions.transforms.lower_cholesky_transform.LowerCholeskyTransform
+9. torch.distributions.transforms.abs_transform.AbsTransform
+10. torch.distributions.transforms.affine_grid_transform.AffineGridTransform

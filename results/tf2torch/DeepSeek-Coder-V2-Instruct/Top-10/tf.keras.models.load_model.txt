@@ -1,0 +1,12 @@
+
+
+1. torch.nn.Module.save
+2. torch.save
+3. torch.load
+4. torch.nn.Module.load_state_dict
+5. torch.optim.Optimizer.step
+6. torch.Tensor.numpy
+7. numpy.array.tolist
+8. torch.Tensor.detach
+9. torch.Tensor.requires_grad_
+10. torch.nn.functional.relu

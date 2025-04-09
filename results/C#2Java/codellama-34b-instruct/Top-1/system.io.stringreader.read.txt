@@ -1,0 +1,3 @@
+System.IO.StringReader.Read()
+
+Java equivalent: java.io.BufferedReader.read()

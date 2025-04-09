@@ -1,0 +1,5 @@
+1. cntk.default_options
+2. cntk.initializer.glorot_normal
+3. cntk.initializer.normal
+4. cntk.layers.initializers.glorot_normal
+5. cntk.initializer.xavier

@@ -1,0 +1,14 @@
+
+
+## 解题答案
+
+1. tf.keras.layers.PReLU
+2. tf.nn.crelu
+3. tf.nn.relu
+4. tf.nn.leaky_relu
+5. tf.nn.elu
+6. tf.nn.selu
+7. tf.nn.softplus
+8. tf.nn.sigmoid
+9. tf.nn.tanh
+10. tf.nn.exponential

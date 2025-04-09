@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Data.SqlClient.SqlDataReader.GetInt64`
+2. `System.Data.OleDb.OleDbDataReader.GetInt64`
+3. `System.Data.Odbc.OdbcDataReader.GetInt64`
+4. `System.Data.OracleClient.OracleDataReader.GetInt64`
+5. `System.Data.SqlServerCe.SqlCeDataReader.GetInt64`

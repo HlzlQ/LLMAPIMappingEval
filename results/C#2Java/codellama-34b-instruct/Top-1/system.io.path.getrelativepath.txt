@@ -1,0 +1,20 @@
+Java does not have a direct equivalent to the `System.IO.Path.GetRelativePath` method in C#. However, you can use the `java.nio.file.Path` class to achieve similar functionality.
+
+Here is an example of how you can use the `java.nio.file.Path` class to get a relative path between two paths:
+```
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class RelativePathExample {
+    public static void main(String[] args) {
+        Path basePath = Paths.get("/path/to/base");
+        Path relativePath = Paths.get("relative/path");
+        
+        // Get the relative path between the two paths
+        Path resolvedPath = basePath.resolve(relativePath);
+        
+        System.out.println(resolvedPath);
+    }
+}
+```
+This will output the relative path between the two paths, which in this case is `relative/path`.

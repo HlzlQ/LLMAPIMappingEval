@@ -1,0 +1,6 @@
+
+Answer: - cntk.layers.flatten
+- cntk.ops.reshape
+- cntk.ops.expand_dims
+- cntk.ops.slice
+- cntk.ops.transpose

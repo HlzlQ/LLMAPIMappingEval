@@ -1,0 +1,5 @@
+tf.math.tanh  
+tf.nn.tanh  
+tf.keras.activations.tanh  
+tf.compat.v1.nn.tanh  
+tf.compat.v2.nn.tanh

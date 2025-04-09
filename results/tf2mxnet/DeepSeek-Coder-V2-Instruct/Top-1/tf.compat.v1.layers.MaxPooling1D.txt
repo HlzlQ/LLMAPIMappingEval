@@ -1,0 +1,6 @@
+
+MXNet MaxPooling1D
+```
+
+### Explanation:
+The `MaxPooling1D` layer in TensorFlow performs 1D max pooling over time (spatial or temporal). In MXNet, there is a similar function called `MaxPool1D`, which serves the same purpose. Therefore, the most likely API in MXNet that corresponds to TensorFlow's `MaxPooling1D` is `MaxPool1D`.

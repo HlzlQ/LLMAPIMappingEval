@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.Softplus`:
+
+1. CNTK.Sigmoid
+2. CNTK.ReLU
+3. CNTK.Tanh
+4. CNTK.LeakyReLU
+5. CNTK.ParametricReLU
+6. CNTK.SoftSign
+7. CNTK.HardTanh
+8. CNTK.LogSigmoid
+9. CNTK.Exponential
+10. CNTK.Softmax

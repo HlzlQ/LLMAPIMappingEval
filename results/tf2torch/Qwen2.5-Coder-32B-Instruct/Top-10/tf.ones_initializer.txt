@@ -1,0 +1,10 @@
+torch.ones
+torch.nn.init.ones_
+torch.full
+torch.fill_
+torch.Tensor.fill_
+torch.nn.Parameter
+torch.tensor
+torch.as_tensor
+torch.from_numpy
+torch.empty_like

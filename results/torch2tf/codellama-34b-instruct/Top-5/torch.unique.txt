@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.unique`:
+
+1. `tf.unique` - This API returns the unique elements of a tensor, along with their indices and counts.
+2. `tf.setdiff1d` - This API computes the difference between two tensors, returning the unique elements that are present in only one of the input tensors.
+3. `tf.unique_with_counts` - This API returns the unique elements of a tensor, along with their counts and indices.
+4. `tf.setdiff1d_sorted` - This API computes the difference between two sorted tensors, returning the unique elements that are present in only one of the input tensors.
+5. `tf.unique_sorted` - This API returns the unique elements of a tensor, along with their indices and counts, but only for sorted tensors.

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java `Character` class:
+
+1. `System.Char.ToLower()`
+2. `System.Char.ToUpper()`
+3. `System.Char.IsLetter()`
+4. `System.Char.IsDigit()`
+5. `System.Char.IsPunctuation()`
+6. `System.Char.IsSymbol()`
+7. `System.Char.IsWhiteSpace()`
+8. `System.Char.IsControl()`
+9. `System.Char.IsHighSurrogate()`
+10. `System.Char.IsLowSurrogate()`

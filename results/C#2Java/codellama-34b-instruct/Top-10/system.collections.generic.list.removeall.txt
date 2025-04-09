@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the C# `System.Collections.Generic.List.RemoveAll` method:
+
+1. `java.util.ArrayList.removeAll`
+2. `java.util.LinkedList.removeAll`
+3. `java.util.Vector.removeAll`
+4. `java.util.Stack.removeAll`
+5. `java.util.Queue.removeAll`
+6. `java.util.PriorityQueue.removeAll`
+7. `java.util.concurrent.CopyOnWriteArrayList.removeAll`
+8. `java.util.concurrent.ConcurrentLinkedQueue.removeAll`
+9. `java.util.concurrent.ConcurrentSkipListSet.removeAll`
+10. `java.util.concurrent.ConcurrentHashMap.removeAll`

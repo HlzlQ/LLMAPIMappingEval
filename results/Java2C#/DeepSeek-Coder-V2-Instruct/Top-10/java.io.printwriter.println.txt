@@ -1,0 +1,10 @@
+1. Console.WriteLine
+2. System.IO.TextWriter.WriteLine
+3. System.Console.WriteLine
+4. System.Diagnostics.Debug.WriteLine
+5. System.Windows.Forms.Control.Invoke
+6. System.Web.UI.HtmlControls.HtmlContainerControl.Render
+7. System.Web.UI.Page.VerifyRenderingUsed
+8. System.Reflection.Emit.ILGenerator.Emit
+9. System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize
+10. System.Runtime.Serialization.Json.DataContractJsonSerializer.WriteObject

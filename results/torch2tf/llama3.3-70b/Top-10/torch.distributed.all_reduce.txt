@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.distributed.all_reduce`:
+
+1. tf.distribute.reduce
+2. tf.distribute.AllReduce
+3. tf.compat.v1.distribute.reduce
+4. tf.keras.utils.all_reduce
+5. tf.distribute.MirroredStrategy.reduce
+6. tf.distribute.TPUStrategy.reduce
+7. tf.distribute.CollectiveAllReduceStrategy
+8. tf.distribute.experimental.CollectiveReduce
+9. tf.distribute.ReduceOp
+10. tf.compat.v1.distribute.all_reduce

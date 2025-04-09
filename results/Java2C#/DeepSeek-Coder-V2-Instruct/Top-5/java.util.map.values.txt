@@ -1,0 +1,5 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Values
+2. System.Linq.Enumerable.ToList
+3. System.Linq.Enumerable.ToArray
+4. System.Collections.Generic.IEnumerable<T>.ToList
+5. System.Collections.Generic.IEnumerable<T>.ToArray

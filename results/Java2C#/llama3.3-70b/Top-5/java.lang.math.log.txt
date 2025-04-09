@@ -1,0 +1,5 @@
+1. System.Math.Log
+2. System.Math.Log10
+3. System.Math.Exp
+4. System.Math.Pow
+5. System.Math.Sqrt

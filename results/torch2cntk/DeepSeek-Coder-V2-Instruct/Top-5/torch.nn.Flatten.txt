@@ -1,0 +1,2 @@
+
+Answer: torch.flatten, numpy.reshape, numpy.ravel, pandas.DataFrame.values, tensorflow.keras.layers.Flatten

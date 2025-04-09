@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for LSTM layers:
+
+1. mxnet.gluon.rnn.LSTM
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.gluon.rnn.LSTMBlock
+4. mxnet.gluon.rnn.LSTMBlockCell
+5. mxnet.gluon.rnn.LSTMWithAttention
+6. mxnet.gluon.rnn.LSTMWithSelfAttention
+7. mxnet.gluon.rnn.LSTMWithMultiHeadAttention
+8. mxnet.gluon.rnn.LSTMWithDenseAttention
+9. mxnet.gluon.rnn.LSTMWithSparseAttention
+10. mxnet.gluon.rnn.LSTMWithQuantizedAttention

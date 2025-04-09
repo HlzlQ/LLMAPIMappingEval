@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.Deconvolution
+2. mxnet.symbol.Convolution_transpose
+3. mxnet.gluon.nn.Conv2DTranspose
+4. mxnet.image.contrib.Deconvolution
+5. mxnet.ndarray.UpSampling
+6. mxnet.symbol.UpSampling
+7. mxnet.gluon.nn.UpSampling
+8. mxnet.image.contrib.UpSampling
+9. mxnet.ndarray.TransposedConv2D
+10. mxnet.symbol.TransposedConv2D

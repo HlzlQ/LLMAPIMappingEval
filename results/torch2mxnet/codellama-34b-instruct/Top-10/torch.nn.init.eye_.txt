@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.init.eye_`:
+
+1. `mxnet.initializers.Eye`
+2. `mxnet.initializers.Identity`
+3. `mxnet.initializers.Ones`
+4. `mxnet.initializers.Zeros`
+5. `mxnet.initializers.Constant`
+6. `mxnet.initializers.GlorotUniform`
+7. `mxnet.initializers.HeNormal`
+8. `mxnet.initializers.LeCunUniform`
+9. `mxnet.initializers.XavierNormal`
+10. `mxnet.initializers.XavierUniform`

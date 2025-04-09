@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `torch.nn.functional.adaptive_avg_pool2d`:
+
+1. `CNTK.layers.AveragePooling`
+2. `CNTK.layers.GlobalAveragePooling`
+3. `CNTK.layers.Pooling`
+4. `CNTK.layers.AdaptiveAveragePooling`
+5. `CNTK.layers.AvgPool`
+6. `CNTK.layers.Downsample`
+7. `CNTK.layers.Subsampling`
+8. `CNTK.layers.ReduceMean`
+9. `CNTK.layers.SpatialReduction`
+10. `CNTK.layers.PoolingLayer`

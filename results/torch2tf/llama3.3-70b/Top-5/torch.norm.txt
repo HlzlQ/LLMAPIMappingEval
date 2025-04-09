@@ -1,0 +1,5 @@
+1. tf.linalg.normalize
+2. tf.norm
+3. tf.keras.layers.Normalization
+4. tf.math.reduce_euclidean_norm
+5. tf.math.sqrt

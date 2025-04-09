@@ -1,0 +1,12 @@
+
+
+```python
+import torch.optim as optim
+```
+
+### Answer:
+1. `torch.optim.Adam`
+2. `torch.optim.SGD`
+3. `torch.optim.Adagrad`
+4. `torch.optim.RMSprop`
+5. `torch.optim.LBFGS`

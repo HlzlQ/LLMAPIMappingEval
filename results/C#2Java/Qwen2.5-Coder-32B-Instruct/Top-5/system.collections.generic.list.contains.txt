@@ -1,0 +1,5 @@
+java.util.List.contains  
+java.util.ArrayList.contains  
+java.util.LinkedList.contains  
+java.util.Vector.contains  
+java.util.Stack.contains

@@ -1,0 +1,5 @@
+1. java.util.Deque.removeFirst()
+2. java.util.Deque.pollFirst()
+3. java.util.Deque.getFirst()
+4. java.util.Deque.peekFirst()
+5. java.util.ArrayDeque.removeFirst()

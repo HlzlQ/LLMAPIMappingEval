@@ -1,0 +1,10 @@
+cntk.optimizers.rmsprop
+cntk.optimizers.RMSProp
+cntk.learners.rmsprop
+cntk.learners.RMSPropLearner
+cntk.learner.rmsprop
+cntk.learner.RMSProp
+cntk.train.rmsprop
+cntk.train.RMSProp
+cntk.training.rmsprop
+cntk.training.RMSProp

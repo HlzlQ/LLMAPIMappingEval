@@ -1,0 +1,5 @@
+1. load_model
+2. load_checkpoint
+3. load_parameters
+4. Model.load
+5. Function.load

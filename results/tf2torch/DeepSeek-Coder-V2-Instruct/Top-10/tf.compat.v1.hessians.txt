@@ -1,0 +1,22 @@
+
+
+```python
+import torch
+from torch import nn
+from torch.autograd import grad
+
+# Example usage:
+# x = torch.tensor([1.0, 2.0], requires_grad=True)
+# y = x**2
+# dy_dx = grad(y, x, create_graph=True)[0]
+```
+Answer: 1. `tf.gradients`
+2. `tf.hessians`
+3. `torch.autograd.grad`
+4. `torch.autograd.functional.jacobian`
+5. `torch.autograd.functional.hessian`
+6. `torch.nn.functional.conv2d_backward`
+7. `torch.nn.functional.linear_backward`
+8. `torch.nn.functional.relu_backward`
+9. `torch.nn.functional.sigmoid_backward`
+10. `torch.nn.functional.tanh_backward`

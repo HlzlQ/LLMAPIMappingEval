@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.keras.layers.AveragePooling3D`:
+
+1. `torch.nn.AvgPool3d`
+2. `torch.nn.MaxPool3d`
+3. `torch.nn.FractionalMaxPool3d`
+4. `torch.nn.FractionalAvgPool3d`
+5. `torch.nn.AdaptiveAvgPool3d`

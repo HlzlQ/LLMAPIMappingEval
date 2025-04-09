@@ -1,0 +1,5 @@
+1. List<T>.RemoveAll(Predicate<T>)
+2. Collection<T>.RemoveAll(Predicate<T>)
+3. IList<T>.RemoveAll(Predicate<T>)
+4. IEnumerable<T>.Where(Predicate<T>).ToList().ForEach(item => item.Remove());
+5. List<T>.FindAll(Predicate<T>).Clear();

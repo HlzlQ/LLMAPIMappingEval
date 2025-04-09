@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.RemoveAll
+2. System.Linq.Enumerable.Remove
+3. System.Collections.Generic.List<T>.RemoveRange
+4. System.Collections.ObjectModel.Collection<T>.RemoveItem
+5. System.ComponentModel.BindingList<T>.RemoveItem
+6. System.Windows.Forms.BindingSource.Remove
+7. System.Data.DataRowCollection.Remove
+8. System.Data.DataTable.Rows.Remove
+9. System.Collections.Generic.SortedSet<T>.RemoveWhere
+10. System.Collections.Generic.HashSet<T>.RemoveWhere

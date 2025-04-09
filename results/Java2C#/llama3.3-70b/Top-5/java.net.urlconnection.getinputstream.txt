@@ -1,0 +1,5 @@
+1. System.Net.Http.HttpClient.GetStreamAsync
+2. System.IO.StreamReader.ReadToEnd
+3. System.Net.WebRequest.GetResponseAsStream
+4. System.Net.HttpWebRequest.GetResponseStream
+5. System.Net.Http.HttpResponseMessage.Content.ReadAsStreamAsync

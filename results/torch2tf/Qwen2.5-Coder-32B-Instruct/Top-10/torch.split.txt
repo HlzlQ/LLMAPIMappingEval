@@ -1,0 +1,10 @@
+tf.split
+tf.raw_ops.Split
+tf.raw_ops.SplitV
+tf.dynamic_partition
+tf.string_split
+tf.strings.split
+tf.keras.layers.Lambda
+tf.data.Dataset.batch
+tf.data.Dataset.padded_batch
+tf.data.Dataset.window

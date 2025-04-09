@@ -1,0 +1,10 @@
+1. System.Int64.Parse
+2. System.Convert.ToInt64
+3. long.TryParse
+4. System.Int64Converter.ConvertFrom
+5. Microsoft.VisualBasic.Conversion.LongParse
+6. System.Globalization.NumberStyles.Parse
+7. System.Int64.ParseExact
+8. System.Convert.ChangeType
+9. System.ComponentModel.TypeConverter.ConvertFromString
+10. System.Int64.TryParseExact

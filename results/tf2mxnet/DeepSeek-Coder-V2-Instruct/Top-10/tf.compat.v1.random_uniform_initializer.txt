@@ -1,0 +1,12 @@
+
+
+1. `tf.initializers.variance_scaling` -> `mxnet.init.Xavier`
+2. `tf.keras.initializers.GlorotUniform` -> `mxnet.init.Xavier`
+3. `tf.random_uniform_initializer` -> `mxnet.ndarray.random_uniform`
+4. `tf.initializers.he_normal` -> `mxnet.init.HeNormal`
+5. `tf.keras.initializers.RandomUniform` -> `mxnet.ndarray.random_uniform`
+6. `tf.initializers.lecun_normal` -> `mxnet.init.LeCun`
+7. `tf.initializers.glorot_normal` -> `mxnet.init.Xavier`
+8. `tf.keras.initializers.GlorotNormal` -> `mxnet.init.Xavier`
+9. `tf.random_normal_initializer` -> `mxnet.ndarray.random_normal`
+10. `tf.initializers.lecun_uniform` -> `mxnet.init.LeCun`

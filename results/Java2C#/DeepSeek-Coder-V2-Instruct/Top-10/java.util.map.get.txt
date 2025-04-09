@@ -1,0 +1,10 @@
+1. Dictionary<TKey, TValue>.TryGetValue
+2. ConcurrentDictionary<TKey, TValue>.GetOrAdd
+3. SortedList<TKey, TValue>.TryGetValue
+4. Hashtable.ContainsKey
+5. HashTable.Item
+6. HashMap.getOrDefault
+7. Dictionary.get
+8. IDictionary.TryGetValue
+9. ConcurrentDictionary.GetOrAdd
+10. SortedDictionary<TKey, TValue>.TryGetValue

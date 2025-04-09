@@ -1,0 +1,7 @@
+  The following are the five most likely MXNet APIs for mapping the PyTorch API `torch.nn.functional.huber_loss`:
+
+1. mxnet.ndarray.huber_loss
+2. mxnet.gluon.loss.HuberLoss
+3. mxnet.symbol.huber_loss
+4. mxnet.ndarray.smooth_l1_loss
+5. mxnet.gluon.loss.SmoothL1Loss

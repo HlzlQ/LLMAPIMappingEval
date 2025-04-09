@@ -1,0 +1,5 @@
+1. System.Math.Floor
+2. MathNet.Numerics.Statistics.Statistics.Floor
+3. Accord.Math.Floor
+4. Math.NET.Numerics.Floor
+5. System.Math.Truncate

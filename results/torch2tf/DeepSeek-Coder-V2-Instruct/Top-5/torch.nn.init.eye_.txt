@@ -1,0 +1,8 @@
+
+Answer: ```python
+tf.linalg.diag_part
+tf.linalg.set_diag
+tf.linalg.eye
+tf.linalg.matrix_transpose
+tf.linalg.band_part
+```

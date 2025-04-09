@@ -1,0 +1,5 @@
+java.lang.Long.parseLong  
+java.lang.Long.valueOf  
+java.math.BigInteger.valueOf  
+java.nio.file.Files.readAllBytes  
+java.util.Scanner.nextLong

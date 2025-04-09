@@ -1,0 +1,5 @@
+java.lang.ref.WeakReference
+java.lang.ref.ReferenceQueue
+java.lang.ref.SoftReference
+java.lang.ref.PhantomReference
+java.lang.ref.Cleaner

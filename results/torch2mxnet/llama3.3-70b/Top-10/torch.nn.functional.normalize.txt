@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `torch.nn.functional.normalize`:
+
+1. mxnet.ndarray.L2Normalization
+2. mxnet.ndarray.Normalize
+3. mxnet.gluon.nn.BatchNorm
+4. mxnet.gluon.nn.InstanceNorm
+5. mxnet.gluon.nn.LayerNorm
+6. mxnet.gluon.nn.GroupNorm
+7. mxnet.nd.L2Normalization
+8. mxnet.nd.Normalize
+9. mxnet.gluon.utils.normalize
+10. mxnet.ndarray.contrib.L2Normalization

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `torch.distributions.uniform.Uniform` API:
+
+1. `cntk.random.uniform`
+2. `cntk.random.uniform_like`
+3. `cntk.random.uniform_array`
+4. `cntk.random.uniform_tensor`
+5. `cntk.random.uniform_distribution`

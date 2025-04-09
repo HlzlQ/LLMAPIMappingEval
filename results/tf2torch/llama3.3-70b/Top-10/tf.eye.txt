@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that match the functionality of `tensorflow.eye`:
+
+1. torch.eye
+2. torch.tensor
+3. torch.ones
+4. torch.zeros
+5. torch.diag
+6. torch.diag_embed
+7. torch.diagflat
+8. torch.identity
+9. torch.eye_like
+10. torch.ones_like

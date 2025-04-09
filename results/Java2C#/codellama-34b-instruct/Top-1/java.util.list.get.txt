@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to the `java.util.List` interface. However, you can use the `System.Collections.Generic.IList<T>` interface as a similar alternative in C#.

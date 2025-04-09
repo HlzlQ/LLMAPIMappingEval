@@ -1,0 +1,10 @@
+tf.pad  
+tf.keras.layers.ZeroPadding2D  
+tf.raw_ops.Pad  
+tf.nn.conv2d_transpose  
+tf.image.resize_with_pad  
+tf.signal.frame  
+tf.strings.reduce_join  
+tf.math.add  
+tf.linalg.diag_part  
+tf.linalg.set_diag

@@ -1,0 +1,6 @@
+
+```python
+import tensorflow as tf
+tf_layer = tf.layers.AveragePooling3D
+mxnet_layer = None
+```

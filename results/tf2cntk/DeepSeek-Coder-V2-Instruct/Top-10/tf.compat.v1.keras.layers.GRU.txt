@@ -1,0 +1,2 @@
+
+Answer: LSTM, GRU, ConvLSTM2D, SimpleRNN, Dense, Dropout, Activation, Flatten, BatchNormalization, TimeDistributed

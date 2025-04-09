@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.is_tensor`:
+
+1. `torch.is_tensor`
+2. `torch.tensor.is_tensor`
+3. `torch.tensor.is_floating_point`
+4. `torch.tensor.is_integer`
+5. `torch.tensor.is_complex`

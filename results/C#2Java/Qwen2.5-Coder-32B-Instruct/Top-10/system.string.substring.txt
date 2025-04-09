@@ -1,0 +1,3 @@
+java.lang.String.substring(int)
+java.lang.String.substring(int, int)
+java.lang.CharSequence.subSequence(int, int)

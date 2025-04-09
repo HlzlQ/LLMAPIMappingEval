@@ -1,0 +1,10 @@
+1. System.Random
+2. System.Security.Cryptography.RandomNumberGenerator
+3. System.Guid
+4. System.Diagnostics.Stopwatch
+5. System.Environment.TickCount
+6. System.DateTime.Now
+7. System.Threading.Thread.Sleep
+8. System.Diagnostics.Process.StartTime
+9. System.Runtime.InteropServices.ComTypes.IRandomAccessStream
+10. Microsoft.VisualBasic.VBMath.Rnd

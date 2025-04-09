@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.binary_cross_entropy`:
+
+1. `cntk.losses.BinaryCrossEntropy`
+2. `cntk.losses.CrossEntropyWithSoftmax`
+3. `cntk.losses.SigmoidCrossEntropy`
+4. `cntk.losses.SoftmaxCrossEntropy`
+5. `cntk.losses.BinaryCrossEntropyLoss`

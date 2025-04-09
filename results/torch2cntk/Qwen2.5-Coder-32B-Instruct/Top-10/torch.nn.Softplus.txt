@@ -1,0 +1,10 @@
+cntk.ops.log_exp
+cntk.ops.exp
+cntk.ops.log
+cntk.ops.relu
+cntk.ops.sigmoid
+cntk.ops.tanh
+cntk.ops.hard_sigmoid
+cntk.ops.elu
+cntk.ops.swish
+cntk.ops.softplus

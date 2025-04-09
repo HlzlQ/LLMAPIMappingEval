@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.gluon.rnn.GRUCell
+2. mxnet.ndarray.gru_cell
+3. mxnet.symbol.contrib.gru
+4. mxnet.gluon.rnn.GRU
+5. mxnet.ndarray.gru

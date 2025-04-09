@@ -1,0 +1,5 @@
+torch.nn.functional.pad  
+torch.Tensor.pad  
+torch.nn.ConstantPad1d  
+torch.nn.ConstantPad2d  
+torch.nn.ConstantPad3d

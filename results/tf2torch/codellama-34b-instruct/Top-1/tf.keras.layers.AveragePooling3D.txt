@@ -1,0 +1,3 @@
+```
+torch.nn.AvgPool3d
+```

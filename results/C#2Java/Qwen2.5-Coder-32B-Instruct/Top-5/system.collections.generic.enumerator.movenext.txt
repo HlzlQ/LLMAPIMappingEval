@@ -1,0 +1,5 @@
+java.util.Iterator.hasNext
+java.util.Enumeration.hasMoreElements
+java.util.ListIterator.hasNext
+java.util.PrimitiveIterator.OfInt.hasNext
+java.util.Spliterator.tryAdvance

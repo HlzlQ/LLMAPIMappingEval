@@ -1,0 +1,7 @@
+
+
+1. `tf.train.Optimizer`
+2. `tf.layers.conv2d`
+3. `tf.reduce_mean`
+4. `tf.nn.softmax`
+5. `tf.gradients`

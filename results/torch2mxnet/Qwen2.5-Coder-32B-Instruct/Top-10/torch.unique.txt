@@ -1,0 +1,10 @@
+mx.nd.unique
+mx.ndarray.unique
+mxnet.ndarray.unique
+mx.symbol.unique
+mxnet.sym.unique
+mx.nd.contrib.unique
+mx.ndarray.contrib.unique
+mxnet.ndarray.contrib.unique
+mx.symbol.contrib.unique
+mxnet.sym.contrib.unique

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.tanh`:
+
+1. `cntk.ops.tanh`
+2. `cntk.layers.activation.tanh`
+3. `cntk.layers.activation.HyperbolicTangent`
+4. `cntk.layers.activation.Tanh`
+5. `cntk.layers.activation.Activation(cntk.ops.tanh)`

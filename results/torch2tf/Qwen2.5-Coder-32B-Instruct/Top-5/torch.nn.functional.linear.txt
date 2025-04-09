@@ -1,0 +1,5 @@
+tf.matmul  
+tf.linalg.matmul  
+tf.tensordot  
+tf.einsum  
+tf.keras.layers.Dense

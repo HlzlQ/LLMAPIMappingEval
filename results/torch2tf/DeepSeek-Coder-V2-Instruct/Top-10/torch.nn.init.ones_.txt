@@ -1,0 +1,11 @@
+
+Answer: 1. tf.ones_initializer()
+2. tf.keras.initializers.Ones()
+3. tf.initialize_all_variables() (deprecated)
+4. tf.compat.v1.initializers.ones()
+5. tf.compat.v1.zeros_initializer()
+6. tf.compat.v1.ones_initializer()
+7. tf.contrib.layers.xavier_initializer()
+8. tf.contrib.layers.variance_scaling_initializer(factor=1.0, mode='FAN_AVG', uniform=False)
+9. tf.initializers.constant(value=1.0)
+10. tf.keras.initializers.Constant(value=1)

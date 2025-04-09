@@ -1,0 +1,5 @@
+1. java.util.HashSet.contains
+2. java.util.Set.contains
+3. java.util.AbstractSet.contains
+4. java.util.Collections.singleton.contains
+5. java.util.EnumSet.contains

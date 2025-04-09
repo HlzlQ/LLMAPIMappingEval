@@ -1,0 +1,5 @@
+1. Contains(T) : bool - System.Collections.Generic.List<T>
+2. Exists(Predicate<T>) : bool - System.Linq.Enumerable
+3. ContainsKey(TKey) : bool - System.Collections.Generic.Dictionary<TKey, TValue>
+4. Contains(Object) : bool - System.Collections.IList
+5. Any(Func<TSource, Boolean>) : bool - System.Linq.ParallelQuery<TSource>

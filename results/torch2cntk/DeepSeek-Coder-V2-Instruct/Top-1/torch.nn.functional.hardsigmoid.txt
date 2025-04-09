@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.ops.relu")
+<jupyter_output>
+CNTK.ops.relu

@@ -1,0 +1,10 @@
+System.Net.HttpWebRequest.GetResponseStream  
+System.Net.WebClient.OpenRead  
+System.Net.Http.HttpClient.GetStreamAsync  
+System.Net.Http.HttpClient.GetAsync  
+System.Net.Http.HttpRequestMessage.Content.ReadAsStreamAsync  
+System.Net.FtpWebRequest.GetResponseStream  
+System.Net.Sockets.TcpClient.GetStream  
+System.IO.StreamReader.Read  
+System.IO.StreamReader.ReadToEnd  
+System.IO.Stream.CopyTo

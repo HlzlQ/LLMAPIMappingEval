@@ -1,0 +1,10 @@
+System.Collections.Hashtable.Add  
+System.Collections.Generic.Dictionary<TKey,TValue>.Add  
+System.Collections.Concurrent.ConcurrentDictionary<TKey,TValue>.TryAdd  
+System.Collections.Specialized.HybridDictionary.Add  
+System.Collections.Specialized.ListDictionary.Add  
+System.Collections.Specialized.NameValueCollection.Add  
+System.Collections.Specialized.StringCollection.Add  
+System.Collections.Specialized.OrderedDictionary.Add  
+System.Collections.Specialized.StringDictionary.Add  
+System.Collections.Specialized.NameObjectCollectionBase.BaseAdd

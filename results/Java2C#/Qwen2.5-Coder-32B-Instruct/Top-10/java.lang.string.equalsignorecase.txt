@@ -1,0 +1,10 @@
+System.String.Equals
+System.String.EqualsIgnoreCase
+System.String.Compare
+System.String.CompareOrdinal
+System.String.CompareTo
+System.String.IndexOf
+System.String.LastIndexOf
+System.String.StartsWith
+System.String.EndsWith
+System.Globalization.CultureInfo.CompareInfo.Compare

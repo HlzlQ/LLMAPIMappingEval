@@ -1,0 +1,23 @@
+1. System.Text.RegularExpressions.Regex.CompileToAssembly
+2. System.Text.RegularExpressions.RegexOptions
+3. System.Text.RegularExpressions.Regex.Match
+4. System.Text.RegularExpressions.Regex.Matches
+5. System.Text.RegularExpressions.Regex.Replace
+6. System.Text.RegularExpressions.Regex.Split
+7. System.Text.RegularExpressions.PatternCompiler
+8. System.Text.RegularExpressions.Syntax.Parser
+9. System.Text.RegularExpressions.Compiler
+10. System.Text.RegularExpressions.Pattern ***!
+However I can provide a more accurate answer:
+1. System.Text.RegularExpressions.Regex.CompileToAssembly
+2. System.Text.RegularExpressions.RegexOptions
+3. System.Text.RegularExpressions.Regex.Match
+4. System.Text.RegularExpressions.Regex.Matches
+5. System.Text.RegularExpressions.Regex.Replace
+6. System.Text.RegularExpressions.Regex.Split
+7. System.Text.RegularExpressions.PatternCompiler
+8. Microsoft.VisualBasic.RegularExpressions.Pattern
+9. System.Text.RegularExpressions.Syntax.Parser
+10. System.Text.RegularExpressions.Compiler 
+However the most likely one is:
+System.Text.RegularExpressions.Regex.CompileToAssembly

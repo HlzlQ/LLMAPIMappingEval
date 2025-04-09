@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.keras.utils.normalize`:
+
+1. mxnet.ndarray.normalize
+2. mxnet.gluon.utils.normalize
+3. mxnet.nd.array.normalize
+4. mxnet.gluon.nn.BatchNorm
+5. mxnet.ndarray.L2Normalization
+6. mxnet.gluon.nn.InstanceNorm
+7. mxnet.ndarray.normalization
+8. mxnet.gluon.utils.data.normalize
+9. mxnet.nd.Normalizer
+10. mxnet.gluon.nn.LayerNorm

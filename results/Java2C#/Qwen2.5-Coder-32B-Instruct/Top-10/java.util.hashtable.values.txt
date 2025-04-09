@@ -1,0 +1,10 @@
+System.Collections.Hashtable.Values
+System.Collections.Specialized.HybridDictionary.Values
+System.Collections.Specialized.ListDictionary.Values
+System.Collections.Specialized.NameValueCollection.AllKeys
+System.Collections.Generic.Dictionary<TKey,TValue>.Values
+System.Collections.Concurrent.ConcurrentDictionary<TKey,TValue>.Values
+System.Collections.ObjectModel.KeyedCollection<TKey,TItem>.Values
+System.Collections.Generic.SortedList<TKey,TValue>.Values
+System.Collections.Generic.Queue<T>.ToArray
+System.Collections.Generic.Stack<T>.ToArray

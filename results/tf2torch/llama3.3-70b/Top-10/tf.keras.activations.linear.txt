@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.activations.linear`:
+
+1. torch.nn.Linear
+2. torch.nn.Identity
+3. torch.relu
+4. torch.sigmoid
+5. torch.tanh
+6. torch.nn.functional.linear
+7. torch.nn.functional.relu
+8. torch.nn.functional.sigmoid
+9. torch.nn.functional.tanh
+10. torch.nn.Identity()

@@ -1,0 +1,12 @@
+
+Answer: 
+1. mxnet.initializer.Uniform
+2. mxnet.initializer.Normal
+3. mxnet.initializer.Xavier
+4. mxnet.initializer.Orthogonal
+5. mxnet.initializer.Constant
+6. mxnet.initializer.Bilinear
+7. mxnet.initializer.Convolution
+8. mxnet.initializer.Deconvolution
+9. mxnet.initializer.InstanceNorm
+10. mxnet.initializer.BatchNorm

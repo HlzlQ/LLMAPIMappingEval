@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. CNTK.Bernoulli
+2. CNTK.Distribution.Bernoulli
+3. CNTK.losses.BernoulliCrossEntropy
+4. CNTK.metrics.BernoulliAccuracy
+5. CNTK.ops.random.Bernoulli

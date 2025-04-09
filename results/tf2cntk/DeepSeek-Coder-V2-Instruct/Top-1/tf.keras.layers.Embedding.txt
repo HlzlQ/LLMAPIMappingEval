@@ -1,0 +1,3 @@
+
+
+cntk_api = "CNTK.layers.Embedding"

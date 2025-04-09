@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.sigmoid`:
+
+1. `cntk.layers.Activation(cntk.ops.Sigmoid())`
+2. `cntk.layers.Dense(cntk.ops.Sigmoid())`
+3. `cntk.layers.Convolutional(cntk.ops.Sigmoid())`
+4. `cntk.layers.Recurrent(cntk.ops.Sigmoid())`
+5. `cntk.layers.BatchNormalization(cntk.ops.Sigmoid())`

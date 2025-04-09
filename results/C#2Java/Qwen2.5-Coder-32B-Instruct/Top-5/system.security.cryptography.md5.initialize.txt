@@ -1,0 +1,5 @@
+java.security.MessageDigest.getInstance  
+java.security.MessageDigest.update  
+java.security.MessageDigest.digest  
+java.security.MessageDigest.reset  
+java.security.NoSuchAlgorithmException

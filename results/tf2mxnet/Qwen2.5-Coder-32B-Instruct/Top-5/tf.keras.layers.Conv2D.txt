@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Conv2D  
+mxnet.ndarray.Convolution  
+mxnet.symbol.Convolution  
+mxnet.gluon.contrib.nn.GroupedConv2D  
+mxnet.gluon.nn.DeformableConv2D

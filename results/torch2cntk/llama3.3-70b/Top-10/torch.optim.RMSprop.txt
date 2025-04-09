@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.optim.RMSprop`:
+
+1. `cntk.learners.rmsprop`
+2. `cntk.optimizers.RMSProp`
+3. `cntk.train.rmsprop`
+4. `cntk.learner.RMSPropLearner`
+5. `cntk.optimizer.rmsprop_optimizer`
+6. `cntk.training.rmsprop_trainer`
+7. `cntk.optimization.rmsprop`
+8. `cntk.learning_rate_scheduler.rmsprop`
+9. `cntk.trainer.rmsprop_trainer`
+10. `cntk.sgd.rmsprop`

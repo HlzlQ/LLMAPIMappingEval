@@ -1,0 +1,26 @@
+
+MXNet does not have a direct equivalent of `torch.norm`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Norm`: This API calculates the norm of an array along a specified axis.
+* `mxnet.ndarray.LpNorm`: This API calculates the Lp-norm of an array, where p is a positive integer.
+
+For example, to calculate the 2-norm of a tensor in MXNet, you can use the following code:
+```
+import mxnet as mx
+
+# Create a tensor
+tensor = mx.nd.array([[1, 2], [3, 4]])
+
+# Calculate the 2-norm
+norm = mx.nd.Norm(tensor, axis=0)
+```
+Alternatively, you can use the `LpNorm` API to calculate the L2-norm of a tensor:
+```
+import mxnet as mx
+
+# Create a tensor
+tensor = mx.nd.array([[1, 2], [3, 4]])
+
+# Calculate the L2-norm
+norm = mx.nd.LpNorm(tensor, p=2)
+```

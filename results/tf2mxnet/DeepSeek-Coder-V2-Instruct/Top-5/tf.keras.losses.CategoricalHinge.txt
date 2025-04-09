@@ -1,0 +1,6 @@
+
+Answer: mxnet.gluon.loss.HingeLoss
+mxnet.gluon.loss.SquaredHingeLoss
+mxnet.gluon.loss.HuberLoss
+mxnet.gluon.loss.L1Loss
+mxnet.gluon.loss.MSELoss

@@ -1,0 +1,5 @@
+tf.GradientTape
+tf.gradients
+tf.raw_ops.SymbolicGradient
+tf.compat.v1.gradients
+tf.autodiff.ForwardAccumulator.jvp

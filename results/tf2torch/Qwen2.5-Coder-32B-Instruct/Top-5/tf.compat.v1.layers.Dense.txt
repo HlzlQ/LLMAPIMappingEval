@@ -1,0 +1,5 @@
+torch.nn.Linear  
+torch.nn.functional.linear  
+torch.nn.Parameter  
+torch.Tensor.matmul  
+torch.addmm

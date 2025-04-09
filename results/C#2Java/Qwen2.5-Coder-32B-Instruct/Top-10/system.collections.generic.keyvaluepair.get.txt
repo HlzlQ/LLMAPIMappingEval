@@ -1,0 +1,10 @@
+java.util.AbstractMap.SimpleEntry.getKey
+java.util.AbstractMap.SimpleEntry.getValue
+java.util.Map.Entry.getKey
+java.util.Map.Entry.getValue
+java.util.HashMap.EntrySet.getKey
+java.util.HashMap.EntrySet.getValue
+java.util.LinkedHashMap.EntrySet.getKey
+java.util.LinkedHashMap.EntrySet.getValue
+java.util.TreeMap.EntrySet.getKey
+java.util.TreeMap.EntrySet.getValue

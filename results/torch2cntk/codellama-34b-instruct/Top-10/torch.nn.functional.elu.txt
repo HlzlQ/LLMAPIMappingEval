@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.elu`:
+
+1. `cntk.layers.ELU`
+2. `cntk.layers.LeakyReLU`
+3. `cntk.layers.PReLU`
+4. `cntk.layers.RReLU`
+5. `cntk.layers.SELU`
+6. `cntk.layers.Sigmoid`
+7. `cntk.layers.Softmax`
+8. `cntk.layers.Tanh`
+9. `cntk.layers.ReLU`
+10. `cntk.layers.LeakyReLU`

@@ -1,0 +1,5 @@
+tf.keras.losses.CosineSimilarity  
+tf.nn.cosine_similarity  
+tf.matmul  
+tf.norm  
+tf.reduce_sum

@@ -1,0 +1,11 @@
+
+* NUnit.Framework.Assert.IsFalse
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+* Xunit.Assert.False
+* FluentAssertions.AssertionExtensions.Should().BeFalse()
+* NSubstitute.Received.InOrder(() => {})
+* Moq.Mock.Verify(m => m.Method(), Times.Never())
+* NUnit.Framework.Assert.That(actual, Is.False)
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull(actual)
+* Xunit.Assert.NotNull(actual)
+* FluentAssertions.AssertionExtensions.Should().NotBeNull()

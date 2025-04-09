@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that match the functionality of `System.Collections.ArrayList.EnsureCapacity` in C#:
+
+1. `java.util.ArrayList.ensureCapacity(int minCapacity)`
+2. `java.util.LinkedList.ensureCapacity(int minCapacity)`
+3. `java.util.Vector.ensureCapacity(int minCapacity)`
+4. `java.util.concurrent.CopyOnWriteArrayList.ensureCapacity(int minCapacity)`
+5. `java.util.concurrent.LinkedBlockingQueue.ensureCapacity(int minCapacity)`
+6. `java.util.concurrent.ArrayBlockingQueue.ensureCapacity(int minCapacity)`
+7. `java.util.concurrent.ConcurrentLinkedQueue.ensureCapacity(int minCapacity)`
+8. `java.util.concurrent.PriorityBlockingQueue.ensureCapacity(int minCapacity)`
+9. `java.util.concurrent.DelayQueue.ensureCapacity(int minCapacity)`
+10. `java.util.concurrent.SynchronousQueue.ensureCapacity(int minCapacity)`

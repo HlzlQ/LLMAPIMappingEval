@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.softsign`:
+
+1. `cntk.layers.Softsign`
+2. `cntk.layers.Activation(cntk.ops.softsign)`
+3. `cntk.layers.Dense(cntk.ops.softsign)`
+4. `cntk.layers.Conv2D(cntk.ops.softsign)`
+5. `cntk.layers.BatchNormalization(cntk.ops.softsign)`
+6. `cntk.layers.InstanceNormalization(cntk.ops.softsign)`
+7. `cntk.layers.LayerNorm(cntk.ops.softsign)`
+8. `cntk.layers.GroupNorm(cntk.ops.softsign)`
+9. `cntk.layers.SpatialSoftmax(cntk.ops.softsign)`
+10. `cntk.layers.TemporalSoftmax(cntk.ops.softsign)`

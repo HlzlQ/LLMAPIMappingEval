@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.text.regularexpressions.regex.replace`:
+
+1. `java.util.regex.Matcher.replaceAll`
+2. `java.util.regex.Matcher.replaceFirst`
+3. `java.util.regex.Pattern.matcher`
+4. `java.util.regex.Pattern.compile`
+5. `java.lang.String.replaceAll`
+6. `java.lang.String.replaceFirst`
+7. `java.lang.String.replace`
+8. `java.lang.StringBuilder.replace`
+9. `java.lang.StringBuffer.replace`
+10. `org.apache.commons.lang3.RegExUtils.replaceAll`

@@ -1,0 +1,10 @@
+System.Char.IsUpper  
+System.Text.RegularExpressions.Regex.IsMatch  
+System.Globalization.CultureInfo.CurrentCulture.TextInfo.IsUpper  
+System.Linq.Enumerable.Any  
+System.Collections.Generic.List<char>.Exists  
+System.Array.Exists  
+System.String.Any  
+System.Text.StringBuilder.ToString().Any  
+System.Convert.ToBoolean(System.Char.IsUpper)  
+System.Object.Equals(System.Char.IsUpper)

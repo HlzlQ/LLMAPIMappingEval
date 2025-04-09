@@ -1,0 +1,10 @@
+1. org.junit.jupiter.api.Assertions.assertNotNull
+2. org.junit.Assert.isNotNull
+3. ch.qos.logback.classic.util.Assert
+4. com.google.common.truth.Truth.assertThat
+5. org.testng.Assert.assertNotNull
+6. junit.framework.Assert.isNotNull
+7. org.junit.Assert.assertNotNull
+8. org.hamcrest.MatcherAssert.assertThat
+9. org.mockito.Mockito.verify
+10. org.junit.jupiter.api.Assertions.assertTrue

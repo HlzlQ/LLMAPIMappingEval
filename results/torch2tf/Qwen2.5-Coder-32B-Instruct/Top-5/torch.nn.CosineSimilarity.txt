@@ -1,0 +1,5 @@
+tf.keras.losses.CosineSimilarity  
+tf.math.cosine_similarity  
+tf.nn.cosine_distance  
+tf.matmul  
+tf.reduce_sum

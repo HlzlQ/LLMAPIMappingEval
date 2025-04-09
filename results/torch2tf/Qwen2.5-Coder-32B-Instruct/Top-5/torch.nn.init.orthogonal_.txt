@@ -1,0 +1,5 @@
+tf.linalg.set_diag  
+tf.linalg.diag_part  
+tf.linalg.qr  
+tf.linalg.svd  
+tf.random.orthogonal

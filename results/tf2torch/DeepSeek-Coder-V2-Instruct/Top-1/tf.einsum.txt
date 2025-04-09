@@ -1,0 +1,6 @@
+
+```python
+import tensorflow as tf
+tf.einsum(...)
+```
+Answer: torch.einsum

@@ -1,0 +1,5 @@
+1. mx.ndarray.UpSampling
+2. mx.gluon.nn.Upsample
+3. mxnet.gluon.contrib.nn.HybridConcurrent
+4. mxnet.gluon.nn.HybridSequential
+5. mx.gluon.nn.Interpolation

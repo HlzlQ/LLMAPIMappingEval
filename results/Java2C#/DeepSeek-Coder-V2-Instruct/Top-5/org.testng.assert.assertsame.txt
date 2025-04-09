@@ -1,0 +1,5 @@
+1. System.Collections.Generic.EqualityComparer`1.Default
+2. System.Linq.Enumerable.SequenceEqual
+3. System.Object.Equals
+4. System.String.CompareTo
+5. System.Array.AreEqual

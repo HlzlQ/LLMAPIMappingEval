@@ -1,0 +1,10 @@
+1. System.Collections.Generic.IEnumerator
+2. System.Collections.IEnumerator
+3. System.Collections.Generic.List<T>.GetEnumerator
+4. System.Linq.Enumerable.GetEnumerator
+5. System.Collections.ObjectModel.Collection<T>.GetEnumerator
+6. System.Data.SqlClient.SqlDataReader
+7. System.Xml.XmlNodeList.GetEnumerator
+8. System.Collections.Specialized.StringCollection.GetEnumerator
+9. System.ComponentModel.BindingList<T>.GetEnumerator
+10. System.Collections.Concurrent.BlockingCollection<T>.GetEnumerator

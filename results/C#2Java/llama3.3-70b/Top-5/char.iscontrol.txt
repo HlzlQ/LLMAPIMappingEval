@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `char.iscontrol` in C#:
+
+1. java.lang.Character.isISOControl
+2. java.lang.Character.isWhitespace
+3. java.lang.Character.isSpaceChar
+4. java.lang.Character.isJavaIdentifierPart
+5. java.lang.Character.getType

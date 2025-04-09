@@ -1,0 +1,1 @@
+System.Text.StringBuilder.Remove(int startIndex, int length)

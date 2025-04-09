@@ -1,0 +1,5 @@
+torch.nn.functional.relu  
+torch.relu  
+torch.nn.ReLU  
+torch.nn.modules.activation.ReLU  
+torch.nn.ReLU6

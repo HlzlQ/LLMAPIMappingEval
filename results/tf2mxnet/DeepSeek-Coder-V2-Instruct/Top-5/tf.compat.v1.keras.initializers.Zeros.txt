@@ -1,0 +1,2 @@
+
+Answer: glorot_uniform, random_normal, zeros, he_normal, he_uniform

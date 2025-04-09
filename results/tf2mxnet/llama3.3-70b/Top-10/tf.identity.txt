@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.identity`:
+
+1. mxnet.ndarray.identity
+2. mxnet.nd.Identity
+3. mxnet.gluon.nn.Identity
+4. mxnet.ndarray.copy
+5. mxnet.nd.Copy
+6. mxnet.gluon.nn.Copy
+7. mxnet.ndarray.alias
+8. mxnet.nd.Alias
+9. mxnet.gluon.nn.PassThrough
+10. mxnet.ndarray.stop_gradient

@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that correspond to `tensorflow.compat.v1.distribute.get_loss_reduction`:
+
+1. `torch.nn.functional.reduce_mean`
+2. `torch.nn.functional.reduce_sum`
+3. `torch.nn.functional.reduce_max`
+4. `torch.nn.functional.reduce_min`
+5. `torch.nn.functional.reduce_prod`

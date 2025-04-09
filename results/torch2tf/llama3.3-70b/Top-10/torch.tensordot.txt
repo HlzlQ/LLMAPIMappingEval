@@ -1,0 +1,12 @@
+Based on the PyTorch API `torch.tensordot`, here are the top 10 matching TensorFlow API names:
+
+1. tf.tensordot
+2. tf.matmul
+3. tf.einsum
+4. tf.reduce_sum
+5. tf.multiply
+6. tf.dot
+7. tf.contract
+8. tf.batch_matmul
+9. tf.linalg.matmul
+10. tf.linalg.tensordot

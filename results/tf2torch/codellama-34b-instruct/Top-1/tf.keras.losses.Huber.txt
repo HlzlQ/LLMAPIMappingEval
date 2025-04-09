@@ -1,0 +1,2 @@
+
+PyTorch equivalent of `tensorflow.keras.losses.Huber` is `torch.nn.SmoothL1Loss`.

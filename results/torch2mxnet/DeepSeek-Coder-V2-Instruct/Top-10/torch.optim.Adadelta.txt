@@ -1,0 +1,12 @@
+
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+
+# Example usage:
+# optimizer = mx.optimizer.Adadelta(learning_rate=0.1)
+```
+Answer: 1. `mx.optimizer.Adadelta`

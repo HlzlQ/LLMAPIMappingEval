@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.text.regularexpressions.groupcollection.getgroup` in C#:
+
+1. java.util.regex.Matcher.group()
+2. java.util.regex.Matcher.group(int)
+3. java.util.regex.Matcher.groupCount()
+4. java.util.regex.Matcher.start()
+5. java.util.regex.Matcher.end()

@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.hardsigmoid`:
+
+1. tf.keras.activations.hard_sigmoid
+2. tf.nn.hard_sigmoid
+3. tf.math.hard_sigmoid
+4. tf.keras.layers.HardSigmoid
+5. tf.compat.v1.keras.activations.hard_sigmoid
+6. tf.compat.v1.nn.hard_sigmoid
+7. tf.raw_ops.HardSigmoid
+8. tf.keras.backend.hard_sigmoid
+9. tf.math_ops.hard_sigmoid
+10. tf.keras.utils.get_activation('hard_sigmoid')

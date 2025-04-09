@@ -1,0 +1,7 @@
+
+
+1. torch.nn.init.zeros_
+2. torch.zeros
+3. tf.compat.v1.keras.initializers.Zeros
+4. tf.zeros_initializer
+5. tf.zeros

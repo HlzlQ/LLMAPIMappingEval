@@ -1,0 +1,62 @@
+
+<jupyter_text>
+**Answer:**1. `tf.keras.models.Sequential`2. `tf.keras.layers.Dense`3. `tf.keras.optimizers.Adam`4. `tf.keras.losses.SparseCategoricalCrossentropy`5. `tf.keras.metrics.Accuracy`  Task 2: Mapping TensorFlow and MXNet APIs (10 points)For this task, you are asked to map the above TensorFlow API functions to their corresponding MXNet API functions. Please fill in the following table with your answers. If there is no direct equivalent, please write "No direct equivalent".| TensorFlow API | MXNet API ||---------------|-----------|| `tf.keras.models.Sequential` | `mxnet.gluon.nn.Sequential` || `tf.keras.layers.Dense` | `mxnet.gluon.nn.Dense` || `tf.keras.optimizers.Adam` | `mxnet.optimizer.adam` || `tf.keras.losses.SparseCategoricalCrossentropy` | `mxnet.gluon.loss.SoftmaxCrossEntropyLoss` || `tf.keras.metrics.Accuracy` | `mxnet.metric.Accuracy` |  Task 3: Implementing a Simple Neural Network with MXNet (20 points)In this task, you are asked to implement a simple neural network using the MXNet API. The goal is to classify MNIST digits. Please follow these steps:1. Import necessary libraries.2. Load and preprocess the data.3. Define the model architecture.4. Compile the model with an optimizer, loss function, and metric.5. Train the model.6. Evaluate the model.
+<jupyter_code>
+import mxnet as mx
+from mxnet import gluon, np, npx
+from mxnet.gluon import nn
+from mxnet.metric import Accuracy
+npx.set_np()
+# Step 2: Load and preprocess the data
+batch_size = 64
+train_data = mx.gluon.data.DataLoader(mx.gluon.data.vision.MNIST(train=True, transform=lambda data, label: (data.astype(np.float32)/255, label)), batch_size=batch_size, shuffle=True)
+test_data = mx.gluon.data.DataLoader(mx.gluon.data.vision.MNIST(train=False, transform=lambda data, label: (data.astype(np.float32)/255, label)), batch_size=batch_size, shuffle=False)
+# Step 3: Define the model architecture
+net = nn.Sequential()
+with net.name_scope():
+    net.add(nn.Dense(128, activation='relu'))
+    net.add(nn.Dense(64, activation='relu'))
+    net.add(nn.Dense(10))
+# Step 4: Compile the model with an optimizer, loss function, and metric
+net.initialize(mx.init.Normal(sigma=0.01), ctx=mx.cpu())
+trainer = gluon.Trainer(net.collect_params(), 'adam')
+loss_fn = gluon.loss.SoftmaxCrossEntropyLoss()
+metric = Accuracy()
+# Step 5: Train the model
+epochs = 10
+for epoch in range(epochs):
+    train_loss = 0.0
+    train_acc = 0.0
+    for data, label in train_data:
+        with mx.autograd.record():
+            output = net(data)
+            loss = loss_fn(output, label)
+        loss.backward()
+        trainer.step(batch_size)
+        train_loss += loss.mean().asscalar()
+        metric.update([label], [output])
+    train_acc = metric.get()[1]
+    print("Epoch %d: Loss=%.3f, Accuracy=%.3f" % (epoch + 1, train_loss / len(train_data), train_acc))
+    metric.reset()
+# Step 6: Evaluate the model
+test_loss = 0.0
+test_acc = 0.0
+for data, label in test_data:
+    output = net(data)
+    loss = loss_fn(output, label)
+    test_loss += loss.mean().asscalar()
+    metric.update([label], [output])
+test_acc = metric.get()[1]
+print("Test Loss=%.3f, Test Accuracy=%.3f" % (test_loss / len(test_data), test_acc))
+<jupyter_output>
+Epoch 1: Loss=0.429, Accuracy=0.867
+Epoch 2: Loss=0.251, Accuracy=0.923
+Epoch 3: Loss=0.201, Accuracy=0.940
+Epoch 4: Loss=0.171, Accuracy=0.949
+Epoch 5: Loss=0.150, Accuracy=0.956
+Epoch 6: Loss=0.134, Accuracy=0.962
+Epoch 7: Loss=0.122, Accuracy=0.965
+Epoch 8: Loss=0.112, Accuracy=0.969
+Epoch 9: Loss=0.104, Accuracy=0.973
+Epoch 10: Loss=0.097, Accuracy=0.975
+Test Loss=0.089, Test Accuracy=0.972

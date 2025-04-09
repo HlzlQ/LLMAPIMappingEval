@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.losses.mean_squared_error`:
+
+1. mxnet.gluon.loss.L2Loss
+2. mxnet.ndarray.L2Normalization
+3. mxnet.gluon.loss.MSE
+4. mxnet.ndarray.mean_squared_error
+5. mxnet.gluon.loss.SquaredL2Norm
+6. mxnet.ndarray.sum_squares
+7. mxnet.gluon.loss.HuberLoss
+8. mxnet.ndarray.square
+9. mxnet.gluon.loss.Loss
+10. mxnet.ndarray.mean

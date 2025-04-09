@@ -1,0 +1,5 @@
+  The C# API `char.IsControl` can be mapped to the following Java API:
+
+* `Character.isISOControl(int codePoint)`
+
+This method returns a boolean indicating whether the specified character is a control character (unicode category "Cc").

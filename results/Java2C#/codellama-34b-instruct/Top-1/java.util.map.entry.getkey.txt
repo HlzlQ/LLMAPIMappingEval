@@ -1,0 +1,8 @@
+C# does not have an exact equivalent to the Java `Map.Entry` interface. However, you can use a `KeyValuePair<TKey, TValue>` struct in C# to achieve similar functionality. The `KeyValuePair` struct has two properties: `Key` and `Value`, which correspond to the `getKey()` and `getValue()` methods of the Java `Map.Entry` interface.
+
+Here is an example of how you can use a `KeyValuePair<TKey, TValue>` in C#:
+```
+var entry = new KeyValuePair<string, int>("key", 123);
+Console.WriteLine(entry.Key); // Output: "key"
+Console.WriteLine(entry.Value); // Output: 123
+```

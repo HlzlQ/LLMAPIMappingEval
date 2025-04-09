@@ -1,0 +1,2 @@
+
+Answer: average_pooling, conv2d, max_pooling, relu, transpose

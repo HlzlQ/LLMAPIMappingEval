@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.optim.Adam`:
+
+1. `tf.keras.optimizers.Adam`
+2. `tf.train.AdamOptimizer`
+3. `tf.contrib.opt.AdamOptimizer`
+4. `tf.keras.optimizers.SGD` with momentum and Nesterov acceleration
+5. `tf.train.GradientDescentOptimizer` with momentum and Nesterov acceleration
+6. `tf.contrib.opt.MomentumOptimizer`
+7. `tf.contrib.opt.NesterovAcceleratedGradientOptimizer`
+8. `tf.keras.optimizers.RMSprop`
+9. `tf.train.RMSPropOptimizer`
+10. `tf.contrib.opt.RMSPropOptimizer`

@@ -1,0 +1,10 @@
+cntk.layers.MaxPooling
+cntk.ops.max_pooling
+cntk.layers.pooling
+cntk.layers.reduce_max
+cntk.ops.reduce_max
+cntk.layers.convolutional.max_pooling
+cntk.layers.sequence.max_pooling
+cntk.layers.recurrent.max_pooling
+cntk.layers.dynamic_axis.max_pooling
+cntk.layers.static_axis.max_pooling

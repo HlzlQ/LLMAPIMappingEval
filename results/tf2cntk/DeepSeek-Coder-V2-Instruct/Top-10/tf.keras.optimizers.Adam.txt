@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.learners.adam
+2. cntk.optimizers.adam
+3. cntk.train.adam
+4. cntk.trainer.adam
+5. cntk.learner.adam
+6. cntk.optimizer.adam
+7. cntk.training_session.adam
+8. cntk.trainers.adam
+9. cntk.learners.sgd
+10. cntk.optimizers.sgd

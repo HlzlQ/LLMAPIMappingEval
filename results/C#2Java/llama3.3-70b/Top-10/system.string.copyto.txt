@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.copyto` in C#:
+
+1. java.lang.String.copyValueOf
+2. java.lang.String.getChars
+3. java.lang.String.substring
+4. java.lang.String.valueOf
+5. java.nio.charset.CharsetDecoder.decode
+6. java.nio.ByteBuffer.getChar
+7. java.io.InputStreamReader.read
+8. java.io.BufferedReader.readLine
+9. java.util.regex.Matcher.group
+10. java.text.BreakIterator.next

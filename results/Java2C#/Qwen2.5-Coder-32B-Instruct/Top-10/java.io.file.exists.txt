@@ -1,0 +1,10 @@
+System.IO.File.Exists  
+System.IO.Directory.Exists  
+System.IO.Path.GetFullPath  
+System.IO.Path.GetFileName  
+System.IO.Path.GetDirectoryName  
+System.IO.Path.Combine  
+System.IO.File.ReadAllText  
+System.IO.File.WriteAllText  
+System.IO.File.ReadAllBytes  
+System.IO.File.WriteAllBytes

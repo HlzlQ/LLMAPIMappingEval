@@ -1,0 +1,2 @@
+java.net.InetAddress.getByName
+java.nio.channels.DatagramChannel.resolve

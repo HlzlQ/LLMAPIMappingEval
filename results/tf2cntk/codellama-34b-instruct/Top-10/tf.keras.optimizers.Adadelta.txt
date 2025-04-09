@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.Adadelta`:
+
+1. `cntk.learners.adadelta`
+2. `cntk.learners.delta_rule`
+3. `cntk.learners.adaptive_learning_rate`
+4. `cntk.learners.adagrad`
+5. `cntk.learners.rmsprop`
+6. `cntk.learners.sgd`
+7. `cntk.learners.momentum_sgd`
+8. `cntk.learners.nesterov_accelerated_gradient`
+9. `cntk.learners.adam`
+10. `cntk.learners.adamax`

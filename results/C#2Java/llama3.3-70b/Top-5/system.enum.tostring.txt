@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.enum.tostring` in C#:
+
+1. java.lang.Enum.toString()
+2. java.lang.Object.toString()
+3. java.util.EnumSet.toString()
+4. java.util.Enums.toString()
+5. java.lang.Class.getEnumConstants()

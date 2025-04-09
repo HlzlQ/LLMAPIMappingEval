@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.LayerNorm`:
+
+1. `LayerNormalization`
+2. `BatchNormalization`
+3. `InstanceNormalization`
+4. `GroupNormalization`
+5. `Normalize`
+6. `Scale`
+7. `LayerNormOp`
+8. `BatchNormOp`
+9. `NormalizeLayer`
+10. `LayerNormalizationOp`

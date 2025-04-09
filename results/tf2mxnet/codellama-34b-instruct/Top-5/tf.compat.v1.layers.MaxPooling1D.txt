@@ -1,0 +1,10 @@
+
+Here are five possible MXNet APIs that can be used for max pooling in 1D:
+
+* `mxnet.ndarray.max_pooling_1d`
+* `mxnet.ndarray.MaxPooling1D`
+* `mxnet.ndarray.max_pooling_2d` (with a kernel size of 1)
+* `mxnet.ndarray.MaxPooling2D` (with a kernel size of 1)
+* `mxnet.ndarray.max_pooling_3d` (with a kernel size of 1)
+
+Note that the first three APIs are for max pooling in 1D, while the last two are for max pooling in 2D and 3D, respectively. The `MaxPooling1D` API is a convenience wrapper around the `max_pooling_1d` function, and the `MaxPooling2D` and `MaxPooling3D` APIs are similar wrappers for the corresponding functions.

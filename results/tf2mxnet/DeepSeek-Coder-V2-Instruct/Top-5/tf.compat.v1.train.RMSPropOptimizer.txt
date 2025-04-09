@@ -1,0 +1,9 @@
+
+```python
+import mxnet as mx
+from mxnet import gluon
+from mxnet.gluon import nn
+
+# Example usage:
+# optimizer = mx.optimizer.RMSProp()
+```

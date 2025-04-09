@@ -1,0 +1,5 @@
+1. System.Net.WebUtility.UrlEncode
+2. System.Uri.EscapeDataString
+3. System.Web.HttpUtility.UrlEncode
+4. System.Text.Encodings.Web.UrlEncoder.Default.Encode
+5. System.Net.Http.Formatting.Utilities.UrlEncode

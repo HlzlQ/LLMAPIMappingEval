@@ -1,0 +1,5 @@
+1. System.Security.Cryptography.HashAlgorithm.Reset
+2. System.Security.Cryptography.MD5.Reset
+3. System.Security.Cryptography.SHA1.Reset
+4. System.Security.Cryptography.SHA256.Reset
+5. System.Security.Cryptography.SHA512.Reset

@@ -1,0 +1,5 @@
+1. tfd.Dirichlet
+2. tf.keras.layers.Dense 
+3. tfp.distributions.Dirichlet
+4. tf.random.dirichlet
+5. tfp.distributions.RelaxedOneHotCategorical

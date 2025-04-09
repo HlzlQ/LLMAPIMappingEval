@@ -1,0 +1,6 @@
+
+Answer: - cntk.ops.element_times
+- cntk.ops.reduce_sum
+- cntk.ops.plus
+- cntk.ops.reshape
+- cntk.ops.transpose

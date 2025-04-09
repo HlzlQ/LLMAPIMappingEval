@@ -1,0 +1,5 @@
+System.Text.Encoding.GetBytes  
+System.Text.UTF8Encoding.GetBytes  
+System.Text.UnicodeEncoding.GetBytes  
+System.Text.ASCIIEncoding.GetBytes  
+System.Text.Latin1Encoding.GetBytes

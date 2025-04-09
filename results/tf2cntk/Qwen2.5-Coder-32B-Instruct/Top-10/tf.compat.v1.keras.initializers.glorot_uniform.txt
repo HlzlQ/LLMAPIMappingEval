@@ -1,0 +1,10 @@
+cntk.initializer.he_normal
+cntk.initializer.glorot_uniform
+cntk.initializer.normal
+cntk.initializer.uniform
+cntk.initializer.xavier_uniform
+cntk.initializer.he_uniform
+cntk.initializer.gaussian
+cntk.initializer.uniform_scale
+cntk.initializer.orthogonal
+cntk.initializer.sparse_random_matrix

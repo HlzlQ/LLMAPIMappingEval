@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functions to `tensorflow.keras.layers.PReLU`:
+
+1. CNTK.LeakyReLUBatchNormalization
+2. CNTK.ParametricReLULayer
+3. CNTK.LeakyReLU
+4. CNTK.PReluLayer
+5. CNTK.ReLU
+6. CNTK.Sigmoid
+7. CNTK.Tanh
+8. CNTK.HardTanh
+9. CNTK.ElseLayer
+10. CNTK.ElementTimesLayer

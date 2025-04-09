@@ -1,0 +1,5 @@
+1. System.Net.Dns.GetHostName
+2. System.Environment.MachineName
+3. System.Net.IPHostEntry.HostName
+4. System.Net.Dns.GetHostEntry
+5. System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties().HostName

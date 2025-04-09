@@ -1,0 +1,8 @@
+
+
+### Answer:
+1. mxnet.gluon.loss.HingeEmbeddingLoss
+2. mxnet.ndarray.contrib.hinge_embedding_loss
+3. mxnet.symbol.contrib.hinge_embedding_loss
+4. mxnet.image.contrib.hinge_embedding_loss
+5. mxnet.vision.contrib.hinge_embedding_loss

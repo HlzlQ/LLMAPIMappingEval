@@ -1,0 +1,12 @@
+  tf.compat.v1.train.AdagradOptimizer is a TensorFlow API for implementing the Adagrad optimization algorithm. Here are ten MXNet APIs that have similar functions:
+
+1. mxnet.optimizer.AdaGrad
+2. mxnet.optimizer.AdaGradOptimizer
+3. mxnet.optimizer.Adagrad
+4. mxnet.optimizer.AdagradOptimizer
+5. mxnet.optimizer.AdagradSGD
+6. mxnet.optimizer.AdagradSGDOptimizer
+7. mxnet.optimizer.AdaGradSGD
+8. mxnet.optimizer.AdaGradSGDOptimizer
+9. mxnet.optimizer.AdagradMomentum
+10. mxnet.optimizer.AdagradMomentumOptimizer

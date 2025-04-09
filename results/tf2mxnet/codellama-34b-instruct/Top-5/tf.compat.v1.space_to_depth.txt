@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for space-to-depth conversion:
+
+1. `mxnet.ndarray.space_to_depth`
+2. `mxnet.ndarray.depth_to_space`
+3. `mxnet.ndarray.reshape`
+4. `mxnet.ndarray.transpose`
+5. `mxnet.ndarray.permute`

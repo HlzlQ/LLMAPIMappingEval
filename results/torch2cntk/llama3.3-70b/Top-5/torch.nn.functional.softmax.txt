@@ -1,0 +1,5 @@
+1. cntk.softmax
+2. cntk.softmax_axis
+3. cntk.reduce_softmax
+4. cntk.cross_entropy_with_softmax
+5. cntk.softmax_cross_entropy_with_logits

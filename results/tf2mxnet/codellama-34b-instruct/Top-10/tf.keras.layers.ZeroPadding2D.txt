@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for zero-padding a 2D tensor:
+
+1. `mxnet.ndarray.pad`
+2. `mxnet.ndarray.zero_pad`
+3. `mxnet.ndarray.pad_zeros`
+4. `mxnet.ndarray.pad_constant`
+5. `mxnet.ndarray.pad_reflect`
+6. `mxnet.ndarray.pad_replicate`
+7. `mxnet.ndarray.pad_wrap`
+8. `mxnet.ndarray.pad_edge`
+9. `mxnet.ndarray.pad_linear_ramp`
+10. `mxnet.ndarray.pad_constant_value`

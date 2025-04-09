@@ -1,0 +1,7 @@
+Based on the functionality of `tensorflow.compat.v1.space_to_depth`, here are 5 possible equivalent PyTorch APIs:
+
+1. torch.nn.PixelShuffle
+2. torch.nn.functional.pixel_shuffle
+3. torch.tensor.view
+4. torch.reshape
+5. torch.permute

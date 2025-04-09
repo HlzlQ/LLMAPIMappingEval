@@ -1,0 +1,11 @@
+
+"""
+
+# Answer:
+"""
+1. torch.nn.init.normal_
+2. torch.randn
+3. torch.Tensor.normal_
+4. torch.distributions.Normal
+5. torch.nn.Parameter
+"""

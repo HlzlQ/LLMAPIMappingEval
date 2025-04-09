@@ -1,0 +1,5 @@
+java.text.DecimalFormatSymbols.getDecimalSeparator  
+java.text.NumberFormat.getInstance().getDecimalFormatSymbols().getDecimalSeparator  
+java.util.Locale.getDefault().getDecimalSeparator()  
+java.text.DecimalFormat.getDecimalFormatSymbols().getDecimalSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.getDefault()).getDecimalSeparator

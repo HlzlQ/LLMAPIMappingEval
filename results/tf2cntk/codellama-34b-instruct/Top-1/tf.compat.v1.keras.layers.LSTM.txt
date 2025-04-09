@@ -1,0 +1,26 @@
+
+CNTK does not have an exact equivalent of the `LSTM` layer in TensorFlow. However, you can use the `Recurrence` layer to create a similar LSTM-like architecture. Here's an example:
+```csharp
+using CNTK;
+
+// Define the input and output shapes
+var inputShape = new int[] { 10 }; // 10 timesteps, each with a vector of size 10
+var outputShape = new int[] { 20 }; // 20 timesteps, each with a vector of size 20
+
+// Define the LSTM layer
+var lstmLayer = CNTK.Recurrence(inputShape, outputShape, (x) => {
+    var c = CNTK.Variable(CNTK.ConstantInitializer(), shape: new int[] { 1 });
+    var h = CNTK.Variable(CNTK.ConstantInitializer(), shape: new int[] { 1 });
+    return (x, c, h);
+}, (x, c, h) => {
+    // LSTM cell
+    var i = CNTK.Sigmoid(CNTK.DotProduct(x, CNTK.ConstantInitializer()));
+    var f = CNTK.Sigmoid(CNTK.DotProduct(h, CNTK.ConstantInitializer()));
+    var o = CNTK.Sigmoid(CNTK.DotProduct(x, CNTK.ConstantInitializer()));
+    var g = CNTK.Tanh(CNTK.DotProduct(x, CNTK.ConstantInitializer()));
+    return (i * f + o * g) * h;
+});
+```
+In this example, the `Recurrence` layer is used to create an LSTM-like architecture with a single layer. The `inputShape` and `outputShape` parameters define the input and output shapes of the layer, respectively. The `(x) => { ... }` lambda function defines the initial state of the LSTM cell, while the `(x, c, h) => { ... }` lambda function defines the LSTM cell itself.
+
+Note that this is just one possible way to implement an LSTM layer in CNTK, and there may be other ways to do it as well.

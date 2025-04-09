@@ -1,0 +1,10 @@
+System.DateTimeOffset.TimeOfDay  
+System.DateTime.TimeOfDay  
+System.DateTimeOffset.ToLocalTime  
+System.DateTimeToLocalTimeExtensions.ToLocalTime  
+NodaTime.LocalDateTime.ToLocalTime  
+NpgsqlTypes.NpgsqlDateTime.ToLocalTime  
+NHibernate.Type.DateTimeType.ToLocalTime  
+EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDateTimeTypeMapping.ToLocalTime  
+Microsoft.EntityFrameworkCore.Storage.ValueConversion.DateTimeToTicksConverter.ToLocalTime  
+System.TimeZoneInfo.ConvertTimeToLocal

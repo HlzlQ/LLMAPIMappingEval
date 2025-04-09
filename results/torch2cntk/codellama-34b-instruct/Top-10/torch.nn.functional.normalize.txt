@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.normalize`:
+
+1. `cntk.layers.normalization.Normalization`
+2. `cntk.layers.normalization.BatchNormalization`
+3. `cntk.layers.normalization.InstanceNormalization`
+4. `cntk.layers.normalization.LayerNormalization`
+5. `cntk.layers.normalization.GroupNormalization`
+6. `cntk.layers.normalization.WeightNormalization`
+7. `cntk.layers.normalization.BiasNormalization`
+8. `cntk.layers.normalization.ScaleNormalization`
+9. `cntk.layers.normalization.ShiftNormalization`
+10. `cntk.layers.normalization.PowerNormalization`

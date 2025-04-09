@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for LSTM layers:
+
+1. `cntk.layers.LSTM`
+2. `cntk.layers.RecurrentLSTM`
+3. `cntk.layers.SequentialLSTM`
+4. `cntk.layers.BidirectionalLSTM`
+5. `cntk.layers.StackedLSTM`
+6. `cntk.layers.MultiLayerLSTM`
+7. `cntk.layers.LSTMWithAttention`
+8. `cntk.layers.LSTMWithSelfAttention`
+9. `cntk.layers.LSTMWithCrossAttention`
+10. `cntk.layers.LSTMWithMultiHeadAttention`

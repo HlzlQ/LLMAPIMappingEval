@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.globalization.numberformatinfo.verifydecimalseparator` in C#:
+
+1. java.text.DecimalFormatSymbols.getDecimalSeparator()
+2. java.text.NumberFormat.getDecimalSeparator()
+3. java.util.Locale.getDefault().getNumberFormat().getDecimalSeparator()
+4. java.text.DecimalFormat.getDecimalSeparator()
+5. javax.measure.Format.getDecimalSeparator()
+6. org.apache.commons.lang3.math.NumberUtils.getDecimalSeparator()
+7. com.ibm.icu.text.DecimalFormatSymbols.getDecimalSeparator()
+8. java.awt.FontMetrics.getDecimalSeparator()
+9. org.springframework.format.number.DecimalFormatter.getDecimalSeparator()
+10. com.google.common.math.DecimalFormatSymbols.getDecimalSeparator()

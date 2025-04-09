@@ -1,0 +1,10 @@
+java.util.ArrayList.toArray
+java.util.Arrays.copyOf
+java.util.Arrays.copyOfRange
+java.lang.System.arraycopy
+java.util.Collections.copy
+java.util.List.subList
+java.util.List.addAll
+java.util.List.ensureCapacity
+java.util.ArrayList.trimToSize
+java.util.ArrayList.clear

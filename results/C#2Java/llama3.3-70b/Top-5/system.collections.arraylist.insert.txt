@@ -1,0 +1,5 @@
+1. java.util.ArrayList.add
+2. java.util.List.add
+3. java.util.Collection.add
+4. java.util.ArrayList.addAll
+5. java.util.List.addAll

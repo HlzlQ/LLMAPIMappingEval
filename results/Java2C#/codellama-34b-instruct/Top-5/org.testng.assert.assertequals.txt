@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the Java API `org.testng.assert.assertequals`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual`
+2. `NUnit.Framework.Assert.AreEqual`
+3. `xunit.assert.equal`
+4. `FluentAssertions.AssertionExtensions.ShouldBeEquivalentTo`
+5. `NSubstitute.Received.InOrder`

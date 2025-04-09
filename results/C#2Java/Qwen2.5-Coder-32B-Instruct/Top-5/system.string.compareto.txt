@@ -1,0 +1,5 @@
+java.lang.String.compareTo
+java.lang.String.compareToIgnoreCase
+java.nio.file.Path.compareTo
+java.math.BigInteger.compareTo
+java.math.BigDecimal.compareTo

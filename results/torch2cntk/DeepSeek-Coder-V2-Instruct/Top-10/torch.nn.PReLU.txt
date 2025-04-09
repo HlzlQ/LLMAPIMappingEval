@@ -1,0 +1,15 @@
+
+"""
+
+cntk_apis = [
+    "relu",
+    "sigmoid",
+    "tanh",
+    "elu",
+    "leaky_relu",
+    "softmax",
+    "batch_normalization",
+    "dropout",
+    "flatten",
+    "convolution"
+]

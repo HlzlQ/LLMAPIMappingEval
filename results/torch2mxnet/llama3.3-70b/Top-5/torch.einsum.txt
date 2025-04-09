@@ -1,0 +1,7 @@
+Based on the functionality of `torch.einsum`, here are 5 MXNet APIs that may have similar functions:
+
+1. `mx.nd.einsum`
+2. `mx.ndarray.einsum`
+3. `mx.sym.einsum`
+4. `mx gluon.nn.functional.einsum`
+5. `mx.gluon.utils.einsum`

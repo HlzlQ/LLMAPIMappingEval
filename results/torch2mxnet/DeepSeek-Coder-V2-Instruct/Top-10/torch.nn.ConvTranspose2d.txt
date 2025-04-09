@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. torch.nn.functional.conv_transpose2d
+2. mxnet.ndarray.Convolution
+3. mxnet.symbol.Deconvolution
+4. mxnet.gluon.nn.Conv2DTranspose
+5. mxnet.image.contrib.Deconvolution
+6. mxnet.gluon.nn.Conv1DTranspose
+7. mxnet.gluon.nn.Conv3DTranspose
+8. mxnet.ndarray.Deconvolution
+9. mxnet.symbol.Convolution
+10. mxnet.image.contrib.Conv2DTranspose

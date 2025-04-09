@@ -1,0 +1,10 @@
+System.Array.Sort
+System.Collections.Generic.List<T>.Sort
+System.Linq.Enumerable.OrderBy
+System.Linq.Enumerable.OrderByDescending
+System.Collections.ArrayList.Sort
+System.Collections.Generic.SortedList<TKey,TValue>
+System.Collections.Generic.SortedDictionary<TKey,TValue>
+System.Collections.Concurrent.BlockingCollection<T>.TryTake
+System.Collections.Concurrent.PriorityQueue<TElement,TPriority>.Enqueue
+System.Collections.Concurrent.ConcurrentPriorityQueue<TElement,TPriority>.Dequeue

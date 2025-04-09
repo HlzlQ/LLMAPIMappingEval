@@ -1,0 +1,10 @@
+tf.nn.softmax  
+tf.keras.layers.Softmax  
+tf.math.softmax  
+tf.raw_ops.Softmax  
+tf.compat.v1.nn.softmax  
+tf.compat.v2.nn.softmax  
+tf.compat.v1.math.softmax  
+tf.compat.v2.math.softmax  
+tf.nn.log_softmax  
+tf.keras.activations.softmax

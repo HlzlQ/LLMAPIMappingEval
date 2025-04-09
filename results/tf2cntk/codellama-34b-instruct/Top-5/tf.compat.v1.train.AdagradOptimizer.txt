@@ -1,0 +1,6 @@
+
+* `cntk.learners.adagrad`
+* `cntk.learners.adagrad_with_momentum`
+* `cntk.learners.adagrad_with_nesterov_momentum`
+* `cntk.learners.adagrad_with_rmsprop`
+* `cntk.learners.adagrad_with_rmsprop_and_momentum`

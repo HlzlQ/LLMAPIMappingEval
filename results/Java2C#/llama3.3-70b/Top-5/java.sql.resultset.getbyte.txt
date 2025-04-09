@@ -1,0 +1,5 @@
+1. System.Data.SqlClient.SqlDataReader.GetByte
+2. System.Data.Common.DbDataReader.GetByte
+3. Microsoft.Data.SqlClient.SqlDataReader.GetByte
+4. System.Data.Odbc.OdbcDataReader.GetByte
+5. System.Data.OleDb.OleDbDataReader.GetByte

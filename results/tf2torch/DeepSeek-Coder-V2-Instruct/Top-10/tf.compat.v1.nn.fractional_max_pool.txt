@@ -1,0 +1,12 @@
+
+
+1. FractionalMaxPool2d
+2. MaxPool2d
+3. AvgPool2d
+4. AdaptiveMaxPool2d
+5. AdaptiveAvgPool2d
+6. Conv2d
+7. Linear
+8. BatchNorm2d
+9. Dropout
+10. ReLU

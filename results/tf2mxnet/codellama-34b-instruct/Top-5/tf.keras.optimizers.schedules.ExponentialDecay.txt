@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for exponential decay:
+
+1. `mxnet.optimizer.ExponentialDecay`: This is a built-in optimizer in MXNet that implements the exponential decay algorithm. It takes the initial learning rate, decay rate, and decay steps as input parameters.
+2. `mxnet.optimizer.StepLR`: This is another built-in optimizer in MXNet that implements the step learning rate schedule. It takes the initial learning rate, step size, and gamma (decay factor) as input parameters.
+3. `mxnet.optimizer.ExponentialLR`: This is a custom optimizer implemented in MXNet that uses an exponential decay schedule. It takes the initial learning rate, decay rate, and decay steps as input parameters.
+4. `mxnet.optimizer.CosineAnnealingLR`: This is a built-in optimizer in MXNet that implements the cosine annealing schedule. It takes the initial learning rate, decay rate, and decay steps as input parameters.
+5. `mxnet.optimizer.PolyLR`: This is a custom optimizer implemented in MXNet that uses a polynomial decay schedule. It takes the initial learning rate, decay rate, and decay steps as input parameters.

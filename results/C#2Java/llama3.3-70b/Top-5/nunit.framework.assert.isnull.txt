@@ -1,0 +1,5 @@
+1. org.junit.Assert.assertNull
+2. org.hamcrest.MatcherAssert.isNull
+3. org.junit.jupiter.api.Assertions.isNull
+4. org.junit.Assert.assertNotNull
+5. org.junit.jupiter.api.Assertions.assertNotNull

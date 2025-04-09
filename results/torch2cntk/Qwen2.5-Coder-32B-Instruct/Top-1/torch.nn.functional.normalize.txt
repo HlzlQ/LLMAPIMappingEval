@@ -1,0 +1,1 @@
+cntk.ops.normalize

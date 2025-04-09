@@ -1,0 +1,10 @@
+1. tf.keras.layers.SimpleRNNCell
+2. tf.nn.rnn_cell.BasicRNNCell
+3. tf.compat.v1.nn.rnn_cell.BasicRNNCell
+4. tf.keras.layers.LSTMCell
+5. tf.nn.rnn_cell.LSTMCell
+6. tf.compat.v1.nn.rnn_cell.LSTMCell
+7. tf.keras.layers.GRUCell
+8. tf.nn.rnn_cell.GRUCell
+9. tf.compat.v1.nn.rnn_cell.GRUCell
+10. tf.keras.layers.RNN

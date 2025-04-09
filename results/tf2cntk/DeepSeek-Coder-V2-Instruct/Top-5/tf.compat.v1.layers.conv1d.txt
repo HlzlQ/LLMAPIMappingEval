@@ -1,0 +1,6 @@
+
+Answer: 1. cntk.layers.Convolution1D
+2. cntk.ops.convolution
+3. cntk.ops.times_transpose
+4. cntk.ops.cross_entropy_with_softmax
+5. cntk.ops.reduce_mean

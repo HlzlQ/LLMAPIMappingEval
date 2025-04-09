@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.no_grad`:
+
+1. `mxnet.autograd.no_grad()`
+2. `mxnet.autograd.disable_gradients()`
+3. `mxnet.autograd.set_gradients(False)`
+4. `mxnet.autograd.freeze_gradients()`
+5. `mxnet.autograd.stop_gradient()`
+6. `mxnet.autograd.disable_backprop()`
+7. `mxnet.autograd.set_backprop(False)`
+8. `mxnet.autograd.freeze_backprop()`
+9. `mxnet.autograd.stop_backprop()`
+10. `mxnet.autograd.disable_gradients_and_backprop()`

@@ -1,0 +1,3 @@
+
+* `torch.nn.functional.mse_loss` is a PyTorch API for calculating the mean squared error (MSE) between two tensors.
+* The equivalent CNTK API for MSE calculation is `cntk.ops.mse`.

@@ -1,0 +1,5 @@
+1. java.io.BufferedReader.close
+2. java.io.FileReader.close
+3. java.io.InputStreamReader.close
+4. java.io.FileInputStream.close
+5. java.io.InputStream.close

@@ -1,0 +1,5 @@
+1. java.net.HttpURLConnection.getInputStream
+2. java.net.URL.openStream
+3. java.io.InputStream.read
+4. org.apache.http.client.methods.CloseableHttpResponse.getEntity.getContent
+5. okhttp3.Response.body.source

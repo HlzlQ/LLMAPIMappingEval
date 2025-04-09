@@ -1,0 +1,10 @@
+cntk.random.normal
+cntk.random.uniform
+cntk.distributions.normal
+cntk.distributions.uniform
+cntk.ops.random_sample
+cntk.ops.random_uniform
+cntk.random.sample_normal
+cntk.random.sample_uniform
+cntk.distributions.sample_normal
+cntk.distributions.sample_uniform

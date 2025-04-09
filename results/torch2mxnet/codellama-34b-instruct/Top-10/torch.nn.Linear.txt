@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Linear | mxnet.gluon.nn.Dense |
+  | torch.nn.ReLU | mxnet.gluon.nn.Activation |
+  | torch.nn.Conv2d | mxnet.gluon.nn.Conv2D |
+  | torch.nn.MaxPool2d | mxnet.gluon.nn.MaxPool2D |
+  | torch.nn.Flatten | mxnet.gluon.nn.Flatten |
+  | torch.nn.Dropout | mxnet.gluon.nn.Dropout |
+  | torch.nn.BatchNorm2d | mxnet.gluon.nn.BatchNorm |
+  | torch.nn.Embedding | mxnet.gluon.nn.Embedding |
+  | torch.nn.LSTM | mxnet.gluon.rnn.LSTM |
+  | torch.nn.GRU | mxnet.gluon.rnn.GRU |

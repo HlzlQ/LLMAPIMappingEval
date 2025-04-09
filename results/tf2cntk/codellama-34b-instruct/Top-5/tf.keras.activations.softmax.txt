@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.softmax`:
+
+1. `cntk.layers.Softmax`
+2. `cntk.layers.Activation(cntk.ops.softmax)`
+3. `cntk.layers.Dense(cntk.ops.softmax)`
+4. `cntk.layers.Sequential([cntk.layers.Dense(1), cntk.layers.Softmax()])`
+5. `cntk.layers.Lambda(lambda x: cntk.ops.softmax(x))`

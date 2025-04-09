@@ -1,0 +1,10 @@
+1. System.Char.IsControl
+2. System.String.IsNullOrWhiteSpace
+3. System.String.IsNullOrEmpty
+4. System.Text.StringBuilder.Length
+5. System.Text.StringBuilder.Capacity
+6. System.Text.StringBuilder.Append
+7. System.Text.StringBuilder.Insert
+8. System.Text.StringBuilder.Remove
+9. System.Text.StringBuilder.Replace
+10. System.String.Trim

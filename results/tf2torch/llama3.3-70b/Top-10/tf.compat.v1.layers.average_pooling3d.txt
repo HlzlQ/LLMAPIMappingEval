@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.layers.average_pooling3d`:
+
+1. torch.nn.AvgPool3d
+2. torch.nn.functional.avg_pool3d
+3. torch.nn.modules.pooling.AvgPool3d
+4. torch.nn.functional.adaptive_avg_pool3d
+5. torch.nn.AdaptiveAvgPool3d
+6. torch.nn.modules.pooling.AdaptiveAvgPool3d
+7. torch.nn.functional.lp_pool3d
+8. torch.nn.LPPool3d
+9. torch.nn.modules.pooling.LPPool3d
+10. torch.nn.functional.avg_pool3d_with_indices

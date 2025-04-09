@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for flattening a tensor:
+
+1. `mxnet.ndarray.flatten()`
+2. `mxnet.ndarray.reshape()`
+3. `mxnet.ndarray.squeeze()`
+4. `mxnet.ndarray.expand_dims()`
+5. `mxnet.ndarray.transpose()`

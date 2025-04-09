@@ -1,0 +1,10 @@
+java.lang.String.valueOf
+java.lang.Integer.toString
+java.lang.Double.toString
+java.lang.Float.toString
+java.lang.Long.toString
+java.lang.Short.toString
+java.lang.Byte.toString
+java.lang.Boolean.toString
+java.lang.Character.toString
+java.util.Objects.toString

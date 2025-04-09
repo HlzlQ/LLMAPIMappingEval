@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for pixel unshuffling:
+
+1. `tf.nn.depth_to_space`
+2. `tf.nn.pixel_unshuffle`
+3. `tf.nn.space_to_depth`
+4. `tf.nn.depth_to_space_with_crop`
+5. `tf.nn.space_to_depth_with_pad`
+6. `tf.nn.pixel_unshuffle_with_padding`
+7. `tf.nn.pixel_unshuffle_with_cropping`
+8. `tf.nn.pixel_unshuffle_with_upsampling`
+9. `tf.nn.pixel_unshuffle_with_downsampling`
+10. `tf.nn.pixel_unshuffle_with_pooling`

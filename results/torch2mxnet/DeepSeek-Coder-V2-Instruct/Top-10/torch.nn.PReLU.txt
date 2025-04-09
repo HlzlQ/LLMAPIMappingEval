@@ -1,0 +1,16 @@
+
+
+## 解题答案
+
+以下是与PyTorch中的`PReLU`函数相对应的MXNet API：
+
+1. `mxnet.ndarray.LeakyReLU`
+2. `mxnet.symbol.LeakyReLU`
+3. `mxnet.gluon.nn.LeakyReLU`
+4. `mxnet.ndarray.Activation` with `act_type='prelu'`
+5. `mxnet.symbol.Activation` with `act_type='prelu'`
+6. `mxnet.gluon.nn.PReLU`
+7. `mxnet.ndarray.Prelu`
+8. `mxnet.symbol.Prelu`
+9. `mxnet.gluon.nn.LeakyReLU`
+10. `mxnet.ndarray.Activation` with `act_type='leaky_relu'`

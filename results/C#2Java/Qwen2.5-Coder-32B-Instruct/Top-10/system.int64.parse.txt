@@ -1,0 +1,10 @@
+java.lang.Long.parseLong
+java.lang.Long.valueOf
+java.math.BigInteger.valueOf
+java.nio.file.attribute.FileTime.fromMillis
+java.time.Instant.ofEpochMilli
+java.time.Duration.ofMillis
+java.util.concurrent.TimeUnit.MILLISECONDS.toSeconds
+java.util.concurrent.TimeUnit.MILLISECONDS.toMinutes
+java.util.concurrent.TimeUnit.MILLISECONDS.toHours
+java.util.concurrent.TimeUnit.MILLISECONDS.toDays

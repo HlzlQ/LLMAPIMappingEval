@@ -1,0 +1,5 @@
+tf.keras.optimizers.Adadelta  
+tf.train.AdadeltaOptimizer  
+tf.compat.v1.train.AdadeltaOptimizer  
+tf.keras.optimizers.schedules.ExponentialDecay  
+tf.keras.optimizers.Adamax

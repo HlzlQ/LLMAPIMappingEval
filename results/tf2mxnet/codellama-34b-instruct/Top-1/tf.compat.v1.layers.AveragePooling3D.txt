@@ -1,0 +1,13 @@
+
+MXNet does not have a direct equivalent of `tensorflow.compat.v1.layers.AveragePooling3D`. However, you can use the `mxnet.ndarray.pooling` module to perform average pooling on 3D arrays. Specifically, you can use the `avg_pool3d` function to perform average pooling with a 3x3x3 window and stride of 2.
+
+Here's an example:
+```
+import mxnet as mx
+
+# Create a random 3D array
+data = mx.nd.random.normal(shape=(1, 3, 4, 5, 6))
+
+# Perform average pooling with a 3x3x3 window and stride of 2
+pooled_data = mx.nd.pooling.avg_pool3d(data, kernel_size=3, stride=2)
+```

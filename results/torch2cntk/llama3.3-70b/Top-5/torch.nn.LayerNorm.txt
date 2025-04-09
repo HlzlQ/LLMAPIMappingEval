@@ -1,0 +1,5 @@
+1. LayerNormalization
+2. BatchNormalization
+3. InstanceNormalization
+4. GroupNormalization
+5. NormalizeLayer

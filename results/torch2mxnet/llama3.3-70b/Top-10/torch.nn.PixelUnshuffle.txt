@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that may have similar functionality to PyTorch's `torch.nn.PixelUnshuffle`:
+
+1. mxnet.ndarray.reshape
+2. mxnet.ndarray.transpose
+3. mxnet.gluon.nn.PixelShuffle
+4. mxnet.gluon.nn.Conv2DTranspose
+5. mxnet.ndarray.swapaxes
+6. mxnet.gluon.nn.Upsample
+7. mxnet.ndarray.reshape_like
+8. mxnet.gluon.nn.Deconv2D
+9. mxnet.ndarray.permute
+10. mxnet.gluon.nn.HybridSequential

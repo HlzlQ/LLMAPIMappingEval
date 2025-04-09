@@ -1,0 +1,7 @@
+java.util.ArrayList.setRange() does not exist. However, a similar function can be found in 
+java.util.Collections.fill() or java.util.Arrays.fill(), but the closest match would be 
+java.util.List.setAll() for Java 8 and above, or 
+java.util.ArrayList.set() in a loop for versions prior to Java 8.
+
+But if we are looking at setting a range of values in an ArrayList, then it is more likely 
+java.util.ArrayList.replaceAll().

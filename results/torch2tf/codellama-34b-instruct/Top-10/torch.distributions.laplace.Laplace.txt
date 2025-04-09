@@ -1,0 +1,13 @@
+
+Here are ten TensorFlow APIs that correspond to the PyTorch Laplace distribution:
+
+1. `tf.distributions.Laplace`
+2. `tf.distributions.laplace.Laplace`
+3. `tf.distributions.laplace.LaplaceWithSoftplusScale`
+4. `tf.distributions.laplace.LaplaceWithSoftplusLoc`
+5. `tf.distributions.laplace.LaplaceWithSoftplusScaleAndShift`
+6. `tf.distributions.laplace.LaplaceWithSoftplusLocAndScale`
+7. `tf.distributions.laplace.LaplaceWithSoftplusLocAndScaleAndShift`
+8. `tf.distributions.laplace.LaplaceWithSoftplusScaleAndShiftAndRate`
+9. `tf.distributions.laplace.LaplaceWithSoftplusLocAndScaleAndShiftAndRate`
+10. `tf.distributions.laplace.LaplaceWithSoftplusLocAndScaleAndShiftAndRateAndLogits`

@@ -1,0 +1,10 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Remove
+2. System.Collections.Hashtable.Remove
+3. System.Collections.IDictionary.Remove
+4. System.Collections.Generic.SortedDictionary<TKey, TValue>.Remove
+5. System.Collections.Specialized.NameValueCollection.Remove
+6. System.Collections.Generic.Dictionary<string, object>.Remove
+7. System.Web.SessionState.SessionStateItemCollection.Remove
+8. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryRemove
+9. System.Runtime.Caching.MemoryCache.Remove
+10. System.Collections.Generic.SortedList<TKey, TValue>.Remove

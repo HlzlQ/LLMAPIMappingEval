@@ -1,0 +1,10 @@
+java.util.List.iterator
+java.util.ArrayList.iterator
+java.util.LinkedList.iterator
+java.util.Vector.iterator
+java.util.Stack.iterator
+java.util.AbstractList.iterator
+java.util.Collections.singletonList.iterator
+java.util.Arrays.asList.iterator
+java.util.concurrent.CopyOnWriteArrayList.iterator
+java.util.stream.Collectors.toList().iterator

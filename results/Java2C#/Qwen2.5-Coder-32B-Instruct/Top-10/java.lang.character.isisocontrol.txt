@@ -1,0 +1,10 @@
+System.Char.IsControl
+System.Text.Encoding.IsSingleByte
+System.Globalization.CharUnicodeInfo.GetUnicodeCategory
+System.Text.RegularExpressions.Regex.IsMatch
+System.String.IndexOfAny
+System.IO.StreamReader.Read
+System.IO.StreamWriter.Write
+System.Xml.XmlTextReader.Read
+System.Xml.XmlTextWriter.WriteWhitespace
+System.Windows.Forms.SendKeys.SendWait

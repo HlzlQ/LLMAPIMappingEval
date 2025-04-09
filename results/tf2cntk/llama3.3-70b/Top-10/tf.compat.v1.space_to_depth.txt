@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that may have similar functionality to `tensorflow.compat.v1.space_to_depth`:
+
+1. `CNTK.spatial_transformer`
+2. `CNTK.depth_to_space`
+3. `CNTK.reshape`
+4. `CNTK.transpose`
+5. `CNTK.permute`
+6. `CNTK.slice`
+7. `CNTK.reorder`
+8. `CNTK.spatial_reshape`
+9. `CNTK.depthwise_convolution`
+10. `CNTK.channel_rearrange`

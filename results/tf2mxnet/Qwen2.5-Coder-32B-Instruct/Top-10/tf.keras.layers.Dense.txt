@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Dense  
+mxnet.ndarray.dot  
+mxnet.ndarray.add  
+mxnet.ndarray.relu  
+mxnet.ndarray.sigmoid  
+mxnet.ndarray.tanh  
+mxnet.ndarray.softmax  
+mxnet.ndarray.batch_dot  
+mxnet.ndarray.reshape  
+mxnet.ndarray.transpose

@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent API for `torch.nn.init.uniform_` is `mxnet.initializer.Uniform`.

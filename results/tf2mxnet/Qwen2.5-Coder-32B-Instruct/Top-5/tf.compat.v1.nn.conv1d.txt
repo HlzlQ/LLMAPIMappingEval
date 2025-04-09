@@ -1,0 +1,5 @@
+mxnet.ndarray.Convolution1D
+mxnet.gluon.nn.Conv1D
+mxnet.symbol.Convolution1D
+mxnet.gluon.contrib.nn.WeightNormConv1D
+mxnet.gluon.contrib.nn.SpectralNormConv1D

@@ -1,0 +1,10 @@
+mxnet.gluon.nn.LayerNorm
+mxnet.ndarray.linalg.norm
+mxnet.ndarray.L2Normalization
+mxnet.ndarray.InstanceNorm
+mxnet.ndarray.BatchNorm
+mxnet.ndarray.GroupNorm
+mxnet.ndarray.FusedLayerNorm
+mxnet.ndarray.RMSPropNorm
+mxnet.ndarray.SpectralNorm
+mxnet.ndarray.WeightNorm

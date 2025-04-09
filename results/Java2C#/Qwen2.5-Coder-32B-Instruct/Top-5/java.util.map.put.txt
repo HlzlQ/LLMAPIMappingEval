@@ -1,0 +1,5 @@
+System.Collections.Generic.Dictionary.Add  
+System.Collections.Generic.IDictionary.Add  
+System.Collections.Hashtable.Add  
+System.Collections.Specialized.NameValueCollection.Add  
+System.Web.UI.StateBag.Add

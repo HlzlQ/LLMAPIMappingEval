@@ -1,0 +1,10 @@
+System.Reflection.PropertyInfo.GetGetMethod
+System.ComponentModel.PropertyDescriptor.GetReadMethod
+System.ComponentModel.ReflectPropertyDescriptor.GetReadMethod
+System.Runtime.InteropServices.ComVisibleAttribute.GetReadMethod
+System.Runtime.Serialization.DataMemberAttribute.GetReadMethod
+System.Web.Services.Description.MessagePartBinding.GetReadMethod
+System.Windows.Forms.BindingManagerBase.GetReadMethod
+System.Workflow.ComponentModel.Compiler.ActivityCodeDomReferenceService.GetReadMethod
+System.Xml.Serialization.XmlReflectionImporter.GetReadMethod
+System.ServiceModel.Description.OperationDescription.GetReadMethod

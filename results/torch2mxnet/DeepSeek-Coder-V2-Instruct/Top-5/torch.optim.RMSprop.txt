@@ -1,0 +1,6 @@
+
+Answer: 1. `SGD`
+2. `Adam`
+3. `Adagrad`
+4. `RMSprop`
+5. `LBFGS`

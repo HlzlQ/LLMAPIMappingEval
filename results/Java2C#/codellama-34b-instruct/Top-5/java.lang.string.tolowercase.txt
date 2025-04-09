@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.String.ToLower()
+2. System.String.ToLowerInvariant()
+3. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToLower()
+4. System.Globalization.CultureInfo.CurrentUICulture.TextInfo.ToLower()
+5. System.Char.ToLower()

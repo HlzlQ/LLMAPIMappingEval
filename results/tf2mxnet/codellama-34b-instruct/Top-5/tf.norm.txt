@@ -1,0 +1,8 @@
+
+Here are five MXNet APIs that have similar functionality to the TensorFlow API:
+
+1. `mxnet.ndarray.norm` - Computes the norm of an array.
+2. `mxnet.ndarray.linalg.norm` - Computes the matrix or vector norm.
+3. `mxnet.ndarray.linalg.svd` - Computes the singular value decomposition (SVD) of a matrix.
+4. `mxnet.ndarray.linalg.eig` - Computes the eigenvalues and eigenvectors of a square matrix.
+5. `mxnet.ndarray.linalg.qr` - Computes the QR factorization of a matrix.

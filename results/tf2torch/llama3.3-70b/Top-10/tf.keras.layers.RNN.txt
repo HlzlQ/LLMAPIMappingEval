@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.layers.RNN`:
+
+1. torch.nn.RNN
+2. torch.nn.LSTM
+3. torch.nn.GRU
+4. torch.nn.RNNCell
+5. torch.nn.LSTMCell
+6. torch.nn.GRUCell
+7. torch.nn.ModuleList
+8. torch.nn.Sequential
+9. torch.nn.rnn.RNN
+10. torch.nn.rnn.LSTM

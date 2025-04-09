@@ -1,0 +1,5 @@
+System.Collections.Generic.SortedDictionary<TKey,TValue>.Values
+System.Collections.Generic.TreeSet<T>.ToList
+System.Linq.Enumerable.OrderBy<TSource,TKey>
+System.Collections.Generic.Dictionary<TKey,TValue>.Values
+System.Collections.Generic.List<T>

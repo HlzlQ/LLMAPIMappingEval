@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.ELU`:
+
+1. torch.nn.ELU
+2. torch.nn.LeakyReLU
+3. torch.nn.ReLU
+4. torch.nn.Sigmoid
+5. torch.nn.Tanh
+6. torch.nn.Hardtanh
+7. torch.nn.Softsign
+8. torch.nn.LogSigmoid
+9. torch.nn.Softplus
+10. torch.nn.Mish

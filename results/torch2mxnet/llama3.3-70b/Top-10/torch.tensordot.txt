@@ -1,0 +1,12 @@
+Based on the PyTorch API `torch.tensordot`, here are 10 possible equivalent MXNet APIs:
+
+1. mx.nd.dot
+2. mx.nd.batch_dot
+3. mx.nd.contrib.tensor_dot
+4. mx.ndarray.dot
+5. mx.ndarray.batch_dot
+6. mx.symbol.dot
+7. mx.symbol.batch_dot
+8. mx.gluon.nn.Dot
+9. mx.gluon.nn.BatchDot
+10. mx.ndarray.tensordot

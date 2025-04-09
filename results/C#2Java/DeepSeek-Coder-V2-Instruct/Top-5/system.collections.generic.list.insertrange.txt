@@ -1,0 +1,5 @@
+1. java.util.List.addAll(int index, Collection<? extends E> c)
+2. java.util.List.add(int index, E element)
+3. java.util.ArrayList.ensureCapacity(int minCapacity)
+4. java.util.LinkedList.addLast(E e)
+5. java.util.Vector.insertElementAt(E obj, int index)

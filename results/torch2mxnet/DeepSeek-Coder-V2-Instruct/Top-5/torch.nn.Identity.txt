@@ -1,0 +1,8 @@
+
+"""
+
+mxnet_identity = [
+    "mx.nd.identity",
+    "mx.sym.identity",
+    "mx.gluon.nn.Identity"
+]

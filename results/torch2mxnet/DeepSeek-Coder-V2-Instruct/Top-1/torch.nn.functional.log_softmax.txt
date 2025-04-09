@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("mxnet.gluon.loss.SoftmaxCrossEntropyLoss")
+<jupyter_output>
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss

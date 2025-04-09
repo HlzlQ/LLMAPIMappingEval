@@ -1,0 +1,1 @@
+  tf.compat.v1.layers.max_pooling1d --> torch.nn.MaxPool1d

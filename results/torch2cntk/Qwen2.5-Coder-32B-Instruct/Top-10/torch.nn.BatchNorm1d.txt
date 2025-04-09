@@ -1,0 +1,10 @@
+cntk.layers.BatchNormalization
+cntk.ops.batch_normalization
+cntk.layers.LayerNormalization
+cntk.layers.InstanceNormalization
+cntk.layers.GroupNormalization
+cntk.layers.SpectralNormalization
+cntk.layers.WeightNormalization
+cntk.layers.Dropout
+cntk.layers.Convolution1D
+cntk.layers.Dense

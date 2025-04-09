@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.Dense
+2. cntk.ops.times
+3. cntk.ops.plus
+4. cntk.ops.relu
+5. cntk.ops.sigmoid
+6. cntk.ops.tanh
+7. cntk.initializer.glorot_uniform
+8. cntk.initializer.he_normal
+9. cntk.learners.adam
+10. cntk.train.Trainer

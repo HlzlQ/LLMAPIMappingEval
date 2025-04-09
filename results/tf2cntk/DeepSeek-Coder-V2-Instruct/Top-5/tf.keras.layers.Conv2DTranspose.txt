@@ -1,0 +1,2 @@
+
+Answer: Conv2DBackpropInput, Conv2DBackpropFilter, MaxPooling2D, AveragePooling2D, Cropping2D

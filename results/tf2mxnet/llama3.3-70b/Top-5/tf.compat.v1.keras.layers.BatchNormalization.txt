@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings:
+
+1. mxnet.ndarray.BatchNorm
+2. mxnet.gluon.nn.BatchNorm
+3. mxnet.gluon.contrib.nn.BatchNorm
+4. mxnet.gluon.nn.BatchNormBetaGamma
+5. mxnet.gluon.nn.SyncBatchNorm

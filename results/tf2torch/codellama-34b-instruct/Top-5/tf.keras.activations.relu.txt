@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to TensorFlow's `tensorflow.keras.activations.relu`:
+
+1. `torch.nn.ReLU()`
+2. `torch.nn.functional.relu()`
+3. `torch.nn.modules.activation.ReLU()`
+4. `torch.nn.modules.activation.LeakyReLU()`
+5. `torch.nn.modules.activation.PReLU()`

@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Dense  
+mxnet.symbol.FullyConnected  
+mxnet.ndarray.FullyConnected  
+mxnet.gluon.nn.Linear  
+mxnet.symbol.contrib.FullyConnected

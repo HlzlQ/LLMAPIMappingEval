@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.initializers.Orthogonal`:
+
+1. `torch.nn.init.orthogonal_`
+2. `torch.nn.init.orthogonal`
+3. `torch.nn.init.xavier_normal`
+4. `torch.nn.init.xavier_uniform`
+5. `torch.nn.init.kaiming_normal`
+6. `torch.nn.init.kaiming_uniform`
+7. `torch.nn.init.glorot_normal`
+8. `torch.nn.init.glorot_uniform`
+9. `torch.nn.init.he_normal`
+10. `torch.nn.init.he_uniform`

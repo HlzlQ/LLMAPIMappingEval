@@ -1,0 +1,5 @@
+java.lang.Math.min
+java.util.Collections.min
+java.util.Comparator.comparingInt
+java.util.Comparator.comparingDouble
+java.util.Comparator.comparingLong

@@ -1,0 +1,4 @@
+
+Answer: ```python
+['MSELoss', 'CrossEntropyLoss', 'L1Loss', 'CosineSimilarity', 'PairwiseDistance']
+```

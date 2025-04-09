@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `nunit.framework.assert.isfalse`:
+
+1. org.junit.Assert.assertFalse
+2. junit.framework.Assert.assertFalse
+3. org.testng.Assert.assertFalse
+4. org.junit.jupiter.api.Assertions.assertFalse
+5. org.hamcrest.MatcherAssert.assertThat
+6. org.junit.matchers.JUnitMatchers.isFalse
+7. org.assertj.core.api.Assertions.assertFalse
+8. org.apache.commons.lang3.Validate.isFalse
+9. com.google.common.truth.Truth.assertThat
+10. io.restassured.module.jsv.JsonSchemaValidator.isFalse

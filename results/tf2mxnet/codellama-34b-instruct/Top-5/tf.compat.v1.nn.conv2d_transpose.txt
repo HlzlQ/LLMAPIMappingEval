@@ -1,0 +1,7 @@
+  tf.compat.v1.nn.conv2d_transpose is a TensorFlow API for transposed convolutional layers. The equivalent MXNet API is:
+
+* mxnet.ndarray.Convolution: This is the most direct equivalent of TensorFlow's conv2d_transpose function, and it performs a 2D convolution on a batch of multi-channel images.
+* mxnet.ndarray.Deconvolution: This API performs a transposed convolution operation, which is also known as a fractionally strided convolution or a dilated convolution. It is similar to conv2d_transpose in TensorFlow.
+* mxnet.ndarray.ConvTranspose2D: This API performs a 2D transposed convolution operation with a specified number of filters, kernel size, and stride. It is similar to conv2d_transpose in TensorFlow.
+* mxnet.ndarray.Deconv2D: This API performs a 2D transposed convolution operation with a specified number of filters, kernel size, and stride. It is similar to conv2d_transpose in TensorFlow.
+* mxnet.ndarray.ConvTranspose3D: This API performs a 3D transposed convolution operation with a specified number of filters, kernel size, and stride. It is similar to conv2d_transpose in TensorFlow.

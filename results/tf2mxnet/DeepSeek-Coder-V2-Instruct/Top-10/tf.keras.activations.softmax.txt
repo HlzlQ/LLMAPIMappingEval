@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.softmax
+2. mxnet.symbol.softmax
+3. mxnet.gluon.nn.Softmax
+4. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+5. mxnet.ndarray.log_softmax
+6. mxnet.symbol.log_softmax
+7. mxnet.gluon.nn.LogSoftmax
+8. mxnet.gluon.loss.KLDivLoss
+9. mxnet.ndarray.softmin
+10. mxnet.symbol.softmin

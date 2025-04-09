@@ -1,0 +1,5 @@
+1. tf.keras.losses.CosineSimilarity
+2. tf.reduce_sum
+3. tf.keras.metrics.CosineSimilarity
+4. tf.math.cosine_distance
+5. tf.keras.losses.MeanSquaredError

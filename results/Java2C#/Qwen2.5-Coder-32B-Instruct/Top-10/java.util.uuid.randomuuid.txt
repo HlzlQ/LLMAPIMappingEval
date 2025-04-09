@@ -1,0 +1,10 @@
+System.Guid.NewGuid  
+System.Security.Cryptography.RandomNumberGenerator.GetBytes  
+System.Security.Cryptography.RNGCryptoServiceProvider.GetBytes  
+System.Random.NextBytes  
+System.Threading.ThreadStaticAttribute  
+System.Runtime.InteropServices.Marshal.Copy  
+System.Convert.FromHexString  
+System.Text.Encoding.UTF8.GetString  
+System.IO.MemoryStream.ToArray  
+System.Linq.Enumerable.ToArray

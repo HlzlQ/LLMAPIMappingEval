@@ -1,0 +1,8 @@
+
+The Java API "org.testng.assertjunit.assertfalse" can be mapped to the following C# APIs:
+
+* NUnit.Framework.Assert.False
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+* xunit.assert.False
+
+Please note that these are just a few examples, and there may be other C# APIs with similar functionality.

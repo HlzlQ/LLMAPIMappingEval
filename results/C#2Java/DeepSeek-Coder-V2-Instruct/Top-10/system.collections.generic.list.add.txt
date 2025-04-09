@@ -1,0 +1,10 @@
+1. java.util.List.add
+2. java.util.ArrayList.add
+3. java.util.LinkedList.add
+4. java.util.Vector.add
+5. java.util.Stack.add
+6. java.util.concurrent.CopyOnWriteArrayList.add
+7. java.util.concurrent.LinkedBlockingDeque.add
+8. java.util.concurrent.PriorityBlockingQueue.add
+9. java.util.concurrent.SynchronousQueue.add
+10. java.util.concurrent.ArrayBlockingQueue.add

@@ -1,0 +1,6 @@
+Java does not have a direct equivalent to the `System.String.ToUpper()` method in C#. However, you can use the `toUpperCase()` method of the `String` class in Java to achieve the same result. Here's an example:
+```java
+String str = "Hello World!";
+str = str.toUpperCase();
+System.out.println(str); // Output: HELLO WORLD!
+```

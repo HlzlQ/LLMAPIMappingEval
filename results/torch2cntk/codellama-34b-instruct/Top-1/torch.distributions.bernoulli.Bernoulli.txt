@@ -1,0 +1,2 @@
+
+CNTK does not have a direct equivalent of PyTorch's `torch.distributions.bernoulli.Bernoulli` class. However, CNTK provides a similar functionality through its `CNTK.random.bernoulli` function.

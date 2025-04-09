@@ -1,0 +1,5 @@
+cntk.ops.convolution
+cntk.layers.Convolution
+cntk.layers.Sequential
+cntk.layers.Function
+cntk.layers.default_options

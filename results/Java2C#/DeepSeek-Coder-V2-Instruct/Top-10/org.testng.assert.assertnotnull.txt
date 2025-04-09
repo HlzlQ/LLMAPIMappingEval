@@ -1,0 +1,10 @@
+System.Diagnostics.Contracts.Contract.Requires
+System.Diagnostics.Contracts.Contract.Ensures
+System.Diagnostics.Contracts.Contract.Assert
+System.Diagnostics.Contracts.Contract.Assume
+System.Diagnostics.Contracts.Contract.Invariant
+System.Threading.Tasks.Task.Run
+System.Linq.Enumerable.Any
+System.Linq.Enumerable.All
+System.Linq.Enumerable.Count
+System.Linq.Enumerable.FirstOrDefault

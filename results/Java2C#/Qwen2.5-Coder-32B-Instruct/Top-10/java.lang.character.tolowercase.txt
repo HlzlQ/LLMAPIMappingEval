@@ -1,0 +1,10 @@
+System.Char.ToLower
+System.Text.CaseConverter.ToLower
+System.Globalization.TextInfo.ToLower
+System.String.ToLower
+System.String.ToLowerInvariant
+System.Globalization.CultureInfo.TextInfo.ToLower
+System.Globalization.CultureInfo.ToLower
+System.Globalization.CompareInfo.ToLower
+System.Globalization.StringComparer.ToLower
+System.Globalization.CultureAwareComparer.ToLower

@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.eye`:
+
+1. mxnet.nd.eye
+2. mxnet.numpy.eye
+3. mxnet.ndarray.eye
+4. mx.eye
+5. nd.eye
+6. np.eye (from mxnet numpy)
+7. mxnet.np.eye
+8. eye (from mxnet.ndarray)
+9. mxnet.ndarray.sparse.eye
+10. mxnet gluon.utils.create_eye_matrix

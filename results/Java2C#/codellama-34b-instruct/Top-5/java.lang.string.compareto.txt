@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each Java API:
+
+1. java.lang.String.compareTo(String anotherString)
+	* C#: string.CompareTo(string value)
+2. java.lang.String.equalsIgnoreCase(String anotherString)
+	* C#: string.Equals(string value, StringComparison.OrdinalIgnoreCase)
+3. java.lang.String.isEmpty()
+	* C#: string.IsNullOrEmpty(string value)
+4. java.lang.String.length()
+	* C#: string.Length
+5. java.lang.String.toLowerCase()
+	* C#: string.ToLower()

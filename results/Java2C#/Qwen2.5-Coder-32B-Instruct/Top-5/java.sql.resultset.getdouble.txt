@@ -1,0 +1,5 @@
+System.Data.SqlClient.SqlDataReader.GetDouble  
+System.Data.OleDb.OleDbDataReader.GetDouble  
+System.Data.OracleClient.OracleDataReader.GetDouble  
+System.Data.SQLite.SQLiteDataReader.GetDouble  
+System.Data.IDataReader.GetDouble

@@ -1,0 +1,5 @@
+1. mx.gluon.nn.Identity
+2. mx.nd.identity
+3. mx.gluon.nn.Activation('identity')
+4. mx.symbol.Identity
+5. mx.gluon.nn.Block() with an identity function

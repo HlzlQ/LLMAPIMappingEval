@@ -1,0 +1,12 @@
+
+Answer: **Mapping PyTorch Distribution API to CNTK Equivalent:**
+
+1. **PyTorch API**: `torch.distributions.bernoulli.Bernoulli`
+2. **CNTK Equivalent**: Not directly applicable as CNTK does not have a direct equivalent for PyTorch's distribution module. However, you can achieve similar functionality using CNTK's probability distributions and random number generation functions.
+
+**Most Likely CNTK APIs:**
+1. `CNTK.ops.random_bernoulli` - Generates random samples from a Bernoulli distribution.
+2. `CNTK.ops.sigmoid` - Applies the sigmoid function to transform logits into probabilities.
+3. `CNTK.ops.element_times` - Element-wise multiplication of tensors.
+4. `CNTK.ops.reduce_sum` - Sums elements along specified axes.
+5. `CNTK.ops.logistic` - Applies the logistic function to transform inputs into probabilities.

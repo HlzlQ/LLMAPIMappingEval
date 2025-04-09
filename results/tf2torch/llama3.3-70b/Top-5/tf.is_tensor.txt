@@ -1,0 +1,7 @@
+Here are 5 PyTorch APIs that have similar functions to `tensorflow.is_tensor`:
+
+1. torch.is_tensor
+2. torch.Tensor
+3. torch.as_tensor
+4. torch.from_numpy
+5. isinstance(obj, torch.Tensor)

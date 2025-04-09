@@ -1,0 +1,6 @@
+
+Answer: 1. cntk.ops.MaxPooling
+2. cntk.layers.MaxPooling
+3. cntk.ops.AveragePooling
+4. cntk.layers.AveragePooling
+5. cntk.ops.GlobalMaxPool

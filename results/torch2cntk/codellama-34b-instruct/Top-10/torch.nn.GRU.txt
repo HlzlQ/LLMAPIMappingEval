@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch `torch.nn.GRU` API:
+
+1. `cntk.layers.RecurrentBlock`
+2. `cntk.layers.LSTM`
+3. `cntk.layers.GRU`
+4. `cntk.layers.RNN`
+5. `cntk.layers.Sequential`
+6. `cntk.layers.StackedRNN`
+7. `cntk.layers.BidirectionalRNN`
+8. `cntk.layers.GRUCell`
+9. `cntk.layers.LSTMCell`
+10. `cntk.layers.RNNCell`

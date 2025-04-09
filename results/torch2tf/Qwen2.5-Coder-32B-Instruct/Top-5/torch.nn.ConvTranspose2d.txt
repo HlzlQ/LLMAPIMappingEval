@@ -1,0 +1,5 @@
+tf.keras.layers.Conv2DTranspose  
+tf.nn.conv2d_transpose  
+tf.layers.conv2d_transpose  
+tf.compat.v1.layers.conv2d_transpose  
+tf.contrib.layers.conv2d_transpose

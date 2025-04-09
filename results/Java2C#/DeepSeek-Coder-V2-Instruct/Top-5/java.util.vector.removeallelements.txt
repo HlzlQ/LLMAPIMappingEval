@@ -1,0 +1,5 @@
+1. List<T>.Clear()
+2. Collection<T>.RemoveAll(Predicate<T>)
+3. Array.Clear(Array, Int32, Int32)
+4. Vector<T>.Clear()
+5. ConcurrentQueue<T>.Clear()

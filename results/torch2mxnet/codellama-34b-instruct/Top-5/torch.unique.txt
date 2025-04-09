@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.unique | mxnet.ndarray.unique |
+  | torch.unique_consecutive | mxnet.ndarray.unique_consecutive |
+  | torch.unique_dim | mxnet.ndarray.unique_dim |
+  | torch.unique_dims | mxnet.ndarray.unique_dims |
+  | torch.unique_values | mxnet.ndarray.unique_values |

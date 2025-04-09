@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.softsign`:
+
+1. CNTK::SoftSign
+2. CNTK::Activation::SoftSign
+3. CNTK::SoftSignActivation
+4. CNTK::Layers::SoftSign
+5. CNTK::Functions::SoftSign
+6. CNTK::Ops::SoftSign
+7. CNTK::SoftSignOp
+8. CNTK::ActivationFunction::SoftSign
+9. CNTK::SoftSignLayer
+10. CNTK::ElementTimesOneMinusElementPlusEpsilon

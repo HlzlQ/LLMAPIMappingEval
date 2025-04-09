@@ -1,0 +1,5 @@
+tf.keras.losses.Hinge
+tf.keras.losses.SquaredHinge
+tf.keras.losses.CategoricalHinge
+tf.keras.losses.BinaryCrossentropy
+tf.keras.losses.MeanSquaredError

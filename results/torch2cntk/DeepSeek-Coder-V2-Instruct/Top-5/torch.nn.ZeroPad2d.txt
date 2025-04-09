@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.pad, numpy.pad, PIL.Image.extend, scipy.ndimage.pad, cv2.copyMakeBorder

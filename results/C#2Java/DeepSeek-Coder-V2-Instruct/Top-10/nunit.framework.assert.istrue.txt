@@ -1,0 +1,10 @@
+1. org.junit.jupiter.api.Assertions.assertTrue
+2. org.junit.Assert.assertTrue
+3. java.util.Objects.requireNonNull
+4. java.util.Optional.isPresent
+5. java.lang.Boolean.booleanValue
+6. javax.validation.constraints.NotNull
+7. org.testng.Assert.assertTrue
+8. ch.qos.logback.classic.Logger.isTraceEnabled
+9. org.apache.commons.lang3.Validate.notNull
+10. com.google.common.base.Preconditions.checkNotNull

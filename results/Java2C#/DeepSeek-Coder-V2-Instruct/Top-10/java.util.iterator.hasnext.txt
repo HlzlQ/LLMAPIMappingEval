@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator.MoveNext
+2. System.Collections.IEnumerable.GetEnumerator
+3. System.Collections.Generic.IEnumerator`1.MoveNext
+4. System.Collections.Generic.IEnumerable`1.GetEnumerator
+5. System.Linq.IQueryable.GetEnumerator
+6. System.Collections.IDictionaryEnumerator.MoveNext
+7. System.Collections.Hashtable.GetEnumerator
+8. System.Collections.Queue.Dequeue
+9. System.Collections.Stack.Pop
+10. System.Collections.ArrayList.RemoveAt

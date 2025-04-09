@@ -1,0 +1,17 @@
+
+
+```python
+import tensorflow as tf
+```
+
+### Answer:
+1. `tf.unique`
+2. `tf.math.bincount`
+3. `tf.sparse.to_dense`
+4. `tf.scatter_nd`
+5. `tf.segment_sum`
+6. `tf.dynamic_partition`
+7. `tf.dynamic_stitch`
+8. `tf.unique_with_counts`
+9. `tf.sparse_to_dense`
+10. `tf.scatter_nd_add`

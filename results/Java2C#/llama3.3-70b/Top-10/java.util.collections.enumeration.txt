@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator
+2. System.Collections.Generic.IEnumerable<T>
+3. System.Collections.ICollection
+4. System.Collections.Generic.ICollection<T>
+5. System.Collections.IEnumerable
+6. System.Linq.Enumerable
+7. System.Collections.Generic.IEnumerator<T>
+8. System.Collections.DictionaryEnumerator
+9. System.Collections.Hashtable.GetEnumerator
+10. System.Collections.Generic.Dictionary<TKey,TValue>.GetEnumerator

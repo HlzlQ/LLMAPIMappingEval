@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for cosine similarity:
+
+1. `tf.keras.layers.CosineSimilarity`
+2. `tf.keras.losses.CosineSimilarity`
+3. `tf.keras.metrics.CosineSimilarity`
+4. `tf.nn.cosine_similarity`
+5. `tf.nn.pairwise_cosine_similarity`
+6. `tf.nn.cosine_distance`
+7. `tf.nn.pairwise_cosine_distance`
+8. `tf.keras.layers.DotProductSimilarity`
+9. `tf.keras.losses.DotProductSimilarity`
+10. `tf.keras.metrics.DotProductSimilarity`

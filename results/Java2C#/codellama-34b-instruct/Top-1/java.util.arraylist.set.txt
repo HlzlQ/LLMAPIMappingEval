@@ -1,0 +1,19 @@
+C# does not have a direct equivalent to the Java `ArrayList` class. However, you can use the `List<T>` class in C# to achieve similar functionality. The `List<T>` class is a generic collection that allows you to store a list of objects of any type.
+
+To set an element at a specific index in a `List<T>`, you can use the `Insert` method, like this:
+```
+List<string> myList = new List<string>();
+myList.Add("apple");
+myList.Add("banana");
+myList.Insert(1, "orange");
+```
+This will insert the string "orange" at index 1 in the list, so that the resulting list is ["apple", "orange", "banana"].
+
+Alternatively, you can use the `Add` method to add an element to the end of the list, like this:
+```
+List<string> myList = new List<string>();
+myList.Add("apple");
+myList.Add("banana");
+myList.Add("orange");
+```
+This will result in a list with three elements: ["apple", "banana", "orange"].

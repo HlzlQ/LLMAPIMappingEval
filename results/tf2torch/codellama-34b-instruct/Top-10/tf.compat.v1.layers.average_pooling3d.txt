@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.compat.v1.layers.average_pooling3d`:
+
+1. `torch.nn.functional.avg_pool3d`
+2. `torch.nn.modules.pooling.AvgPool3d`
+3. `torch.nn.modules.pooling.AveragePooling3D`
+4. `torch.nn.functional.adaptive_avg_pool3d`
+5. `torch.nn.modules.pooling.AdaptiveAvgPool3d`
+6. `torch.nn.modules.pooling.AdaptiveMaxPool3d`
+7. `torch.nn.functional.max_pool3d`
+8. `torch.nn.modules.pooling.MaxPool3d`
+9. `torch.nn.modules.pooling.MaxUnpool3d`
+10. `torch.nn.functional.unfold`

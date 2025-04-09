@@ -1,0 +1,10 @@
+1. System.String.Concat
+2. System.String.Join
+3. System.Text.StringBuilder.Append
+4. System.Text.StringBuilder.Insert
+5. System.String.Format
+6. System.Text.StringBuilder.Replace
+7. Microsoft.VisualBasic.Strings.Concat
+8. System.Linq.Enumerable.Aggregate
+9. System.Web.HttpUtility.HtmlEncode
+10. System.Security.Cryptography.HashAlgorithm.ComputeHash

@@ -1,0 +1,10 @@
+java.lang.Character.isDigit
+java.lang.String.matches
+java.util.regex.Pattern.matches
+java.text.NumberFormat.parse
+java.math.BigInteger.valueOf
+java.math.BigDecimal.valueOf
+java.nio.file.Files.readAllLines
+java.io.BufferedReader.readLine
+java.util.Scanner.nextInt
+java.util.Scanner.hasNextInt

@@ -1,0 +1,5 @@
+mxnet.ndarray.L2Normalization  
+mxnet.ndarray.norm  
+mxnet.ndarray.softmax  
+mxnet.ndarray.batch_norm  
+mxnet.ndarray.InstanceNorm

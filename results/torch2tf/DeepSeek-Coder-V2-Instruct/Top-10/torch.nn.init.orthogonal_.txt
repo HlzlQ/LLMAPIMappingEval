@@ -1,0 +1,11 @@
+
+Answer: 1. tf.keras.initializers.Orthogonal
+2. tf.compat.v1.orthogonal_initializer
+3. tf.compat.v2.initializers.Orthogonal
+4. tf.initializers.orthogonal
+5. tf.linalg.init_ops.orthogonal
+6. tf.contrib.layers.orthogonal_initializer
+7. tf.keras.initializers.Orthogonal
+8. tf.initializers.orthogonal
+9. tf.compat.v1.orthogonal_initializer
+10. tf.compat.v2.initializers.Orthogonal

@@ -1,0 +1,2 @@
+
+Answer: BinaryCrossentropy, CategoricalCrossentropy, SparseCategoricalCrossentropy, MeanSquaredError, CosineSimilarity

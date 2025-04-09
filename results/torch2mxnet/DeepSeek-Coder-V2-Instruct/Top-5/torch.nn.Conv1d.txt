@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.conv1d, mxnet.ndarray.Convolution, mxnet.symbol.Convolution, mxnet.gluon.Conv1D, mxnet.contrib.ndarray.convolution

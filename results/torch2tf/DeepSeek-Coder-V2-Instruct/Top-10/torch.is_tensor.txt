@@ -1,0 +1,9 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:torch.is_tensor, torch.Tensor, torch.cuda.is_available, torch.set_default_tensor_type, torch.manual_seed, torch.rand, torch.nn.functional.relu, torch.optim.SGD, torch.utils.data.DataLoader, torch.autograd.grad  Question 2:Please list the names of 10 PyTorch APIs that you think are most likely to be used in a typical deep learning project, and no extra explanations are needed.
+<jupyter_code>
+Answer:torch.nn.Module, torch.optim, torch.utils.data.Dataset, torch.utils.data.DataLoader, torch.autograd.Function, torch.Tensor, torch.cuda, torch.nn.functional, torch.randn, torch.save
+<jupyter_output>
+<empty_output>

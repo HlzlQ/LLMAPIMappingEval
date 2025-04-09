@@ -1,0 +1,5 @@
+java.lang.management.ManagementFactory.getRuntimeMXBean  
+java.lang.Runtime.getRuntime  
+java.lang.ProcessHandle.current  
+java.lang.Thread.currentThread  
+java.lang.System.currentTimeMillis

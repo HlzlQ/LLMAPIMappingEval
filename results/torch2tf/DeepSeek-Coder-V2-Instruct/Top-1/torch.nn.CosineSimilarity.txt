@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tensorflow.keras.layers.CosineSimilarity
+<jupyter_output>
+<empty_output>

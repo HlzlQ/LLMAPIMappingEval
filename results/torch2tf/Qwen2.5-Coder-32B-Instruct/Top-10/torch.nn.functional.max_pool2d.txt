@@ -1,0 +1,10 @@
+tf.nn.max_pool
+tf.nn.max_pool_v2
+tf.nn.max_pool_with_argmax
+tf.nn.atrous_max_pool2d
+tf.nn.fractional_max_pool
+tf.nn.pool
+tf.nn.avg_pool
+tf.nn.avg_pool1d
+tf.nn.avg_pool2d
+tf.nn.avg_pool3d

@@ -1,0 +1,5 @@
+torch.nn.LayerNorm  
+torch.nn.functional.layer_norm  
+torch.nn.BatchNorm1d  
+torch.nn.BatchNorm2d  
+torch.nn.GroupNorm

@@ -1,0 +1,6 @@
+
+Answer: 1. cntk.ops.softmax
+2. cntk.activations.softmax
+3. cntk.layers.Softmax
+4. cntk.ops.sigmoid
+5. cntk.ops.relu

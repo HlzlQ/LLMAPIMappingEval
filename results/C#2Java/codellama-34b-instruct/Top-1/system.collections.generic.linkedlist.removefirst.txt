@@ -1,0 +1,3 @@
+System.Collections.Generic.LinkedList.RemoveFirst()
+
+Java equivalent: java.util.LinkedList.removeFirst()

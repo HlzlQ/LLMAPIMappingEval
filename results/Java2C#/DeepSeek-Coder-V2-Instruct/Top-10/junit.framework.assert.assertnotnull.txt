@@ -1,0 +1,12 @@
+```csharp
+System.Diagnostics.Contracts.Contract.Requires
+System.Threading.Tasks.Task.Run
+System.Linq.Enumerable.Any
+System.Collections.Generic.List<T>.Add
+System.Text.StringBuilder.Append
+System.IO.File.WriteAllText
+System.Net.Http.HttpClient.GetAsync
+System.Windows.Forms.Control.Invoke
+System.Reflection.MethodInfo.IsPublic
+System.Exception.ThrowIfNull
+```

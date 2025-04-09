@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.optim.Adam | mxnet.optimizer.Adam |
+  | torch.optim.AdamW | mxnet.optimizer.AdamW |
+  | torch.optim.SGD | mxnet.optimizer.SGD |
+  | torch.optim.RMSprop | mxnet.optimizer.RMSprop |
+  | torch.optim.Adagrad | mxnet.optimizer.Adagrad |

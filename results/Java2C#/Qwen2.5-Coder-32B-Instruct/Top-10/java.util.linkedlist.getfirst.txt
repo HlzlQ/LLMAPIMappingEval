@@ -1,0 +1,10 @@
+System.Collections.Generic.LinkedList<T>.First.Value  
+System.Collections.Generic.LinkedList<T>.GetElementAt(0).Value  
+System.Collections.Generic.LinkedList<T>.FindFirst(x => true)?.Value  
+System.Collections.Generic.LinkedList<T>.FirstOrDefault()  
+System.Linq.Enumerable.First(System.Collections.Generic.LinkedList<T>)  
+System.Linq.Enumerable.FirstOrDefault(System.Collections.Generic.LinkedList<T>)  
+System.Collections.Generic.LinkedListNode<T>.Value (after obtaining the first node)  
+System.Collections.Generic.LinkedList<T>.GetEnumerator().Current.Value (after moving to the first element)  
+System.Collections.Generic.LinkedList<T>.ToArray()[0]  
+System.Collections.Generic.LinkedList<T>.Cast<object>().First()

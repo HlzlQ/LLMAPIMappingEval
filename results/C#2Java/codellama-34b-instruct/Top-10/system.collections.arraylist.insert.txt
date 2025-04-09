@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.util.ArrayList.add(int index, E element)
+2. java.util.ArrayList.addAll(Collection<? extends E> c)
+3. java.util.ArrayList.addAll(int index, Collection<? extends E> c)
+4. java.util.ArrayList.addIfAbsent(E e)
+5. java.util.ArrayList.addIfNotPresent(E e)
+6. java.util.ArrayList.addLast(E e)
+7. java.util.ArrayList.append(E e)
+8. java.util.ArrayList.insert(int index, E element)
+9. java.util.ArrayList.insertAll(Collection<? extends E> c)
+10. java.util.ArrayList.insertAll(int index, Collection<? extends E> c)

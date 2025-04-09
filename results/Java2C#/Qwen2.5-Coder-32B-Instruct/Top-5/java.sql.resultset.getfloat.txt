@@ -1,0 +1,5 @@
+System.Data.SqlClient.SqlDataReader.GetFloat
+System.Data.OleDb.OleDbDataReader.GetFloat
+System.Data.OracleClient.OracleDataReader.GetFloat
+System.Data.SQLite.SQLiteDataReader.GetFloat
+System.Data.IDataReader.GetFloat

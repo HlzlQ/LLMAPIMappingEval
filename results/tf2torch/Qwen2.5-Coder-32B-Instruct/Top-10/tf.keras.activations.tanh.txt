@@ -1,0 +1,10 @@
+torch.nn.Tanh  
+torch.tanh  
+torch.nn.functional.tanh  
+torch.nn.modules.activation.Tanh  
+torch.nn.functional.tanhshrink  
+torch.nn.Hardtanh  
+torch.nn.functional.hardtanh  
+torch.nn.Softsign  
+torch.nn.functional.softsign  
+torch.nn.ReLU6

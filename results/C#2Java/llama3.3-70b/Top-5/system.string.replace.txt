@@ -1,0 +1,5 @@
+1. java.lang.String.replace
+2. java.lang.String.replaceAll
+3. java.util.regex.Matcher.replaceFirst
+4. java.util.regex.Matcher.replaceAll
+5. org.apache.commons.lang3.StringUtils.replace

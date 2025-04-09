@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for initializing a tensor with zeros:
+
+1. `tf.zeros_like()`
+2. `tf.zeros()`
+3. `tf.fill()`
+4. `tf.Variable(0)`
+5. `tf.constant(0)`

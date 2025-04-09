@@ -1,0 +1,11 @@
+Java does not have a direct equivalent to the `System.String.Replace` method in C#. However, you can use the `replace()` method in Java's `String` class to achieve similar functionality.
+
+Here is an example of how to use the `replace()` method in Java:
+```
+String str = "Hello, World!";
+str = str.replace("World", "Java");
+System.out.println(str); // Output: Hello, Java!
+```
+In this example, we first create a string variable `str` and initialize it with the value `"Hello, World!"`. We then use the `replace()` method to replace all occurrences of the substring `"World"` with the substring `"Java"`. Finally, we print the resulting string using `System.out.println()`.
+
+Note that the `replace()` method in Java is case-sensitive, so it will only replace exact matches of the specified substring. If you want to perform a case-insensitive replacement, you can use the `replaceAll()` method instead.

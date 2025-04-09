@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for convolutional layers:
+
+1. `mxnet.ndarray.Convolution1D`
+2. `mxnet.ndarray.Conv1D`
+3. `mxnet.ndarray.Conv1DTranspose`
+4. `mxnet.ndarray.Conv1DWithBias`
+5. `mxnet.ndarray.Conv1DWithoutBias`
+6. `mxnet.ndarray.Conv1DWithBatchNorm`
+7. `mxnet.ndarray.Conv1DWithInstanceNorm`
+8. `mxnet.ndarray.Conv1DWithLayerNorm`
+9. `mxnet.ndarray.Conv1DWithGroupNorm`
+10. `mxnet.ndarray.Conv1DWithDepthwiseSeparable`

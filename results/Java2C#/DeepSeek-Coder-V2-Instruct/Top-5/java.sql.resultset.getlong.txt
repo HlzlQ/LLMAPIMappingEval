@@ -1,0 +1,5 @@
+1. GetInt32()
+2. GetInt64()
+3. GetValue()
+4. Read()
+5. FieldCount

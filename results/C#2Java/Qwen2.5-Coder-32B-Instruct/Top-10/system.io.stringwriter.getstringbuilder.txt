@@ -1,0 +1,10 @@
+java.io.StringWriter.toString
+java.lang.StringBuilder.toString
+java.lang.StringBuffer.toString
+java.nio.CharBuffer.toString
+java.util.Formatter.toString
+java.text.StringCharacterIterator.toString
+java.awt.font.TextLayout.getOutline
+java.awt.image.BufferedImage.toString
+javax.swing.text.AbstractDocument.Content.getString
+javax.xml.transform.dom.DOMSource.getNode

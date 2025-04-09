@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.BatchNormalization`:
+
+1. `mxnet.gluon.nn.BatchNorm`
+2. `mxnet.gluon.contrib.nn.BatchNorm`
+3. `mxnet.gluon.nn.batch_norm`
+4. `mxnet.gluon.contrib.nn.batch_norm`
+5. `mxnet.ndarray.BatchNorm`

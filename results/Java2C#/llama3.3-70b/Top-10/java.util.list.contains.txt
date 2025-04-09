@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Contains
+2. System.Linq.Enumerable.Contains
+3. System.Collections.IList.Contains
+4. System.Collections.Generic.ICollection<T>.Contains
+5. System.Collections.ISet.Contains
+6. System.Collections.Generic.ISet<T>.Contains
+7. System.Collections.Generic.Dictionary<TKey, TValue>.ContainsKey
+8. System.Collections.Generic.Dictionary<TKey, TValue>.ContainsValue
+9. System.Linq.Lookup<TKey, TElement>.Contains
+10. System.Collections.Generic.HashSet<T>.Contains

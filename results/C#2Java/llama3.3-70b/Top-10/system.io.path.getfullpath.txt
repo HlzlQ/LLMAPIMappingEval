@@ -1,0 +1,12 @@
+Here are the top 10 Java APIs that match the functionality of `System.IO.Path.GetFullPath` in C#:
+
+1. `java.io.File.getAbsolutePath`
+2. `java.nio.file.Paths.get`
+3. `java.io.File.getCanonicalPath`
+4. `java.nio.file.Path.toAbsolutePath`
+5. `java.io.File.getPath`
+6. `java.nio.file.Path.normalize`
+7. `java.io.File.getParent`
+8. `java.nio.file.FileSystems.getDefault().getPath`
+9. `java.io.File.toURI().getPath()`
+10. `java.nio.file.Paths.normalize`

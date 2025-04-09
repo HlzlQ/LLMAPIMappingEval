@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Embedding
+mxnet.ndarray.embedding_lookup
+mxnet.symbol.contrib.embedding_lookup
+mxnet.ndarray.sparse.embedding_lookup
+mxnet.symbol.sparse.embedding_lookup

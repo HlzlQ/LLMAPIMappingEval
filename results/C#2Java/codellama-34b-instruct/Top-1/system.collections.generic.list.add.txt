@@ -1,0 +1,3 @@
+System.Collections.Generic.List<T>.Add(T item)
+
+Java equivalent: java.util.List<E>.add(E e)

@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet API: mxnet.np.einsum
+print("mxnet.np.einsum")
+<jupyter_output>
+mxnet.np.einsum

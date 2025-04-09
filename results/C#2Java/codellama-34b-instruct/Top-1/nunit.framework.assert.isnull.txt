@@ -1,0 +1,2 @@
+
+The equivalent of `nunit.framework.assert.isnull` in Java is `org.junit.Assert.assertNull`.

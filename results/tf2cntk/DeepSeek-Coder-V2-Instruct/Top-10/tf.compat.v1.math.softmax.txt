@@ -1,0 +1,15 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+```python
+import cntk as ct
+ct.__version__
+```
+
+```python
+# TensorFlow API: tensorflow.compat.v1.math.softmax
+# CNTK equivalent API: cntk.ops.softmax
+```

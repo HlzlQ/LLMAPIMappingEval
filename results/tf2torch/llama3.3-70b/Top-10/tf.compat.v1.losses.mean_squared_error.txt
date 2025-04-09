@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.compat.v1.losses.mean_squared_error`:
+
+1. torch.nn.MSELoss
+2. torch.nn.L1Loss
+3. torch.nn.SmoothL1Loss
+4. torch.nn.HuberLoss
+5. torch.nn.KLDivLoss
+6. torch.nn.PoissonNLLLoss
+7. torch.nn.GaussianNLLLoss
+8. torch.nn.CosineEmbeddingLoss
+9. torch.nn.MarginRankingLoss
+10. torch.nn.TripletMarginLoss

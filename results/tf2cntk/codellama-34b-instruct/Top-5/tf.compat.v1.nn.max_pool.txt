@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for max pooling:
+
+1. `cntk.layers.MaxPooling2D`
+2. `cntk.layers.MaxPooling3D`
+3. `cntk.layers.MaxUnpooling2D`
+4. `cntk.layers.MaxUnpooling3D`
+5. `cntk.layers.GlobalMaxPooling2D`

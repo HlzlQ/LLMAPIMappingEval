@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.Adam`:
+
+1. `cntk.learners.adam`
+2. `cntk.train.adam`
+3. `cntk.optimizers.adam`
+4. `cntk.learners.sgd_momentum`
+5. `cntk.train.sgd_momentum`

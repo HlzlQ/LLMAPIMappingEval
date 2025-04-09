@@ -1,0 +1,10 @@
+System.Text.StringBuilder.Remove
+System.Text.StringBuilder.DeleteCharAt
+System.Text.StringBuilder.RemoveAt
+System.Text.StringBuilder.Insert
+System.Text.StringBuilder.Replace
+System.Text.StringBuilder.Append
+System.Text.StringBuilder.AppendFormat
+System.Text.StringBuilder.AppendLine
+System.Text.StringBuilder.Clear
+System.Text.StringBuilder.EnsureCapacity

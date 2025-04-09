@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that can be used as alternatives to `tensorflow.compat.v1.layers.Flatten`:
+
+1. `torch.nn.Flatten`
+2. `torch.nn.Sequential(torch.nn.Flatten())`
+3. `torch.nn.ModuleList([torch.nn.Flatten()])`
+4. `torch.nn.Sequential(torch.nn.Linear(in_features, out_features), torch.nn.Flatten())`
+5. `torch.nn.Sequential(torch.nn.Conv2d(in_channels, out_channels, kernel_size), torch.nn.Flatten())`
+6. `torch.nn.Sequential(torch.nn.MaxPool2d(kernel_size), torch.nn.Flatten())`
+7. `torch.nn.Sequential(torch.nn.AdaptiveAvgPool2d(output_size), torch.nn.Flatten())`
+8. `torch.nn.Sequential(torch.nn.BatchNorm2d(num_features), torch.nn.Flatten())`
+9. `torch.nn.Sequential(torch.nn.Dropout(p=0.5), torch.nn.Flatten())`
+10. `torch.nn.Sequential(torch.nn.ReLU(), torch.nn.Flatten())`

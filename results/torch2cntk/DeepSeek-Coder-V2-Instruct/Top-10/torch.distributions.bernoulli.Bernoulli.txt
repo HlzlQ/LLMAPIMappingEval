@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. `torch.distributions.bernoulli.Bernoulli`
+2. `torch.distributions.normal.Normal`
+3. `torch.distributions.categorical.Categorical`
+4. `torch.distributions.binomial.Binomial`
+5. `torch.distributions.poisson.Poisson`
+6. `torch.distributions.exponential.Exponential`
+7. `torch.distributions.gamma.Gamma`
+8. `torch.distributions.beta.Beta`
+9. `torch.distributions.lognormal.LogNormal`
+10. `torch.distributions.uniform.Uniform`

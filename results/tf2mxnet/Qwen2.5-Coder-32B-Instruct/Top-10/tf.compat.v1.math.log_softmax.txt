@@ -1,0 +1,10 @@
+mxnet.ndarray.softmax
+mxnet.ndarray.log_softmax
+mxnet.symbol.softmax
+mxnet.symbol.log_softmax
+mxnet.gluon.nn.SoftmaxActivation
+mxnet.gluon.nn.LogSoftmaxActivation
+mxnet.ndarray.SpecialFunctions.softmax
+mxnet.ndarray.SpecialFunctions.log_softmax
+mxnet.symbol.SpecialFunctions.softmax
+mxnet.symbol.SpecialFunctions.log_softmax

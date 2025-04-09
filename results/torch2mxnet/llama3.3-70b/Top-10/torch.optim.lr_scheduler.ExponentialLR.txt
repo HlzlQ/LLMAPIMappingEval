@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `torch.optim.lr_scheduler.ExponentialLR`:
+
+1. mx.lr_scheduler.ExponentialScheduler
+2. mx.lr_scheduler.MultiFactorScheduler
+3. mx.lr_scheduler.PolyScheduler
+4. mx.lr_scheduler.StepScheduler
+5. mx.lr_scheduler.FactorScheduler
+6. mx.lr_scheduler.CosineAnnealingScheduler
+7. mx.optimizer.lr_scheduler.Exponential
+8. mx.optimizer.lr_scheduler.MultiFactor
+9. mx.optimizer.lr_scheduler.Plateau
+10. mx.optimizer.lr_scheduler.CosineAnnealing

@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.Softplus`:
+
+1. tf.nn.softplus
+2. tf.keras.layers.Softplus
+3. tf.math.softplus
+4. tf.keras.activations.softplus
+5. tf.compat.v1.nn.softplus
+6. tf.raw_ops.Softplus
+7. tf.keras.layers.Activation('softplus')
+8. tf.nn.softmax
+9. tf.keras.layers.ThresholdedReLU
+10. tf.math.exp

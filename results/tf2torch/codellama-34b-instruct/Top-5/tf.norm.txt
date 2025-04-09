@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.norm`:
+
+1. `torch.norm` - Computes the norm of a tensor.
+2. `torch.linalg.norm` - Computes the matrix or vector norm.
+3. `torch.nn.functional.normalize` - Normalizes a tensor by dividing it by its L2 norm.
+4. `torch.nn.functional.batch_norm` - Applies batch normalization to a tensor.
+5. `torch.nn.functional.instance_norm` - Applies instance normalization to a tensor.

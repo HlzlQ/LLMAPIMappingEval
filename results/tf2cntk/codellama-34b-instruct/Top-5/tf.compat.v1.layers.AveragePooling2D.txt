@@ -1,0 +1,6 @@
+
+* cntk.layers.AveragePooling2D
+* cntk.ops.average_pooling2d
+* cntk.layers.MaxPooling2D
+* cntk.ops.max_pooling2d
+* cntk.layers.GlobalAveragePooling2D

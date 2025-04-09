@@ -1,0 +1,5 @@
+1. torch.nn.Softplus
+2. torch.nn.functional.softplus
+3. torch.sigmoid
+4. torch.relu
+5. torch.nn.functional.elu

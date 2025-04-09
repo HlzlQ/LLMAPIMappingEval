@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for loading a model:
+
+1. `tf.keras.models.load_model()`
+2. `tf.saved_model.load()`
+3. `tf.train.Saver().restore()`
+4. `tf.keras.models.Model.from_config()`
+5. `tf.keras.models.Model.from_json()`

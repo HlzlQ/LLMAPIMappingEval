@@ -1,0 +1,10 @@
+cntk.layers.pooling.max_pooling
+cntk.layers.sequence.max_pooling
+cntk.layers.reduce.reduce_max
+cntk.layers.sequence.reduce_max
+cntk.layers.sequence.unpooling.unpooling
+cntk.layers.sequence.gather.gather
+cntk.layers.sequence.scatter.scatter
+cntk.layers.sequence.slice.slice
+cntk.layers.sequence.dynamic_axis_gather.dynamic_axis_gather
+cntk.layers.sequence.dynamic_axis_scatter.dynamic_axis_scatter

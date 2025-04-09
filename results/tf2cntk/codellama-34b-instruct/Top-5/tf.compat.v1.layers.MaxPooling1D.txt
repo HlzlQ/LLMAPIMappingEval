@@ -1,0 +1,6 @@
+
+* cntk.layers.MaxPooling1D
+* cntk.ops.max_pooling
+* cntk.ops.pooling
+* cntk.layers.pooling
+* cntk.layers.max_pooling

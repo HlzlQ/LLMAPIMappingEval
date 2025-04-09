@@ -1,0 +1,12 @@
+
+Answer: 
+1. mxnet.ndarray.ones_like
+2. mxnet.init.One
+3. mxnet.initializer.One
+4. mxnet.random.uniform
+5. mxnet.ndarray.zeros_like
+6. mxnet.init.Xavier
+7. mxnet.initializer.Xavier
+8. mxnet.random.normal
+9. mxnet.ndarray.full_like
+10. mxnet.init.Constant

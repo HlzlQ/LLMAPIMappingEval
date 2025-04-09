@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.io.file.exists` in C#:
+
+1. java.io.File.exists
+2. java.nio.file.Files.exists
+3. java.nio.file.Paths.get.exists
+4. java.io.FileInputStream.exists
+5. java.nio.file.FileSystem.exists
+6. java.nio.file.FileStore.exists
+7. java.io.File.isDirectory
+8. java.nio.file.Files.isRegularFile
+9. java.nio.file.Files.notExists
+10. java.io.File.isFile

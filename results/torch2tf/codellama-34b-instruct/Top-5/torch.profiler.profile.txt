@@ -1,0 +1,7 @@
+  torch.profiler.profile() is a PyTorch API for profiling the performance of a model. The equivalent API in TensorFlow is:
+
+1. tf.profiler.experimental.start()
+2. tf.profiler.experimental.stop()
+3. tf.profiler.experimental.trace_on()
+4. tf.profiler.experimental.trace_off()
+5. tf.profiler.experimental.get_profile()

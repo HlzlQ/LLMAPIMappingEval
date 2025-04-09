@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.sigmoid`:
+
+1. CNTK.Sigmoid
+2. CNTK.Logistic
+3. CNTK.Activation.Sigmoid
+4. CNTK.Functions.Sigmoid
+5. CNTK.Layers.Sigmoid
+6. CNTK.Blocks.Sigmoid
+7. CNTK.ops.sigmoid
+8. CNTK.activations.sigmoid
+9. CNTK.layers.activation.Sigmoid
+10. CNTK.functions.activation.sigmoid

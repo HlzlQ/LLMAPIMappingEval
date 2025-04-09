@@ -1,0 +1,5 @@
+1. ResultSet.getBoolean(String columnLabel)
+2. ResultSet.getObject(int columnIndex)
+3. ResultSet.getString(String columnName)
+4. ResultSet.getDate(String columnName)
+5. ResultSet.next()

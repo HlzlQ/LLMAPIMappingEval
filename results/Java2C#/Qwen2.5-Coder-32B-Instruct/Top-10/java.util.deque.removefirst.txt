@@ -1,0 +1,10 @@
+System.Collections.Generic.LinkedList<T>.RemoveFirst  
+System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue  
+System.Collections.Concurrent.ConcurrentStack<T>.TryPop  
+System.Collections.Generic.Queue<T>.Dequeue  
+System.Collections.Generic.Stack<T>.Pop  
+System.Collections.Generic.SortedSet<T>.Remove  
+System.Collections.Generic.HashSet<T>.Remove  
+System.Collections.ArrayList.RemoveAt  
+System.Collections.Specialized.StringCollection.RemoveAt  
+System.Collections.Hashtable.Remove

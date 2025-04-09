@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Int64.Parse()
+2. System.Int64.TryParse()
+3. System.Convert.ToInt64()
+4. System.IConvertible.ToInt64()
+5. System.Numerics.BigInteger.Parse()
+6. System.Numerics.BigInteger.TryParse()
+7. System.Numerics.BigInteger.ToInt64()
+8. System.Math.Round()
+9. System.Math.Floor()
+10. System.Math.Ceiling()

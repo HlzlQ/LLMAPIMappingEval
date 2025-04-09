@@ -1,0 +1,9 @@
+C# does not have a direct equivalent to Java's `AbstractStringBuilder` class or its `substring()` method. However, C# provides several string manipulation methods that can be used to achieve similar functionality. Here are some possible alternatives:
+
+1. `string.Substring(int startIndex, int length)`: This method returns a new string that is a substring of the original string, starting at the specified index and continuing for the specified number of characters.
+2. `string.Remove(int startIndex, int count)`: This method removes the specified number of characters from the original string, starting at the specified index.
+3. `string.Substring(int startIndex)`: This method returns a new string that is a substring of the original string, starting at the specified index and continuing to the end of the string.
+4. `string.Split(char[] separator)`: This method splits the original string into an array of substrings, using the specified character as a separator.
+5. `string.Replace(string oldValue, string newValue)`: This method replaces all occurrences of the specified substring in the original string with a new substring.
+
+It's worth noting that C# also provides several other string manipulation methods, such as `string.Trim()`, `string.ToLower()`, and `string.ToUpper()`, which can be used to perform various string operations.

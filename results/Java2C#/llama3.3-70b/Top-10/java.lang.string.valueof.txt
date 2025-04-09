@@ -1,0 +1,10 @@
+1. System.Convert.ToString
+2. System.String.Format
+3. System.Object.ToString
+4. System.String.Concat
+5. System.Text.StringBuilder.ToString
+6. System.String.Join
+7. System.Web.HttpUtility.HtmlEncode
+8. System.Security.SecurityElement.Escape
+9. System.Xml.Linq.XElement.ToString
+10. System.Windows.Forms.MessageBox.Show

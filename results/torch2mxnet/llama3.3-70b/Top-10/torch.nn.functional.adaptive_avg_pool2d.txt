@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.functional.adaptive_avg_pool2d`:
+
+1. mxnet.ndarray.Pooling
+2. mxnet.gluon.nn.AvgPool2D
+3. mxnet.gluon.nn.AdaptiveAvgPool2D
+4. mxnet.ndarray.LROIPooling
+5. mxnet.gluon.nn.MaxPool2D
+6. mxnet.ndarray.SpatialTransformer
+7. mxnet.gluon.nn.GlobalAvgPool2D
+8. mxnet.ndarray.RROIAlign
+9. mxnet.gluon.nn.AvgPool1D
+10. mxnet.ndarray.contrib.AdaptiveAvgPooling2D

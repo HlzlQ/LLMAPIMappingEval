@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.TreeMap`:
+
+1. `System.Collections.Generic.SortedDictionary<TKey, TValue>`
+2. `System.Collections.Generic.SortedList<TKey, TValue>`
+3. `System.Collections.Generic.SynchronizedSortedSet<T>`
+4. `System.Collections.Concurrent.ConcurrentSkipListSet<T>`
+5. `System.Collections.Immutable.ImmutableSortedDictionary<TKey, TValue>`
+6. `System.Collections.Immutable.ImmutableSortedList<TKey, TValue>`
+7. `System.Collections.Immutable.ImmutableSortedSet<T>`
+8. `System.Linq.Enumerable.OrderBy<TSource, TKey>`
+9. `System.Linq.Enumerable.ThenBy<TSource, TKey>`
+10. `System.Linq.Enumerable.OrderByDescending<TSource, TKey>`

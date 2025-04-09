@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for mean squared error loss:
+
+1. mxnet.loss.mean_squared_error
+2. mxnet.loss.MSELoss
+3. mxnet.loss.MeanSquaredError
+4. mxnet.loss.mse
+5. mxnet.loss.mean_squared_error_with_logits
+6. mxnet.loss.MSEWithLogits
+7. mxnet.loss.MeanSquaredErrorWithLogits
+8. mxnet.loss.mse_with_logits
+9. mxnet.loss.mean_squared_error_with_softmax
+10. mxnet.loss.MSEWithSoftmax

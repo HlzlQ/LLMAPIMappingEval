@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.train.RMSPropOptimizer`:
+
+1. mxnet.optimizer.RMSprop
+2. mxnet.optimizer.RMSPROP
+3. mxnet.optimizer.rmsprop
+4. mxnet.optimizer.RMSPropCreator
+5. mxnet.optimizer.create_rmsprop_optimizer

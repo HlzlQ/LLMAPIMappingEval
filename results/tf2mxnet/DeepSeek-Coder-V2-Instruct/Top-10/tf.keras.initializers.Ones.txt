@@ -1,0 +1,2 @@
+
+Answer: GlorotUniform, Zeros, RandomNormal, RandomUniform, HeNormal, HeUniform, LeCunNormal, LeCunUniform, Ones, Constant

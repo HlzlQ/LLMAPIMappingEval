@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.replace` in C#:
+
+1. java.lang.String.replace
+2. java.lang.String.replaceAll
+3. java.util.regex.Matcher.replaceFirst
+4. java.util.regex.Matcher.replaceAll
+5. org.apache.commons.lang3.StringUtils.replace
+6. org.apache.commons.lang3.StringUtils.replaceEach
+7. org.apache.commons.lang3.StringUtils.replaceIgnoreCase
+8. org.springframework.util.StringUtils.replace
+9. com.google.common.base.Strings.nullToEmpty
+10. com.google.common.base.Strings.replace

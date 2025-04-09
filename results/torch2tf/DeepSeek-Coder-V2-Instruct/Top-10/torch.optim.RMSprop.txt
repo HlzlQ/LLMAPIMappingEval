@@ -1,0 +1,17 @@
+
+
+```python
+import tensorflow as tf
+```
+
+### Answer:
+1. `tf.train.RMSPropOptimizer`
+2. `tf.keras.optimizers.RMSprop`
+3. `tf.compat.v1.train.RMSPropOptimizer`
+4. `tf.contrib.opt.RMSPropOptimizer`
+5. `tf.optimizers.RMSprop` (deprecated)
+6. `tf.train.experimental.enable_resource_variables()`
+7. `tf.keras.optimizers.legacy.RMSprop`
+8. `tf.compat.v1.train.RMSPropOptimizer`
+9. `tf.contrib.opt.RMSPropOptimizer`
+10. `tf.optimizers.RMSprop` (deprecated)

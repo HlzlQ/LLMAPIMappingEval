@@ -1,0 +1,2 @@
+
+MXNet equivalent: `mxnet.ndarray.MaxPooling2D`

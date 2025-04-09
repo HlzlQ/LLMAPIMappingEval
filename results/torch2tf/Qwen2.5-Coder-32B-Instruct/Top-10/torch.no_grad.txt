@@ -1,0 +1,10 @@
+tf.stop_gradient  
+tf.GradientTape(persistent=False)  
+tf.function(jit_compile=None)  
+tf.Module.trainable_variables  
+tf.keras.Model.trainable  
+tf.keras.layers.Layer.trainable  
+tf.Variable.assign  
+tf.Variable.assign_add  
+tf.Variable.assign_sub  
+tf.Variable.scatter_nd_update

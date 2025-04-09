@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.learners.adam_learner
+2. cntk.learners.momentum_sgd_learner
+3. cntk.learners.adagrad_learner
+4. cntk.learners.rmsprop_learner
+5. cntk.trainer.create_trainer
+6. cntk.initializer.uniform
+7. cntk.ops.placeholder
+8. cntk.ops.sigmoid
+9. cntk.ops.reduce_mean
+10. cntk.losses.squared_error

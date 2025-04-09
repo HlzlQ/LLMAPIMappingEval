@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.metrics.CosineSimilarity`:
+
+1. `cntk.metrics.cosine_similarity`
+2. `cntk.metrics.cosine_distance`
+3. `cntk.metrics.dot_product`
+4. `cntk.metrics.euclidean_distance`
+5. `cntk.metrics.manhattan_distance`

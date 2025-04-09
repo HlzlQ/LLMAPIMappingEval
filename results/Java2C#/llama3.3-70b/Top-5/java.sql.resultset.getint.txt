@@ -1,0 +1,5 @@
+1. System.Data.IDataReader.GetInt32
+2. System.Data.SqlClient.SqlDataReader.GetInt32
+3. System.Data.Common.DbDataReader.GetInt32
+4. System.Data.OleDb.OleDbDataReader.GetInt32
+5. System.Data.Odbc.OdbcDataReader.GetInt32

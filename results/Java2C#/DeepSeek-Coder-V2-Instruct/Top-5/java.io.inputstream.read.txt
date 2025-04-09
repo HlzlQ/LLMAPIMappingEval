@@ -1,0 +1,5 @@
+1. Read()
+2. Read(byte[], int, int)
+3. ReadByte()
+4. ReadLine()
+5. Close()

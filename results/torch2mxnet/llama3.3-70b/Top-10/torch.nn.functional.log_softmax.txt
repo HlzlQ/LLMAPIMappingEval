@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.functional.log_softmax`:
+
+1. mxnet.ndarray.softmax
+2. mxnet.ndarray.softmax_output
+3. mxnet.gluon.nn.Softmax
+4. mxnet.gluon.nn.LogSoftmax
+5. mxnet.ndarray.log_softmax
+6. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+7. mxnet.gluon.loss.SoftmaxOutput
+8. mxnet.ndarray.softmax_cross_entropy
+9. mxnet.gluon.nn.SoftmaxActivation
+10. mxnet.gluon.loss.LogSoftmaxOutput

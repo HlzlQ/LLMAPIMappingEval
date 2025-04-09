@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.ConvTranspose3d`:
+
+1. `cntk.layers.Deconvolution`
+2. `cntk.layers.TransposedConvolution`
+3. `cntk.layers.ConvolutionTransposed`
+4. `cntk.layers.Deconvolution3D`
+5. `cntk.layers.TransposeConv3D`
+6. `cntk.layers.Conv3DTranspose`
+7. `cntk.layers.UpSample3D`
+8. `cntk.layers.Deconv3D`
+9. `cntk.layers.TransposedConv3DLayer`
+10. `cntk.layers.ConvolutionTranspose3D`

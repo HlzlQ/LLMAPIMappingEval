@@ -1,0 +1,1 @@
+C# does not have an exact equivalent of the `java.util.Map.containsValue()` method. However, you can use the `ContainsValue()` method of the `Dictionary<TKey, TValue>` class in C# to achieve similar functionality.

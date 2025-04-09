@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely Java APIs for the given C# API:
+
+1. `java.lang.String.substring(int beginIndex, int endIndex)`
+2. `java.lang.String.substring(int beginIndex)`
+3. `java.lang.String.subSequence(int beginIndex, int endIndex)`
+4. `java.lang.String.substring(int beginIndex, int endIndex, boolean isEndInclusive)`
+5. `java.lang.String.substring(int beginIndex, int endIndex, boolean isBeginInclusive, boolean isEndInclusive)`

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.IO.Directory.CreateDirectory` in C#:
+
+1. java.io.File.mkdir()
+2. java.io.File.mkdirs()
+3. java.nio.file.Files.createDirectory()
+4. java.nio.file.Files.createDirectories()
+5. java.nio.file.Path.mkdir()
+6. java.nio.file.Path.mkdirs()
+7. org.apache.commons.io.FileUtils.forceMkdir()
+8. org.apache.commons.io.FileUtils.mkdir()
+9. java.io.FileSystem.createDirectory()
+10. java.nio.file.FileSystemProvider.createDirectory()

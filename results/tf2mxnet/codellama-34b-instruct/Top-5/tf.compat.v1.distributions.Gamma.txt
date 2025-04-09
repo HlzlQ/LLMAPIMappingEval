@@ -1,0 +1,5 @@
+  tf.random.gamma
+mxnet.numpy.random.gamma
+mxnet.numpy.random.standard_gamma
+mxnet.numpy.random.exponential
+mxnet.numpy.random.poisson

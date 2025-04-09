@@ -1,0 +1,16 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+cntk_initializers = {
+    "glorot_uniform": C.glorot_uniform(),
+    # Add more mappings if necessary
+}
+
+# Print the names of the 10 most likely CNTK APIs with similar functions
+for initializer in cntk_initializers:
+    print(initializer)
+```

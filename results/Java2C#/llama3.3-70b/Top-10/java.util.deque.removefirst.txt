@@ -1,0 +1,10 @@
+1. System.Collections.Generic.LinkedList<T>.RemoveFirst
+2. System.Collections.Generic.Queue<T>.Dequeue
+3. System.Collections.Generic.Stack<T>.Pop
+4. System.Linq.Enumerable.TakeWhile
+5. System.Collections.Generic.List<T>.RemoveAt
+6. System.Collections.Generic.SortedSet<T>.Remove
+7. System.Collections.Generic.HashSet<T>.Remove
+8. System.Collections.Generic.Dictionary<TKey, TValue>.Remove
+9. System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue
+10. System.Collections.Concurrent.ConcurrentStack<T> does not exist, closest is System.Collections.Concurrent.BlockingCollection<T>.Take

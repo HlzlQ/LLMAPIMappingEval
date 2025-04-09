@@ -1,0 +1,12 @@
+
+
+1. torch.optim.RMSprop
+2. torch.optim.Adam
+3. torch.optim.SGD
+4. torch.nn.functional.cross_entropy
+5. torch.nn.CrossEntropyLoss
+6. torch.nn.MSELoss
+7. torch.nn.L1Loss
+8. torch.nn.BCELoss
+9. torch.nn.BCEWithLogitsLoss
+10. torch.nn.SmoothL1Loss

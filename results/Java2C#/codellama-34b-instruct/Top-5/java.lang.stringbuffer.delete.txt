@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each Java API:
+
+1. java.lang.StringBuffer.delete(int start, int end)
+	* C# equivalent: System.Text.StringBuilder.Remove(int startIndex, int length)
+2. java.lang.StringBuffer.deleteCharAt(int index)
+	* C# equivalent: System.Text.StringBuilder.Remove(int startIndex, int length)
+3. java.lang.StringBuffer.replace(int start, int end, String str)
+	* C# equivalent: System.Text.StringBuilder.Replace(string oldValue, string newValue)
+4. java.lang.StringBuffer.reverse()
+	* C# equivalent: System.Linq.Enumerable.Reverse(System.Collections.Generic.IEnumerable<TSource>)
+5. java.lang.StringBuffer.toString()
+	* C# equivalent: System.Text.StringBuilder.ToString()

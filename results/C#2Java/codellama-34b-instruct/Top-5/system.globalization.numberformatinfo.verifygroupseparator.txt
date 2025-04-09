@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the C# API `system.globalization.numberformatinfo.verifygroupseparator`:
+
+1. `java.text.NumberFormat.isGroupingUsed()`: This method returns a boolean indicating whether or not grouping is used in the number format.
+2. `java.text.DecimalFormat.getGroupingSize()`: This method returns the size of the group for the decimal format.
+3. `java.text.NumberFormat.getGroupingSeparator()`: This method returns the character used to separate groups in the number format.
+4. `java.text.DecimalFormatSymbols.getGroupingSeparator()`: This method returns the grouping separator symbol for the decimal format.
+5. `java.text.NumberFormat.setGroupingUsed(boolean)`: This method sets whether or not grouping is used in the number format.

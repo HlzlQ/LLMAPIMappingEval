@@ -1,0 +1,10 @@
+1. IndexOf
+2. LastIndexOf
+3. Insert
+4. Remove
+5. Replace
+6. Substring
+7. Append
+8. AppendFormat
+9. Clear
+10. Capacity

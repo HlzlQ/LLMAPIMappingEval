@@ -1,0 +1,10 @@
+torch.matmul  
+torch.bmm  
+torch.einsum  
+torch.mm  
+torch.dot  
+torch.tensordot  
+torch.mv  
+torch.addmm  
+torch.addr  
+torch.smm

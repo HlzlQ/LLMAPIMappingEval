@@ -1,0 +1,10 @@
+torch.distributions.gamma.Gamma
+torch.distributions.Gamma
+torch.nn.functional.gamma
+torch.special.gammaln
+torch.special.gamma
+torch.tensor_gamma
+torch.tensor_gammaln
+torch.distributions.utils.clamp_probs
+torch.distributions.utils.probs_to_logits
+torch.distributions.utils.logits_to_probs

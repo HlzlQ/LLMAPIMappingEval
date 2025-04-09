@@ -1,0 +1,10 @@
+System.Collections.Generic.Dictionary<TKey, TValue>.Values
+System.Linq.Lookup<TKey, TElement>.Values
+System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Values
+System.Data.DataSet.Tables
+System.Data.DataTableCollection.Tables
+System.Web.UI.ControlCollection.All
+System.Windows.Forms.Control.Controls
+System.IO.DirectoryInfo.GetDirectories()
+System.Reflection.Module.GetMethods(BindingFlags)
+System.Resources.ResourceManager.GetResourceSet(CultureInfo, bool, bool)

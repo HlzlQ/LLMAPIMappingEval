@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Hashtable.get()
+2. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey key)
+3. System.Collections.Specialized.NameObjectCollectionBase.Get(int index)
+4. System.Collections.Specialized.NameObjectCollectionBase.Get(string name)
+5. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryGetValue(TKey key)
+6. System.Collections.Generic.SortedList<TKey, TValue>.IndexOfKey(TKey key)
+7. System.Collections.Generic.SortedList<TKey, TValue>.IndexOfValue(TValue value)
+8. System.Collections.Specialized.StringCollection.Get(int index)
+9. System.Collections.Specialized.StringCollection.Get(string name)
+10. System.Collections.Concurrent.ConcurrentBag<T>.TryTake(out T result)

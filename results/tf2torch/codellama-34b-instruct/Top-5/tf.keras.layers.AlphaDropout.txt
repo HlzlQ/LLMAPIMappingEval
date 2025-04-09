@@ -1,0 +1,6 @@
+
+* `torch.nn.AlphaDropout`
+* `torch.nn.functional.alpha_dropout`
+* `torch.nn.modules.dropout.AlphaDropout`
+* `torch.nn.modules.dropout.Dropout`
+* `torch.nn.modules.dropout.Dropout2d`

@@ -1,0 +1,5 @@
+1. NUnit.Framework.Assert.AreEqual
+2. Xunit.Assert.Equal
+3. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+4. NSubstitute.ReturnsExtensions.ReturnsInOrder
+5. Moq.Mock.SetupGet

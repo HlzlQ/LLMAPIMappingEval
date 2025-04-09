@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.GRUCell | mxnet.rnn.GRUCell |
+  | torch.nn.GRU | mxnet.rnn.GRU |
+  | torch.nn.LSTMCell | mxnet.rnn.LSTMCell |
+  | torch.nn.LSTM | mxnet.rnn.LSTM |
+  | torch.nn.RNNCell | mxnet.rnn.RNNCell |
+  | torch.nn.RNN | mxnet.rnn.RNN |
+  | torch.nn.SequentialRNNCell | mxnet.rnn.SequentialRNNCell |
+  | torch.nn.SequentialRNN | mxnet.rnn.SequentialRNN |
+  | torch.nn.BidirectionalRNN | mxnet.rnn.BidirectionalRNN |

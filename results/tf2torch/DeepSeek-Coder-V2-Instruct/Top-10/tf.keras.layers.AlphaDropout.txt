@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Dropout
+2. torch.nn.BatchNorm1d
+3. torch.nn.BatchNorm2d
+4. torch.nn.LayerNorm
+5. torch.nn.InstanceNorm1d
+6. torch.nn.InstanceNorm2d
+7. torch.nn.GroupNorm
+8. torch.nn.SyncBatchNorm
+9. torch.nn.Dropout2D
+10. torch.nn.Dropout3D

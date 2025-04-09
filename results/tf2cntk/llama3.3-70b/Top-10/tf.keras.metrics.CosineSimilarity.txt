@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that may have similar functionality to `tensorflow.keras.metrics.CosineSimilarity`:
+
+1. CNTK.CrossEntropy
+2. CNTK.SquaredError
+3. CNTK.MeanSquaredError
+4. CNTK.RootMeanSquaredError
+5. CNTK.ClassificationError
+6. CNTK.BinaryCrossEntropy
+7. CNTK.KullbackLeiblerDivergence
+8. CNTK.JensenShannonDivergence
+9. CNTK.CosineDistance
+10. CNTK.EuclideanDistance

@@ -1,0 +1,29 @@
+
+<jupyter_text>
+Answer: ```torch.nn.functional.dot```  2. Describe how to implement a custom loss function in TensorFlow/Keras. Provide an example code snippet.  Answer: To implement a custom loss function in TensorFlow/Keras, you can create a Python function that takes the true labels and predicted outputs as inputs and returns the computed loss value. This function should follow the naming convention `loss_fn` where `loss` is followed by the name of your custom function (e.g., `custom_loss_fn`). Here's an example code snippet demonstrating how to implement a simple custom loss function:
+<jupyter_code>
+import tensorflow as tf
+
+# Define the custom loss function
+def custom_loss_fn(y_true, y_pred):
+    # Compute the mean squared error
+    mse = tf.keras.losses.mean_squared_error(y_true, y_pred)
+    
+    # Add a penalty term to encourage smoothness (example: L2 regularization)
+    penalty = tf.reduce_sum(tf.square(tf.keras.backend.gradients(mse, y_pred)))
+    
+    # Return the total loss as the sum of MSE and penalty
+    return mse + penalty
+
+# Example usage in a model
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Dense(10, input_shape=(784,), activation='relu'),
+    tf.keras.layers.Dense(10, activation='softmax')
+])
+
+# Compile the model with the custom loss function
+model.compile(optimizer=tf.keras.optimizers.Adam(), 
+              loss=custom_loss_fn,  # Use the custom loss function here
+              metrics=['accuracy'])
+<jupyter_output>
+<empty_output>

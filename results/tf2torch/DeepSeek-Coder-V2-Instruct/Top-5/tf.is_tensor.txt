@@ -1,0 +1,8 @@
+
+Answer: ```python
+torch.is_tensor
+torch.Tensor
+torch.as_tensor
+torch.from_numpy
+torch.isinstance
+```

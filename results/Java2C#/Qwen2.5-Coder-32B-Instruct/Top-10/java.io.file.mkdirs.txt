@@ -1,0 +1,10 @@
+System.IO.Directory.CreateDirectory  
+System.IO.Directory.CreateDirectories  
+System.IO.DirectoryInfo.CreateSubdirectory  
+System.IO.Directory.CreateDirectoryAsync  
+System.IO.Directory.CreateDirectoriesAsync  
+System.IO.DirectoryInfo.CreateSubdirectoryAsync  
+System.IO.Directory.CreateDirectoryWithPermissions  
+System.IO.Directory.CreateDirectoriesWithPermissions  
+System.IO.DirectoryInfo.CreateSubdirectoryWithPermissions  
+System.IO.Directory.CreateDirectoryWithSecurity

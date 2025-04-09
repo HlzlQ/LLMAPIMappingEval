@@ -1,0 +1,5 @@
+1. tf.image.resize
+2. tf.keras.layers.UpSampling2D
+3. tf.compat.v1.image.resize_images
+4. tf.compat.v1.image.resize_bilinear
+5. tf.image.resize_bilinear

@@ -1,0 +1,4 @@
+
+CNTK equivalent of torch.nn.Flatten:
+
+* cntk.layers.Sequential([cntk.layers.Flatten()])

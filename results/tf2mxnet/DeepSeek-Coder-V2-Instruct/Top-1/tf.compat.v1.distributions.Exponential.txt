@@ -1,0 +1,57 @@
+
+MXNet Exponential
+```
+
+### 2. `tf.compat.v1.distributions.Normal`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Normal
+```
+
+### 3. `tf.compat.v1.distributions.Bernoulli`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Bernoulli
+```
+
+### 4. `tf.compat.v1.distributions.Categorical`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Categorical
+```
+
+### 5. `tf.compat.v1.distributions.MultivariateNormalFullCovariance`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet MultivariateNormalFullCovariance
+```
+
+### 6. `tf.compat.v1.distributions.Mixture`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Mixture
+```
+
+### 7. `tf.compat.v1.distributions.Gamma`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Gamma
+```
+
+### 8. `tf.compat.v1.distributions.Dirichlet`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Dirichlet
+```
+
+### 9. `tf.compat.v1.distributions.Laplace`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet Laplace
+```
+
+### 10. `tf.compat.v1.distributions.StudentT`
+```python
+#Please map the above TensorFlow API to the API with the same functions in MXNet.Only output the name of the API that you think is the most likely one, and no extra explanations are needed.
+MXNet StudentT
+```

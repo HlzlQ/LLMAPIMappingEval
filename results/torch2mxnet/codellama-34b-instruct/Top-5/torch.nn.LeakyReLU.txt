@@ -1,0 +1,5 @@
+  LeakyReLU: mxnet.ndarray.LeakyReLU
+  ReLU: mxnet.ndarray.relu
+  Sigmoid: mxnet.ndarray.sigmoid
+  Tanh: mxnet.ndarray.tanh
+  Softmax: mxnet.ndarray.softmax

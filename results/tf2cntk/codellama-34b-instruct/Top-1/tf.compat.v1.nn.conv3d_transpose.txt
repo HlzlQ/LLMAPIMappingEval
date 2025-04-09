@@ -1,0 +1,7 @@
+
+CNTK does not have an exact equivalent of `tensorflow.compat.v1.nn.conv3d_transpose`. However, you can use the following CNTK APIs to achieve a similar result:
+
+* `cntk.layers.ConvolutionTranspose3D`: This API performs a 3D transposed convolution operation on a 5D tensor (batch size, channels, depth, height, width). It is similar to the TensorFlow API in that it takes a filter and a stride as input, but it also requires the output shape of the transposed convolution.
+* `cntk.layers.Deconvolution3D`: This API performs a 3D deconvolution operation on a 5D tensor (batch size, channels, depth, height, width). It is similar to the TensorFlow API in that it takes a filter and a stride as input, but it also requires the output shape of the deconvolution.
+
+Both APIs have different parameters and usage compared to the TensorFlow API, so you may need to adjust your code accordingly.

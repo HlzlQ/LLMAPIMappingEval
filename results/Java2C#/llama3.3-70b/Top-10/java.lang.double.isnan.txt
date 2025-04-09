@@ -1,0 +1,10 @@
+1. System.Double.IsNaN
+2. System.Single.IsNaN
+3. System.Math.NaN
+4. System.Convert.ToDouble
+5. System.Double.TryParse
+6. System.Double.Equals
+7. System.Double.CompareTo
+8. System.Double.GetHashCode
+9. System.Double.Parse
+10. System.Double.MaxValue

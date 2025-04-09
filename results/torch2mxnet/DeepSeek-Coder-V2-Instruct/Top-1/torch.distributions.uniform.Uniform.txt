@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely corresponding MXNet API:
+mxnet.ndarray.uniform
+<jupyter_output>
+<empty_output>

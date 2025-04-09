@@ -1,0 +1,12 @@
+
+
+1. torch.tensor
+2. torch.from_numpy
+3. torch.ones_like
+4. torch.zeros_like
+5. torch.randn_like
+6. torch.reshape
+7. torch.transpose
+8. torch.matmul
+9. torch.nn.functional.relu
+10. torch.argmax

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.relu`:
+
+1. `cntk.ops.relu`
+2. `cntk.layers.activation.ReLU`
+3. `cntk.layers.activation.LeakyReLU`
+4. `cntk.layers.activation.ParametricReLU`
+5. `cntk.layers.activation.SoftReLU`

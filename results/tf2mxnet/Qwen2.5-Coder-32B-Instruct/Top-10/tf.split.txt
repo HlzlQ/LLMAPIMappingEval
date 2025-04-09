@@ -1,0 +1,10 @@
+mx.nd.split
+mx.symbol.split
+mx.ndarray.split_v2
+mx.symbol.split_v2
+mx.ndarray.SliceChannel
+mx.symbol.SliceChannel
+mx.ndarray.SliceLike
+mx.symbol.SliceLike
+mx.ndarray.SliceAxis
+mx.symbol.SliceAxis

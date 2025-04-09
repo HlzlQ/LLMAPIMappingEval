@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to `torch.nn.init.ones_`:
+
+1. `mxnet.initializer.Ones()`
+2. `mxnet.initializer.Constant(1)`
+3. `mxnet.initializer.Zeros()`
+4. `mxnet.initializer.RandomUniform(0, 1)`
+5. `mxnet.initializer.RandomNormal(0, 1)`
+6. `mxnet.initializer.TruncatedNormal(0, 1)`
+7. `mxnet.initializer.VarianceScaling(scale=1, mode='fan_in')`
+8. `mxnet.initializer.GlorotUniform()`
+9. `mxnet.initializer.HeNormal()`
+10. `mxnet.initializer.LeCunUniform()`

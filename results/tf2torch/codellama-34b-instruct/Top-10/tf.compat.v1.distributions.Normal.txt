@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Normal`:
+
+1. `torch.distributions.Normal`
+2. `torch.distributions.normal.Normal`
+3. `torch.distributions.normal.NormalDistribution`
+4. `torch.distributions.normal.NormalDistributionWithMeanAndVariance`
+5. `torch.distributions.normal.NormalDistributionWithMeanAndStandardDeviation`
+6. `torch.distributions.normal.NormalDistributionWithMeanAndPrecision`
+7. `torch.distributions.normal.NormalDistributionWithMeanAndScale`
+8. `torch.distributions.normal.NormalDistributionWithMeanAndShape`
+9. `torch.distributions.normal.NormalDistributionWithMeanAndRate`
+10. `torch.distributions.normal.NormalDistributionWithMeanAndInverseScale`

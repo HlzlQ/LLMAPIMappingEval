@@ -1,0 +1,2 @@
+
+Answer: torch.nn.AvgPool1d, AvgPool1D, Pooling1D, AveragePooling1D, MeanPooling1D, AvePool1D, AvgPool1d, AvgPooling1d, AvgPooling1D, AvgPool1d

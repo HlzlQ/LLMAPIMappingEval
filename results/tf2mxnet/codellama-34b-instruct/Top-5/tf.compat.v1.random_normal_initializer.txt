@@ -1,0 +1,5 @@
+  tf.keras.initializers.RandomNormal(mean=0.0, stddev=1.0)
+  mxnet.initializer.Normal(sigma=1.0)
+  mxnet.initializer.Xavier()
+  mxnet.initializer.MSRA()
+  mxnet.initializer.He()

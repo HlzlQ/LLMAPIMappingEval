@@ -1,0 +1,5 @@
+1. tf.pad
+2. tf.keras.layers.ZeroPadding1D
+3. tf.keras.layers.ZeroPadding2D
+4. tf.keras.layers.ZeroPadding3D
+5. tf.image.resize_with_pad

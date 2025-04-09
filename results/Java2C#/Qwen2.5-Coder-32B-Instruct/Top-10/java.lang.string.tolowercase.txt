@@ -1,0 +1,9 @@
+System.String.ToLower
+System.String.ToLowerInvariant
+System.Globalization.CultureInfo.TextInfo.ToLower
+System.Globalization.TextInfo.ToLower
+System.String.ToLower(System.IFormatProvider)
+System.Globalization.CultureInfo.TextInfo.ToLower(System.String)
+System.Globalization.TextInfo.ToLower(System.String, System.Int32, System.Int32)
+System.String.ToLower(System.Globalization.CultureInfo)
+System.Globalization.CultureInfo.TextInfo.ToLower(System.String, System.Globalization.CultureInfo)

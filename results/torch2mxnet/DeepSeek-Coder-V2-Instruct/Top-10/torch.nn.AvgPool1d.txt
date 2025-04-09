@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.contrib.AdaptiveAvgPooling1D
+2. mxnet.gluon.nn.AvgPool1D
+3. mxnet.ndarray.AvgPool1D
+4. mxnet.symbol.contrib.AdaptiveAvgPooling1D
+5. mxnet.sym.AvgPool1D
+6. mxnet.ndarray.Pooling1D
+7. mxnet.symbol.Pooling1D
+8. mxnet.sym.Pooling1D
+9. mxnet.gluon.nn.AvgPool1d
+10. mxnet.ndarray.contrib.AvgPool1d

@@ -1,0 +1,2 @@
+
+Answer: Dense, Activation, Dropout, Flatten, Conv2D

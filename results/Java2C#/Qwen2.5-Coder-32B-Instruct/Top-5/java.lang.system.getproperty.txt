@@ -1,0 +1,5 @@
+System.Environment.GetEnvironmentVariable  
+System.Environment.GetFolderPath  
+System.Environment.MachineName  
+System.Environment.OSVersion  
+System.Environment.UserName

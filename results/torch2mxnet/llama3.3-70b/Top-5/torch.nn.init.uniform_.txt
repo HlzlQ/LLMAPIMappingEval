@@ -1,0 +1,5 @@
+1. mxnet.ndarray.random.uniform
+2. mxnet.init.Uniform
+3. mxnet.gluon.nn.Dense(weight_initializer='uniform')
+4. mxnet.gluon.nn.Conv2D(weight_initializer='uniform')
+5. mxnet.initializer.Uniform

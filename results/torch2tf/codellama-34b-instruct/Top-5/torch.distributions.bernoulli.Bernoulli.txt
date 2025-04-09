@@ -1,0 +1,8 @@
+
+Here are five TensorFlow APIs that can be used for Bernoulli distribution:
+
+1. `tf.distributions.Bernoulli`
+2. `tf.random.bernoulli`
+3. `tf.distributions.Binomial`
+4. `tf.random.binomial`
+5. `tf.distributions.Poisson`

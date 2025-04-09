@@ -1,0 +1,10 @@
+torch.nn.LayerNorm  
+torch.nn.BatchNorm1d  
+torch.nn.BatchNorm2d  
+torch.nn.BatchNorm3d  
+torch.nn.GroupNorm  
+torch.nn.InstanceNorm1d  
+torch.nn.InstanceNorm2d  
+torch.nn.InstanceNorm3d  
+torch.nn.LocalResponseNorm  
+torch.nn.F.layer_norm

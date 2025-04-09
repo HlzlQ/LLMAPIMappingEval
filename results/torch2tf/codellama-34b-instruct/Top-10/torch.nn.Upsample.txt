@@ -1,0 +1,10 @@
+  tf.keras.layers.UpSampling2D
+  tf.keras.layers.UpSampling3D
+  tf.keras.layers.UpSampling1D
+  tf.keras.layers.UpSampling2DTranspose
+  tf.keras.layers.UpSampling3DTranspose
+  tf.keras.layers.UpSampling1DTranspose
+  tf.keras.layers.Upsample
+  tf.keras.layers.UpsampleLike
+  tf.keras.layers.UpsampleNearestNeighbor
+  tf.keras.layers.UpsampleBilinear

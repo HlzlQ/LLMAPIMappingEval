@@ -1,0 +1,5 @@
+1. tf.sparse.softmax
+2. tf.nn.log_softmax
+3. tf.math.log_softmax
+4. tf.keras.backend.sparse_softmax
+5. tf.compat.v1.nn.sparse_softmax_cross_entropy_with_logits

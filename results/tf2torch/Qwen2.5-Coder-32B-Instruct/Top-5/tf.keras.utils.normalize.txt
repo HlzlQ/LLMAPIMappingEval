@@ -1,0 +1,5 @@
+torch.nn.functional.normalize  
+torch.Tensor.norm  
+torch.linalg.norm  
+torch.utils.data.Dataset.transform  
+torchvision.transforms.Normalize

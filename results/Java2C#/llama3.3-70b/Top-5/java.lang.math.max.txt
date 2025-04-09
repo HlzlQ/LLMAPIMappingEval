@@ -1,0 +1,5 @@
+1. System.Math.Max
+2. MathNet.Numerics.Statistics.Statistics.Max
+3. Microsoft.ML.Data.Max
+4. Accord.Statistics.Measures.Max
+5. Extreme.Mathematics.Max

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.nn.conv3d_transpose`:
+
+1. `CNTK.layers.Deconvolution3D`
+2. `CNTK.layers.TransposedConvolution3D`
+3. `CNTK.ops.deconv3d`
+4. `CNTK.functions.deconvolution_3d`
+5. `CNTK.layers.ConvolutionTranspose3D`
+6. `CNTK.layers.UpSampling3D`
+7. `CNTK.ops.conv_transpose3d`
+8. `CNTK.functions.transposed_convolution_3d`
+9. `CNTK.layers.DeconvolutionLayer3D`
+10. `CNTK.layers.TransposeConvolutionLayer3D`

@@ -1,0 +1,10 @@
+1. System.Array.Copy
+2. System.Buffer.BlockCopy
+3. System.Array.Resize
+4. System.Linq.Enumerable.ToArray
+5. System.Collections.Generic.List<T>.ToArray
+6. System.IO.MemoryStream.WriteTo
+7. System.IO.Stream.CopyTo
+8. System.Runtime.InteropServices.Marshal.Copy
+9. System.Array.ConstrainedCopy
+10. System.Buffer.MemoryCopy

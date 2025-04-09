@@ -1,0 +1,10 @@
+torch.nn.functional.pixel_unshuffle  
+torch.nn.PixelUnshuffle  
+torch.reshape  
+torch.view  
+torch.permute  
+torch.chunk  
+torch.split  
+torch.stack  
+torch.cat  
+torch.squeeze

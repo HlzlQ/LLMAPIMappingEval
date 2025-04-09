@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch `torch.nn.Softmax` API:
+
+1. `cntk.layers.Softmax`
+2. `cntk.layers.SoftmaxLayer`
+3. `cntk.layers.SoftmaxActivation`
+4. `cntk.layers.SoftmaxOutput`
+5. `cntk.layers.SoftmaxLoss`
+6. `cntk.layers.SoftmaxCrossEntropy`
+7. `cntk.layers.SoftmaxBinaryCrossEntropy`
+8. `cntk.layers.SoftmaxMultiClass`
+9. `cntk.layers.SoftmaxMultiLabel`
+10. `cntk.layers.SoftmaxMultiOutput`

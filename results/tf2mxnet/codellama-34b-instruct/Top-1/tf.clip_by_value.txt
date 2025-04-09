@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent function to `tensorflow.clip_by_value` is `mxnet.ndarray.clip`.

@@ -1,0 +1,5 @@
+1. java.util.regex.Matcher.group(int group)
+2. java.util.regex.Matcher.start(int group)
+3. java.util.regex.Matcher.end(int group)
+4. java.util.regex.Matcher.groupCount()
+5. java.util.regex.Matcher.appendReplacement(StringBuffer sb, String replacement)

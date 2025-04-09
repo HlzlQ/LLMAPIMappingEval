@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Contains  
+System.Collections.Generic.HashSet<T>.Contains  
+System.Collections.Generic.ArrayList.Contains  
+System.Collections.Hashtable.ContainsKey  
+System.Collections.DictionaryBase.Contains

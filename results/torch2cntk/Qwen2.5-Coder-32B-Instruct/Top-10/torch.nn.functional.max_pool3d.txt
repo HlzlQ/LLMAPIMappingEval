@@ -1,0 +1,10 @@
+cntk.layers.MaxPooling
+cntk.ops.max_pooling
+cntk.layers.pooling
+cntk.layers.reduce_max
+cntk.ops.reduce_max
+cntk.layers.convolutional_3d
+cntk.layers.convolution_transpose
+cntk.layers.convolution
+cntk.layers.convolution_transpose_3d
+cntk.layers.convolution_3d_transpose

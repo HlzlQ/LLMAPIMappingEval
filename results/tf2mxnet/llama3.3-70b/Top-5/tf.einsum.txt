@@ -1,0 +1,7 @@
+Based on the functionality of `tensorflow.einsum`, here are 5 MXNet APIs that may have similar functions:
+
+1. mxnet.nd.einsum
+2. mxnet.ndarray.linalg_einsum
+3. mxnet.ndarray.sum
+4. mxnet.ndarray.dot
+5. mxnet.ndarray.batch_dot

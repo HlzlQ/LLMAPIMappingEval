@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. cntk.learners.Adagrad
+2. cntk.learners.Adam
+3. cntk.learners.Sgd
+4. cntk.learners.MomentumSGD
+5. cntk.learners.Rmsprop

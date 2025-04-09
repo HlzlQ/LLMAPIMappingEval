@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to TensorFlow's `einsum`:
+
+1. `torch.einsum` - This is a direct equivalent of TensorFlow's `einsum`, and it performs the same operation on tensors.
+2. `torch.matmul` - This API performs matrix multiplication, which is similar to `einsum` in that it can be used to perform contractions on tensors. However, it only supports two-dimensional matrices, whereas `einsum` can handle higher-order tensors.
+3. `torch.tensordot` - This API performs a tensor dot product, which is similar to `einsum` in that it can be used to perform contractions on tensors. However, it only supports two-dimensional tensors, whereas `einsum` can handle higher-order tensors.
+4. `torch.dot` - This API performs a dot product between two vectors, which is similar to `einsum` in that it can be used to perform contractions on tensors. However, it only supports one-dimensional vectors, whereas `einsum` can handle higher-order tensors.
+5. `torch.contract` - This API performs a contraction between two tensors, which is similar to `einsum` in that it can be used to perform contractions on tensors. However, it only supports two-dimensional tensors, whereas `einsum` can handle higher-order tensors.

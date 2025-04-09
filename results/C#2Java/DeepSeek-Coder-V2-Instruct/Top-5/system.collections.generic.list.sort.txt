@@ -1,0 +1,5 @@
+1. java.util.List.sort()
+2. java.util.Arrays.sort(T[] a)
+3. java.util.Collections.sort(List<?> list)
+4. java.util.Comparator
+5. java.util.stream.Stream.sorted()

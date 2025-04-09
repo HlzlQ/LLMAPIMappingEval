@@ -1,0 +1,5 @@
+cntk.random.bernoulli
+cntk.ops.random.bernoulli
+cntk.distributions.Bernoulli
+cntk.losses.binary_cross_entropy
+cntk.metrics.binary_accuracy

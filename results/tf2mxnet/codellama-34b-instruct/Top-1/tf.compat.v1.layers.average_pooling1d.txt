@@ -1,0 +1,14 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.layers.average_pooling1d`. However, MXNet provides a similar functionality through its `mxnet.ndarray` module. Specifically, you can use the `mean` function to calculate the average pooling over a 1D array.
+
+Here's an example of how you could implement average pooling in MXNet:
+```
+import mxnet as mx
+
+# Create a random 1D array
+data = mx.nd.random.normal(0, 1, (32,))
+
+# Calculate the average pooling over the array
+pooled_data = mx.nd.mean(data, axis=0)
+```
+In this example, `mx.nd.mean` calculates the mean of the input array along the specified axis (in this case, axis 0). The resulting pooled data is a 1D array with the same number of elements as the original data.

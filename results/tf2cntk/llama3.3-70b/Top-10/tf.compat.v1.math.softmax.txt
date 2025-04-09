@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `tensorflow.compat.v1.math.softmax`:
+
+1. CNTK.softmax
+2. CNTK.Softmax
+3. CNTK.activation.softmax
+4. CNTK.ops.softmax
+5. CNTK.Functions.softmax
+6. CNTK.layers.Softmax
+7. CNTK.losses.Softmax
+8. CNTK.metrics.Softmax
+9. CNTK.ops.activation.softmax
+10. CNTK.layers.activation.Softmax

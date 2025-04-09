@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: cntk.learners.adam
+<jupyter_output>
+<empty_output>

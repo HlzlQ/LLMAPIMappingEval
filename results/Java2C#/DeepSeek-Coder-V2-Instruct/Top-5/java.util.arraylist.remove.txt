@@ -1,0 +1,5 @@
+1. Remove(Object)
+2. RemoveAt(int)
+3. Clear()
+4. RemoveRange(int, int)
+5. RemoveAll(Predicate<T>)

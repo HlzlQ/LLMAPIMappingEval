@@ -1,0 +1,5 @@
+1. mxnet.nd.eye
+2. mxnet.numpy.eye
+3. mxnet.np.eye 
+4. mx.ndarray.eye 
+5. mx.np.eye

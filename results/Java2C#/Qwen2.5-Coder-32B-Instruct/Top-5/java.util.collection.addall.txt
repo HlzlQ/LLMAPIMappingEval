@@ -1,0 +1,5 @@
+System.Collections.Generic.List.AddRange  
+System.Collections.ArrayList.AddRange  
+System.Collections.Generic.Collection.AddRange  
+System.Collections.Generic.IList.AddRange  
+System.Collections.Generic.ICollection.AddRange

@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for hinge embedding loss:
+
+1. `tf.keras.losses.HingeEmbeddingLoss`
+2. `tf.keras.losses.hinge_embedding_loss`
+3. `tf.nn.hinge_embedding_loss`
+4. `tf.nn.hinge_embedding_loss_with_logits`
+5. `tf.nn.hinge_embedding_loss_with_softmax`
+6. `tf.keras.layers.HingeEmbeddingLoss`
+7. `tf.keras.layers.hinge_embedding_loss`
+8. `tf.keras.layers.hinge_embedding_loss_with_logits`
+9. `tf.keras.layers.hinge_embedding_loss_with_softmax`
+10. `tf.nn.hinge_embedding_loss_with_sigmoid`

@@ -1,0 +1,10 @@
+System.IO.Directory.Exists  
+System.IO.DirectoryInfo.Exists  
+System.IO.File.GetAttributes  
+System.IO.Path.HasExtension  
+System.IO.Path.GetFileName  
+System.IO.Path.GetDirectoryName  
+System.IO.Path.GetFullPath  
+System.IO.Path.Combine  
+System.IO.Path.GetPathRoot  
+System.IO.Path.IsPathFullyQualified

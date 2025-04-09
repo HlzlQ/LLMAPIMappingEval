@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.IO.StreamReader.Read` method:
+
+1. `java.io.BufferedReader.read()`
+2. `java.io.InputStreamReader.read()`
+3. `java.io.FileReader.read()`
+4. `java.nio.channels.Channels.newReader()`
+5. `java.nio.file.Files.newBufferedReader()`
+6. `java.nio.file.Files.newInputStreamReader()`
+7. `java.nio.file.Files.newFileReader()`
+8. `java.io.DataInputStream.read()`
+9. `java.io.ObjectInputStream.read()`
+10. `java.io.SequenceInputStream.read()`

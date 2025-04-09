@@ -1,0 +1,11 @@
+
+Answer: 1. AveragePooling
+2. MaxPooling
+3. GlobalAveragePooling
+4. GlobalMaxPooling
+5. Pooling
+6. AvgPool
+7. MaxPool
+8. GlobalAvgPool
+9. GlobalMaxPool
+10. Pool

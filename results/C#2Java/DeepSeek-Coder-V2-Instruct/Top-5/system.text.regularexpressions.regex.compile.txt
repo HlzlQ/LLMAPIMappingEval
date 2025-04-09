@@ -1,0 +1,5 @@
+1. java.util.regex.Pattern.compile
+2. javax.script.ScriptEngineManager.getEngineByName
+3. javax.xml.transform.TransformerFactory.newInstance
+4. org.w3c.dom.DocumentBuilderFactory.newInstance
+5. java.sql.DriverManager.getConnection

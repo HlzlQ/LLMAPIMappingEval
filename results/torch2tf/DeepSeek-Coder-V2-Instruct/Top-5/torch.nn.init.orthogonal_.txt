@@ -1,0 +1,8 @@
+
+Answer: ```
+1. tf.keras.initializers.Orthogonal
+2. tf.compat.v1.orthogonal_initializer
+3. tf.compat.v2.initializers.orthogonal
+4. tf.initializers.orthogonal
+5. tf.orthogonal_initializer
+```

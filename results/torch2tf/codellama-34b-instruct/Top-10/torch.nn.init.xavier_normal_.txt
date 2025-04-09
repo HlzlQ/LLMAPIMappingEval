@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for Xavier initialization:
+
+1. `tf.keras.initializers.GlorotNormal`
+2. `tf.keras.initializers.XavierNormal`
+3. `tf.keras.initializers.VarianceScaling`
+4. `tf.keras.initializers.TruncatedNormal`
+5. `tf.keras.initializers.RandomNormal`
+6. `tf.keras.initializers.HeNormal`
+7. `tf.keras.initializers.LeCunNormal`
+8. `tf.keras.initializers.KaimingNormal`
+9. `tf.keras.initializers.Orthogonal`
+10. `tf.keras.initializers.Identity`

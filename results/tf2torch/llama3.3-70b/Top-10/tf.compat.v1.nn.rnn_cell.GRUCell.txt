@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.nn.rnn_cell.GRUCell`:
+
+1. torch.nn.GRUCell
+2. torch.nn.RNNCell
+3. torch.nn.LSTMCell
+4. torch.nn.GRU
+5. torch.nn.RNN
+6. torch.nn.LSTM
+7. torch.nn.Module
+8. torch.nn.Sequential
+9. torch.nn.Linear
+10. torch.nn.ReLU

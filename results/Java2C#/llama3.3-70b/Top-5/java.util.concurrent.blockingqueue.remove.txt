@@ -1,0 +1,5 @@
+1. System.Collections.Concurrent.BlockingCollection<T>.TryTake
+2. System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue
+3. System.Collections.Generic.Queue<T>.Dequeue
+4. System.Collections.Concurrent.ConcurrentBag<T>.TryTake
+5. System.Collections.Generic.LinkedList<T>.RemoveFirst

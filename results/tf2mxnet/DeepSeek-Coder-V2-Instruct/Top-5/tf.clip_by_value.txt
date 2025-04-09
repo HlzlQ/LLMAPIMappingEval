@@ -1,0 +1,2 @@
+
+Answer: tf.clip_by_value, mx.nd.clip, mx.symbol.clip, mx.gluon.nn.Clip, mx.ndarray.clip

@@ -1,0 +1,5 @@
+org.junit.jupiter.api.Assertions.assertSame
+org.testng.Assert.assertSame
+junit.framework.Assert.assertSame
+junit.framework.TestCase.assertSame
+com.google.common.truth.Truth.assertThat

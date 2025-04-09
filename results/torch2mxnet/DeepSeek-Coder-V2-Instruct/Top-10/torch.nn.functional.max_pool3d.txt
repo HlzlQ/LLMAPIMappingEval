@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.max_pooling3d
+2. mxnet.symbol.max_pooling3d
+3. mxnet.gluon.nn.MaxPool3D
+4. mxnet.gluon.nn.GlobalMaxPool3D
+5. mxnet.ndarray.global_max_pooling3d
+6. mxnet.symbol.global_max_pooling3d
+7. mxnet.ndarray.avg_pooling3d
+8. mxnet.symbol.avg_pooling3d
+9. mxnet.gluon.nn.AvgPool3D
+10. mxnet.gluon.nn.GlobalAvgPool3D

@@ -1,0 +1,11 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mxnet.ndarray.max_pool1d2. mxnet.sym.max_pooling1d3. mxnet.gluon.nn.MaxPool1D4. mxnet.contrib.ndarray.MaxPooling1D5. mxnet.symbol.max_pooling1d
+<jupyter_code>
+import torch
+import mxnet as mx
+print(dir(mx.nd))
+<jupyter_output>
+['NDArray', 'NDArrayBase', '_Null', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', '_asnumpy', '_ones', '_zeros', 'api', 'array', 'broadcast_add', 'broadcast_div', 'broadcast_equal', 'broadcast_greater', 'broadcast_maximum', 'broadcast_minimum', 'broadcast_minus', 'broadcast_mul', 'broadcast_not_equal', 'broadcast_power', 'broadcast_sub', 'broadcast_to', 'cast', 'clip', 'concat', 'copy', 'cpu', 'ctc_loss', 'diag', 'dot', 'elemwise_add', 'elemwise_div', 'elemwise_equal', 'elemwise_greater', 'elemwise_maximum', 'elemwise_minimum', 'elemwise_minus', 'elemwise_mul', 'elemwise_not_equal', 'elemwise_power', 'elemwise_sub', 'empty', 'expand_dims', 'full', 'full_like', 'linspace', 'load', 'log', 'max', 'mean', 'meshgrid', 'min', 'nansum', 'ones', 'ones_like', 'pad', 'prod', 'random_normal', 'ravel', 'relu', 'reshape', 'reverse', 'rmod', 'round', 'save', 'scatter_add', 'scatter_div', 'scatter_mul', 'scatter_nd', 'scatter_sub', 'shape_array', 'sin', 'slice', 'softmax', 'sqrt', 'square', 'stack', 'sum', 'swapaxes', 'sync_copy_to_device', 'take', 'tanh', 'tile', 'transpose', 'trunc', 'zeros', 'zeros_like']

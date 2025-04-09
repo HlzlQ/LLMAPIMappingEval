@@ -1,0 +1,5 @@
+1. CNTK.max_pooling
+2. CNTK.spatial_max_pooling
+3. CNTK.pooling
+4. CNTK.average_pooling 
+5. CNTK.spatial_average_pooling

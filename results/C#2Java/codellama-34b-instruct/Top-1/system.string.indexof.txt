@@ -1,0 +1,1 @@
+System.String.IndexOf in C# is equivalent to String.indexOf() in Java.

@@ -1,0 +1,5 @@
+cntk.sigmoid
+cntk.ops.sigmoid
+cntk.functions.sigmoid
+cntk.layers.Sigmoid
+cntk.activations.sigmoid

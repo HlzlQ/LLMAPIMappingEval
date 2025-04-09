@@ -1,0 +1,5 @@
+  * mxnet.ndarray.huber_loss
+  * mxnet.gluon.loss.HuberLoss
+  * mxnet.symbol.huber_loss
+  * mxnet.ndarray.smooth_l1_loss
+  * mxnet.gluon.loss.SmoothL1Loss

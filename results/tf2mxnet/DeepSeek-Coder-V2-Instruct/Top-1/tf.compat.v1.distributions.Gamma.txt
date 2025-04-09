@@ -1,0 +1,8 @@
+
+MXNet Gamma
+```
+
+### Explanation:
+The `tf.compat.v1.distributions.Gamma` function in TensorFlow is used to create a gamma distribution object. In MXNet, there isn't an exact equivalent of this specific TensorFlow function, but you can achieve similar functionality using the `mxnet.gluon.distribution.Gamma` class from MXNet Gluon.
+
+Therefore, the most likely API in MXNet that corresponds to `tf.compat.v1.distributions.Gamma` is `mxnet.gluon.distribution.Gamma`.

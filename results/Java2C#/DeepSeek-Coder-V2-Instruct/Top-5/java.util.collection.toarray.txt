@@ -1,0 +1,5 @@
+1. ToArray()
+2. List<T>.ToArray()
+3. Array.AsList(IEnumerable<T>)
+4. Enumerable.ToArray<TSource>(IEnumerable<TSource>)
+5. ConcurrentQueue<T>.ToArray()

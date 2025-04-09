@@ -1,0 +1,8 @@
+
+Answer: ```plaintext
+mxnet.initializer.One
+mxnet.initializer.Xavier
+mxnet.initializer.Normal
+mxnet.initializer.Uniform
+mxnet.initializer.Constant
+```

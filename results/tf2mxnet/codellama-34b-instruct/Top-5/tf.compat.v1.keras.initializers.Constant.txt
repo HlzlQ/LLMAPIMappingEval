@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for the same purpose as TensorFlow's `tensorflow.compat.v1.keras.initializers.Constant`:
+
+1. `mxnet.init.Constant`
+2. `mxnet.init.zeros`
+3. `mxnet.init.ones`
+4. `mxnet.init.uniform`
+5. `mxnet.init.normal`

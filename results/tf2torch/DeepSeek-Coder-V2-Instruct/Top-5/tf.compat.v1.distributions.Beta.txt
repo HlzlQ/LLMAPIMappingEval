@@ -1,0 +1,6 @@
+
+Answer: 1. torch.distributions.beta.Beta
+2. torch.distributions.continuous.ContinuousDistribution
+3. torch.distributions.distribution.Distribution
+4. torch.distributions.transformed_distribution.TransformedDistribution
+5. torch.distributions.transforms.SigmoidTransform

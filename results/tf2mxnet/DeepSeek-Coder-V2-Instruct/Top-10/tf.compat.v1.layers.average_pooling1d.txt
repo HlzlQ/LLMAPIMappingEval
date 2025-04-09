@@ -1,0 +1,11 @@
+
+1. mxnet.ndarray.contrib.BilinearResize2D
+2. mxnet.ndarray.Pooling
+3. mxnet.gluon.nn.AvgPool1D
+4. mxnet.ndarray.Pooling
+5. mxnet.ndarray.Pooling
+6. mxnet.ndarray.Pooling
+7. mxnet.ndarray.Pooling
+8. mxnet.ndarray.Pooling
+9. mxnet.ndarray.Pooling
+10. mxnet.ndarray.Pooling

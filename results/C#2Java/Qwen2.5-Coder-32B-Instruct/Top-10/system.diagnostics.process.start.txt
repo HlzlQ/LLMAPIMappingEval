@@ -1,0 +1,10 @@
+java.lang.Runtime.exec  
+java.lang.ProcessBuilder.start  
+java.awt.Desktop.getDesktop.open  
+java.awt.Desktop.getDesktop.edit  
+java.awt.Desktop.getDesktop.print  
+java.awt.Desktop.getDesktop.browse  
+java.nio.file.Files.createTempFile  
+java.nio.file.Files.createDirectories  
+java.io.File.createNewFile  
+java.io.File.delete

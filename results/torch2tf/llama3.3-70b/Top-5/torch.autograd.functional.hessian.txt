@@ -1,0 +1,5 @@
+1. tf.hessians
+2. tf.gradients
+3. tf.gradient
+4. tf.custom_gradient
+5. tf.compute_hessian

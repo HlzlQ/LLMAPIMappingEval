@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.Dense`:
+
+1. `CNTK.Dense`
+2. `CNTK.LinearLayer`
+3. `CNTK.FullyConnectedLayer`
+4. `CNTK.DenseLayer`
+5. `CNTK.Linear`
+6. `CNTK.AffineLayer`
+7. `CNTK.InnerProductLayer`
+8. `CNTK.MatrixMultiply`
+9. `CNTK.FullConnectionLayer`
+10. `CNTK.DenseFullyConnectedLayer`

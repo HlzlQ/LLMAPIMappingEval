@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.softplus`:
+
+1. `cntk.layers.Softplus`
+2. `cntk.layers.Activation(cntk.ops.softplus)`
+3. `cntk.layers.Dense(cntk.ops.softplus)`
+4. `cntk.layers.Conv2D(cntk.ops.softplus)`
+5. `cntk.layers.BatchNormalization(cntk.ops.softplus)`
+6. `cntk.layers.InstanceNormalization(cntk.ops.softplus)`
+7. `cntk.layers.LayerNorm(cntk.ops.softplus)`
+8. `cntk.layers.GroupNorm(cntk.ops.softplus)`
+9. `cntk.layers.SpatialSoftmax(cntk.ops.softplus)`
+10. `cntk.layers.TemporalSoftmax(cntk.ops.softplus)`

@@ -1,0 +1,10 @@
+torch.nn.functional.softmax  
+torch.softmax  
+torch.nn.Softmax  
+torch.nn.Softmax2d  
+torch.nn.LogSoftmax  
+torch.nn.functional.log_softmax  
+torch.exp  
+torch.nn.functional.normalize  
+torch.nn.functional.relu  
+torch.nn.ReLU

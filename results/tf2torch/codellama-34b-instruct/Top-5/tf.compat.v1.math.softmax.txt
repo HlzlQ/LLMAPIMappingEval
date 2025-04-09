@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that correspond to the given TensorFlow API:
+
+1. torch.nn.functional.softmax
+2. torch.nn.Softmax
+3. torch.nn.SoftmaxCrossEntropyLoss
+4. torch.nn.SoftmaxLogits
+5. torch.nn.SoftmaxOutput

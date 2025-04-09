@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dropout`:
+
+1. `cntk.layers.dropout`
+2. `cntk.layers.dropout_layer`
+3. `cntk.layers.dropout_block`
+4. `cntk.layers.dropout_function`
+5. `cntk.layers.dropout_module`

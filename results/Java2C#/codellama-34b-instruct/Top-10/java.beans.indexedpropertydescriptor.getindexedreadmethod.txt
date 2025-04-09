@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.beans.indexedpropertydescriptor.getIndexedReadMethod`:
+
+1. `System.ComponentModel.TypeDescriptor.GetProperties`
+2. `System.ComponentModel.PropertyDescriptor.GetValue`
+3. `System.ComponentModel.IndexedPropertyDescriptor.GetIndexedReadMethod`
+4. `System.Reflection.PropertyInfo.GetGetMethod`
+5. `System.Reflection.MethodInfo.Invoke`
+6. `System.ComponentModel.TypeConverter.ConvertFrom`
+7. `System.ComponentModel.TypeDescriptor.GetConverter`
+8. `System.ComponentModel.ArrayPropertyDescriptor.GetIndexedReadMethod`
+9. `System.ComponentModel.CollectionPropertyDescriptor.GetIndexedReadMethod`
+10. `System.ComponentModel.CustomTypeDescriptor.GetProperties`

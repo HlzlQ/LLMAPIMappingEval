@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.initializers.RandomNormal`:
+
+1. `cntk.initializer.random_normal`
+2. `cntk.initializer.normal`
+3. `cntk.initializer.gaussian`
+4. `cntk.initializer.truncated_normal`
+5. `cntk.initializer.uniform`
+6. `cntk.initializer.random_uniform`
+7. `cntk.initializer.glorot_normal`
+8. `cntk.initializer.he_normal`
+9. `cntk.initializer.kaiming_normal`
+10. `cntk.initializer.xavier_normal`

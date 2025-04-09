@@ -1,0 +1,10 @@
+System.IO.Stream.Close
+System.IO.FileStream.Close
+System.IO.MemoryStream.Close
+System.IO.BufferedStream.Close
+System.IO.NetworkStream.Close
+System.IO.Compression.DeflateStream.Close
+System.IO.Compression.GZipStream.Close
+System.IO.IsolatedStorage.IsolatedStorageFileStream.Close
+System.IO.Pipes.NamedPipeServerStream.Close
+System.IO.Pipes.NamedPipeClientStream.Close

@@ -1,0 +1,5 @@
+1. torch.nn.GRU
+2. torch.nn.LSTM
+3. torch.nn.RNN
+4. torch.nn.RNNCell
+5. torch.nn.GRUCell

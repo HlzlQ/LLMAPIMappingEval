@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.functional.conv1d
+2. torch.nn.Conv1d
+3. tf.compat.v1.layers.conv1d
+4. tf.keras.layers.Conv1D
+5. tf.compat.v1.nn.conv1d_transpose
+6. tf.nn.depthwise_conv2d
+7. torch.nn.functional.conv1d
+8. tf.compat.v1.layers.conv1d
+9. tf.keras.layers.Conv1D
+10. tf.compat.v1.nn.conv1d

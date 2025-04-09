@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Tanh
+2. torch.nn.ReLU
+3. torch.nn.Sigmoid
+4. torch.nn.Softmax
+5. torch.nn.LeakyReLU
+6. torch.nn.ELU
+7. torch.nn.PReLU
+8. torch.nn.RReLU
+9. torch.nn.GELU
+10. torch.nn.SELU

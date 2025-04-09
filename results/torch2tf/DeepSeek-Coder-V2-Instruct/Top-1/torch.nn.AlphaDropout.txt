@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.keras.layers.AlphaDropout
+<jupyter_output>
+<empty_output>

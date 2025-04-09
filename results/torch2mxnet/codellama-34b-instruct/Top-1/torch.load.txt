@@ -1,0 +1,8 @@
+
+MXNet does not have an exact equivalent to `torch.load`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.load` - Loads a serialized MXNet array from a file or buffer.
+* `mxnet.symbol.load` - Loads a serialized MXNet symbol from a file or buffer.
+* `mxnet.module.load` - Loads a serialized MXNet module from a file or buffer.
+
+Note that the API names may vary depending on the version of MXNet you are using.

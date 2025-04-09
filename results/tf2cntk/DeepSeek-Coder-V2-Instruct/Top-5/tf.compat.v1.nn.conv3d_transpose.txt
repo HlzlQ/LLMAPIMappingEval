@@ -1,0 +1,2 @@
+
+Answer: 1. `tf.compat.v1.nn.conv3d_transpose` -> `CNTK.layers.ConvolutionTranspose3D`

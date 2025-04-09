@@ -1,0 +1,7 @@
+Based on the TensorFlow API `tf.pad`, here are 5 PyTorch APIs that have similar functionality:
+
+1. torch.nn.functional.pad
+2. torch.tensor.pad
+3. torch.nn.ZeroPad2d
+4. torch.nn.ConstantPad1d
+5. torch.nn.ReflectionPad1d

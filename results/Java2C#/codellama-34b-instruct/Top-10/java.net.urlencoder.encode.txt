@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.net.URLEncoder.encode`:
+
+1. `System.Web.HttpUtility.UrlEncode`
+2. `System.Net.WebUtility.UrlEncode`
+3. `Microsoft.AspNetCore.WebUtilities.UrlEncoder.Default.Encode`
+4. `System.Uri.EscapeDataString`
+5. `System.Uri.EscapeUriString`
+6. `System.Net.Http.FormUrlEncodedContent.ToString`
+7. `Microsoft.AspNetCore.WebUtilities.FormUrlEncodedContent.ToString`
+8. `System.Net.Http.HttpClient.GetStringAsync`
+9. `System.Net.Http.HttpClient.PostAsync`
+10. `System.Net.Http.HttpClient.PutAsync`

@@ -1,0 +1,8 @@
+
+Answer: ```plaintext
+mxnet.initializer.Zero
+mxnet.ndarray.zeros_like
+mxnet.ndarray.zeros
+mxnet.init.zeros
+mxnet.contrib.ndarray.init.zeros
+```

@@ -1,0 +1,5 @@
+  tf.nn.log_softmax
+  mxnet.ndarray.log_softmax
+  mxnet.symbol.log_softmax
+  mxnet.ndarray.LogSoftmax
+  mxnet.symbol.LogSoftmax

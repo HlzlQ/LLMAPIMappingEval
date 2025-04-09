@@ -1,0 +1,11 @@
+
+Answer: 1. `tf.random_uniform`
+2. `tf.distributions.Uniform`
+3. `tf.keras.initializers.RandomUniform`
+4. `tf.layers.uniform_unit_scaling_initializer`
+5. `tf.contrib.distributions.Uniform`
+6. `tf.compat.v1.distributions.Uniform`
+7. `tf.random_uniform_initializer`
+8. `tf.initializers.RandomUniform`
+9. `tf.keras.initializers.Initializer`
+10. `tf.layers.uniform_unit_scaling_initializer`

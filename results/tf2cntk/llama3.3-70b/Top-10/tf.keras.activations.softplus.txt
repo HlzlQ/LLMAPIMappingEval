@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.softplus`:
+
+1. CNTK.softmax
+2. CNTK.relu
+3. CNTK.sigmoid
+4. CNTK.tanh
+5. CNTK.elu
+6. CNTK.leaky_relu
+7. CNTK.param_relu
+8. CNTK.hard_sigmoid
+9. CNTK.softsign
+10. CNTK.log_sigmoid

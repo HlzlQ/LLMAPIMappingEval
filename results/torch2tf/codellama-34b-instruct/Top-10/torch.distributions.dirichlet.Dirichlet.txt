@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for the same functionality as PyTorch's `torch.distributions.dirichlet.Dirichlet`:
+
+1. `tf.distributions.Dirichlet`
+2. `tf.distributions.DirichletMultinomial`
+3. `tf.distributions.Multinomial`
+4. `tf.distributions.Categorical`
+5. `tf.distributions.Beta`
+6. `tf.distributions.Gamma`
+7. `tf.distributions.Poisson`
+8. `tf.distributions.NegativeBinomial`
+9. `tf.distributions.Geometric`
+10. `tf.distributions.Exponential`

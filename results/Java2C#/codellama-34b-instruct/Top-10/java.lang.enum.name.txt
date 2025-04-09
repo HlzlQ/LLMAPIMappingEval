@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.enum.name`:
+
+1. `System.Enum.GetName(Type enumType, Object value)`
+2. `System.Enum.GetNames(Type enumType)`
+3. `System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)`
+4. `System.Enum.TryParse(Type enumType, String value, out Object result)`
+5. `System.Enum.IsDefined(Type enumType, Object value)`
+6. `System.Enum.GetUnderlyingType(Type enumType)`
+7. `System.Enum.GetValues(Type enumType)`
+8. `System.Enum.GetNamesAndValues(Type enumType)`
+9. `System.Enum.Format(Type enumType, Object value, String format)`
+10. `System.Enum.ToString(Type enumType, Object value)`

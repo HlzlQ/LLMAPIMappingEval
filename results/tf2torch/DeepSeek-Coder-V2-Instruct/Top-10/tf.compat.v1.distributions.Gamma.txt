@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.gamma.Gamma
+2. torch.distributions.continuous.ContinuousDistribution
+3. torch.distributions.distribution.Distribution
+4. torch.distributions.transforms.AffineTransform
+5. torch.distributions.constraints.positive
+6. torch.distributions.parameter.Parameter
+7. torch.distributions.transforms.ExpTransform
+8. torch.distributions.transforms.PowerTransform
+9. torch.distributions.transforms.SigmoidTransform
+10. torch.distributions.transforms.AffineScalarTransform

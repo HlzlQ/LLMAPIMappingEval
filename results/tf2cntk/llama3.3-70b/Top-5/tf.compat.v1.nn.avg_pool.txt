@@ -1,0 +1,5 @@
+1. CNTK.average_pooling
+2. CNTK.pooling
+3. CNTK.default_override_for_average_pooling
+4. CNTK.spatial_average_pooling
+5. CNTK.AveragePooling

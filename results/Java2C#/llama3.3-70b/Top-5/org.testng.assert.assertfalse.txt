@@ -1,0 +1,5 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+2. NUnit.Framework.Assert.IsFalse
+3. System.Diagnostics.Debug.Assert
+4. System.Diagnostics.Trace.Assert
+5. FluentAssertions.BoolExtensions.BeFalse

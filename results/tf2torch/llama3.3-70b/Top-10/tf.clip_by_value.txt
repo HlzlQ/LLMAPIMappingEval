@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that are similar to `tensorflow.clip_by_value`:
+
+1. torch.clamp
+2. torch.tensor.clamp
+3. torch.tensor.clamp_
+4. torch.clamp_min
+5. torch.clamp_max
+6. torch.threshold
+7. torch.where
+8. torch.nn.functional.threshold
+9. torch.nn.functional.hardtanh
+10. torch.nn.Hardtanh

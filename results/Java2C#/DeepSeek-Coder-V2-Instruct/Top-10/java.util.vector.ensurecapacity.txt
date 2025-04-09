@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Capacity
+System.Text.StringBuilder.EnsureCapacity
+System.Array.Resize<T>
+System.Buffer.ByteLength
+System.Span<T>.EnsureCapacity
+System.Memory<T>.EnsureCapacity
+System.Buffers.IBufferWriter<T>.Capacity
+System.Collections.Immutable.ImmutableArray<T>.Builder.Capacity
+System.Numerics.Vector<T>.EnsureCapacity
+System.Runtime.CompilerServices.DefaultInterpolatedStringHandler.Grow

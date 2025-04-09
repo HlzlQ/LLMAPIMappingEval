@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for all-reduce operations:
+
+1. `tf.distribute.AllReduce`
+2. `tf.distribute.all_reduce`
+3. `tf.distributed.all_reduce`
+4. `tf.distributed.reduce`
+5. `tf.distributed.sum`
+6. `tf.distributed.mean`
+7. `tf.distributed.variance`
+8. `tf.distributed.stddev`
+9. `tf.distributed.min`
+10. `tf.distributed.max`

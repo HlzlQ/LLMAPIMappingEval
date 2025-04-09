@@ -1,0 +1,10 @@
+1. tf.keras.optimizers.Adam
+2. tf.train.AdamOptimizer
+3. tf.optimizers.Adam
+4. tf.compat.v1.train.AdamOptimizer
+5. tf.keras.optimizers.Nadam
+6. tf.keras.optimizers.RMSprop
+7. tf.keras.optimizers.SGD
+8. tf.optimizers.Ftrl
+9. tf.optimizers.Adagrad
+10. tf.optimizers.Momentum

@@ -1,0 +1,5 @@
+torch.nn.functional.pad  
+torch.Tensor.new_full  
+torch.cat  
+torch.zeros  
+torch.ones

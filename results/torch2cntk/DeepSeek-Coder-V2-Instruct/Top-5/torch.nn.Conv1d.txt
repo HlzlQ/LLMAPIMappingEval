@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.conv1d, nn.Conv1d, C.layers.Convolution1D, C.functions.convolution, C.layers.Convolution

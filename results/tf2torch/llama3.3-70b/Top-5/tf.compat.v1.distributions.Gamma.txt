@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Gamma`:
+
+1. torch.distributions.Gamma
+2. torch.distributions.Chponential
+3. torch.distributions.Exponential
+4. torch.distributions.LogNormal
+5. torch.distributions.Weibull

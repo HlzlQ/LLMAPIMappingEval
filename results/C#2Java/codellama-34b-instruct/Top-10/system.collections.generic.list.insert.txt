@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that are similar to the C# API `system.collections.generic.list.insert`:
+
+1. `java.util.List.add(int index, E element)`
+2. `java.util.ArrayList.add(int index, E element)`
+3. `java.util.LinkedList.add(int index, E element)`
+4. `java.util.Vector.add(int index, E element)`
+5. `java.util.Stack.push(E item)`
+6. `java.util.Queue.offer(E e)`
+7. `java.util.PriorityQueue.offer(E e)`
+8. `java.util.concurrent.ConcurrentLinkedDeque.add(int index, E element)`
+9. `java.util.concurrent.CopyOnWriteArrayList.add(int index, E element)`
+10. `java.util.concurrent.LinkedBlockingQueue.offer(E e)`

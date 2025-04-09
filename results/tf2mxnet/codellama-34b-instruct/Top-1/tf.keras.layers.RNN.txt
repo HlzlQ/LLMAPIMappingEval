@@ -1,0 +1,11 @@
+
+MXNet does not have a direct equivalent to TensorFlow's `tf.keras.layers.RNN` layer. However, MXNet provides a similar functionality through its `mxnet.rnn` module. Specifically, you can use the `mxnet.rnn.RNN` class to create an RNN layer in MXNet.
+
+Here's an example of how to create an RNN layer in MXNet:
+```
+import mxnet as mx
+
+# Create an RNN layer with 128 units and a dropout rate of 0.5
+rnn = mx.rnn.RNN(num_units=128, dropout=0.5)
+```
+Note that the `mxnet.rnn` module provides several other RNN cell types, such as LSTM and GRU, which can be used in a similar way to create RNN layers with different architectures.

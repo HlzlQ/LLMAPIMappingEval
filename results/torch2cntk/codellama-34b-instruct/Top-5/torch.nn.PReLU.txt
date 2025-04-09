@@ -1,0 +1,3 @@
+
+* `torch.nn.PReLU` is a PyTorch module that implements the Parametric Rectified Linear Unit (PReLU) activation function.
+* In CNTK, the equivalent API for PReLU is `cntk.layers.ParametricRelu`.

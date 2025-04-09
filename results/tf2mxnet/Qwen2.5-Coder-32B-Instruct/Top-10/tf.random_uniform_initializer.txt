@@ -1,0 +1,10 @@
+mxnet.init.Uniform  
+mxnet.initializer.Uniform  
+mxnet.gluon.nn.initializer.Uniform  
+mxnet.ndarray.random.uniform  
+mxnet.symbol.random.uniform  
+mxnet.random.uniform  
+mxnet.ndarray.random.rand  
+mxnet.symbol.random.rand  
+mxnet.random.rand  
+mxnet.ndarray.random.normal

@@ -1,0 +1,5 @@
+System.Diagnostics.Contracts.Contract.Requires
+System.ArgumentNullException
+System.InvalidOperationException
+System.NotSupportedException
+System.ObjectDisposedException

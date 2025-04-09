@@ -1,0 +1,11 @@
+
+Answer: 1. tf.initializers.glorot_normal
+2. tf.initializers.xavier_initializer
+3. tf.keras.initializers.GlorotNormal
+4. tf.keras.initializers.XavierNormal
+5. tf.contrib.layers.variance_scaling_initializer
+6. tf.initializers.VarianceScaling
+7. torch.nn.init.xavier_normal_
+8. tensorflow.compat.v1.initializers.glorot_normal
+9. tensorflow.compat.v1.initializers.xavier_initializer
+10. tensorflow.keras.initializers.GlorotNormal

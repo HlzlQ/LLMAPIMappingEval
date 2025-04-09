@@ -1,0 +1,10 @@
+tf.keras.losses.CategoricalCrossentropy  
+tf.nn.softmax_cross_entropy_with_logits  
+tf.keras.losses.SparseCategoricalCrossentropy  
+tf.compat.v1.nn.softmax_cross_entropy_with_logits_v2  
+tf.keras.losses.KLDivergence  
+tf.keras.losses.Hinge  
+tf.keras.losses.MeanSquaredError  
+tf.keras.losses.BinaryCrossentropy  
+tf.keras.losses.CosineSimilarity  
+tf.keras.losses.Poisson

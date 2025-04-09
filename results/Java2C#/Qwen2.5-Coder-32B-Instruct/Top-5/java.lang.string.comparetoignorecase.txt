@@ -1,0 +1,5 @@
+System.String.CompareTo
+System.String.Compare
+System.String.Equals
+System.String.Equals(System.String, System.StringComparison)
+System.String.CompareOrdinalIgnoreCase

@@ -1,0 +1,5 @@
+java.sql.ResultSet.getString
+java.sql.CallableStatement.getString
+java.sql.PreparedStatement.getString
+java.sql.Statement.executeQuery.getString
+java.sql.DatabaseMetaData.getColumns.getString

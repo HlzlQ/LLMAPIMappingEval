@@ -1,0 +1,10 @@
+System.Net.Sockets.NetworkStream.Write  
+System.IO.StreamWriter.Write  
+System.IO.BinaryWriter.Write  
+System.IO.FileStream.Write  
+System.IO.MemoryStream.Write  
+System.Net.Http.HttpContent.CopyToAsync  
+System.Net.WebClient.UploadData  
+System.Net.FtpWebRequest.GetRequestStream  
+System.Net.Http.HttpClient.PostAsync  
+System.Net.Sockets.Socket.Send

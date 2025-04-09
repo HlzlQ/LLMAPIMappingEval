@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.text.regularexpressions.regex.replace` in C#:
+
+1. java.util.regex.Pattern.replaceAll
+2. java.util.regex.Matcher.replaceAll
+3. java.util.regex.Matcher.replaceFirst
+4. java.lang.String.replaceFirst
+5. java.lang.String.replaceAll

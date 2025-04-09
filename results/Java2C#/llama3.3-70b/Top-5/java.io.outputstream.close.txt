@@ -1,0 +1,5 @@
+1. System.IO.Stream.Close
+2. System.IO.FileStream.Close
+3. System.IO.MemoryStream.Close
+4. System.IO.BufferedStream.Close
+5. System.IO.TextWriter.Close

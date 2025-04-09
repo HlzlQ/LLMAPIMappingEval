@@ -1,0 +1,12 @@
+
+CNTK does not have a direct equivalent of TensorFlow's `average_pooling3d` API. However, you can achieve the same functionality by using CNTK's `pooling` API with the `AveragePooling` function. Here is an example:
+```
+import cntk as C
+
+# Define a 3D input tensor
+input_tensor = C.input_variable(shape=(1, 28, 28, 3))
+
+# Apply average pooling with a window size of (2, 2, 2) and stride of (2, 2, 2)
+output_tensor = C.pooling(input_tensor, C.AveragePooling((2, 2, 2), strides=(2, 2, 2)))
+```
+In this example, the `C.pooling` API is used to apply average pooling with a window size of (2, 2, 2) and stride of (2, 2, 2). The `C.AveragePooling` function is used to specify the type of pooling operation to be applied.

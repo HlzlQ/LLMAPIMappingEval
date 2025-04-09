@@ -1,0 +1,13 @@
+
+
+## Solution
+
+1. `torch.nn.CrossEntropyLoss` -> `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+2. `torch.nn.MSELoss` -> `mxnet.gluon.loss.L2Loss`
+3. `torch.nn.L1Loss` -> `mxnet.gluon.loss.MAELoss`
+4. `torch.nn.SmoothL1Loss` -> `mxnet.gluon.loss.HuberLoss`
+5. `torch.nn.BCELoss` -> `mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss`
+6. `torch.nn.BCEWithLogitsLoss` -> `mxnet.gluon.loss.SigmoidBCELoss`
+7. `torch.nn.NLLLoss` -> `mxnet.gluon.loss.NegativeLogLikelihoodLoss`
+8. `torch.nn.CrossEntropyLoss` -> `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+9. `torch.nn.CosineEmbeddingLoss` -> `mxnet.gluon.loss.CosineEmbeddingLoss`

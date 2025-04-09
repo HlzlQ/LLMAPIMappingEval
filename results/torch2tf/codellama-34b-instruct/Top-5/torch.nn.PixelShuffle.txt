@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that correspond to `torch.nn.PixelShuffle`:
+
+1. `tf.image.resize_images`
+2. `tf.image.scale_and_translate`
+3. `tf.image.crop_to_bounding_box`
+4. `tf.image.extract_patches`
+5. `tf.image.resize_with_crop_or_pad`

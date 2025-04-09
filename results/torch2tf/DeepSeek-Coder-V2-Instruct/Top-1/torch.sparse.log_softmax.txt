@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.nn.sparse_softmax_cross_entropy_with_logits
+<jupyter_output>
+<empty_output>

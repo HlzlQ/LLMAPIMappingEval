@@ -1,0 +1,16 @@
+
+The PyTorch API `torch.nn.functional.pad` can be mapped to the following TensorFlow API:
+
+* `tf.pad`: This API adds padding to a tensor. It takes the tensor as input and returns a new tensor with the same shape, but with the specified padding added to it. The padding is applied on all sides of the tensor by default, but you can specify which sides to pad using the `paddings` argument.
+
+Here's an example of how you might use `tf.pad` to add padding to a tensor:
+```
+import tensorflow as tf
+
+# Create a tensor with shape (2, 3)
+x = tf.constant([[1, 2, 3], [4, 5, 6]])
+
+# Add padding of size (1, 2) to the left and right sides of the tensor
+padded_x = tf.pad(x, [[0, 0], [1, 2]], 'CONSTANT')
+```
+In this example, `tf.pad` adds a padding of size (1, 2) to the left and right sides of the tensor `x`. The resulting tensor `padded_x` has shape (4, 5), with the original values of `x` padded by 1 on the left and 2 on the right.

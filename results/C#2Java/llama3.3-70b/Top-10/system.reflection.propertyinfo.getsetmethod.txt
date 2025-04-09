@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Reflection.PropertyInfo.GetSetMethod` in C#:
+
+1. java.lang.reflect.Method.getDeclaringClass
+2. java.lang.reflect.Field.getModifiers
+3. java.lang.reflect.Method.invoke
+4. java.lang.reflect.Constructor.newInstance
+5. java.lang.reflect.Field.setAccessible
+6. java.lang.reflect.Method.setAccessible
+7. java.lang.reflect.Field.get
+8. java.lang.reflect.Method.getParameterTypes
+9. java.beans.PropertyDescriptor.getWriteMethod
+10. java.lang.reflect.AccessibleObject.setAccessible

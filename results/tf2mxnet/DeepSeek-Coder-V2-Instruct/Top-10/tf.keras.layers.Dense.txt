@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.Dense
+2. mxnet.ndarray.FullyConnected
+3. mxnet.symbol.FullyConnected
+4. mxnet.gluon.nn.Linear
+5. mxnet.ndarray.Linear
+6. mxnet.symbol.Linear
+7. mxnet.gluon.nn.DenseLayer
+8. mxnet.ndarray.Dense
+9. mxnet.symbol.Dense
+10. mxnet.contrib.onnx.SymbolBlock.FullyConnected

@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.Convolution1D
+2. cntk.ops.convolution
+3. cntk.layers.Dense
+4. cntk.layers.Dropout
+5. cntk.layers.MaxPooling1D
+6. cntk.layers.AveragePooling1D
+7. cntk.layers.BatchNormalization
+8. cntk.ops.relu
+9. cntk.ops.sigmoid
+10. cntk.ops.softmax

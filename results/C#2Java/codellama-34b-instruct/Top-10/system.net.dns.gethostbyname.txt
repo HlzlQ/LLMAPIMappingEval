@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.Net.Dns.GetHostByName` method:
+
+1. `java.net.InetAddress.getByName`
+2. `java.net.InetAddress.getAllByName`
+3. `java.net.InetAddress.getLocalHost`
+4. `java.net.NetworkInterface.getByName`
+5. `java.net.NetworkInterface.getByIndex`
+6. `java.net.NetworkInterface.getByInetAddress`
+7. `java.net.NetworkInterface.getAll`
+8. `java.net.NetworkInterface.getNetworkInterfaces`
+9. `java.net.NetworkInterface.isUp`
+10. `java.net.NetworkInterface.isLoopback`

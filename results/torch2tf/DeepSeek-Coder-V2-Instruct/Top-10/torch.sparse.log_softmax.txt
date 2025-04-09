@@ -1,0 +1,12 @@
+
+
+1. tf.nn.log_softmax
+2. tf.sparse_tensor_to_dense
+3. tf.sparse_softmax
+4. tf.sparse_reduce_sum
+5. tf.sparse_segment_mean
+6. tf.sparse_add
+7. tf.sparse_maximum
+8. tf.sparse_minimum
+9. tf.sparse_transpose
+10. tf.sparse_tensor_dense_matmul

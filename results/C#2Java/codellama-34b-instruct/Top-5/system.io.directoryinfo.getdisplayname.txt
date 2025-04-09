@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. `java.io.File.getName()`: This method returns the name of the file or directory represented by this abstract pathname.
+2. `java.nio.file.Path.getFileName()`: This method returns a Path object representing the final element of the path.
+3. `java.io.File.getCanonicalPath()`: This method returns the canonical path for this file.
+4. `java.nio.file.Path.toRealPath()`: This method returns the real path of the file or directory represented by this abstract pathname.
+5. `java.io.File.getAbsolutePath()`: This method returns the absolute path of the file or directory represented by this abstract pathname.

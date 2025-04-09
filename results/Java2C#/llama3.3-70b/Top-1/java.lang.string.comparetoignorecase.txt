@@ -1,0 +1,9 @@
+System.String.CompareToIgnoreCase does not exist, but the closest equivalent is 
+System.String.Equals with StringComparison.OrdinalIgnoreCase or 
+System.String.Compare with StringComparison.OrdinalIgnoreCase. 
+
+However, a more direct equivalent would be:
+System.String.Equals(string, string, StringComparison) 
+
+So the answer is: 
+System.String.Equals

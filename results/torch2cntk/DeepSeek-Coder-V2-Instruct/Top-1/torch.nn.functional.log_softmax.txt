@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("torch.nn.functional.log_softmax -> cntk.ops.softmax")
+<jupyter_output>
+torch.nn.functional.log_softmax -> cntk.ops.softmax

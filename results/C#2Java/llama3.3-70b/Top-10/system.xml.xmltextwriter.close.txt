@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.xml.xmltextwriter.close`:
+
+1. javax.xml.stream.XMLStreamWriter.close()
+2. org.w3c.dom.ls.LSSerializer.writeToString()
+3. javax.xml.transform.Transformer.setOutputProperty()
+4. org.xml.sax.helpers.XMLFilterImpl.endDocument()
+5. javax.xml.parsers.DocumentBuilderFactory.newDocumentBuilder()
+6. org.apache.xml.serialize.XMLSerializer.serialize()
+7. javax.xml.bind.Marshaller.marshal()
+8. org.dom4j.io.XMLWriter.close()
+9. com.sun.org.apache.xml.internal.serializer.ToXMLStream.close()
+10. java.io.PrintWriter.close()

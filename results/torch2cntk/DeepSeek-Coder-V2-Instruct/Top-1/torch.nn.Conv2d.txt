@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+# CNTK equivalent for torch.nn.Conv2d is Cntk.layers.Convolution2D
+<jupyter_output>
+<empty_output>

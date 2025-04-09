@@ -1,0 +1,6 @@
+1. java.util.ArrayList.add
+2. java.util.List.add
+3. java.util.LinkedList.add
+4. java.util.ArrayList.insert
+ (No direct equivalent, but can be achieved with) 
+5. java.util.Collections.addAll

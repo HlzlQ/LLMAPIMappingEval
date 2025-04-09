@@ -1,0 +1,4 @@
+torch.nn.functional.softmax  
+torch.softmax  
+torch.nn.Softmax  
+torch.nn.Softmax2d

@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.tensordot`:
+
+1. torch.matmul
+2. torch.mm
+3. torch.dot
+4. torch.tensordot
+5. torch.einsum
+6. torch.bmm
+7. torch.contract
+8. torch.sum
+9. torch.prod
+10. torch.einsum

@@ -1,0 +1,5 @@
+1. mx.optimizer.lr_scheduler.ExponentialScheduler
+2. mx.lr_scheduler.ExponentialLR
+3. mx.optimizer.ExponentialLearningRateScheduler
+4. mx.lr_scheduler.MultiFactorScheduler
+5. mx.optimizer.FactorScheduler

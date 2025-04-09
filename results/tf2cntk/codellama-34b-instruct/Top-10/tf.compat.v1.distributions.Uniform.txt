@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for the same functionality as TensorFlow's `tensorflow.compat.v1.distributions.Uniform`:
+
+1. `cntk.uniform`
+2. `cntk.random.uniform`
+3. `cntk.distributions.uniform`
+4. `cntk.random.normal`
+5. `cntk.distributions.normal`
+6. `cntk.random.truncated_normal`
+7. `cntk.distributions.truncated_normal`
+8. `cntk.random.logistic`
+9. `cntk.distributions.logistic`
+10. `cntk.random.exponential`

@@ -1,0 +1,10 @@
+1. System.Char.IsWhiteSpace
+2. String.IsNullOrWhiteSpace
+3. Regex.IsMatch(string input, @"^\s*$")
+4. char.IsWhiteSpace
+5. TextReader.ReadToEnd()
+6. string.Trim().Length == 0
+7. string.IsNullOrEmpty(string str)
+8. string.IsNullOrWhiteSpace(string str)
+9. System.String.IsNullOrWhiteSpace(System.String)
+10. System.Char.IsWhiteSpace(char c)

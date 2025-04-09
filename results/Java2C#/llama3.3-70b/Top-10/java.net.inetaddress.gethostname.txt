@@ -1,0 +1,10 @@
+1. System.Net.Dns.GetHostName
+2. System.Environment.MachineName
+3. System.Net.IPHostEntry.HostName
+4. System.Net.Dns.GetHostEntry
+5. System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties
+6. System.Net.NetworkInformation.NetworkInterface.GetAllNetworkInterfaces
+7. System.Net.Sockets.Socket.GetHostName
+8. System.Net.HttpWebRequest.Host
+9. System.Net.WebRequest.GetResponseHeader
+10. System.Net.Dns.Resolve

@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Match.Groups
+System.Text.RegularExpressions.Group.Value
+System.Text.RegularExpressions.Capture.Value
+System.Text.RegularExpressions.GroupCollection.Item
+System.Text.RegularExpressions.CaptureCollection.Item

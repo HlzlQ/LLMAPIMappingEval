@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Dropout | mxnet.gluon.nn.Dropout |
+  | torch.nn.Dropout2d | mxnet.gluon.nn.Dropout2d |
+  | torch.nn.Dropout3d | mxnet.gluon.nn.Dropout3d |
+  | torch.nn.AlphaDropout | mxnet.gluon.nn.AlphaDropout |
+  | torch.nn.FeatureDropout | mxnet.gluon.nn.FeatureDropout |
+  | torch.nn.SpatialDropout | mxnet.gluon.nn.SpatialDropout |
+  | torch.nn.SpatialDropout2d | mxnet.gluon.nn.SpatialDropout2d |
+  | torch.nn.SpatialDropout3d | mxnet.gluon.nn.SpatialDropout3d |
+  | torch.nn.DropoutNd | mxnet.gluon.nn.DropoutNd |

@@ -1,0 +1,10 @@
+System.String.Replace
+System.Text.RegularExpressions.Regex.Replace
+System.String.Replace(System.Char,System.Char)
+System.String.Replace(System.String,System.String)
+System.String.Replace(System.String,System.String,System.StringComparison)
+System.String.Replace(System.String,System.String,System.Int32)
+System.String.Replace(System.String,System.String,System.Int32,System.StringComparison)
+System.String.Replace(System.ReadOnlySpan<System.Char>,System.ReadOnlySpan<System.Char>)
+System.String.Replace(System.ReadOnlySpan<System.Char>,System.ReadOnlySpan<System.Char>,System.StringComparison)
+System.Text.RegularExpressions.Regex.Replace(System.String,System.String,System.Text.RegularExpressions.MatchEvaluator)

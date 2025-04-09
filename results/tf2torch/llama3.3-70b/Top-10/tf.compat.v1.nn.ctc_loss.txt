@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.nn.ctc_loss`:
+
+1. torch.nn.CTCLoss
+2. torch.nn.functional.ctc_loss
+3. torch.tensor.ctc_loss
+4. torch.autograd.Function.ctc_loss
+5. torch.nn.Module.ctc_loss
+6. torch.optim.ctc_loss
+7. torch.utils.data.ctc_loss
+8. torch.nn.utils.rnn.ctc_loss
+9. torch.nn.functional.rnn.ctc_loss
+10. torch.nn.CTCLoss.zero_infinity

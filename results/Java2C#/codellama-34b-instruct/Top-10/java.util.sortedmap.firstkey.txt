@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.SortedDictionary<TKey, TValue>.FirstKey()
+2. System.Collections.Specialized.NameObjectCollectionBase.Keys.Get(0)
+3. System.Collections.Specialized.StringCollection.Item(0)
+4. System.Collections.Generic.List<T>.First()
+5. System.Collections.Generic.LinkedList<T>.First
+6. System.Collections.Generic.SortedSet<T>.Min
+7. System.Collections.Generic.HashSet<T>.First()
+8. System.Collections.Generic.Queue<T>.Peek()
+9. System.Collections.Generic.Stack<T>.Peek()
+10. System.Linq.Enumerable.FirstOrDefault<TSource>(IEnumerable<TSource>, Func<TSource, bool>)

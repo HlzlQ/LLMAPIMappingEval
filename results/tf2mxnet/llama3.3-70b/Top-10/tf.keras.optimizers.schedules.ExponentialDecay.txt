@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `tensorflow.keras.optimizers.schedules.ExponentialDecay`:
+
+1. mxnet.optimizer.lr_scheduler.ExponentialScheduler
+2. mxnet.optimizer.SGD
+3. mxnet.optimizer.Adam
+4. mxnet.optimizer.RMSprop
+5. mxnet.optimizer.NAG
+6. mxnet.optimizer.Adagrad
+7. mxnet.optimizer.Adadelta
+8. mxnet.optimizer.Momentum
+9. mxnet.optimizer.MultiFactorScheduler
+10. mxnet.optimizer.PolyScheduler

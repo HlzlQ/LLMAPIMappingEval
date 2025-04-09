@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.io.FileWriter
+2. java.io.BufferedWriter
+3. java.io.OutputStreamWriter
+4. java.nio.file.Files
+5. java.nio.file.Paths
+6. java.nio.channels.FileChannel
+7. java.nio.ByteBuffer
+8. java.io.RandomAccessFile
+9. java.io.FileOutputStream
+10. java.io.FileInputStream

@@ -1,0 +1,2 @@
+
+PyTorch equivalent: `nn.BatchNorm2d`

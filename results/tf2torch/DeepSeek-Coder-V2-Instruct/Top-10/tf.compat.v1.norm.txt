@@ -1,0 +1,4 @@
+
+Answer: ```python
+['torch.linalg.vector_norm', 'torch.linalg.matrix_norm', 'torch.nn.functional.normalize', 'torch.norm', 'torch.dist', 'torch.cdist', 'torch.nn.functional.pairwise_distance', 'torch.nn.functional.cosine_similarity', 'torch.nn.functional.kl_div', 'torch.nn.functional.mse_loss']
+```

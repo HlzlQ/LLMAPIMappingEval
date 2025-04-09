@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.compat.v1.keras.layers.GRUCell`:
+
+1. `mxnet.rnn.GRUCell`
+2. `mxnet.gluon.rnn.GRUCell`
+3. `mxnet.contrib.rnn.GRUCell`
+4. `mxnet.rnn.cells.GRUCell`
+5. `mxnet.gluon.rnn.cells.GRUCell`

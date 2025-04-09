@@ -1,0 +1,6 @@
+
+Answer: 1. tf.train.AdamOptimizer
+2. tf.keras.optimizers.Adam
+3. tf.compat.v1.train.AdamOptimizer
+4. tf.contrib.opt.AdamOptimizer
+5. tf.train.Optimizer

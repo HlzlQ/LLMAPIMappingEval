@@ -1,0 +1,5 @@
+mxnet.gluon.nn.UpSampling
+mxnet.ndarray.upsampling
+mxnet.symbol.UpSampling
+mxnet.gluon.nn.InterpolationBlock
+mxnet.ndarray.contrib.BilinearResize2D

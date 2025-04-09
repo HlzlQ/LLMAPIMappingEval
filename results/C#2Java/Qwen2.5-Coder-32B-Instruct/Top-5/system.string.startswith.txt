@@ -1,0 +1,5 @@
+java.lang.String.startsWith
+java.nio.file.Path.startsWith
+java.net.URI.startsWith
+java.net.URL.startsWith
+java.util.regex.Matcher.startsAndEndsWith

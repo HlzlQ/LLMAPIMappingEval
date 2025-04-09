@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `nunit.framework.assert.isnull`:
+
+1. org.junit.Assert.assertNull
+2. org.hamcrest.MatcherAssert.isNull
+3. org.junit.jupiter.api.Assertions.assertNull
+4. org.testng.Assert.assertNull
+5. junit.framework.Assert.assertNull
+6. org.apache.commons.lang3.Validate.notNull
+7. org.easymock.EasyMock.isNull
+8. org.mockito.Mockito.isNull
+9. org.springframework.test.util.AssertionUtils.assertNull
+10. com.google.common.base.Preconditions.checkNotNull

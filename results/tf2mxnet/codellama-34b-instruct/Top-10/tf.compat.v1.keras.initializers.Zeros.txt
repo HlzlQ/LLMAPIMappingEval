@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `tensorflow.compat.v1.keras.initializers.Zeros`:
+
+1. `mxnet.init.Zero`
+2. `mxnet.init.Constant`
+3. `mxnet.init.Ones`
+4. `mxnet.init.RandomNormal`
+5. `mxnet.init.RandomUniform`
+6. `mxnet.init.TruncatedNormal`
+7. `mxnet.init.VarianceScaling`
+8. `mxnet.init.Orthogonal`
+9. `mxnet.init.Identity`
+10. `mxnet.init.Xavier`

@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert.IsNull
+NUnit.Framework.Assert.IsNull
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+Xunit.Assert.Null
+FluentAssertions.Assertions.ObjectAssertions<T>.BeNull
+NSubstitute.ReceivedExtensions.DidNotReceiveWithAnyArgs<T>(T).IsNull()
+Moq.Language.Flow.ITimes.ReturnsVoidExtensions.IsNull()
+AutoFixture.Idioms.FixtureVerification.IdiomaticAssertion`1.IsNull()
+Shouldly.ShouldBeNullExtensionMethods.ShouldBeNull
+ApprovalTests.Reporters.GenericDiffReporter.AssertNull

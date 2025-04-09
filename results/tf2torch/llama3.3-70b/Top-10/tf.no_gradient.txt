@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that may have similar functions to `tensorflow.no_gradient`:
+
+1. `torch.no_grad`
+2. `torch.autograd.no_grad`
+3. `torch.set_grad_enabled`
+4. `torch.grad_mode`
+5. `torch.disable_grad`
+6. `torch.enable_grad`
+7. `torch.autograd.grad_mode`
+8. `torch.inference_mode`
+9. `torch.jit.no_grad`
+10. `torch.autograd.set_detect_anomaly`

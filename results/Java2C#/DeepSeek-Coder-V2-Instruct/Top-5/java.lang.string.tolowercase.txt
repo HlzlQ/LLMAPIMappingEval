@@ -1,0 +1,5 @@
+1. ToLower()
+2. ToUpper()
+3. ToLowerInvariant()
+4. ToUpperInvariant()
+5. Normalize()

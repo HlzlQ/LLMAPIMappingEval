@@ -1,0 +1,6 @@
+
+torch.clamp
+torch.clamp_min
+torch.clamp_max
+torch.minimum
+torch.maximum

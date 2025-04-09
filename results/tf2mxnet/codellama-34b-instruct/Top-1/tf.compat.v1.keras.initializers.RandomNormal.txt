@@ -1,0 +1,2 @@
+
+mxnet.initializer.Normal

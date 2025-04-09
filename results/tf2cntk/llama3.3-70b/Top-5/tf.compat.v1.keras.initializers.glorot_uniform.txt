@@ -1,0 +1,5 @@
+1. cntk.default_options
+2. cntk.initializer.glorot_uniform
+3. cntk.initializer.xavier
+4. cntk.layers.initializers.glorot_uniform
+5. cntk.initializer.uniform_scale

@@ -1,0 +1,5 @@
+1. CNTK AveragePooling
+2. CNTK Pooling
+3. CNTK MaxPooling
+4. CNTK AveragePooling3D
+5. CNTK SpacialReductionOperation

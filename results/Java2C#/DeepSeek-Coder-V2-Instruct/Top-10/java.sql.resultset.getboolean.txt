@@ -1,0 +1,10 @@
+1. GetBoolean(int columnIndex)
+2. GetBoolean(string columnName)
+3. ReadBoolean()
+4. ToBoolean()
+5. BooleanValue()
+6. IsDBNull()
+7. FieldCount
+8. NextResult()
+9. Close()
+10. ExecuteReader()

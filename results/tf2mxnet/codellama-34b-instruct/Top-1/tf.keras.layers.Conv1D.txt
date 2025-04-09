@@ -1,0 +1,17 @@
+
+MXNet does not have a direct equivalent of TensorFlow's `Conv1D` layer. However, you can use the `mxnet.ndarray.convolution` module to perform 1D convolutions. Specifically, you can use the `convolve1d` function to perform 1D convolutions on an input array.
+
+Here is an example of how you might use the `convolve1d` function in MXNet to perform a 1D convolution:
+```
+import mxnet as mx
+
+# Define the input array and the kernel weights
+input_array = mx.nd.array([[1, 2, 3], [4, 5, 6]])
+kernel_weights = mx.nd.array([[0.1, 0.2, 0.3], [0.4, 0.5, 0.6]])
+
+# Perform the convolution using the convolve1d function
+output_array = mx.nd.convolve1d(input_array, kernel_weights)
+```
+In this example, the `input_array` is a 2D array with shape `(2, 3)`, and the `kernel_weights` are a 2D array with shape `(2, 3)`. The `convolve1d` function performs a 1D convolution on the input array using the kernel weights, and returns an output array with shape `(2, 3)`.
+
+Note that MXNet's `convolve1d` function is similar to TensorFlow's `Conv1D` layer in that it performs a 1D convolution on an input array. However, the syntax and usage of these two functions are slightly different.

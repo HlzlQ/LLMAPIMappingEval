@@ -1,0 +1,10 @@
+System.Collections.Generic.SortedDictionary<TKey,TValue>.Keys.First
+System.Collections.Generic.SortedList<TKey,TValue>.Keys[0]
+System.Linq.Enumerable.First(System.Collections.Generic.SortedSet<T>)
+System.Collections.Generic.SortedSet<T>.Min
+System.Collections.Generic.SortedDictionary<TKey,TValue>.MinBy(kvp => kvp.Key)
+System.Collections.Generic.SortedList<TKey,TValue>.GetKey(0)
+System.Linq.Enumerable.Min(System.Collections.Generic.SortedDictionary<TKey,TValue>.Keys)
+System.Linq.Enumerable.Min(System.Collections.Generic.SortedList<TKey,TValue>.Keys)
+System.Collections.Generic.SortedSet<T>.ElementAt(0)
+System.Linq.Enumerable.First(System.Collections.Generic.SortedList<TKey,TValue>)

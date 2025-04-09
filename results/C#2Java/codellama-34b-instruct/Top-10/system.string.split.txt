@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that are similar to the C# API `system.string.split`:
+
+1. `java.lang.String.split()`
+2. `java.util.regex.Pattern.split()`
+3. `java.util.StringTokenizer`
+4. `org.apache.commons.lang3.StringUtils.split()`
+5. `com.google.common.base.Splitter`
+6. `javax.swing.text.html.HTMLDocument.splitText()`
+7. `org.w3c.dom.Node.splitText()`
+8. `org.xml.sax.helpers.XMLReaderFactory.createXMLReader().parse(new InputSource(new StringReader(string)))`
+9. `javax.xml.parsers.DocumentBuilderFactory.newInstance().newDocumentBuilder().parse(new InputSource(new StringReader(string)))`
+10. `org.json.JSONObject.split()`

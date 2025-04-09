@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.compat.v1.nn.rnn_cell.GRUCell`:
+
+1. `torch.nn.GRU`
+2. `torch.nn.RNNCell`
+3. `torch.nn.LSTMCell`
+4. `torch.nn.GRUCell`
+5. `torch.nn.RNN`

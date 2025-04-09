@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.SGD`:
+
+1. `torch.optim.SGD`
+2. `torch.optim.SGDMomentum`
+3. `torch.optim.SGDWithMomentum`
+4. `torch.optim.SGDWithNesterovMomentum`
+5. `torch.optim.SGDWithAdam`
+6. `torch.optim.SGDWithRMSprop`
+7. `torch.optim.SGDWithAdagrad`
+8. `torch.optim.SGDWithAdadelta`
+9. `torch.optim.SGDWithAdamax`
+10. `torch.optim.SGDWithNadam`

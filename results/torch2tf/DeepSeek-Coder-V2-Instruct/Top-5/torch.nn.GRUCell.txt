@@ -1,0 +1,9 @@
+
+
+## Solution
+
+1. `torch.nn.GRU`
+2. `torch.nn.RNN`
+3. `torch.nn.LSTM`
+4. `torch.nn.Linear`
+5. `torch.nn.Conv2d`

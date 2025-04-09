@@ -1,0 +1,5 @@
+System.Collections.IEnumerator.MoveNext  
+System.Collections.Generic.IEnumerator<T>.MoveNext  
+System.Collections.Concurrent.BlockingCollection<T>.TryTake  
+System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue  
+System.Collections.Concurrent.ConcurrentStack<T>.TryPop

@@ -1,0 +1,7 @@
+Here are the 5 PyTorch API names:
+
+1. torch.randn
+2. torch.normal
+3. torch.distributions.Normal
+4. torch.nn.init.normal_
+5. torch.tensor(torch.normal)

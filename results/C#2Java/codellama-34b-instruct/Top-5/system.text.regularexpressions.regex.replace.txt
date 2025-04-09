@@ -1,0 +1,8 @@
+  Here are five possible Java APIs that correspond to the C# API `system.text.regularexpressions.regex.replace`:
+
+1. `java.util.regex.Matcher.replaceAll(String replacement)`: This method replaces every substring of the input sequence that matches the pattern with a given replacement string.
+2. `java.util.regex.Matcher.replaceFirst(String replacement)`: This method replaces the first substring of the input sequence that matches the pattern with a given replacement string.
+3. `java.util.regex.Pattern.matcher(CharSequence input).replaceAll(String replacement)`: This method creates a matcher for a given input sequence and replaces every substring that matches the pattern with a given replacement string.
+4. `java.util.regex.Pattern.matcher(CharSequence input).replaceFirst(String replacement)`: This method creates a matcher for a given input sequence and replaces the first substring that matches the pattern with a given replacement string.
+5. `org.apache.commons.lang3.RegExUtils.replaceAll(String input, String regex, String replacement)`: This method replaces every substring of the input string that matches the regular expression with a given replacement string.
+6. `org.apache.commons.lang3.RegExUtils.replaceFirst(String input, String regex, String replacement)`: This method replaces the first substring of the input string that matches the regular expression with a given replacement string.

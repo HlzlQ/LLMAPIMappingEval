@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that may have similar functions:
+
+1. torch.load
+2. torch.jit.load
+3. torch.nn.Module.load_state_dict
+4. torch.save
+5. torch.jit.script

@@ -1,0 +1,5 @@
+cntk.ops.pooling
+cntk.layers.pooling
+cntk.layers.average_pooling
+cntk.layers.max_pooling
+cntk.layers.global_average_pooling

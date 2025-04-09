@@ -1,0 +1,10 @@
+1. System.Type.IsInstanceOfType
+2. System.Object.GetType
+3. System.Type.IsSubclassOf
+4. System.Type.GetInterface
+5. System.Reflection.Assembly.GetType
+6. System.Type.IsAssignableFrom
+7. System.Reflection.MethodBase.IsVirtual
+8. System.Reflection.EventInfo.EventHandlerType
+9. System.Attribute.IsDefaultAttribute
+10. System.Reflection.MemberInfo.ReflectedType

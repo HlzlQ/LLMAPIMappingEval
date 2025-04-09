@@ -1,0 +1,8 @@
+
+The Java API "org.testng.assertjunit.assertnotnull" can be mapped to the following C# APIs:
+
+* NUnit.Framework.Assert.NotNull()
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull()
+* xunit.assert.NotNull()
+
+All of these APIs provide a way to assert that an object reference is not null, which is the same functionality as the Java API. The choice of which one to use will depend on the specific testing framework and style being used in the C# project.

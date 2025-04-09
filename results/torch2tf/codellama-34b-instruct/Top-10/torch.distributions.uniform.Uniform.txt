@@ -1,0 +1,13 @@
+
+Here are ten TensorFlow APIs that correspond to the PyTorch API `torch.distributions.uniform.Uniform`:
+
+1. `tf.random.uniform`
+2. `tf.random.normal`
+3. `tf.random.truncated_normal`
+4. `tf.random.logistic`
+5. `tf.random.exponential`
+6. `tf.random.gamma`
+7. `tf.random.poisson`
+8. `tf.random.bernoulli`
+9. `tf.random.categorical`
+10. `tf.random.multinomial`

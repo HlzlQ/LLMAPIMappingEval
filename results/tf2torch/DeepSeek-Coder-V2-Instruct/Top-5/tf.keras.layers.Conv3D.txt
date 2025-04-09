@@ -1,0 +1,6 @@
+
+1. torch.nn.Conv3d
+2. torch.nn.functional.conv3d
+3. tensorflow.keras.layers.Conv3D
+4. tensorflow.keras.layers.Conv3DTranspose
+5. tensorflow.keras.layers.SeparableConv3D

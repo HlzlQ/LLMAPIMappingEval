@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.laplace.Laplace
+2. torch.distributions.laplace_tensor.Laplace
+3. torch.distributions.laplace.LaplaceCDF
+4. torch.distributions.laplace.LaplaceLogCDF
+5. torch.distributions.laplace.LaplaceSurvivalFunction
+6. torch.distributions.laplace.LaplaceQuantileFunction
+7. torch.distributions.laplace.LaplaceHazardFunction
+8. torch.distributions.laplace.LaplaceMean
+9. torch.distributions.laplace.LaplaceVariance
+10. torch.distributions.laplace.LaplaceEntropy

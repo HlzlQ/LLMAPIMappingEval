@@ -1,0 +1,5 @@
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss  
+mxnet.metric.BinaryCrossEntropy  
+mxnet.ndarray.sigmoid_cross_entropy  
+mxnet.symbol.sigmoid_cross_entropy  
+mxnet.autograd.Function.sigmoid_cross_entropy

@@ -1,0 +1,10 @@
+cntk.initializer.uniform
+cntk.layers.Parameter.init
+cntk.layers.Function.init
+cntk.layers.Sequential.init
+cntk.layers.For.init
+cntk.layers.Recurrence.init
+cntk.layers.Dropout.init
+cntk.layers.Embedding.init
+cntk.layers.Dense.init
+cntk.layers.ConvolutionalStacking.init

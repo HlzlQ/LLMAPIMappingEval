@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet equivalent API: mxnet.meshgrid
+print("mxnet.meshgrid")
+<jupyter_output>
+mxnet.meshgrid

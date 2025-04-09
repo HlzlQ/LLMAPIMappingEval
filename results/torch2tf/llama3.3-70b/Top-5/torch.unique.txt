@@ -1,0 +1,5 @@
+1. tf.unique
+2. tf.unique_with_counts
+3. tf.raw_ops.Unique
+4. tf.raw_ops.UniqueWithCounts
+5. tf.sets.union

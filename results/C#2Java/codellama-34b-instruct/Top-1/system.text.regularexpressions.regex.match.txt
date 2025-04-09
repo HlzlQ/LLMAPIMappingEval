@@ -1,0 +1,1 @@
+Java does not have a direct equivalent to the `System.Text.RegularExpressions.Regex` class in C#. However, Java has a built-in regular expression engine that can be used to perform similar tasks. The most likely equivalent API in Java would be the `java.util.regex` package and its classes such as `Pattern`, `Matcher`, and `MatchResult`.

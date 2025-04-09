@@ -1,0 +1,7 @@
+
+
+1. torch.nn.ModuleList
+2. torch.nn.Parameter
+3. torch.nn.functional.linear
+4. torch.nn.init.xavier_uniform_
+5. torch.optim.Adam

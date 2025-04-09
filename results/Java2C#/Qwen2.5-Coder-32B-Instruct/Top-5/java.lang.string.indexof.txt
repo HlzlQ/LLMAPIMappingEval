@@ -1,0 +1,5 @@
+System.String.IndexOf  
+System.String.IndexOfAny  
+System.String.LastIndexOf  
+System.String.LastIndexOfAny  
+System.String.Contains

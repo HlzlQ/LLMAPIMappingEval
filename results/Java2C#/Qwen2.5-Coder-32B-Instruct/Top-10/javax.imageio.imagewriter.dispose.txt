@@ -1,0 +1,10 @@
+System.Drawing.Image.Dispose  
+System.Drawing.Bitmap.Dispose  
+System.Windows.Media.Imaging.BitmapImage.ClearValue  
+System.Windows.Media.Imaging.WriteableBitmap.ClearValue  
+System.Windows.Media.Imaging.RenderTargetBitmap.ClearValue  
+System.Windows.Media.Imaging.CroppedBitmap.ClearValue  
+System.Windows.Media.Imaging.FormatConvertedBitmap.ClearValue  
+System.Windows.Media.Imaging.TransformedBitmap.ClearValue  
+System.Windows.Media.Imaging.RotationBitmapDecoder.Dispose  
+System.Windows.Media.Imaging.BitmapFrameDecode.Dispose

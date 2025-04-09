@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Flatten
+mxnet.ndarray.flatten
+mxnet.symbol.flatten
+mxnet.gluon.nn.Dense
+mxnet.gluon.nn.Conv2D
+mxnet.gluon.nn.MaxPool2D
+mxnet.gluon.nn.AvgPool2D
+mxnet.gluon.nn.GlobalAvgPool2D
+mxnet.gluon.nn.GlobalMaxPool2D
+mxnet.gluon.nn.BatchNorm

@@ -1,0 +1,10 @@
+torch.nn.functional.softplus  
+torch.nn.Softplus  
+torch.nn.modules.activation.Softplus  
+torch.nn.functional.threshold  
+torch.nn.Threshold  
+torch.nn.modules.activation.Threshold  
+torch.nn.functional.relu  
+torch.nn.ReLU  
+torch.nn.modules.activation.ReLU  
+torch.nn.functional.elu

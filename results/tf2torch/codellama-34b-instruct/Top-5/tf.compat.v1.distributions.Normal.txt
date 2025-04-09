@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to the TensorFlow API `tensorflow.compat.v1.distributions.Normal`:
+
+1. `torch.distributions.Normal`
+2. `torch.distributions.normal_`
+3. `torch.distributions.NormalDistribution`
+4. `torch.distributions.normal_distribution`
+5. `torch.distributions.NormalDistribution`

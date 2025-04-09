@@ -1,0 +1,10 @@
+java.lang.Class.isInstance
+java.lang.Object.getClass
+java.lang.reflect.Type.isInstance
+java.lang.Class.cast
+java.lang.reflect.ParameterizedType.getRawType
+java.lang.reflect.GenericArrayType.getGenericComponentType
+java.lang.reflect.WildcardType.getUpperBounds
+java.lang.reflect.WildcardType.getLowerBounds
+java.lang.reflect.AnnotatedType.getType
+java.lang.reflect.Field.getType

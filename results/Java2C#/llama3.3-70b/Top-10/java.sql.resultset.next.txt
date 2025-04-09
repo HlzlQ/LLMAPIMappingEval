@@ -1,0 +1,10 @@
+1. System.Data.IDataReader.Read
+2. System.Data.SqlClient.SqlDataReader.Read
+3. System.Data.Common.DbDataReader.Read
+4. System.Data.OleDb.OleDbDataReader.Read
+5. System.Data.Odbc.OdbcDataReader.Read
+6. System.Data.SQLite.SQLiteDataReader.Read
+7. Npgsql.NpgsqlDataReader.Read
+8. MySql.Data.MySqlClient.MySqlDataReader.Read
+9. Oracle.ManagedDataAccess.Client.OracleDataReader.Read
+10. Microsoft.Data.SqlClient.SqlDataReader.Read

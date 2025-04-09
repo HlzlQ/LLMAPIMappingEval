@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Exponential`:
+
+1. `torch.distributions.Exponential`
+2. `torch.distributions.ExponentialFamily`
+3. `torch.distributions.ExponentialDistribution`
+4. `torch.distributions.ExponentialVariate`
+5. `torch.distributions.ExponentialRandomVariable`

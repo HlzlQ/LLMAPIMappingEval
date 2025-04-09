@@ -1,0 +1,11 @@
+
+1. torch.nn.LSTM
+2. torch.nn.GRU
+3. torch.nn.RNNCell
+4. torch.nn.RNN
+5. torch.nn.Linear
+6. torch.nn.Conv1d
+7. torch.nn.Conv2d
+8. torch.nn.BatchNorm1d
+9. torch.nn.BatchNorm2d
+10. torch.nn.Dropout

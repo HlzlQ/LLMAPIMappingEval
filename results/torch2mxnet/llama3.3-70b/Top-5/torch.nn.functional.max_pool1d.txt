@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `torch.nn.functional.max_pool1d`:
+
+1. mx.nd.Pooling
+2. mx.gluon.nn.MaxPool1D
+3. mxnet.ndarray.pooling
+4. mx.gluon.nn.AvgPool1D (note: not exactly the same, but related)
+5. mxnet.glueon.nn.MaxPooling1D

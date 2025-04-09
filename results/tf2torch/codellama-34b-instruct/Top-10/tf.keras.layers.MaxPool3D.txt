@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `MaxPool3D`:
+
+1. `torch.nn.MaxPool3d`
+2. `torch.nn.functional.max_pool3d`
+3. `torch.nn.modules.pooling.MaxPool3d`
+4. `torch.nn.modules.pooling.MaxUnpool3d`
+5. `torch.nn.modules.pooling.AdaptiveMaxPool3d`
+6. `torch.nn.modules.pooling.AdaptiveMaxUnpool3d`
+7. `torch.nn.modules.pooling.MaxPool3dWithIndices`
+8. `torch.nn.modules.pooling.MaxUnpool3dWithIndices`
+9. `torch.nn.modules.pooling.AdaptiveMaxPool3dWithIndices`
+10. `torch.nn.modules.pooling.AdaptiveMaxUnpool3dWithIndices`

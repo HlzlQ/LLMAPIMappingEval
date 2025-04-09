@@ -1,0 +1,5 @@
+java.lang.Math.floor
+java.lang.StrictMath.floor
+java.math.BigDecimal.setScale
+java.math.RoundingMode.DOWN
+java.util.concurrent.atomic.AtomicInteger.getAndSet

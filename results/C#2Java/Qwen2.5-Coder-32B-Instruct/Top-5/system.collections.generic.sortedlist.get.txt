@@ -1,0 +1,5 @@
+java.util.TreeMap.get
+java.util.SortedMap.get
+java.util.NavigableMap.get
+java.util.AbstractSortedMap.get
+java.util.LinkedHashMap.get

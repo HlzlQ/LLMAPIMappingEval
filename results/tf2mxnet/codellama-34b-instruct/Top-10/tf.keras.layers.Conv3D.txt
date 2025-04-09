@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for Convolutional Neural Networks (CNNs) with 3D data:
+
+1. mxnet.gluon.nn.Conv3D
+2. mxnet.gluon.nn.Conv3DTranspose
+3. mxnet.gluon.nn.MaxPooling3D
+4. mxnet.gluon.nn.AvgPooling3D
+5. mxnet.gluon.nn.GlobalMaxPooling3D
+6. mxnet.gluon.nn.GlobalAvgPooling3D
+7. mxnet.gluon.nn.BatchNorm3D
+8. mxnet.gluon.nn.InstanceNorm3D
+9. mxnet.gluon.nn.LayerNorm3D
+10. mxnet.gluon.nn.GroupNorm3D

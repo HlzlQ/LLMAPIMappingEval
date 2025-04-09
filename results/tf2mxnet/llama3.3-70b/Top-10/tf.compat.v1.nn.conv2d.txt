@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.nn.conv2d`:
+
+1. mxnet.ndarray.Convolution
+2. mxnet.gluon.nn.Conv2D
+3. mxnet.symbol.Convolution
+4. mxnet.gluon.nn.Conv2DTranspose
+5. mxnet.ndarray.Deconvolution
+6. mxnet.symbol.Deconvolution
+7. mxnet.gluon.nn.Conv1D
+8. mxnet.ndarray.Conv1D
+9. mxnet.symbol.Conv1D
+10. mxnet.gluon.nn.Conv3D

@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.init.zeros_`:
+
+1. tf.zeros
+2. tf.initializers.zeros
+3. tf.keras.initializers.Zeros
+4. tf.compat.v1.zeros
+5. tf.Variable.assign_zeros
+6. tf.zeros_like
+7. tf.fill
+8. tf.constant
+9. tf.ones_like (with a multiplier of 0)
+10. tf.keras.layers.ZeroPadding2D (for specific use cases)

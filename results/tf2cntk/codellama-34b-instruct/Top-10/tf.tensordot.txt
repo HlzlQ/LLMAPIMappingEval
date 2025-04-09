@@ -1,0 +1,13 @@
+
+Here are ten CNTK APIs that are similar to TensorFlow's `tensordot`:
+
+1. `cntk.ops.dot`
+2. `cntk.ops.matmul`
+3. `cntk.ops.tensor_dot`
+4. `cntk.ops.batch_dot`
+5. `cntk.ops.batch_matmul`
+6. `cntk.ops.tensor_product`
+7. `cntk.ops.outer_product`
+8. `cntk.ops.inner_product`
+9. `cntk.ops.contract`
+10. `cntk.ops.dot_product`

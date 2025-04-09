@@ -1,0 +1,12 @@
+
+
+1. tf.image.resize_images
+2. tf.keras.layers.UpSampling2D
+3. tf.keras.layers.Conv2DTranspose
+4. tf.image.resize_nearest_neighbor
+5. tf.image.resize_bilinear
+6. tf.keras.layers.UpSampling1D
+7. tf.keras.layers.UpSampling2D
+8. tf.keras.layers.Conv3DTranspose
+9. tf.image.resize_bicubic
+10. tf.keras.layers.Conv2D

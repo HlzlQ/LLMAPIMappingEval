@@ -1,0 +1,5 @@
+1. GetByte(int columnIndex)
+2. GetBytes(int columnIndex)
+3. GetByte(string columnName)
+4. GetBytes(string columnName)
+5. GetFieldValue<byte>(string fieldName)

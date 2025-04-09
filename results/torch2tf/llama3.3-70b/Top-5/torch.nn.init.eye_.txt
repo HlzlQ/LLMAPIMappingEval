@@ -1,0 +1,5 @@
+1. tf.eye
+2. tf.keras.initializers.Identity
+3. tf.keras.layers.Dense(kernel_initializer='identity')
+4. tf.ones_like
+5. tf.linalg.set_diag

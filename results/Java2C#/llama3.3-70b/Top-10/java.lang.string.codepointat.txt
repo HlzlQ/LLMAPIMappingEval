@@ -1,0 +1,10 @@
+1. System.Char.ConvertToUtf32
+2. System.String.ToCharArray
+3. System.Text.Encoding.GetChars
+4. System.Text.UnicodeEncoding.GetCharCount
+5. System.Text.UTF8Encoding.GetChars
+6. System.Char.ConvertFromUtf32
+7. System.Globalization.CharUnicodeInfo.GetUnicodeCategory
+8. System.Text.Encoding.GetBytes
+9. System.String.IndexOfAny
+10. System.Char.GetNumericValue

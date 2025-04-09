@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `tensorflow.compat.v1.pad`:
+
+1. `CNTK.pad`
+2. `CNTK.sequence.pad`
+3. `CNTK.layers.PaddingLayer`
+4. `CNTK.ops.padding`
+5. `CNTK.functions.pad`
+6. `CNTK.blocks.pad`
+7. `CNTK.layers.ConstantPad`
+8. `CNTK.layers.ReflectionPad`
+9. `CNTK.layers.SymmetricPad`
+10. `CNTK.layers.ZeroPad`

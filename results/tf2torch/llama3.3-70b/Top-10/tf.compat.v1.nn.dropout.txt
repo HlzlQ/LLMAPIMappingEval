@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.nn.dropout`:
+
+1. torch.nn.Dropout
+2. torch.nn.functional.dropout
+3. torch.dropout
+4. torch.nn.Dropout2d
+5. torch.nn.Dropout3d
+6. torch.nn.AlphaDropout
+7. torch.nn.FeatureDropout
+8. torch.nn.Dropout1d
+9. torch.nn.Dropout2d
+10. torch.nn.functional.dropout2d

@@ -1,0 +1,5 @@
+1. String.CopyTo
+2. StringBuilder.ToString
+3. Span<char>.CopyTo
+4. MemoryExtensions.AsSpan
+5. ReadOnlySpan<char>.CopyTo

@@ -1,0 +1,5 @@
+1. java.util.ArrayList.set(int index, E element)
+2. java.util.List.set(int index, E element)
+3. java.util.Vector.setElementAt(E obj, int index)
+4. java.util.LinkedList.set(int index, E element)
+5. java.util.Stack.setElementAt(E obj, int index)

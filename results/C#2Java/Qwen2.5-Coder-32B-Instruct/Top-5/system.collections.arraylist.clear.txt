@@ -1,0 +1,5 @@
+java.util.ArrayList.clear
+java.util.LinkedList.clear
+java.util.Vector.clear
+java.util.Stack.clear
+java.util.List.clear

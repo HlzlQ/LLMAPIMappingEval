@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.distributions.one_hot_categorical.OneHotCategorical`:
+
+1. tfp.distributions.OneHotCategorical
+2. tf.keras.utils.to_categorical
+3. tf.one_hot
+4. tf.cast
+5. tf.argmax
+6. tf.reduce_sum
+7. tf.gather
+8. tf.where
+9. tf.scatter_nd
+10. tfp.distributions.Categorical

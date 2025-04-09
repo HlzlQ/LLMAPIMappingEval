@@ -1,0 +1,9 @@
+
+```python
+import torch
+```
+
+```python
+# PyTorch equivalent for tensorflow.compat.v1.keras.initializers.he_normal
+torch.nn.init.kaiming_uniform_
+```

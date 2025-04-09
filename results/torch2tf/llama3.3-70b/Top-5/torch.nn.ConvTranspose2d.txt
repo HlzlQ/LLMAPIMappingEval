@@ -1,0 +1,5 @@
+1. tf.keras.layers.Conv2DTranspose
+2. tf.nn.conv2d_transpose
+3. tf.compat.v1.nn.conv2d_transpose
+4. tf.keras.layers.UpSampling2D
+5. tf.image.resize

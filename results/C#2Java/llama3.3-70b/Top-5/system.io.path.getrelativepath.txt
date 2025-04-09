@@ -1,0 +1,5 @@
+1. java.nio.file.Paths.relativize
+2. java.io.File.getCanonicalPath
+3. java.io.File.getAbsolutePath
+4. java.nio.file.Path.relativize
+5. java.nio.file.Path.normalize

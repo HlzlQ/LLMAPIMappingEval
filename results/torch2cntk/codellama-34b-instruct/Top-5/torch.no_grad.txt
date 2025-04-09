@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.no_grad`:
+
+1. `cntk.no_grad()`: This function disables gradient computation for the current block of code.
+2. `cntk.disable_gradients()`: This function disables gradient computation for all layers in the model.
+3. `cntk.freeze_weights()`: This function freezes the weights of a layer, preventing them from being updated during training.
+4. `cntk.fix_parameters()`: This function fixes the parameters of a layer, preventing them from being updated during training.
+5. `cntk.set_learning_rate(0)`: This function sets the learning rate to 0, effectively disabling gradient descent for the model.

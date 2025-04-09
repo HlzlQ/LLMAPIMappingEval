@@ -1,0 +1,5 @@
+torch.optim.Adagrad  
+torch.optim.Adam  
+torch.optim.SGD  
+torch.optim.RMSprop  
+torch.optim.ASGD

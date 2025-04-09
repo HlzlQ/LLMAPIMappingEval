@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.util.ArrayList.clear()
+2. java.util.LinkedList.clear()
+3. java.util.Vector.clear()
+4. java.util.Stack.clear()
+5. java.util.Queue.clear()
+6. java.util.PriorityQueue.clear()
+7. java.util.concurrent.CopyOnWriteArrayList.clear()
+8. java.util.concurrent.ConcurrentLinkedDeque.clear()
+9. java.util.concurrent.ConcurrentSkipListSet.clear()
+10. java.util.concurrent.ConcurrentSkipListMap.clear()

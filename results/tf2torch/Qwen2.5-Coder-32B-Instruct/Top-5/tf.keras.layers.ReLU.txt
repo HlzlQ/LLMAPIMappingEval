@@ -1,0 +1,5 @@
+torch.nn.ReLU  
+torch.nn.functional.relu  
+torch.relu  
+torch.nn.LeakyReLU  
+torch.nn.PReLU

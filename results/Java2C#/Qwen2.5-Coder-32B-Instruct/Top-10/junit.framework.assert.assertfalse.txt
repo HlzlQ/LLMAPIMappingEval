@@ -1,0 +1,11 @@
+System.Diagnostics.Debug.Assert
+System.Diagnostics.Trace.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+NUnit.Framework.Assert.IsFalse
+Xunit.Assert.False
+FluentAssertions.Assertions.AssertionScope.FailWith
+NSubstitute.ReceivedExtensions.DidNotReceive
+Moq.Language.Flow.ITimes.Throws
+Castle.Core.AssertionHelper.IsTrue
+ApprovalTests.Approvals.VerifyAll
+System.CodeDom.Compiler.GeneratedCodeAttribute.DebugAssert

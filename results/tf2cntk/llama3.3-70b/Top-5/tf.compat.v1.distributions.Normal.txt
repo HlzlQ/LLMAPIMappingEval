@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. cntk.normal
+2. cntk.distributions.Normal
+3. cntk.random.normal
+4. cntk.ops.normal
+5. cntk.layers.GaussianDistribution

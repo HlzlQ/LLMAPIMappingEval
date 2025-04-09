@@ -1,0 +1,10 @@
+mxnet.ndarray.dot
+mxnet.ndarray.batch_dot
+mxnet.ndarray.linalg.gemm
+mxnet.ndarray.linalg.matmul
+mxnet.ndarray.linalg.syrk
+mxnet.ndarray.linalg.tensordot
+mxnet.ndarray.linalg.trmm
+mxnet.ndarray.linalg.trsm
+mxnet.ndarray.linalg.solve
+mxnet.ndarray.linalg.einsum

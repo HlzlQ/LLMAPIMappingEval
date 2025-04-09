@@ -1,0 +1,10 @@
+java.io.PrintWriter.println
+java.lang.System.out.println
+java.nio.file.Files.writeString
+java.util.Formatter.format
+java.util.logging.Logger.info
+java.sql.Statement.executeUpdate
+javax.swing.JTextArea.append
+org.apache.commons.io.FileUtils.writeStringToFile
+com.google.common.io.Files.write
+net.sf.json.JSONWriter.objectToString

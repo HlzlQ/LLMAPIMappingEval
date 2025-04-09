@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for convolutional neural networks:
+
+1. `mxnet.ndarray.Convolution1D`
+2. `mxnet.ndarray.Conv1D`
+3. `mxnet.ndarray.Conv1DTranspose`
+4. `mxnet.ndarray.Conv1DWithBias`
+5. `mxnet.ndarray.Conv1DWithoutBias`

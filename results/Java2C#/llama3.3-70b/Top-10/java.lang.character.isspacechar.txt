@@ -1,0 +1,10 @@
+1. System.Char.IsWhiteSpace
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.IsNullOrWhiteSpace
+4. System.Char.IsControl
+5. System.Text.RegularExpressions.Regex.Replace
+6. System.String.Trim
+7. System.Char.IsPunctuation
+8. System.Text.RegularExpressions.Regex.Split
+9. System.String.IsNullOrEmpty
+10. System.Char.IsSeparator

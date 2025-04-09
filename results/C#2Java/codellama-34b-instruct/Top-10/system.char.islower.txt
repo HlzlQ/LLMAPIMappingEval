@@ -1,0 +1,12 @@
+  Here are ten possible Java methods that correspond to the given C# method:
+
+1. `Character.isLowerCase(char ch)`
+2. `String.toLowerCase()`
+3. `StringBuilder.toLowerCase()`
+4. `StringBuffer.toLowerCase()`
+5. `CharSequence.toString().toLowerCase()`
+6. `TextUtils.getTrimmedLength(CharSequence s)`
+7. `TextUtils.isEmpty(CharSequence s)`
+8. `TextUtils.isDigitsOnly(CharSequence s)`
+9. `TextUtils.split(String text, String regex)`
+10. `TextUtils.join(CharSequence delimiter, Iterable<? extends CharSequence> elements)`

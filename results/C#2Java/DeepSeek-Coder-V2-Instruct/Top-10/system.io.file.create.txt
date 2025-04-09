@@ -1,0 +1,10 @@
+java.nio.file.Files.newOutputStream
+java.io.FileOutputStream
+java.nio.file.Paths.get
+java.nio.file.StandardOpenOption.CREATE
+java.nio.file.StandardOpenOption.WRITE
+java.nio.file.StandardCopyOption.REPLACE_EXISTING
+java.nio.channels.Files.newByteChannel
+java.io.FileInputStream
+java.io.BufferedOutputStream
+java.io.File

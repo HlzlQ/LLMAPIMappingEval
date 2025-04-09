@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.losses.CategoricalCrossentropy`:
+
+1. `cntk.losses.categorical_crossentropy`
+2. `cntk.losses.softmax_crossentropy`
+3. `cntk.losses.sparse_categorical_crossentropy`
+4. `cntk.losses.categorical_hinge`
+5. `cntk.losses.sparse_categorical_hinge`
+6. `cntk.losses.binary_crossentropy`
+7. `cntk.losses.sparse_binary_crossentropy`
+8. `cntk.losses.mean_squared_error`
+9. `cntk.losses.mean_absolute_error`
+10. `cntk.losses.hinge`

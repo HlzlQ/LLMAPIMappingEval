@@ -1,0 +1,10 @@
+System.IO.StreamReader.Read
+System.IO.StreamReader.ReadToEnd
+System.IO.StreamReader.ReadLine
+System.IO.File.ReadAllText
+System.IO.File.ReadAllLines
+System.IO.File.OpenText
+System.IO.TextReader.Read
+System.IO.TextReader.ReadToEnd
+System.IO.TextReader.ReadLine
+System.IO.File.OpenRead

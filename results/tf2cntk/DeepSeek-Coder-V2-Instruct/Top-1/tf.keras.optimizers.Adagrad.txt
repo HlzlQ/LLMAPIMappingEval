@@ -1,0 +1,7 @@
+
+<jupyter_text>
+Answer: `cntk.learners.adam`  Question 4: Which Python package would be suitable for implementing a custom loss function in TensorFlow?
+<jupyter_code>
+# Answer: tensorflow.keras.losses
+<jupyter_output>
+<empty_output>

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.softmax`:
+
+1. CNTK.softmax
+2. CNTK.Softmax
+3. cntk.softmax_function
+4. cntk.ops.softmax
+5. CNTK.Activation.Softmax
+6. cntk.layers.Softmax
+7. CNTK.Functions.Softmax
+8. cntk.core.softmax
+9. CNTK.Network.Softmax
+10. cntk.ops.activation.softmax

@@ -1,0 +1,6 @@
+C# does not have a direct equivalent to the Java `ArrayList.addAll()` method. However, you can use the `AddRange()` method of the `List<T>` class in C# to achieve similar functionality. Here's an example:
+```csharp
+List<string> list = new List<string>();
+list.AddRange(new string[] { "apple", "banana", "cherry" });
+```
+This code creates a new `List<string>` and adds the elements "apple", "banana", and "cherry" to it using the `AddRange()` method.

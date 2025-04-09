@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Most likely MXNet API: mxnet.ndarray.contrib.FractionalMaxPool2D
+<jupyter_output>
+<empty_output>

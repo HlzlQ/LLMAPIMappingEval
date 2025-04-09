@@ -1,0 +1,67 @@
+
+```python
+class LSTMCell(tf.keras.layers.Layer):
+    def __init__(self, units, **kwargs):
+        super(LSTMCell, self).__init__(**kwargs)
+        self.units = units
+        self.state_size = units
+
+    def build(self, input_shape):
+        # Create the weights and biases for the LSTM cell
+        self.kernel = self.add_weight("kernel", shape=[input_shape[-1], 4 * self.units])
+        self.recurrent_kernel = self.add_weight("recurrent_kernel", shape=[self.units, 4 * self.units])
+        self.bias = self.add_weight("bias", shape=[4 * self.units])
+        super(LSTMCell, self).build(input_shape)
+
+    def call(self, inputs, states):
+        h, c = states
+        xh = tf.matmul(inputs, self.kernel)
+        rh = tf.matmul(h, self.recurrent_kernel)
+        xrh = xh + rh
+        xc = xrh + self.bias
+        i, j, f, o = tf.split(xc, 4, axis=-1)
+        i = tf.nn.sigmoid(i)
+        j = tf.nn.tanh(j)
+        f = tf.nn.sigmoid(f)
+        o = tf.nn.sigmoid(o)
+        c_new = f * c + i * j
+        h_new = o * tf.nn.tanh(c_new)
+        return h_new, [h_new, c_new]
+```
+Answer: ```python
+class LSTMCell(torch.nn.Module):
+    def __init__(self, input_size, hidden_size):
+        super(LSTMCell, self).__init__()
+        self.hidden_size = hidden_size
+        self.input_size = input_size
+        
+        # Define the weights and biases for the LSTM cell
+        self.weight_ih = torch.nn.Parameter(torch.randn(4 * hidden_size, input_size))
+        self.weight_hh = torch.nn.Parameter(torch.randn(4 * hidden_size, hidden_size))
+        self.bias_ih = torch.nn.Parameter(torch.randn(4 * hidden_size))
+        
+    def forward(self, input, states):
+        hx, cx = states
+        
+        # Compute the input-hidden and hidden-hidden transformations
+        xh = torch.matmul(input, self.weight_ih)
+        rh = torch.matmul(hx, self.weight_hh)
+        
+        # Combine the transformations
+        combined = xh + rh + self.bias_ih
+        
+        # Split the combined into i, j, f, o
+        i, j, f, o = torch.split(combined, self.hidden_size, dim=1)
+        
+        # Apply activation functions
+        i = torch.sigmoid(i)
+        f = torch.sigmoid(f)
+        j = torch.tanh(j)
+        o = torch.sigmoid(o)
+        
+        # Compute the new cell state and hidden state
+        cx_new = (f * cx) + (i * j)
+        hx_new = o * torch.tanh(cx_new)
+        
+        return hx_new, [hx_new, cx_new]
+```

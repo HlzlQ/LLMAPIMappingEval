@@ -1,0 +1,5 @@
+mx.nd.split
+mx.symbol.split
+mx.ndarray.split_v2
+mx.symbol.split_v2
+mx.ndarray.SliceChannel

@@ -1,0 +1,12 @@
+
+
+1. tf.initializers.RandomUniform
+2. mx.init.Uniform
+3. tf.initializers.GlorotUniform
+4. mx.init.Xavier
+5. tf.initializers.TruncatedNormal
+6. mx.init.Normal
+7. tf.initializers.Orthogonal
+8. mx.init.Orthogonal
+9. tf.initializers.Constant
+10. mx.init.Constant

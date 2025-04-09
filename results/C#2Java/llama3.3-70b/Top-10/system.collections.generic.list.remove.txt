@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.generic.list.remove` in C#:
+
+1. java.util.ArrayList.remove
+2. java.util.LinkedList.remove
+3. java.util.List.remove
+4. java.util.Collection.remove
+5. java.util.AbstractList.remove
+6. java.util.Vector.remove
+7. java.util.Stack.remove
+8. java.util.AbstractCollection.remove
+9. java.util.concurrent.CopyOnWriteArrayList.remove
+10. java.util.concurrent.ConcurrentLinkedQueue.remove

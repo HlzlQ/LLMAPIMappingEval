@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.String.CompareTo(string strB)
+2. System.String.CompareToIgnoreCase(string strB)
+3. System.String.Equals(object obj, StringComparison comparisonType)
+4. System.String.Equals(string value, StringComparison comparisonType)
+5. System.String.IndexOf(string value, int startIndex, int count, StringComparison comparisonType)
+6. System.String.LastIndexOf(string value, int startIndex, int count, StringComparison comparisonType)
+7. System.String.StartsWith(string value, StringComparison comparisonType)
+8. System.String.EndsWith(string value, StringComparison comparisonType)
+9. System.String.Contains(string value, StringComparison comparisonType)
+10. System.String.IndexOfAny(char[] anyOf, int startIndex, int count, StringComparison comparisonType)

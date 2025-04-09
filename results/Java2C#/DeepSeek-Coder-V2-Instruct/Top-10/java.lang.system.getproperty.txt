@@ -1,0 +1,11 @@
+System.Environment.GetEnvironmentVariable
+System.Environment.GetEnvironmentVariables
+System.Environment.GetFolderPath
+System.Environment.GetLogicalDrives
+System.Environment.OSVersion
+System.Environment.SpecialFolders
+System.Diagnostics.Process.GetCurrentProcess
+System.Diagnostics.Process.GetProcesses
+System.Diagnostics.Process.GetProcessById
+System.Diagnostics.Process.Start
+System.Diagnostics.Process.WaitForExit

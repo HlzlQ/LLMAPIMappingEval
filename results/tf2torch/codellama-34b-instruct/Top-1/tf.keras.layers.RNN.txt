@@ -1,0 +1,4 @@
+
+PyTorch equivalent of `tensorflow.keras.layers.RNN`:
+
+* `torch.nn.RNN`

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.tostring` in C#:
+
+1. java.lang.String.toString()
+2. java.lang.Object.toString()
+3. java.lang.Integer.toString()
+4. java.lang.Float.toString()
+5. java.lang.Double.toString()
+6. java.lang.Boolean.toString()
+7. java.lang.Character.toString()
+8. java.lang.Long.toString()
+9. java.lang.Short.toString()
+10. java.lang.Byte.toString()

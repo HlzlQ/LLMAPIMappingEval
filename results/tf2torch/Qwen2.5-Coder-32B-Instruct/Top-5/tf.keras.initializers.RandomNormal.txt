@@ -1,0 +1,5 @@
+torch.nn.init.normal_
+torch.randn
+torch.distributions.Normal
+torch.Tensor.normal_
+torch.empty_like

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.util.Vector.elementAt`:
+
+1. `System.Collections.ArrayList.get_Item`
+2. `System.Collections.Generic.List<T>.get_Item`
+3. `System.Collections.Specialized.NameObjectCollectionBase.get_Item`
+4. `System.Collections.Specialized.StringCollection.get_Item`
+5. `System.Collections.Specialized.StringDictionary.get_Item`
+6. `System.Collections.Hashtable.get_Item`
+7. `System.Collections.SortedList.get_Item`
+8. `System.Collections.Stack.get_Item`
+9. `System.Collections.Queue.get_Item`
+10. `System.Collections.BitArray.get_Item`

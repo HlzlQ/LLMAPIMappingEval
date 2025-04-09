@@ -1,0 +1,7 @@
+
+
+1. tf.meshgrid
+2. np.meshgrid
+3. torch.meshgrid
+4. jax.meshgrid
+5. mxnet.meshgrid

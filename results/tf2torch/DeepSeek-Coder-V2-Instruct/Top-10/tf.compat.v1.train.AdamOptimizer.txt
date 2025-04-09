@@ -1,0 +1,12 @@
+
+
+1. torch.optim.Adam
+2. torch.nn.functional.binary_cross_entropy
+3. torch.nn.CrossEntropyLoss
+4. torch.optim.SGD
+5. torch.nn.MSELoss
+6. torch.nn.init.xavier_uniform_
+7. torch.nn.init.kaiming_normal_
+8. torch.nn.functional.relu
+9. torch.nn.Dropout
+10. torch.nn.BatchNorm2d

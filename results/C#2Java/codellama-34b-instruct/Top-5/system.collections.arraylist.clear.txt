@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. `java.util.ArrayList.clear()`: This method clears all elements from an ArrayList object.
+2. `java.util.LinkedList.clear()`: This method clears all elements from a LinkedList object.
+3. `java.util.Vector.clear()`: This method clears all elements from a Vector object.
+4. `java.util.Stack.clear()`: This method clears all elements from a Stack object.
+5. `java.util.Queue.clear()`: This method clears all elements from a Queue object.

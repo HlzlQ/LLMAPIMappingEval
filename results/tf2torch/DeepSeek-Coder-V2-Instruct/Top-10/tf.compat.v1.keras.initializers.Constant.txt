@@ -1,0 +1,12 @@
+
+
+1. tf.constant
+2. torch.Tensor
+3. torch.nn.Parameter
+4. torch.randn
+5. torch.zeros
+6. torch.ones
+7. torch.eye
+8. torch.linspace
+9. torch.logspace
+10. torch.arange

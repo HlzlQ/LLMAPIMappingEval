@@ -1,0 +1,10 @@
+mxnet.gluon.loss.CosineSimilarity
+mxnet.ndarray.linalg.norm
+mxnet.ndarray.dot
+mxnet.ndarray.broadcast_sub
+mxnet.ndarray.square
+mxnet.ndarray.sum
+mxnet.ndarray.sqrt
+mxnet.ndarray.maximum
+mxnet.ndarray.minimum
+mxnet.ndarray.where

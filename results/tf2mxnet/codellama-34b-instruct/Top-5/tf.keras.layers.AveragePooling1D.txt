@@ -1,0 +1,5 @@
+  * mxnet.gluon.nn.MaxPool1D
+  * mxnet.gluon.nn.AvgPool1D
+  * mxnet.gluon.nn.GlobalMaxPool1D
+  * mxnet.gluon.nn.GlobalAvgPool1D
+  * mxnet.gluon.nn.AdaptiveMaxPool1D

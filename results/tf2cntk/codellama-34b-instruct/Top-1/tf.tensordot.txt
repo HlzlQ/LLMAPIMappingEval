@@ -1,0 +1,2 @@
+
+CNTK equivalent of `tensorflow.tensordot`: `cntk.ops.tensor_dot`

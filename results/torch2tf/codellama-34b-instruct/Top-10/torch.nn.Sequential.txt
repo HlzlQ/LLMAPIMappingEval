@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.nn.Sequential`:
+
+1. `tf.keras.models.Sequential`
+2. `tf.keras.layers.Sequential`
+3. `tf.keras.models.Model`
+4. `tf.keras.layers.Layer`
+5. `tf.keras.models.StackedRNNCells`
+6. `tf.keras.layers.StackedRNNCells`
+7. `tf.keras.models.Bidirectional`
+8. `tf.keras.layers.Bidirectional`
+9. `tf.keras.models.TimeDistributed`
+10. `tf.keras.layers.TimeDistributed`

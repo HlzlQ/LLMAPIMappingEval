@@ -1,0 +1,12 @@
+
+CNTK does not have an exact equivalent of TensorFlow's `max_pooling3d` API. However, you can achieve a similar functionality using CNTK's `pooling` API with the `MaxPooling` function. Here's an example:
+```csharp
+using CNTK;
+
+// Create a 3D tensor with shape (10, 10, 10)
+var input = new Variable(new int[] { 10, 10, 10 }, DataType.Float);
+
+// Apply max pooling with a window size of 2x2x2 and stride of 2
+var output = CNTKLib.Pooling(input, PoolingType.Max, new int[] { 2, 2, 2 }, new int[] { 2, 2, 2 });
+```
+In this example, the `Pooling` function takes the input tensor and applies max pooling with a window size of 2x2x2 and stride of 2. The resulting output tensor will have shape (5, 5, 5).

@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Regex.Replace
+System.String.Replace
+Microsoft.VisualBasic.Strings.Replace
+System.Text.RegularExpressions.MatchEvaluator
+System.Text.RegularExpressions.RegexOptions

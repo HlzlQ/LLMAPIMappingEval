@@ -1,0 +1,10 @@
+1. System.Double.Parse
+2. System.Convert.ToDouble
+3. System.Double.TryParse
+4. System.Double.CompareTo
+5. System.Double.Equals
+6. System.Double.GetHashCode
+7. System.Double.ToString
+8. System.Double.GetTypeCode
+9. System.Double.GetDataTypeName
+10. System.Double.ParseExact

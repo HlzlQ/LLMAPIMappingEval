@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.pad, mxnet.ndarray.pad, mxnet.sym.pad, mxnet.gluon.nn.Pad, mxnet.contrib.ndarray.pad

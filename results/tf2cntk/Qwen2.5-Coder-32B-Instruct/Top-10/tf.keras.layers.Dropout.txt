@@ -1,0 +1,10 @@
+cntk.dropout
+cntk.layers.Dropout
+cntk.ops.dropout
+cntk.models.dropout
+cntk.layers.Sequential.dropout
+cntk.layers.Function.dropout
+cntk.layers.Block.dropout
+cntk.layers.Composite.dropout
+cntk.layers.Parallel.dropout
+cntk.layers.Recurrence.dropout

@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.ones_initializer`:
+
+1. mxnet.initializer.One
+2. mxnet.nd.ones
+3. mxnet.ndarray.ones
+4. mxnet gluon.Parameter.initialize
+5. mxnet.gluon.nn.Dense(weight_initializer='ones')
+6. mxnet.gluon.nn.Conv2D(weight_initializer='ones')
+7. mxnet.initializer.Constant(value=1)
+8. mxnet.gluon.utils.initialize.init.ones_
+9. mxnet.ndarray.full
+10. mxnet.gluon.Parameter.initialize(mxnet.initializer.One())

@@ -1,0 +1,10 @@
+cntk.sigmoid
+cntk.ops.sigmoid
+cntk.functions.sigmoid
+cntk.layers.Sigmoid
+cntk.activations.sigmoid
+cntk.models.functions.sigmoid
+cntk.losses.sigmoid
+cntk.metrics.sigmoid
+cntk.transforms.sigmoid
+cntk.utils.sigmoid

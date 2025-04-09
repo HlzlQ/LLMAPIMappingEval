@@ -1,0 +1,5 @@
+1. System.Char.ToUpper()
+2. java.lang.Character.toUpperCase(char)
+3. java.lang.String.toUpperCase()
+4. java.lang.String.charAt(int)
+5. java.lang.Character.isUpperCase(char)

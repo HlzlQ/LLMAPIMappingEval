@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.guid.newguid` in C#:
+
+1. java.util.UUID.randomUUID()
+2. java.util.UUID.nameUUIDFromBytes()
+3. java.util.UUID.fromString()
+4. java.nio.ByteBuffer.wrap().putLong()
+5. java.security.MessageDigest.getInstance()
+6. java.security.SecureRandom.getInstanceStrong()
+7. javax.crypto.Mac.getInstance()
+8. java.net.InetAddress.getLocalHost().getAddress()
+9. java.lang.System.nanoTime()
+10. java.security.MessageDigest.update()

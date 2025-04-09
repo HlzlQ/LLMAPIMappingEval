@@ -1,0 +1,5 @@
+1. CNTK ELU
+2. CNTK LeakyReLU
+3. CNTK ReLU
+4. CNTK Sigmoid
+5. CNTK Tanh

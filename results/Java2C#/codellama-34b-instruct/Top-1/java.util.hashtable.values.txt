@@ -1,0 +1,18 @@
+C# does not have a direct equivalent to the `java.util.Hashtable` class. However, you can use the `System.Collections.Generic.Dictionary<TKey, TValue>` class as an alternative. This class provides similar functionality to `Hashtable`, but with type safety and other improvements.
+
+Here is a mapping of some common methods in `java.util.Hashtable` to their equivalent in `System.Collections.Generic.Dictionary<TKey, TValue>`:
+
+| Java API | C# API |
+| --- | --- |
+| `put(K key, V value)` | `Add(key, value)` |
+| `get(Object key)` | `TryGetValue(key, out value)` |
+| `containsKey(Object key)` | `ContainsKey(key)` |
+| `containsValue(Object value)` | `ContainsValue(value)` |
+| `isEmpty()` | `IsEmpty` |
+| `size()` | `Count` |
+| `clear()` | `Clear()` |
+| `keys()` | `Keys` |
+| `values()` | `Values` |
+| `entrySet()` | `GetEnumerator()` |
+
+Note that the C# API is slightly different from the Java API, but it provides similar functionality and is type-safe.

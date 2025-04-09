@@ -1,0 +1,10 @@
+torch.zeros
+torch.nn.init.zeros_
+torch.zeros_like
+torch.full
+torch.empty
+torch.empty_like
+torch.rand
+torch.randn
+torch.ones
+torch.ones_like

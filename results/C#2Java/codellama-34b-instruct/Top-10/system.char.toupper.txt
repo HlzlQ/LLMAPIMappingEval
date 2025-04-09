@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs for the C# methods you provided:
+
+1. System.Char.ToUpper() -> Character.toUpperCase(char)
+2. System.String.ToUpper() -> String.toUpperCase()
+3. System.String.ToLower() -> String.toLowerCase()
+4. System.String.Trim() -> String.trim()
+5. System.String.Replace() -> String.replace(CharSequence, CharSequence)
+6. System.String.Split() -> String.split(String)
+7. System.String.Substring() -> String.substring(int, int)
+8. System.String.IndexOf() -> String.indexOf(String)
+9. System.String.LastIndexOf() -> String.lastIndexOf(String)
+10. System.String.Equals() -> String.equals(Object)

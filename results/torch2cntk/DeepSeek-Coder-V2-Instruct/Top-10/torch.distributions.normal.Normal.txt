@@ -1,0 +1,12 @@
+
+Answer: 
+1. Normal
+2. LogNormal
+3. Bernoulli
+4. Categorical
+5. MultivariateNormal
+6. Exponential
+7. Poisson
+8. Uniform
+9. Geometric
+10. Beta

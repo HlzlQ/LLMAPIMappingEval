@@ -1,0 +1,5 @@
+tfp.distributions.Exponential  
+tf.random.exponential  
+tf.math.exp  
+tf.nn.relu  
+tf.reduce_sum

@@ -1,0 +1,11 @@
+
+Answer: 1. tf.initializers.random_uniform
+2. tf.keras.initializers.RandomUniform
+3. tf.initializers.variance_scaling
+4. tf.keras.initializers.VarianceScaling
+5. tf.initializers.glorot_uniform
+6. tf.keras.initializers.GlorotUniform
+7. tf.initializers.he_uniform
+8. tf.keras.initializers.HeUniform
+9. tf.initializers.lecun_uniform
+10. tf.keras.initializers.LeCunUniform

@@ -1,0 +1,10 @@
+torch.nn.SmoothL1Loss  
+torch.nn.MSELoss  
+torch.nn.L1Loss  
+torch.nn.HuberLoss  
+torch.nn.CosineEmbeddingLoss  
+torch.nn.MarginRankingLoss  
+torch.nn.MultiLabelMarginLoss  
+torch.nn.TripletMarginLoss  
+torch.nn.PoissonNLLLoss  
+torch.nn.KLDivLoss

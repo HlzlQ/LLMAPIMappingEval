@@ -1,0 +1,10 @@
+
+"""
+
+mxnet_initializers = [
+    "mxnet.init.One",
+    "mxnet.init.Constant",
+    "mxnet.init.Xavier",
+    "mxnet.init.Normal",
+    "mxnet.init.Uniform"
+]

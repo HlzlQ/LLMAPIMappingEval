@@ -1,0 +1,2 @@
+
+CNTK.initializer.random_normal

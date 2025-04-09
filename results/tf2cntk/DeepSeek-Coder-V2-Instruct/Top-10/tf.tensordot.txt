@@ -1,0 +1,12 @@
+
+
+1. cntk.ops.reduce_sum
+2. cntk.ops.element_times
+3. cntk.ops.plus
+4. cntk.ops.slice
+5. cntk.ops.transpose
+6. cntk.ops.reshape
+7. cntk.ops.constant
+8. cntk.ops.placeholder
+9. cntk.ops.reduce_mean
+10. cntk.ops.log

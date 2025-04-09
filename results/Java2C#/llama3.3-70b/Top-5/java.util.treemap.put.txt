@@ -1,0 +1,5 @@
+1. System.Collections.Generic.SortedDictionary.Add
+2. System.Collections.Generic.Dictionary.Add
+3. System.Collections.Generic.SortedList.Add
+4. System.Collections.Hashtable.Add
+5. System.Collections.Generic.IDictionary.Add

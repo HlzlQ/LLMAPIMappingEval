@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that can be used for mean squared error loss:
+
+1. `torch.nn.MSELoss()`
+2. `torch.nn.functional.mse_loss()`
+3. `torch.nn.modules.loss.MeanSquaredError()`
+4. `torch.nn.modules.loss.MSE()`
+5. `torch.nn.modules.loss.mean_squared_error()`
+6. `torch.nn.modules.loss.mse()`
+7. `torch.nn.functional.mean_squared_error()`
+8. `torch.nn.functional.mse()`
+9. `torch.nn.modules.loss.MeanSquaredErrorLoss()`
+10. `torch.nn.modules.loss.MSELoss()`

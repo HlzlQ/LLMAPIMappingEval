@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.hard_sigmoid`:
+
+1. `cntk.layers.activations.hard_sigmoid`
+2. `cntk.layers.activations.HardSigmoid`
+3. `cntk.layers.activations.hard_sigmoid_layer`
+4. `cntk.layers.activations.HardSigmoidLayer`
+5. `cntk.layers.activations.hard_sigmoid_function`

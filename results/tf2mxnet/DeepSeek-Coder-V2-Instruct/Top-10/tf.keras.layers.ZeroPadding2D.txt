@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.Conv2D
+2. mxnet.ndarray.pad
+3. mxnet.gluon.nn.MaxPool2D
+4. mxnet.gluon.nn.BatchNorm
+5. mxnet.ndarray.relu
+6. mxnet.gluon.nn.Dense
+7. mxnet.ndarray.flatten
+8. mxnet.gluon.nn.Dropout
+9. mxnet.ndarray.transpose
+10. mxnet.gluon.nn.Activation

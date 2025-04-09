@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.RNN`
+2. `torch.nn.LSTM`
+3. `torch.nn.GRU`
+4. `torch.nn.RNNCell`
+5. `mxnet.gluon.rnn.RNNCell`
+6. `mxnet.gluon.rnn.LSTMCell`
+7. `mxnet.gluon.rnn.GRUCell`
+8. `mxnet.ndarray.RNN`
+9. `mxnet.ndarray.LSTM`
+10. `mxnet.ndarray.GRU`

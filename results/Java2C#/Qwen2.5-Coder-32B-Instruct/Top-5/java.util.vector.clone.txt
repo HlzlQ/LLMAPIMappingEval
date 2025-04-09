@@ -1,0 +1,5 @@
+System.Collections.ArrayList.Clone
+System.Collections.Generic.List<T>.Clone
+System.Array.Clone
+System.Collections.Hashtable.Clone
+System.Collections.SortedList.Clone

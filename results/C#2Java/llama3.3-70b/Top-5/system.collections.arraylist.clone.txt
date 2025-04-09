@@ -1,0 +1,5 @@
+1. java.util.ArrayList.clone
+2. java.util.Vector.clone
+3. java.util.LinkedList.clone
+4. java.util.Stack.clone
+5. java.lang.Object.clone

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Bernoulli`:
+
+1. torch.distributions.Bernoulli
+2. torch.distributions.Categorical
+3. torch.distributions.Binomial
+4. torch.distributions.Poisson
+5. torch.distributions.Geometric
+6. torch.distributions.LogNormal
+7. torch.distributions.Normal
+8. torch.distributions.RelaxedBernoulli
+9. torch.distributions.RelaxedOneHotCategorical
+10. torch.distributions.Uniform

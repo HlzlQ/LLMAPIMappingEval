@@ -1,0 +1,12 @@
+
+
+1. tf.initializers.GlorotUniform
+2. tf.initializers.GlorotNormal
+3. tf.initializers.HeUniform
+4. tf.initializers.HeNormal
+5. tf.initializers.LecunUniform
+6. tf.initializers.LecunNormal
+7. tf.initializers.VarianceScaling
+8. tf.initializers.TruncatedNormal
+9. tf.initializers.RandomUniform
+10. tf.initializers.RandomNormal

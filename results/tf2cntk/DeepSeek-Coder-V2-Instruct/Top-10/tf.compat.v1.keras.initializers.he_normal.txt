@@ -1,0 +1,20 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Import necessary modules from CNTK
+from cntk import initializers
+```
+
+```python
+# List of TensorFlow API names to map to CNTK equivalents
+tensorflow_to_cntk_initializers = {
+    "tensorflow.compat.v1.keras.initializers.he_normal": initializers.glorot_uniform()
+}
+
+# Print the mapped APIs
+for tf_api, cntk_api in tensorflow_to_cntk_initializers.items():
+    print(f"{tf_api}: {cntk_api}")
+```

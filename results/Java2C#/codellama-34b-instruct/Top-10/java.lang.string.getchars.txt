@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.String.ToCharArray()
+2. System.String.CopyTo()
+3. System.String.GetChars()
+4. System.Text.StringBuilder.ToString()
+5. System.Text.StringBuilder.Append()
+6. System.Text.StringBuilder.Insert()
+7. System.Text.StringBuilder.Remove()
+8. System.Text.StringBuilder.Replace()
+9. System.Text.RegularExpressions.Regex.Matches()
+10. System.Text.Encoding.GetChars()

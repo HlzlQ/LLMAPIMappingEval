@@ -1,0 +1,10 @@
+org.junit.jupiter.api.Assertions.assertEquals  
+junit.framework.Assert.assertEquals  
+org.testng.AssertJUnit.assertEquals  
+org.apache.commons.lang3.Validate.equals  
+java.util.Objects.equals  
+org.mockito.ArgumentMatchers.eq  
+org.hamcrest.MatcherAssert.assertThat  
+org.easymock.EasyMock.expect  
+org.powermock.api.mockito.PowerMockito.verifyStatic  
+org.junit.Assert.assertEquals

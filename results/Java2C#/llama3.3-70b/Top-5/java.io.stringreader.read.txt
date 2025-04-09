@@ -1,0 +1,5 @@
+1. System.IO.StringReader.Read
+2. System.IO.TextReader.Read
+3. System.IO.StreamReader.Read
+4. System.IO.BinaryReader.Read
+5. System.IO.FileReader.Read

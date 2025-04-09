@@ -1,0 +1,5 @@
+1. CNTK.softmax
+2. CNTK.log
+3. CNTK.softmax_with_bias
+4. CNTK.log_softmax
+5. CNTK.cross_entropy_with_softmax

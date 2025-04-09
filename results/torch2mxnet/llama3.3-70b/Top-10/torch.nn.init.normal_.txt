@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.init.normal_`:
+
+1. mxnet.ndarray.normal
+2. mxnet.init.Normal
+3. mxnet.gluon.nn.Dense(weight_initializer=mxnet.init.Normal)
+4. mxnet.gluon.nn.Conv2D(weight_initializer=mxnet.init.Normal)
+5. mxnet.nd.random.normal
+6. mxnet.gluon.utils.initialize.Normal
+7. mxnet.ndarray.sample_normal
+8. mxnet.gluon.nn.Embedding(weight_initializer=mxnet.init.Normal)
+9. mxnet.gluon.nn.Conv1D(weight_initializer=mxnet.init.Normal)
+10. mxnet.init.XavierNormal

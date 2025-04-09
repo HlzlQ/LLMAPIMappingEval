@@ -1,0 +1,5 @@
+1. System.Console.WriteLine
+2. System.IO.TextWriter.Write
+3. System.IO.StreamWriter.Write
+4. System.Diagnostics.Debug.WriteLine
+5. System.Windows.Forms.Control.Print

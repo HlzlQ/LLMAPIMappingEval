@@ -1,0 +1,10 @@
+C# has a similar API for writing data to a stream called "StreamWriter". The method for writing data to a stream in C# is also called "Write" and it takes a string as an argument.
+
+Here's an example of how you can use the StreamWriter class to write data to a file in C#:
+```
+using (var writer = new StreamWriter("example.txt"))
+{
+    writer.Write("Hello, World!");
+}
+```
+This code will create a new file called "example.txt" and write the string "Hello, World!" to it. The StreamWriter class also has other methods for writing data to a stream, such as WriteLine() which writes a line of text to the stream, and WriteAsync() which writes data to the stream asynchronously.

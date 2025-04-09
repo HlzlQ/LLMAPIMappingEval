@@ -1,0 +1,10 @@
+java.util.HashSet.add
+java.util.LinkedHashSet.add
+java.util.TreeSet.add
+java.util.concurrent.CopyOnWriteArraySet.add
+java.util.Collections.newSetFromMap.add
+java.util.stream.Collectors.toSet().add
+java.util.Set.of().add
+java.util.Set.copyOf().add
+java.util.Set.unmodifiableSet().add
+java.util.HashSet.addAll

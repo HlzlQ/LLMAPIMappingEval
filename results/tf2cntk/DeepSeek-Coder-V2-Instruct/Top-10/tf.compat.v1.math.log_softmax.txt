@@ -1,0 +1,12 @@
+
+
+1. softmax
+2. log_softmax
+3. sparse_softmax_cross_entropy_with_logits
+4. softmax_cross_entropy_with_logits
+5. sigmoid
+6. tanh
+7. relu
+8. dropout
+9. batch_normalization
+10. conv2d

@@ -1,0 +1,7 @@
+Here are 5 possible PyTorch API mappings:
+
+1. `torch.distributed.ReduceOp`
+2. `torch.nn.DataParallel`
+3. `torch.distributed.all_reduce`
+4. `torch.nn.parallel.DistributedDataParallel`
+5. `torch.cuda.amp.GradScaler`

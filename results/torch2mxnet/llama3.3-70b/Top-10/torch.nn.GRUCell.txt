@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.GRUCell`:
+
+1. mxnet.ndarray.GRU
+2. mxnet.rnn.GRUCell
+3. mxnet.gluon.rnn.GRUCell
+4. mxnet.gluon.rnn.GRU
+5. mxnet.ndarray.RNN
+6. mxnet.rnn.RNNCell
+7. mxnet.gluon.rnn.RNNCell
+8. mxnet.gluon.rnn.LSTMCell
+9. mxnet.gluon.rnn.SimpleRNNCell
+10. mxnet.gluon.rnn.GRUCell_v2

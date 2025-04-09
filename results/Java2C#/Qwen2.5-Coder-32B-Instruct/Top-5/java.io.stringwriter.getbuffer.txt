@@ -1,0 +1,5 @@
+System.Text.StringBuilder.ToString
+System.IO.StringWriter.GetStringBuilder
+System.Text.StringBuilder
+System.IO.StringWriter
+System.Text.StringBuilder.Append

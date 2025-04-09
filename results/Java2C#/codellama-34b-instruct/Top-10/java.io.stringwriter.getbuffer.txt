@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.StringWriter.GetBuffer()
+2. System.Text.StringBuilder.GetBuffer()
+3. System.IO.StreamWriter.GetBuffer()
+4. System.IO.BinaryWriter.GetBuffer()
+5. System.IO.BufferedStream.GetBuffer()
+6. System.IO.MemoryStream.GetBuffer()
+7. System.Text.StringBuilder.ToString()
+8. System.IO.StreamReader.ReadToEnd()
+9. System.IO.BinaryReader.ReadBytes()
+10. System.IO.BufferedStream.ReadByte()

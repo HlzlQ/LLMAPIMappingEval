@@ -1,0 +1,2 @@
+
+Answer: torch.nn.init.kaiming_normal_, caffe2.python.layers.ops.kaiming_normal_, mxnet.initializer.Normal, tensorflow.keras.initializers.VarianceScaling, tf.compat.v1.keras.initializers.VarianceScaling

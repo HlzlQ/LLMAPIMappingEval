@@ -1,0 +1,5 @@
+1. mxnet.ndarray.Activation
+2. mxnet.gluon.nn.HardSigmoid
+3. mxnet.gluon.nn.Activation
+4. mxnet.nd.Sigmoid
+5. mxnet.gluon.nn.Sigmoid

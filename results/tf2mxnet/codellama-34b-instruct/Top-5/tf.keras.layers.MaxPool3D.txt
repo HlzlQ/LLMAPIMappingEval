@@ -1,0 +1,3 @@
+  tf.keras.layers.MaxPool3D() is a 3D max pooling layer. The equivalent API in MXNet is:
+
+* mxnet.gluon.nn.MaxPool3D()

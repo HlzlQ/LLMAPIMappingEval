@@ -1,0 +1,13 @@
+
+Answer: ```
+1. SGD
+2. RMSprop
+3. Adagrad
+4. Adam
+5. Adamax
+6. Nadam
+7. Ftrl
+8. MomentumSGD
+9. AdaDelta
+10. LBFGS
+```

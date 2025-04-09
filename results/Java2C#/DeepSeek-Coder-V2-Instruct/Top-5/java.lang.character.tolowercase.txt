@@ -1,0 +1,5 @@
+1. ToLower()
+2. ToUpper()
+3. IsLower()
+4. IsUpper()
+5. CompareToIgnoreCase()

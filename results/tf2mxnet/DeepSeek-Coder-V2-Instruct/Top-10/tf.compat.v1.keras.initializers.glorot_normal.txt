@@ -1,0 +1,15 @@
+
+```python
+import mxnet as mx
+```
+
+1. `mxnet.init.Xavier`
+2. `mxnet.init.Normal`
+3. `mxnet.init.Uniform`
+4. `mxnet.init.Constant`
+5. `mxnet.init.Orthogonal`
+6. `mxnet.init.GlorotUniform`
+7. `mxnet.init.GlorotNormal`
+8. `mxnet.init.HeUniform`
+9. `mxnet.init.HeNormal`
+10. `mxnet.init.LecunUniform`

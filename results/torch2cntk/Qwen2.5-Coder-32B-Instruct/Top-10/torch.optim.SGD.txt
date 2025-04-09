@@ -1,0 +1,10 @@
+cntk.train.sgd
+cntk.train.momentum_sgd
+cntk.train.nesterov_momentum_sgd
+cntk.train.adam
+cntk.train.rmsprop
+cntk.train.fsadagrad
+cntk.train.adagrad
+cntk.train.adamax
+cntk.train.amsgrad
+cntk.train.nadam

@@ -1,0 +1,5 @@
+System.Math.Max  
+Math.Max  
+System.Numerics.BigInteger.Max  
+System.Numerics.Complex.MaxByMagnitude  
+System.Collections.Generic.Comparer<T>.Default.Compare

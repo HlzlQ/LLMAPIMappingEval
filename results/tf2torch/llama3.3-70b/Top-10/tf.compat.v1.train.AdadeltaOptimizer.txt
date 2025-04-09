@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.train.AdadeltaOptimizer`:
+
+1. torch.optim.Adadelta
+2. torch.optim.Adam
+3. torch.optim.RMSprop
+4. torch.optim.SGD
+5. torch.optim.ASGD
+6. torch.optim.LBFGS
+7. torch.optim.AdamW
+8. torch.optim.NAdam
+9. torch.optim.RAdam
+10. torch.optim.Adagrad

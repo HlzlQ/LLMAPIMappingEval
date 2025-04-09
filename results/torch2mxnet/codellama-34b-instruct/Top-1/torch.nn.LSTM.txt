@@ -1,0 +1,2 @@
+
+MXNet's LSTM implementation is called `mxnet.gluon.rnn.LSTM`.

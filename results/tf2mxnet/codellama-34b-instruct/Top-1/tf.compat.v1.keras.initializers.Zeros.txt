@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent of `tensorflow.compat.v1.keras.initializers.Zeros` is `mxnet.init.Zero`.

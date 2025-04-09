@@ -1,0 +1,5 @@
+1. mx.nd.unique
+2. mxnet.ndarray.unique
+3. nd.array.unique
+4. mxnet gluon utils unique
+5. mx.gluon.utils.split_and_load

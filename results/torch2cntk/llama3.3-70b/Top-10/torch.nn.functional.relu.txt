@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.functional.relu`:
+
+1. CNTK.relu
+2. CNTK.LeakyReLU
+3. CNTK.Sigmoid
+4. CNTK.Tanh
+5. CNTK.HardTanh
+6. CNTK.PReLU
+7. CNTK.RReLU
+8. CNTK.GELU
+9. CNTK.Softmax
+10. CNTK.Softplus

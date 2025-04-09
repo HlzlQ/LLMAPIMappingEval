@@ -1,0 +1,1 @@
+torch.nn.init.xavier_normal_

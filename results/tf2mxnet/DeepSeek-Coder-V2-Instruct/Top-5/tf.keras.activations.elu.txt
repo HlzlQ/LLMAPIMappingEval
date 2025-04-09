@@ -1,0 +1,14 @@
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+```
+
+### Answer:
+1. `mxnet.ndarray.relu`
+2. `mxnet.ndarray.softmax`
+3. `mxnet.ndarray.sigmoid`
+4. `mxnet.ndarray.tanh`
+5. `mxnet.ndarray.elu`

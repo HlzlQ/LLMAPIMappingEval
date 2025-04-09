@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `glorot_normal` initializer:
+
+1. `mxnet.initializers.GlorotNormal()`
+2. `mxnet.initializers.XavierNormal()`
+3. `mxnet.initializers.HeNormal()`
+4. `mxnet.initializers.LeCunNormal()`
+5. `mxnet.initializers.KaimingNormal()`
+6. `mxnet.initializers.VarianceScaling()`
+7. `mxnet.initializers.RandomNormal()`
+8. `mxnet.initializers.TruncatedNormal()`
+9. `mxnet.initializers.Orthogonal()`
+10. `mxnet.initializers.Identity()`

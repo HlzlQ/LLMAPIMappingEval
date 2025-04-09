@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.RemoveAll
+2. System.Linq.Enumerable.RemoveAll
+3. System.Collections.Generic.Dictionary<TKey,TValue>.Clear
+4. System.Collections.Hashtable.Clear
+5. System.Collections.ArrayList.Clear
+6. System.Data.DataTable.Clear
+7. System.Data.Dataset.Reset
+8. System.Windows.Forms.ListView.Items.Clear
+9. System.Windows.Controls.ItemCollection.Clear
+10. System.Collections.ObjectModel.Collection<T>.Clear

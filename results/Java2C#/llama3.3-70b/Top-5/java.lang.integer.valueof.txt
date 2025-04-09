@@ -1,0 +1,5 @@
+1. System.Int32.Parse
+2. System.Convert.ToInt32
+3. System.Int32.TryParse
+4. System.Int32.CompareTo
+5. System.Int32.Equals

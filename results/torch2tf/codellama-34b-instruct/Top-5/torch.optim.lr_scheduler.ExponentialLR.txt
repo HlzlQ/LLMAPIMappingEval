@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for exponential learning rate scheduling:
+
+1. `tf.keras.optimizers.schedulers.ExponentialDecay`
+2. `tf.keras.optimizers.schedulers.CosineAnnealingLR`
+3. `tf.keras.optimizers.schedulers.PolynomialDecay`
+4. `tf.keras.optimizers.schedulers.InverseTimeDecay`
+5. `tf.keras.optimizers.schedulers.NaturalExpDecay`

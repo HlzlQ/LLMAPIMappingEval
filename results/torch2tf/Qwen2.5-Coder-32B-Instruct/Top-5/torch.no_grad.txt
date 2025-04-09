@@ -1,0 +1,5 @@
+tf.stop_gradient  
+tf.GradientTape(persistent=False)  
+tf.function(jit_compile=False)  
+tf.Module.trainable_variables  
+tf.keras.Model.trainable

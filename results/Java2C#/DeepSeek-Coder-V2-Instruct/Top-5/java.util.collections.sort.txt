@@ -1,0 +1,5 @@
+1. System.Linq.OrderBy
+2. Array.Sort
+3. List<T>.Sort
+4. IList<T>.Sort
+5. SortedSet<T>

@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. tf.train.batch
+2. tf.data.Dataset.from_tensor_slices
+3. tf.placeholder
+4. tf.Session.run
+5. tf.Variable
+6. tf.nn.relu
+7. tf.reduce_mean
+8. tf.train.AdamOptimizer
+9. tf.layers.dense
+10. tf.summary.scalar

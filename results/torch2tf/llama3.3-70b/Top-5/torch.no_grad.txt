@@ -1,0 +1,5 @@
+1. tf.autograph.do_not_convert
+2. tf.config.run_functions_eagerly
+3. tf.function
+4. tf.compat.v1.disable_eager_execution
+5. tf.stop_gradient

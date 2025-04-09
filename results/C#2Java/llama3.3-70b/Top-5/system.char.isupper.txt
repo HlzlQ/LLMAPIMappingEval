@@ -1,0 +1,5 @@
+1. Character.isUpperCase()
+2. String.toUpperCase()
+3. String.toUpperCase(Locale)
+4. Character.isTitleCase()
+5. String.equalsIgnoreCase()

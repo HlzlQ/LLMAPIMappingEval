@@ -1,0 +1,10 @@
+1. System.Math.Floor
+2. MathNet.Numerics.Statistics.Statistics.Floor
+3. Accord.Math.Floor
+4. Math.NET Numerics.Math.Floor
+5. CenterSpace.NMath.Core.MathFunctions.Floor
+6. Extreme.Mathematics.Math.Floor
+7. AForge.Math.Floor
+8. ILNumerics.Math.floor
+9. alglib.math.floor
+10. Microsoft.ML.Math.Floor

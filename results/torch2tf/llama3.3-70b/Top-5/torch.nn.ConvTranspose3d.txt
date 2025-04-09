@@ -1,0 +1,5 @@
+1. tf.keras.layers.Conv3DTranspose
+2. tf.nn.conv3d_transpose
+3. tf.compat.v1.nn.conv3d_transpose
+4. tf.keras.layers.Conv3DTransposed
+5. tf.layers.Conv3DTranspose

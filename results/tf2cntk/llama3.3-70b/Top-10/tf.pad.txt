@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that are similar to TensorFlow's `pad` function:
+
+1. `CNTK.pad`
+2. `CNTK.sequence.pad`
+3. `CNTK.layers.PaddingLayer`
+4. `CNTK.ops.padding`
+5. `CNTK.functions.pad_sequence`
+6. `CNTK.layers.SequencePaddingLayer`
+7. `CNTK.ops.sequence_padding`
+8. `CNTK.layers.FramePaddingLayer`
+9. `CNTK.ops.frame_padding`
+10. `CNTK.layers.ConstantPadLayer`

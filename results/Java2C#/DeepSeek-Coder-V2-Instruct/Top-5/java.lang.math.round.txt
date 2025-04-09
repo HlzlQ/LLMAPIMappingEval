@@ -1,0 +1,5 @@
+1. Math.Round (System)
+2. Math.Ceiling (System)
+3. Math.Floor (System)
+4. Math.Truncate (System)
+5. Convert.ToInt32 (System)

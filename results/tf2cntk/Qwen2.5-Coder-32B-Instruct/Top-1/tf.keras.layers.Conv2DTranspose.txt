@@ -1,0 +1,1 @@
+cntk.ops.convolution_transpose

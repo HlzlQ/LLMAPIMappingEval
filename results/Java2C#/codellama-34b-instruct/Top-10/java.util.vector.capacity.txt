@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.vector.capacity`:
+
+1. `System.Collections.Generic.List<T>.Capacity`
+2. `System.Collections.ArrayList.Capacity`
+3. `System.Collections.Specialized.NameObjectCollectionBase.Capacity`
+4. `System.Collections.Specialized.StringCollection.Capacity`
+5. `System.Collections.Specialized.StringDictionary.Capacity`
+6. `System.Collections.Generic.LinkedList<T>.Capacity`
+7. `System.Collections.Generic.Queue<T>.Capacity`
+8. `System.Collections.Generic.Stack<T>.Capacity`
+9. `System.Collections.Specialized.BitVector32.Capacity`
+10. `System.Collections.Specialized.HybridDictionary.Capacity`

@@ -1,0 +1,7 @@
+  The C# API `system.io.textwriter.writeline` is used to write a line of text to a file or stream. In Java, there are several APIs that can be used for this purpose, depending on the specific use case and requirements. Here are five possible mappings from the C# API to Java APIs:
+
+1. `java.io.PrintWriter.println()`: This method is similar to the C# API in that it writes a line of text to an output stream. However, unlike the C# API, this method does not return a value.
+2. `java.io.BufferedWriter.write()`: This method allows you to write a string to a buffered writer, which can then be flushed to an underlying output stream. Unlike the C# API, this method does not automatically append a newline character at the end of the line.
+3. `java.io.FileWriter.write()`: This method allows you to write a string to a file. It is similar to the C# API in that it takes a string as an argument and writes it to a file, but it does not return a value.
+4. `java.nio.file.Files.write()`: This method allows you to write a string to a file using the Java NIO API. It is similar to the C# API in that it takes a string as an argument and writes it to a file, but it also allows you to specify additional options such as encoding and buffering.
+5. `java.io.OutputStreamWriter.write()`: This method allows you to write a string to an output stream using a specified character set. It is similar to the C# API in that it takes a string as an argument and writes it to an output stream, but it also allows you to specify the character set used for encoding.

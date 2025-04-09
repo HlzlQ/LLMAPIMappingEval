@@ -1,0 +1,5 @@
+1. mxnet.ndarray.dot
+2. mxnet gluon.nn.Dense
+3. mxnet gluon.nn.FullyConnected
+4. mxnet.ndarray.batch_dot
+5. mxnet.gluon.nn.Flatten

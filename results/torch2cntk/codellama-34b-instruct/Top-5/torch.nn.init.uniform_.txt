@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to `torch.nn.init.uniform_`:
+
+1. `cntk.initializer.Uniform`
+2. `cntk.initializer.RandomUniform`
+3. `cntk.initializer.UniformDistribution`
+4. `cntk.initializer.UniformReal`
+5. `cntk.initializer.UniformInteger`

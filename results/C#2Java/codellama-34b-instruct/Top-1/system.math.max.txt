@@ -1,0 +1,1 @@
+System.Math.Max in C# is equivalent to Math.max() in Java.

@@ -1,0 +1,22 @@
+
+
+```python
+import mxnet as mx
+from mxnet import init
+
+# Example mapping for one function:
+# TensorFlow: tensorflow.keras.initializers.Ones
+# MXNet: mxnet.init.One
+```
+
+### Answer
+1. `mxnet.init.Zero`
+2. `mxnet.init.One`
+3. `mxnet.init.Constant`
+4. `mxnet.init.Xavier`
+5. `mxnet.init.Normal`
+6. `mxnet.init.Uniform`
+7. `mxnet.init.Orthogonal`
+8. `mxnet.init.Identity`
+9. `mxnet.init.LSTMBias`
+10. `mxnet.init.GRUParams`

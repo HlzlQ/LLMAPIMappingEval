@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.LSTMCell`:
+
+1. `mxnet.gluon.rnn.LSTMCell`
+2. `mxnet.gluon.rnn.LSTM`
+3. `mxnet.gluon.rnn.RNNCell`
+4. `mxnet.gluon.rnn.RNN`
+5. `mxnet.gluon.rnn.SequentialRNNCell`
+6. `mxnet.gluon.rnn.Bidirectional`
+7. `mxnet.gluon.rnn.Dropout`
+8. `mxnet.gluon.rnn.Zoneout`
+9. `mxnet.gluon.rnn.LayerNormLSTMCell`
+10. `mxnet.gluon.rnn.LayerNormLSTM`

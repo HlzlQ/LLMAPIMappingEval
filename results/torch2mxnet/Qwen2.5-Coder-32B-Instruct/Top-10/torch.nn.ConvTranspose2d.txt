@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Conv2DTranspose
+mxnet.ndarray.Convolution
+mxnet.symbol.Convolution
+mxnet.gluon.nn.Deconv2D
+mxnet.ndarray.Deconvolution
+mxnet.symbol.Deconvolution
+mxnet.gluon.nn.TransposeConv2D
+mxnet.ndarray.TransposeConvolution
+mxnet.symbol.TransposeConvolution
+mxnet.gluon.nn.UpSampling

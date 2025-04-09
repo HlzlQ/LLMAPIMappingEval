@@ -1,0 +1,5 @@
+  tf.keras.initializers.Constant(value=0.1)
+tf.keras.initializers.Zeros()
+tf.keras.initializers.Ones()
+tf.keras.initializers.RandomNormal(mean=0.0, stddev=0.05)
+tf.keras.initializers.TruncatedNormal(mean=0.0, stddev=0.05)

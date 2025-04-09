@@ -1,0 +1,5 @@
+torch.meshgrid  
+torch.cartesian_prod  
+torch.linspace  
+torch.arange  
+torch.stack

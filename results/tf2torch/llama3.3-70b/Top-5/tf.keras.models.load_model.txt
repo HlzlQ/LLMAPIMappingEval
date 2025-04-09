@@ -1,0 +1,5 @@
+1. torch.load
+2. torch.nn.Module.load_state_dict
+3. torch.save
+4. torch.serialization.load
+5. torch.hub.load_state_dict_from_url

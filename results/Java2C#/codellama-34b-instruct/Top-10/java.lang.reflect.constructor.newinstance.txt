@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Activator.CreateInstance()
+2. System.Reflection.ConstructorInfo.Invoke()
+3. System.RuntimeTypeHandle.Allocate()
+4. System.RuntimeTypeHandle.CreateInstance()
+5. System.RuntimeTypeHandle.GetConstructor()
+6. System.RuntimeTypeHandle.GetMethod()
+7. System.RuntimeTypeHandle.GetProperty()
+8. System.RuntimeTypeHandle.InvokeConstructor()
+9. System.RuntimeTypeHandle.InvokeMember()
+10. System.RuntimeTypeHandle.NewInstance()

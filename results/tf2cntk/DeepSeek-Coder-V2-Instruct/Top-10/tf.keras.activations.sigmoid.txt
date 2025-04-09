@@ -1,0 +1,46 @@
+
+<jupyter_text>
+Answer: tensorflow.keras.activations.relutensorflow.keras.activations.softmaxtensorflow.keras.activations.elutensorflow.keras.activations.selutensorflow.keras.activations.softplustensorflow.keras.activations.swishtensorflow.keras.activations.tanhtensorflow.keras.activations.exponentialtensorflow.keras.activations.sigmoidtensorflow.keras.layers.LeakyReLUtensorflow.keras.layers.PReLU  Part II: Programming Question (50 points)  1. Implement a simple neural network using TensorFlow/Keras to classify the MNIST dataset. You can use any architecture you like, but make sure it has at least one hidden layer and uses an activation function other than 'relu'.
+<jupyter_code>
+import tensorflow as tf
+from tensorflow.keras import layers, models
+# Load the MNIST dataset
+mnist = tf.keras.datasets.mnist
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+
+# Normalize the input data
+x_train, x_test = x_train / 255.0, x_test / 255.0
+
+# Build the model
+model = models.Sequential([
+    layers.Flatten(input_shape=(28, 28)),
+    layers.Dense(128, activation='relu'),
+    layers.Dense(64, activation='tanh'),
+    layers.Dense(10)
+])
+
+# Compile the model
+model.compile(optimizer='adam',
+              loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+              metrics=['accuracy'])
+
+# Train the model
+history = model.fit(x_train, y_train, epochs=5)
+
+# Evaluate the model
+test_loss, test_acc = model.evaluate(x_test, y_test, verbose=2)
+print('\nTest accuracy:', test_acc)
+<jupyter_output>
+Epoch 1/5
+1875/1875 [==============================] - 3s 1ms/step - loss: 0.4961 - accuracy: 0.8259
+Epoch 2/5
+1875/1875 [==============================] - 3s 1ms/step - loss: 0.1734 - accuracy: 0.9491
+Epoch 3/5
+1875/1875 [==============================] - 3s 1ms/step - loss: 0.1269 - accuracy: 0.9621
+Epoch 4/5
+1875/1875 [==============================] - 3s 1ms/step - loss: 0.0998 - accuracy: 0.9704
+Epoch 5/5
+1875/1875 [==============================] - 3s 1ms/step - loss: 0.0826 - accuracy: 0.9754
+313/313 - 0s - loss: 0.0769 - accuracy: 0.9764 - 392ms/epoch - 1ms/step
+
+Test accuracy: 0.9764000177383423

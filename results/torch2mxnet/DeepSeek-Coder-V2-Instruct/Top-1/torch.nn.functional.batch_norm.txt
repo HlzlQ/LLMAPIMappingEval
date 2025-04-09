@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The equivalent MXNet API for torch.nn.functional.batch_norm is mxnet.ndarray.BatchNorm
+print("mxnet.ndarray.BatchNorm")
+<jupyter_output>
+mxnet.ndarray.BatchNorm

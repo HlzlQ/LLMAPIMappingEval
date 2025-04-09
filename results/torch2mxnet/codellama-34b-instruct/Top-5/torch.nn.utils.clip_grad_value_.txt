@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.utils.clip_grad_value`:
+
+1. `mxnet.ndarray.clip`
+2. `mxnet.autograd.clip_grads`
+3. `mxnet.optimizer.ClipGradient`
+4. `mxnet.gluon.nn.utils.clip_grad_value`
+5. `mxnet.gluon.Trainer.clip_grads`

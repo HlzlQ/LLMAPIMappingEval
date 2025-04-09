@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the Java API `java.util.hashtable.put`:
+
+1. `System.Collections.Hashtable.Add`
+2. `System.Collections.Generic.Dictionary<TKey, TValue>.Add`
+3. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryAdd`
+4. `System.Collections.Specialized.NameObjectCollectionBase.Add`
+5. `System.Web.HttpContext.Current.Items.Add`
+6. `System.Web.HttpSessionState.Add`
+7. `System.Web.HttpApplicationState.Add`
+8. `System.Web.HttpServerUtility.Add`
+9. `System.Web.HttpResponse.AddHeader`
+10. `System.Web.HttpRequest.Headers.Add`

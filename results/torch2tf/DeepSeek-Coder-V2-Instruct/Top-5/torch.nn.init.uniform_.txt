@@ -1,0 +1,6 @@
+
+Answer: 1. tf.initializers.random_uniform
+2. tf.keras.initializers.RandomUniform
+3. tf.compat.v1.initializers.random_uniform
+4. tf.initializers.variance_scaling
+5. tf.keras.initializers.VarianceScaling

@@ -1,0 +1,5 @@
+tf.keras.layers.Conv3D  
+tf.layers.Conv3D  
+tf.compat.v1.layers.conv3d  
+tf.nn.conv3d  
+tf.raw_ops.Conv3D

@@ -1,0 +1,5 @@
+1. System.Collections.IEnumerator.MoveNext
+2. System.Collections.Generic.IEnumerator.MoveNext
+3. System.Collections.Generic.IEnumerable.GetEnumerator
+4. System.Linq.Enumerable.Any
+5. System.Collections.IEnumerable.GetEnumerator

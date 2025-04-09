@@ -1,0 +1,10 @@
+cntk.layers.Dense
+cntk.layers.Dropout
+cntk.layers.For
+cntk.layers.Function
+cntk.layers.LSTM
+cntk.layers.Sequential
+cntk.layers.Recurrence
+cntk.layers.Embedding
+cntk.layers.BatchNormalization
+cntk.layers.ParameterizedFunction

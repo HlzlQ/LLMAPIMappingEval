@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.train.AdadeltaOptimizer`:
+
+1. mxnet.optimizer.Adadelta
+2. mxnet.optimizer.Adam
+3. mxnet.optimizer.RMSprop
+4. mxnet.optimizer.SGD
+5. mxnet.optimizer.AdaGrad
+6. mxnet.optimizer.NAG
+7. mxnet.optimizer.Adamax
+8. mxnet.optimizer.Nadam
+9. mxnet.optimizer.SGLD
+10. mxnet.optimizer.LBFGS

@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerable
+2. System.Collections.IEnumerator
+3. System.Collections.Generic.IEnumerable<T>
+4. System.Collections.Generic.IEnumerator<T>
+5. System.Linq.IQueryable<T>
+6. System.Linq.IQueryProvider
+7. System.Collections.IEnumerable<T>
+8. System.Collections.IEnumerator<T>
+9. System.Collections.Generic.ICollection<T>
+10. System.Collections.Generic.IDictionary<TKey, TValue>

@@ -1,0 +1,2 @@
+
+Answer: Adam, RMSprop, SGD, Adagrad, Adadelta

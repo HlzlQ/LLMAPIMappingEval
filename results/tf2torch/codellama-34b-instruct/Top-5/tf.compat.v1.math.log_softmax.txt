@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that correspond to `tensorflow.compat.v1.math.log_softmax`:
+
+1. `torch.nn.functional.log_softmax`
+2. `torch.nn.LogSoftmax`
+3. `torch.nn.functional.softmax` with the `log` argument set to `True`
+4. `torch.nn.functional.softmax_cross_entropy`
+5. `torch.nn.CrossEntropyLoss` with the `log_softmax` argument set to `True`

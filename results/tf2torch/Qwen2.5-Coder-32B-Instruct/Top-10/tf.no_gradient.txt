@@ -1,0 +1,10 @@
+torch.no_grad  
+torch.autograd.set_grad_enabled  
+torch.Tensor.requires_grad_  
+torch.nn.Module.register_buffer  
+torch.nn.Parameter  
+torch.optim.Optimizer.zero_grad  
+torch.autograd.grad  
+torch.autograd.backward  
+torch.utils.checkpoint.checkpoint  
+torch.jit.script

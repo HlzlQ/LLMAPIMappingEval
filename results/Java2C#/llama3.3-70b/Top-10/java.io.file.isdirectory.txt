@@ -1,0 +1,10 @@
+1. System.IO.Directory.Exists
+2. System.IO.File.GetAttributes
+3. System.IO.DirectoryInfo.Exists
+4. System.IO.FileSystemInfo.Attributes
+5. System.IO.FileAttributes.Directory
+6. System.IO.Directory.CreateDirectory
+7. System.IO.Directory.Delete
+8. System.IO.Directory.EnumerateFiles
+9. System.IO.Directory.EnumerateDirectories
+10. System.IO.DirectoryInfo.Attributes

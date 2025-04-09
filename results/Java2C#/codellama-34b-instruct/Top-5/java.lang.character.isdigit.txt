@@ -1,0 +1,7 @@
+  Here are five C# APIs that have similar functionality to the Java API `java.lang.Character.isDigit()`:
+
+1. `char.IsDigit(char c)`: This method returns a boolean value indicating whether the specified character is a digit.
+2. `int.TryParse(string s, out int result)`: This method attempts to parse the specified string as an integer and stores the result in the output parameter. If the string is not a valid integer, the method returns false.
+3. `double.TryParse(string s, out double result)`: This method works similarly to `int.TryParse()`, but it parses the input string as a double-precision floating-point number instead of an integer.
+4. `float.TryParse(string s, out float result)`: This method works similarly to `double.TryParse()`, but it parses the input string as a single-precision floating-point number instead of a double-precision floating-point number.
+5. `decimal.TryParse(string s, out decimal result)`: This method works similarly to `float.TryParse()`, but it parses the input string as a decimal number instead of a floating-point number.

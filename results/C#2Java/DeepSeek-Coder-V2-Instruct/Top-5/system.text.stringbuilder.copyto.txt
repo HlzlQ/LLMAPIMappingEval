@@ -1,0 +1,5 @@
+1. StringBuilder.toString()
+2. String.getBytes(Charset)
+3. System.arraycopy(Object src, int srcPos, Object dest, int destPos, int length)
+4. CharBuffer.put(CharSequence s)
+5. ByteBuffer.put(byte[] src)

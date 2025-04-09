@@ -1,0 +1,10 @@
+System.String.CompareTo
+System.String.Compare
+System.Collections.Generic.Comparer<string>.Compare
+System.Globalization.CultureInfo.CompareInfo.CompareString
+System.Linq.Enumerable.SequenceEqual
+System.Text.Encoding.Compare
+System.Runtime.InteropServices.Marshal.Compare
+System.Security.Cryptography.SHA1Managed.ComputeHash
+System.Security.Cryptography.MD5CryptoServiceProvider.ComputeHash
+System.Numerics.BigInteger.CompareTo

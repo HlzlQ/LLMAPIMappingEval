@@ -1,0 +1,5 @@
+1. mxnet.nd.clip
+2. mxnet.ndarray.clip
+3. mxnet.gluon.utils.clip_global_norm
+4. mxnet.ndarray.ElementWiseOp._clip
+5. mxnet.gluon.nn.HybridSequential.clip

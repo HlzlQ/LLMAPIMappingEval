@@ -1,0 +1,11 @@
+System.Object.ReferenceEquals
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+NUnit.Framework.Assert.AreSame
+Xunit.Assert.Same
+FluentAssertions.AssertionsExtensions.BeSameAs
+NSubstitute.Received.InOrderExtensions.DidNotReceiveWithAnyArgs
+Moq.Language.Flow.ITimes.ReturnsExtensions.Returns
+AutoFixture.Idioms.FixtureVerification.IdiomaticAssertionExtensions.ShouldThrowWhenCreatingAnInstanceUsingTheDefaultConstructor
+Castle.Core.AssertionHelper.AreSame
+Rhino.Mocks.RhinoMocksExtensions.VerifyAllExpectationsOn
+NBehave.Narrator.Framework.Assert.Same

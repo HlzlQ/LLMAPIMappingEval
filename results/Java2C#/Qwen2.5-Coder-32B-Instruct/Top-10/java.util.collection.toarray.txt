@@ -1,0 +1,10 @@
+System.Collections.Generic.List.ToArray
+System.Collections.ArrayList.ToArray
+System.Collections.Generic.Collection.ToArray
+System.Collections.Generic.IList.ToArray
+System.Collections.Generic.ICollection.ToArray
+System.Collections.Generic.ISet.ToArray
+System.Collections.Generic.Queue.ToArray
+System.Collections.Generic.Stack.ToArray
+System.Collections.Concurrent.BlockingCollection.ToArray
+System.Collections.Concurrent.ConcurrentQueue.ToArray

@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet API: mxnet.optimizer.RMSprop
+print("mxnet.optimizer.RMSprop")
+<jupyter_output>
+mxnet.optimizer.RMSprop

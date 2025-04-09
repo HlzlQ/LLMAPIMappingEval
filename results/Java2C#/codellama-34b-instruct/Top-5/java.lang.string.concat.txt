@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.String.Concat(System.String, System.String)
+2. System.Text.StringBuilder.Append(System.String)
+3. System.Text.StringBuilder.AppendFormat(System.String, System.Object[])
+4. System.IO.StreamWriter.Write(System.String)
+5. System.Console.WriteLine(System.String)

@@ -1,0 +1,6 @@
+
+Answer: 1. torch.distributions.Normal
+2. torch.nn.functional.normal_
+3. torch.distributions.Normal.sample
+4. torch.distributions.Normal.log_prob
+5. torch.distributions.Normal.mean

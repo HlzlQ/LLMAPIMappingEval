@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for convolutional neural networks (CNNs) and their corresponding TensorFlow API:
+
+1. `mxnet.ndarray.Convolution` - `tf.nn.conv2d`
+2. `mxnet.ndarray.Conv2D` - `tf.nn.conv2d`
+3. `mxnet.ndarray.Conv3D` - `tf.nn.conv3d`
+4. `mxnet.ndarray.ConvolutionTranspose` - `tf.nn.conv_transpose2d`
+5. `mxnet.ndarray.Conv2DTranspose` - `tf.nn.conv_transpose2d`
+6. `mxnet.ndarray.Conv3DTranspose` - `tf.nn.conv_transpose3d`
+7. `mxnet.ndarray.MaxPooling` - `tf.nn.max_pool2d`
+8. `mxnet.ndarray.AvgPooling` - `tf.nn.avg_pool2d`
+9. `mxnet.ndarray.GlobalMaxPooling` - `tf.nn.global_max_pool2d`
+10. `mxnet.ndarray.GlobalAvgPooling` - `tf.nn.global_avg_pool2d`

@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.clip_by_value`:
+
+1. `torch.clamp`
+2. `torch.clip`
+3. `torch.clip_by_value`
+4. `torch.clip_by_norm`
+5. `torch.clip_by_global_norm`

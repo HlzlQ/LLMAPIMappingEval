@@ -1,0 +1,13 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+```
+
+```python
+# Output:
+# RandomUniform, GlorotUniform, HeNormal, VarianceScaling, Orthogonal, Zeros, Ones, Constant, TruncatedNormal, RandomNormal
+```

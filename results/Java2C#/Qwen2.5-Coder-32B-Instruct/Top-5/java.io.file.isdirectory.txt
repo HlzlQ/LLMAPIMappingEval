@@ -1,0 +1,5 @@
+System.IO.Directory.Exists  
+System.IO.File.GetAttributes  
+System.IO.Path.GetDirectoryName  
+System.IO.DirectoryInfo.Exists  
+System.IO.FileInfo.Attributes

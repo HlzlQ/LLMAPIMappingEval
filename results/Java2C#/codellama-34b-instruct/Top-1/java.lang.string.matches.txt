@@ -1,0 +1,25 @@
+C# does not have a direct equivalent to the `java.lang.String.matches()` method. However, you can use the `Regex` class in C# to achieve similar functionality. Here's an example:
+```csharp
+using System;
+using System.Text.RegularExpressions;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string input = "Hello, World!";
+        Regex regex = new Regex("^[a-zA-Z0-9_]+$"); // matches any alphanumeric characters and underscores
+        if (regex.IsMatch(input))
+        {
+            Console.WriteLine("The input matches the pattern.");
+        }
+        else
+        {
+            Console.WriteLine("The input does not match the pattern.");
+        }
+    }
+}
+```
+In this example, we create a `Regex` object with the pattern "^[a-zA-Z0-9_]+$", which matches any alphanumeric characters and underscores. We then use the `IsMatch()` method to check if the input string matches the pattern. If it does, we print "The input matches the pattern." to the console. Otherwise, we print "The input does not match the pattern.".
+
+Note that this is just one way to achieve similar functionality in C# as the `java.lang.String.matches()` method. There may be other ways to do it depending on your specific use case.

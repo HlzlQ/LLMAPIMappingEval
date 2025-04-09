@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.distributions.bernoulli.Bernoulli`:
+
+1. mxnet.ndarray.random.bernoulli
+2. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+3. mxnet.gluon.loss.LogisticLoss
+4. mxnet.ndarray.Activation.sigmoid
+5. mxnet.gluon.nn.HybridSequential.sigmoid
+6. mxnet.ndarray.random.uniform
+7. mxnet.gluon.loss.BinaryCrossEntropyLoss
+8. mxnet.ndarray.where
+9. mxnet.gluon.nn.Dense
+10. mxnet.gluon.loss.SoftmaxCrossEntropyLoss

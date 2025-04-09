@@ -1,0 +1,12 @@
+
+
+1. tf.keras.layers.BatchNormalization
+2. tf.nn.batch_normalization
+3. None (No direct equivalent)
+4. None (No direct equivalent)
+5. None (No direct equivalent)
+6. None (No direct equivalent)
+7. None (No direct equivalent)
+8. None (No direct equivalent)
+9. None (No direct equivalent)
+10. None (No direct equivalent)

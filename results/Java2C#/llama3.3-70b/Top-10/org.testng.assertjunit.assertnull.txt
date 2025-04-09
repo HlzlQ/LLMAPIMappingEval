@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+2. NUnit.Framework.Assert.Null
+3. xunit.assert.Null
+4. FluentAssertions.NotNull
+5. Shouldly.ShouldBeNull
+6. System.Diagnostics.Debug.AssertNull
+7. Moq.Mock.VerifyNull
+8. NSubstitute.Core.Arguments.AnyArgsForNull
+9. Rhino.Mocks.RhinoMocks.AssertWasCalledWithNull
+10. Castle.Core.Tests.AssertEx.IsNull

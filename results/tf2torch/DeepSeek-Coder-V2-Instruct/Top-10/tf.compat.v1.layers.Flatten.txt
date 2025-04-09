@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Flatten
+2. tf.keras.layers.Flatten
+3. numpy.reshape
+4. tensorflow.compat.v1.layers.flatten
+5. keras.layers.core.Flatten
+6. tensorflow.compat.v1.layers.Reshape
+7. torchvision.transforms.Resize
+8. tf.keras.layers.Reshape
+9. numpy.ravel
+10. tensorflow.reshape

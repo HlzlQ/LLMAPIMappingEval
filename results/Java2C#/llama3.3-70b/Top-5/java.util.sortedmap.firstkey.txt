@@ -1,0 +1,5 @@
+1. System.Collections.Generic.SortedDictionary<TKey, TValue>.Keys.GetEnumerator().Current
+2. System.Linq.Enumerable.First<TSource>(IEnumerable<TSource>)
+3. System.Collections.Generic.Dictionary<TKey, TValue>.Keys.Min()
+4. System.Collections.Generic.SortedSet<T>.Min
+5. System.Collections.Generic.SortedList<TKey, TValue>.Keys[0]

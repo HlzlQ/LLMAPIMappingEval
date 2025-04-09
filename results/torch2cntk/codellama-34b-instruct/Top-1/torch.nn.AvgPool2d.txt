@@ -1,0 +1,2 @@
+
+CNTK's AvgPool2d:

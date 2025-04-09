@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that correspond to the `torch.is_tensor` PyTorch API:
+
+1. `tf.is_tensor`
+2. `tf.is_variable`
+3. `tf.is_placeholder`
+4. `tf.is_sparse_tensor`
+5. `tf.is_ragged_tensor`

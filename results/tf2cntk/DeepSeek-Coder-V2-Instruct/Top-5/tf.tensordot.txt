@@ -1,0 +1,12 @@
+
+<jupyter_code>
+# Your answer here (just the list of API names)
+cntk_apis = [
+    "times",
+    "sum",
+    "reduce_sum",
+    "expand_dims",
+    "slice"
+]
+<jupyter_output>
+<empty_output>

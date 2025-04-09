@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that may have similar functionality to PyTorch's `torch.nn.PixelShuffle`:
+
+1. `CNTK.layers.DepthToSpace`
+2. `CNTK.layers.SpaceToDepth`
+3. `CNTK.layers.Reshape`
+4. `CNTK.layers.Transpose`
+5. `CNTK.layers.Permute`
+6. `CNTK.layers.Flatten`
+7. `CNTK.layers.ExpandDims`
+8. `CNTK.layers.Squeeze`
+9. `CNTK.layers.ReorderAxes`
+10. `CNTK.layers.ReshapeLike`

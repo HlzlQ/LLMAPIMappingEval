@@ -1,0 +1,10 @@
+System.Type.IsInstanceOfType
+System.Object.GetType
+System.Type.Equals
+System.Object.ReferenceEquals
+System.Object.ToString
+System.Object.GetHashCode
+System.Object.Equals
+System.ValueType.GetTypeCode
+System.IConvertible.ToBoolean
+System.IComparable.CompareTo

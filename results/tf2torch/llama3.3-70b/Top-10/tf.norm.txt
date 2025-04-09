@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that match the functionality of `tensorflow.norm`:
+
+1. torch.norm
+2. torch.linalg.norm
+3. torch.tensor.norm
+4. torch.Tensor.norm
+5. torch.linalg.vector_norm
+6. torch.norm(input, p)
+7. torch.linalg.matrix_norm
+8. torch.linalg.norm(input, ord)
+9. torch.tensor.linalg.norm
+10. torch.linalg.norm(input, dim)

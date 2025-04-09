@@ -1,0 +1,10 @@
+
+"""
+
+MXNet_APIs = [
+    "mxnet.ndarray.LeakyReLU",
+    "mxnet.ndarray.Activation",
+    "mxnet.ndarray.prelu",
+    "mxnet.ndarray.relu",
+    "mxnet.ndarray.sigmoid"
+]

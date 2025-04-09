@@ -1,0 +1,12 @@
+
+
+```python
+# Your code here
+```
+
+### Answer:
+1. `tf.keras.optimizers.schedules.ExponentialDecay`
+2. `tf.keras.experimental.CosineDecay`
+3. `tf.keras.experimental.LinearDecay`
+4. `tf.keras.experimental.PolynomialDecay`
+5. `tf.keras.optimizers.schedules.PiecewiseConstantDecay`

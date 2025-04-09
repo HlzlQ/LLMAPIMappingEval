@@ -1,0 +1,1 @@
+CNTK.DefaultParamInitializer(glortex_scale=1.0, seed=None)

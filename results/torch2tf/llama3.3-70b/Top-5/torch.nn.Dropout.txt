@@ -1,0 +1,5 @@
+1. tf.keras.layers.Dropout
+2. tf.nn.dropout
+3. tf.keras.layers.SpatialDropout1D
+4. tf.keras.layers.SpatialDropout2D
+5. tf.keras.layers.SpatialDropout3D

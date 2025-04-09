@@ -1,0 +1,7 @@
+  tf.keras.layers.UpSampling2D is a TensorFlow API for upsampling a 2D tensor. The equivalent MXNet API is:
+
+* mxnet.ndarray.UpSampling2D
+* mxnet.gluon.nn.UpSampling2D
+* mxnet.symbol.UpSampling2D
+* mxnet.initializer.UpSampling2D
+* mxnet.optimizer.UpSampling2D

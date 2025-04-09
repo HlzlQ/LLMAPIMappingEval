@@ -1,0 +1,10 @@
+1. Char.IsLower(char)
+2. String.ToLower()
+3. String.Any(c => char.IsLower(c))
+4. String.All(c => char.IsLower(c))
+5. Regex.IsMatch("string", @"\p{Ll}")
+6. Char.GetUnicodeCategory(char) == UnicodeCategory.LowercaseLetter
+7. String.ToLowerInvariant()
+8. CultureInfo.CurrentCulture.TextInfo.ToLower(char)
+9. String.IsNullOrEmpty(string) ? string.Empty : string[0].ToLower()
+10. Char.IsLetterOrDigit(char) && char.IsLower(char)

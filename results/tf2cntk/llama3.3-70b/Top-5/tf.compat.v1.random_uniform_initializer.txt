@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. cntk.initializers.uniform_initializer
+2. cntk.initializers.glorot_uniform_initializer
+3. cntk.initializers.he_normal_initializer
+4. cntk.initializers.normal_initializer
+5. cntk.initializers.xavier_uniform_initializer

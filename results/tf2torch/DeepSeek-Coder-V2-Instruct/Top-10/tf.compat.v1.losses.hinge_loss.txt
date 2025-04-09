@@ -1,0 +1,12 @@
+
+
+1. nn.HingeEmbeddingLoss
+2. nn.MarginRankingLoss
+3. nn.SoftMarginLoss
+4. nn.MultiLabelMarginLoss
+5. nn.TripletMarginLoss
+6. nn.CosineEmbeddingLoss
+7. nn.PoissonNLLLoss
+8. nn.KLDivLoss
+9. nn.MSELoss
+10. nn.L1Loss

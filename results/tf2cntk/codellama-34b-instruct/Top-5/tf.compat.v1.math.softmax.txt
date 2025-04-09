@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used as alternatives to `tensorflow.compat.v1.math.softmax`:
+
+1. `cntk.ops.softmax`
+2. `cntk.ops.softmax_cross_entropy_with_logits`
+3. `cntk.ops.softmax_cross_entropy`
+4. `cntk.ops.softmax_with_logits`
+5. `cntk.ops.softmax_with_logits_and_loss`

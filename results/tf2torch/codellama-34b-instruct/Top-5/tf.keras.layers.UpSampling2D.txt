@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for upsampling:
+
+1. `torch.nn.Upsample`
+2. `torch.nn.functional.interpolate`
+3. `torch.nn.functional.upsample_bilinear`
+4. `torch.nn.functional.upsample_nearest`
+5. `torch.nn.functional.upsample_bicubic`

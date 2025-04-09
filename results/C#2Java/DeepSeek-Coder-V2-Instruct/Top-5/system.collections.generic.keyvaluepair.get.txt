@@ -1,0 +1,5 @@
+1. java.util.Map.Entry.getValue()
+2. java.util.HashMap.get(Object key)
+3. java.util.TreeMap.get(Object key)
+4. java.util.LinkedHashMap.get(Object key)
+5. java.util.concurrent.ConcurrentHashMap.get(Object key)

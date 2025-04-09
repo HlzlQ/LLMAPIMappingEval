@@ -1,0 +1,24 @@
+  torch.profiler.profile
+  
+  * TensorFlow equivalent: tf.profiler.profile
+  * Description: Creates a profiling context manager that measures the time spent in the enclosed code block.
+  * Arguments:
+	+ fn (callable): The function to be profiled.
+	+ args (tuple): Positional arguments to pass to the function.
+	+ kwargs (dict): Keyword arguments to pass to the function.
+  * Returns: A tuple containing the following elements:
+	+ profile (tf.profiler.Profile): The profiling object.
+	+ result (object): The return value of the function.
+  
+  Here are ten TensorFlow APIs that have similar functions to PyTorch's `torch.profiler.profile`:
+  
+  1. tf.profiler.profile
+  2. tf.profiler.Profile
+  3. tf.profiler.start
+  4. tf.profiler.stop
+  5. tf.profiler.step
+  6. tf.profiler.get_default
+  7. tf.profiler.set_default
+  8. tf.profiler.clear_default
+  9. tf.profiler.add_trace
+  10. tf.profiler.remove_trace

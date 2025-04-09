@@ -1,0 +1,10 @@
+cntk.softmax
+cntk.ops.softmax
+cntk.layers.Softmax
+cntk.functions.softmax
+cntk.models.softmax
+cntk.losses.softmax_cross_entropy
+cntk.metrics.softmax_accuracy
+cntk.activations.softmax
+cntk.blocks.softmax
+cntk.layers.blocks.softmax

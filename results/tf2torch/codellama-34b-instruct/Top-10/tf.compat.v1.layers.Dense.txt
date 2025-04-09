@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.layers.Dense`:
+
+1. `torch.nn.Linear`
+2. `torch.nn.Dense`
+3. `torch.nn.modules.dense.Dense`
+4. `torch.nn.modules.linear.Linear`
+5. `torch.nn.modules.dense.DenseModule`
+6. `torch.nn.modules.linear.LinearModule`
+7. `torch.nn.modules.dense.DenseLayer`
+8. `torch.nn.modules.linear.LinearLayer`
+9. `torch.nn.modules.dense.DenseBlock`
+10. `torch.nn.modules.linear.LinearBlock`

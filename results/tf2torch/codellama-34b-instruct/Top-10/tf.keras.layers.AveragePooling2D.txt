@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `AveragePooling2D`:
+
+1. `torch.nn.AvgPool2d`
+2. `torch.nn.functional.avg_pool2d`
+3. `torch.nn.modules.pooling.AvgPool2d`
+4. `torch.nn.modules.pooling.AveragePooling2D`
+5. `torch.nn.modules.pooling.AveragePooling2DWithPadding`
+6. `torch.nn.modules.pooling.AveragePooling3D`
+7. `torch.nn.modules.pooling.AveragePooling3DWithPadding`
+8. `torch.nn.modules.pooling.MaxPool2d`
+9. `torch.nn.modules.pooling.MaxPool3d`
+10. `torch.nn.modules.pooling.MaxUnpool2d`

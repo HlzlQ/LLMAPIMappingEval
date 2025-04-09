@@ -1,0 +1,20 @@
+
+<jupyter_text>
+Answer: ```pytorch.optim.SGD```  Question 2: Given a dataset with features `X` and labels `y`, how would you split this dataset into training, validation, and test sets in PyTorch? Please provide the code snippet to do so.
+<jupyter_code>
+from sklearn.model_selection import train_test_split
+import torch
+
+# Assuming X and y are already defined
+X_train, X_temp, y_train, y_temp = train_test_split(X, y, test_size=0.3, random_state=42)
+X_val, X_test, y_val, y_test = train_test_split(X_temp, y_temp, test_size=0.5, random_state=42)
+
+# Convert to PyTorch tensors
+X_train_tensor = torch.Tensor(X_train.values)
+y_train_tensor = torch.Tensor(y_train.values)
+X_val_tensor = torch.Tensor(X_val.values)
+y_val_tensor = torch.Tensor(y_val.values)
+X_test_tensor = torch.Tensor(X_test.values)
+y_test_tensor = torch.Tensor(y_test.values)
+<jupyter_output>
+<empty_output>

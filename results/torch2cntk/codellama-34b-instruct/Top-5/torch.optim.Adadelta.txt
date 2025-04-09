@@ -1,0 +1,5 @@
+  AdadeltaOptimizer
+  AdagradOptimizer
+  AdamOptimizer
+  RMSPropOptimizer
+  SGDOptimizer

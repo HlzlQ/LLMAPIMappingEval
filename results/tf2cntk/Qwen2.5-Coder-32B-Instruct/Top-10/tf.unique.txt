@@ -1,0 +1,10 @@
+cntk.ops.unique
+cntk.ops.argmax
+cntk.ops.argmin
+cntk.ops.reduce_sum
+cntk.ops.reduce_mean
+cntk.ops.reduce_max
+cntk.ops.reduce_min
+cntk.ops.one_hot
+cntk.ops.softmax
+cntk.ops.log_softmax

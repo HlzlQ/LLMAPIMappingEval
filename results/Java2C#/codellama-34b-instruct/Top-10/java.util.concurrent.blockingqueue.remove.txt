@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.util.concurrent.blockingqueue.remove`:
+
+1. `System.Collections.Concurrent.BlockingCollection<T>.Take`
+2. `System.Collections.Concurrent.BlockingCollection<T>.TryTake`
+3. `System.Collections.Concurrent.BlockingCollection<T>.TakeFromAny`
+4. `System.Collections.Concurrent.BlockingCollection<T>.TryTakeFromAny`
+5. `System.Threading.Tasks.Dataflow.BufferBlock<T>.ReceiveAsync`
+6. `System.Threading.Tasks.Dataflow.BufferBlock<T>.TryReceive`
+7. `System.Threading.Tasks.Dataflow.ActionBlock<T>.ReceiveAsync`
+8. `System.Threading.Tasks.Dataflow.ActionBlock<T>.TryReceive`
+9. `System.Collections.Concurrent.ConcurrentQueue<T>.Dequeue`
+10. `System.Collections.Concurrent.ConcurrentStack<T>.Pop`

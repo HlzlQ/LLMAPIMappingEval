@@ -1,0 +1,5 @@
+torch.chunk  
+torch.tensor_split  
+torch.hsplit  
+torch.vsplit  
+torch.dsplit

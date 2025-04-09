@@ -1,0 +1,10 @@
+System.Array.CopyTo
+System.Buffer.BlockCopy
+System.MemoryExtensions.AsSpan
+System.Memory`1.Span
+System.Span`1.CopyTo
+System.Collections.Generic.List`1.CopyTo
+System.Linq.Enumerable.ToArray
+System.Array.Clone
+System.Buffers.ArrayPool`1.Rent
+System.Buffer.ByteLength

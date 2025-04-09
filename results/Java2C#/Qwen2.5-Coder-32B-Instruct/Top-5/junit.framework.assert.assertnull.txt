@@ -1,0 +1,5 @@
+System.Diagnostics.Debug.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+NUnit.Framework.Assert.IsNull
+Xunit.Assert.Null
+FluentAssertions.Assertions.AssertionScopeExtensions.BeNull

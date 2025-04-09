@@ -1,0 +1,10 @@
+cntk.layers.Embedding
+cntk.ops.embedding_parameter
+cntk.initializer.uniform
+cntk.initializer.glorot_uniform
+cntk.initializer.he_normal
+cntk.initializer.normal
+cntk.initializer.xavier
+cntk.layers.Dense
+cntk.layers.Sequential
+cntk.layers.FunctionLayer

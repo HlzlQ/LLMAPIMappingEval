@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.immutable.immutablelist.contains`:
+
+1. java.util.List.contains
+2. java.util.Collection.contains
+3. java.util.Set.contains
+4. java.util.ImmutableList.contains
+5. java.util.ArrayList.contains
+6. java.util.LinkedList.contains
+7. java.util.HashSet.contains
+8. java.util.TreeSet.contains
+9. java.util.Collections.emptyList().contains
+10. java.util.Arrays.asList().contains

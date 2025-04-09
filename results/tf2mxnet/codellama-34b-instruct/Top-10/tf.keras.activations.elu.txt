@@ -1,0 +1,14 @@
+  Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.activations.elu`:
+
+1. `mxnet.ndarray.ELU`
+2. `mxnet.gluon.nn.ELU`
+3. `mxnet.symbol.ELU`
+4. `mxnet.ndarray.LeakyReLU`
+5. `mxnet.gluon.nn.LeakyReLU`
+6. `mxnet.symbol.LeakyReLU`
+7. `mxnet.ndarray.PReLU`
+8. `mxnet.gluon.nn.PReLU`
+9. `mxnet.symbol.PReLU`
+10. `mxnet.ndarray.RReLU`
+
+Note that some of these APIs may not be exact replacements for the TensorFlow API, but they are similar and can be used in a similar way.

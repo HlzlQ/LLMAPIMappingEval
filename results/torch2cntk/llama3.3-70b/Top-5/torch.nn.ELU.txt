@@ -1,0 +1,5 @@
+1. cntk.layers.elu
+2. cntk.ops.elu
+3. cntk.layers.LeakyReLU
+4. cntk.layers.Sigmoid
+5. cntk.layers.ReLU

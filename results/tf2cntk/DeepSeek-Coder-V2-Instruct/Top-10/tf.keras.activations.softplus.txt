@@ -1,0 +1,2 @@
+
+Answer: linear, relu, sigmoid, softmax, tanh, elu, selu, softplus, exponential, softmax_cross_entropy_with_logits

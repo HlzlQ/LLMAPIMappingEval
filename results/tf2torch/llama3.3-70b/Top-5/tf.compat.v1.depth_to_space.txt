@@ -1,0 +1,5 @@
+1. torch.nn.PixelShuffle
+2. torch.nn.functional.pixel_shuffle
+3. torch.tensor.view
+4. torch.reshape
+5. torch.permute

@@ -1,0 +1,10 @@
+1. Enqueue
+2. Dequeue
+3. Offer
+4. Poll
+5. Put
+6. Take
+7. Remove
+8. Clear
+9. Contains
+10. Count

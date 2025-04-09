@@ -1,0 +1,5 @@
+1. batch_normalization
+2. BatchNormalization
+3. layer_normalization
+4. InstanceNormalization
+5. group_normalization

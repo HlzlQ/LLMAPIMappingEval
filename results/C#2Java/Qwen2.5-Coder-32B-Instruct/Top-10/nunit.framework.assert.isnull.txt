@@ -1,0 +1,10 @@
+org.junit.Assert.assertNull
+junit.framework.Assert.assertNull
+java.util.Objects.isNull
+javax.validation.constraints.Null
+org.apache.commons.lang3.Validate.isNull
+org.testng.Assert.assertNull
+com.google.common.base.Preconditions.checkArgument
+com.google.common.base.Verify.verifyNotNull
+org.mockito.Mockito.isNull
+org.powermock.api.mockito.PowerMockito.isNull

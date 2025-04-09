@@ -1,0 +1,2 @@
+
+Answer: torch.nn.RNN, cntk.layers.Recurrence, cntk.ops.sequence.reduce_sum, cntk.ops.sequence.reduce_max, cntk.ops.sequence.reduce_mean, cntk.ops.sequence.slice, cntk.ops.sequence.concat, cntk.ops.sequence.reverse, cntk.layers.RecurrenceStack, cntk.layers.LSTM

@@ -1,0 +1,10 @@
+1. Dictionary<TKey, TValue>.Add
+2. SortedDictionary<TKey, TValue>.Add
+3. ConcurrentDictionary<TKey, TValue>.TryAdd
+4. Hashtable.Add
+5. SortedList<TKey, TValue>.Add
+6. List<T>.Sort
+7. Array.Sort
+8. PriorityQueue<T>.Enqueue
+9. LinkedList<T>.AddLast
+10. Queue<T>.Enqueue

@@ -1,0 +1,10 @@
+tf.keras.layers.Conv3D  
+tf.nn.conv3d  
+tf.raw_ops.Conv3D  
+tf.compat.v1.nn.conv3d  
+tf.compat.v2.nn.conv3d  
+tf.keras.layers.Convolution3D  
+tf.raw_ops.FusedConv3DBiasActivation  
+tf.raw_ops.Conv3DBackpropInputV2  
+tf.raw_ops.Conv3DBackpropFilterV2  
+tf.raw_ops.DepthwiseConv3dNative

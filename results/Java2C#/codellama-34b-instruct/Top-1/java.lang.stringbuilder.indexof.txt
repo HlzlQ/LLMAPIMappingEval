@@ -1,0 +1,5 @@
+C# does not have a direct equivalent to the `java.lang.StringBuilder` class. However, you can use the `System.Text.StringBuilder` class in C# to achieve similar functionality. The `IndexOf` method is also available in this class and has the same function as its Java counterpart.
+
+So, the full name of the API that I think is the most likely one for the given Java code is:
+
+`System.Text.StringBuilder.IndexOf`

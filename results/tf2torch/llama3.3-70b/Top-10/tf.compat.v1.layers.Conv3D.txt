@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.layers.Conv3D`:
+
+1. torch.nn.Conv3d
+2. torch.nn.functional.conv3d
+3. torch.nn.Module.Conv3d
+4. torch.nn.Sequential.Conv3d
+5. torch.nn.ConvTranspose3d
+6. torch.nn.functional.conv_transpose3d
+7. torch.nn.utils.spectral_normConv3d
+8. torch.nn.qat.Conv3d
+9. torch.nn.intrinsic.Conv3d
+10. torch.nn.quantized.Conv3d

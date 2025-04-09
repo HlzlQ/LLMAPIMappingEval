@@ -1,0 +1,5 @@
+1. tf.keras.losses.Hinge
+2. tf.nn.sigmoid_cross_entropy_with_logits
+3. tf.keras.losses.SquaredHinge
+4. tf.losses.hinge_loss
+5. tf.keras.losses.BinaryCrossentropy

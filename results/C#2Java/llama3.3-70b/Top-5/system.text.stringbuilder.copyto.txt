@@ -1,0 +1,5 @@
+1. java.lang.StringBuilder.getChars
+2. java.lang.String.copyValueOf
+3. java.nio.CharBuffer.put
+4. java.lang.StringBuilder.append
+5. java.lang.System.arraycopy

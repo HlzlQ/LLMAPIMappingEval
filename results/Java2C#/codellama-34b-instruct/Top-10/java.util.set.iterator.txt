@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.util.Set.iterator()`:
+
+1. `System.Collections.Generic.HashSet<T>.GetEnumerator()`
+2. `System.Collections.Generic.SortedSet<T>.GetEnumerator()`
+3. `System.Collections.Generic.ISet<T>.GetEnumerator()`
+4. `System.Collections.Concurrent.ConcurrentBag<T>.GetEnumerator()`
+5. `System.Collections.Concurrent.ConcurrentQueue<T>.GetEnumerator()`
+6. `System.Collections.Concurrent.ConcurrentStack<T>.GetEnumerator()`
+7. `System.Collections.Generic.LinkedList<T>.GetEnumerator()`
+8. `System.Collections.Generic.SortedDictionary<TKey, TValue>.GetEnumerator()`
+9. `System.Collections.Generic.SortedList<TKey, TValue>.GetEnumerator()`
+10. `System.Collections.Generic.ICollection<T>.GetEnumerator()`

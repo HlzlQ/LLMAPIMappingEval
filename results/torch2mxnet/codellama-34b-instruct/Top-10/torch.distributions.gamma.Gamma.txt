@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.distributions.gamma.Gamma | mxnet.ndarray.random.gamma |
+  | torch.distributions.gamma.Gamma.sample | mxnet.ndarray.random.gamma_sample |
+  | torch.distributions.gamma.Gamma.log_prob | mxnet.ndarray.random.gamma_log_prob |
+  | torch.distributions.gamma.Gamma.entropy | mxnet.ndarray.random.gamma_entropy |
+  | torch.distributions.gamma.Gamma.mean | mxnet.ndarray.random.gamma_mean |
+  | torch.distributions.gamma.Gamma.variance | mxnet.ndarray.random.gamma_variance |
+  | torch.distributions.gamma.Gamma.stddev | mxnet.ndarray.random.gamma_stddev |
+  | torch.distributions.gamma.Gamma.mode | mxnet.ndarray.random.gamma_mode |
+  | torch.distributions.gamma.Gamma.support | mxnet.ndarray.random.gamma_support |

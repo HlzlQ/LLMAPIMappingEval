@@ -1,0 +1,5 @@
+System.Char.ToUpper  
+System.String.ToUpper  
+System.Globalization.CultureInfo.TextInfo.ToTitleCase  
+System.Globalization.TextInfo.ToTitleCase  
+System.Text.RegularExpressions.Regex.Replace

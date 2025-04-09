@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.no_gradient`:
+
+1. `mxnet.ndarray.stop_gradient`
+2. `mxnet.autograd.pause`
+3. `mxnet.autograd.mark_variables`
+4. `mxnet.gluon.utils.grad_annotator`
+5. `mxnet.gluon.Block.hybridize`
+6. `mxnet.symbol.stop_gradient`
+7. `mxnet.ndarray.detach`
+8. `mxnet.autograd.record`
+9. `mxnet.autograd.train_mode`
+10. `mxnet.gluon.Trainer.pause`

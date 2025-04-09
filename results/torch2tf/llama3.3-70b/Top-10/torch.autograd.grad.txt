@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.autograd.grad`:
+
+1. tf.gradients
+2. tf.GradientTape
+3. tf.gradient
+4. tf.compute_gradients
+5. tf.train.Optimizer.compute_gradients
+6. tf.keras.optimizers.Optimizer.get_gradients
+7. tf.keras.layers.Layer.get_gradients
+8. tf.GradientTape.gradient
+9. tf.gradients_function
+10. tf.custom_gradient

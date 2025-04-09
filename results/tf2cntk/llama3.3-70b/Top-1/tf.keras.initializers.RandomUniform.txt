@@ -1,0 +1,1 @@
+CNTK.DefaultInitializer(glorot_uniform=False, scale=0.05)

@@ -1,0 +1,6 @@
+
+```python
+import tensorflow as tf
+tf.function(tf.hessians)
+```
+Answer: torch.autograd.functional.hessian

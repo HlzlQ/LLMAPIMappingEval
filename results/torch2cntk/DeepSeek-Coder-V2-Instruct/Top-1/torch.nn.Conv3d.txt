@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.layers.Convolution3D")
+<jupyter_output>
+CNTK.layers.Convolution3D

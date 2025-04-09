@@ -1,0 +1,29 @@
+C# does not have a direct equivalent to the `java.lang.Long.parseLong()` method. However, you can use the `long.Parse()` or `long.TryParse()` methods in C# to achieve similar functionality.
+
+Here is an example of how you could use the `long.Parse()` method in C#:
+```
+string input = "1234567890";
+long value;
+if (long.TryParse(input, out value))
+{
+    Console.WriteLine("The parsed long value is: {0}", value);
+}
+else
+{
+    Console.WriteLine("Invalid input");
+}
+```
+And here is an example of how you could use the `long.TryParse()` method in C#:
+```
+string input = "1234567890";
+long value;
+if (long.TryParse(input, out value))
+{
+    Console.WriteLine("The parsed long value is: {0}", value);
+}
+else
+{
+    Console.WriteLine("Invalid input");
+}
+```
+Both of these methods will attempt to parse the input string as a `long` value, and return the result in the `value` variable. If the input cannot be parsed as a `long`, the `TryParse()` method will return `false` and the `value` variable will not be assigned.

@@ -1,0 +1,10 @@
+1. System.Drawing.Image.Dispose
+2. System.Drawing.Bitmap.Dispose
+3. System.IO.Stream.Dispose
+4. System.Drawing.Graphics.Dispose
+5. System.Windows.Media.Imaging.BitmapImage.Dispose
+6. System.Windows.Media.ImageSource.Dispose
+7. System.Drawing.Imaging.Metafile.Dispose
+8. System.Drawing.Imaging.ImageFormat.Dispose
+9. System.Windows.Media.Imaging.WriteableBitmap.Dispose
+10. Microsoft.Win32.SafeHandles.SafeFileHandle.Dispose

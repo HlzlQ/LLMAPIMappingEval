@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.optim.Adagrad`:
+
+1. mx.optimizer.Adagrad
+2. mx.optimizer.AdaGrad
+3. mx.optimizer.adagrad_update
+4. mx.optimizer.AdaGradUpdate
+5. mx.optimizer.SGD
+6. mx.optimizer.NAG
+7. mx.optimizer.Adam
+8. mx.optimizer.RMSprop
+9. mx.optimizer.Adadelta
+10. mx.optimizer.AdaMax

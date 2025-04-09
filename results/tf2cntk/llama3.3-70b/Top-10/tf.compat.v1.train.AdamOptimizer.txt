@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.train.AdamOptimizer`:
+
+1. `cntk.learners.Adam`
+2. `cntk.optimizers.Adam`
+3. `cntk.train.adam`
+4. `cntk.learners.AdamLearner`
+5. `cntk.optimizers.adam_optimizer`
+6. `cntk.train.adam_optimizer`
+7. `cntk.learners.adam_learner`
+8. `cntk.optimizers.adam_sgd`
+9. `cntk.train.adam_sgd`
+10. `cntk.learners.adam_learner_with_momentum`

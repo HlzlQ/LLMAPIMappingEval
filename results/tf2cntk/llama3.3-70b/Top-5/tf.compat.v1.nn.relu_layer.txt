@@ -1,0 +1,5 @@
+1. cntk.ops.relu
+2. cntk.layers.ReLU
+3. cntk.ops.leaky_relu
+4. cntk.layers.LeakyReLU
+5. cntk.layers.Activation

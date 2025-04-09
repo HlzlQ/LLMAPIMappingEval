@@ -1,0 +1,5 @@
+System.Data.IDataRecord.GetBoolean  
+System.Data.SqlClient.SqlDataReader.GetBoolean  
+System.Data.OleDb.OleDbDataReader.GetBoolean  
+System.Data.OracleClient.OracleDataReader.GetBoolean  
+System.Data.SQLite.SQLiteDataReader.GetBoolean

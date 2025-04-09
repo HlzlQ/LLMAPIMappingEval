@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.optimizers.Adagrad`:
+
+1. `torch.optim.Adagrad`
+2. `torch.optim.Adam`
+3. `torch.optim.SGD`
+4. `torch.optim.RMSprop`
+5. `torch.optim.Adadelta`
+6. `torch.optim.Adamax`
+7. `torch.optim.Nadam`
+8. `torch.optim.AdaBound`
+9. `torch.optim.AdaMod`
+10. `torch.optim.AdaGrad`

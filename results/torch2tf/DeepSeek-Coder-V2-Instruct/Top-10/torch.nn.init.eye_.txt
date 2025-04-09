@@ -1,0 +1,11 @@
+
+Answer: 1. tf.linalg.diag_part
+2. tf.linalg.set_diag
+3. tf.linalg.band_part
+4. tf.linalg.matrix_transpose
+5. tf.linalg.inv
+6. tf.linalg.cholesky
+7. tf.linalg.qr
+8. tf.linalg.svd
+9. tf.linalg.eigvals
+10. tf.linalg.norm

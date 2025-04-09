@@ -1,0 +1,10 @@
+cntk.ops.softmax
+cntk.ops.sigmoid
+cntk.ops.tanh
+cntk.ops.relu
+cntk.ops.elu
+cntk.ops.swish
+cntk.ops.hard_sigmoid
+cntk.ops.hard_tanh
+cntk.ops.linear
+cntk.ops.sign

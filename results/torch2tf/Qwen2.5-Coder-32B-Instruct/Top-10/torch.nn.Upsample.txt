@@ -1,0 +1,10 @@
+tf.image.resize
+tf.keras.layers.UpSampling2D
+tf.nn.resize_bilinear
+tf.nn.resize_nearest_neighbor
+tf.image.resize_area
+tf.image.resize_bicubic
+tf.image.resize_lanczos3
+tf.image.resize_lanczos5
+tf.image.resize_gaussian
+tf.image.resize_with_crop_or_pad

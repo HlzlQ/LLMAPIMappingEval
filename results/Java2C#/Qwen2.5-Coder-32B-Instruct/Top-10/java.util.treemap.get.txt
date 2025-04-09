@@ -1,0 +1,10 @@
+System.Collections.Generic.SortedDictionary<TKey,TValue>.TryGetValue  
+System.Collections.Generic.SortedList<TKey,TValue>.TryGetValueByKey  
+System.Collections.Generic.SortedDictionary<TKey,TValue>.this[]  
+System.Collections.Generic.SortedList<TKey,TValue>.this[]  
+System.Collections.Generic.SortedDictionary<TKey,TValue>.ContainsKey  
+System.Collections.Generic.SortedList<TKey,TValue>.ContainsKey  
+System.Collections.Generic.SortedDictionary<TKey,TValue>.GetEnumerator  
+System.Collections.Generic.SortedList<TKey,TValue>.GetEnumerator  
+System.Collections.Generic.SortedDictionary<TKey,TValue>.Values  
+System.Collections.Generic.SortedList<TKey,TValue>.Values

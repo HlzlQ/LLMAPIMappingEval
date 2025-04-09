@@ -1,0 +1,9 @@
+  tf.compat.v1.nn.ctc_loss is a TensorFlow API for computing the CTC (Connectionist Temporal Classification) loss. Here are five MXNet APIs that can be used to compute the CTC loss:
+
+1. mxnet.ndarray.CTCLoss
+2. mxnet.symbol.CTCLoss
+3. mxnet.gluon.loss.CTCLoss
+4. mxnet.contrib.ctc_loss.CTCLoss
+5. mxnet.contrib.nn.CTCLoss
+
+Note that the first three APIs are from the MXNet core library, while the last two are contributed by the community.

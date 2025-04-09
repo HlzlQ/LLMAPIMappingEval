@@ -1,0 +1,5 @@
+cntk.losses.cross_entropy_with_softmax
+cntk.losses.weighted_cross_entropy_with_softmax
+cntk.losses.logistic
+cntk.losses.sigmoid
+cntk.losses.softmax

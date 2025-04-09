@@ -1,0 +1,5 @@
+tf.keras.losses.CosineSimilarity  
+tf.keras.losses.MeanSquaredError  
+tf.keras.losses.Hinge  
+tf.keras.losses.SquaredHinge  
+tf.keras.losses.BinaryCrossentropy

@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.ConvTranspose2d
+2. torch.nn.functional.conv_transpose2d
+3. nn.Upsample (for transposed convolution-like operations)
+4. F.interpolate (for resizing and upsampling)
+5. torch.nn.PixelShuffle (for sub-pixel convolutions, often used in super-resolution tasks)

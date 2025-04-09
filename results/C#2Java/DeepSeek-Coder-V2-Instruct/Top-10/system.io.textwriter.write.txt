@@ -1,0 +1,10 @@
+java.io.PrintWriter.println
+java.lang.StringBuilder.append
+java.nio.file.Files.write
+java.util.Formatter.format
+java.awt.Graphics.drawString
+javax.swing.JTextArea.setText
+org.apache.commons.io.FileUtils.writeStringToFile
+java.io.PrintStream.println
+java.lang.System.out.println
+java.nio.file.Files.writeString

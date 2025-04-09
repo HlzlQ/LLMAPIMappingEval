@@ -1,0 +1,5 @@
+1. torch.optim.Adam
+2. torch.optim.SGD
+3. torch.optim.RMSprop
+4. torch.optim.Adagrad
+5. torch.optim.AdamW

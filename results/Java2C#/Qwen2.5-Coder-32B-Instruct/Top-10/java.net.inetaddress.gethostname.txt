@@ -1,0 +1,10 @@
+System.Net.Dns.GetHostName  
+System.Net.Sockets.Socket.GetHostName  
+System.Net.NetworkInformation.IPGlobalProperties.HostName  
+System.Net.NetworkInformation.IPGlobalProperties.DomainName  
+System.Net.NetworkInformation.IPGlobalProperties.FullyQualifiedDomainName  
+System.Net.NetworkInformation.NetworkInterface.GetIPProperties  
+System.Net.NetworkInformation.NetworkInterface.GetAllNetworkInterfaces  
+System.Net.NetworkInformation.UnicastIPAddressInformation.Address  
+System.Net.NetworkInformation.MulticastIPAddressInformation.Address  
+System.Net.NetworkInformation.DnsAddressResolver.GetHostEntryAsync

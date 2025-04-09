@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for the same functionality as TensorFlow's `tensorflow.compat.v1.distributions.Normal`:
+
+1. `cntk.layers.normal`
+2. `cntk.distributions.normal`
+3. `cntk.random.normal`
+4. `cntk.stats.normal`
+5. `cntk.math.normal`
+6. `cntk.ops.normal`
+7. `cntk.layers.distributions.normal`
+8. `cntk.distributions.distributions.normal`
+9. `cntk.random.distributions.normal`
+10. `cntk.stats.distributions.normal`

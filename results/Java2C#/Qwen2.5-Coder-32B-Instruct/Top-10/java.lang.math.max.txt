@@ -1,0 +1,10 @@
+System.Math.Max  
+System.Numerics.BigInteger.Max  
+System.Numerics.Complex.MaxByMagnitude  
+System.Collections.Generic.List<T>.Max  
+System.Linq.Enumerable.Max  
+System.Collections.Generic.IEnumerable<T>.Max  
+System.Collections.Generic.SortedList<TKey,TValue>.Max  
+System.Collections.Generic.SortedDictionary<TKey,TValue>.Max  
+System.Collections.Concurrent.ConcurrentBag<T>.Max  
+System.Collections.Concurrent.ConcurrentQueue<T>.Max

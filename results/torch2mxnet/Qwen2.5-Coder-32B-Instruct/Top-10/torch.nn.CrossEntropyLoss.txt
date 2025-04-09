@@ -1,0 +1,10 @@
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss  
+mxnet.ndarray.softmax_cross_entropy  
+mxnet.symbol.softmax_cross_entropy  
+mxnet.metric.CrossEntropy  
+mxnet.metric.Accuracy  
+mxnet.metric.TopKAccuracy  
+mxnet.metric.PearsonCorrelation  
+mxnet.metric.MAE  
+mxnet.metric.RMSE  
+mxnet.metric.SMAPE

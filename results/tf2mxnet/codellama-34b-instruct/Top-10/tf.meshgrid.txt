@@ -1,0 +1,3 @@
+  tf.meshgrid(tf.range(3), tf.range(4))
+
+mxnet.ndarray.meshgrid(mxnet.ndarray.arange(3), mxnet.ndarray.arange(4))

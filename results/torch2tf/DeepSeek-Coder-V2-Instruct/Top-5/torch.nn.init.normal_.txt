@@ -1,0 +1,6 @@
+
+Answer: 1. tf.compat.v1.keras.initializers.RandomNormal
+2. tf.random.normal
+3. tf.initializers.random_normal
+4. tf.initializers.variance_scaling
+5. tf.contrib.layers.xavier_initializer

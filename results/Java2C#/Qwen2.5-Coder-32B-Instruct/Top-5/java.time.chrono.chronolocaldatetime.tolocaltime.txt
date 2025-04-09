@@ -1,0 +1,5 @@
+System.DateTimeOffset.TimeOfDay  
+System.DateTime.TimeOfDay  
+NodaTime.LocalDateTime.ToLocalTime  
+NodaTime.ZonedDateTime.ToLocalTime  
+NodaTime.OffsetDateTime.ToLocalTime

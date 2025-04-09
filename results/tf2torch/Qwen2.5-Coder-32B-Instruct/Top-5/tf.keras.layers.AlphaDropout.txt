@@ -1,0 +1,5 @@
+torch.nn.Dropout
+torch.nn.functional.dropout
+torch.nn.AlphaDropout
+torch.nn.functional.alpha_dropout
+torch.nn.utils.weight_norm

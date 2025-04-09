@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for embedding layers:
+
+1. `cntk.layers.Embedding`
+2. `cntk.layers.DenseEmbedding`
+3. `cntk.layers.SparseEmbedding`
+4. `cntk.layers.EmbeddingLayer`
+5. `cntk.layers.EmbeddingBlock`

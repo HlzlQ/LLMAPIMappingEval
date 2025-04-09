@@ -1,0 +1,10 @@
+tf.keras.layers.MaxPooling2D  
+tf.nn.max_pool  
+tf.nn.max_pool_with_argmax  
+tf.raw_ops.MaxPool  
+tf.raw_ops.MaxPoolGrad  
+tf.raw_ops.MaxPoolGradGrad  
+tf.raw_ops.MaxPoolV2  
+tf.raw_ops.MaxPoolWithArgmaxV2  
+tf.raw_ops.MaxPool3D  
+tf.raw_ops.MaxPool3DGrad

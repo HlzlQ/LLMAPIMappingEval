@@ -1,0 +1,22 @@
+
+CNTK does not have an exact equivalent of the `tensorflow.compat.v1.space_to_depth` API. However, you can achieve a similar functionality using the `cntk.ops.reshape` and `cntk.ops.transpose` APIs.
+
+Here's an example of how to use these APIs to perform space-to-depth conversion:
+```python
+import cntk as C
+
+# Input tensor with shape (1, 2, 3, 4)
+input_tensor = C.input_variable((1, 2, 3, 4))
+
+# Reshape the input tensor to have a depth dimension of 2
+reshaped_tensor = C.ops.reshape(input_tensor, (1, 2, 6, 4))
+
+# Transpose the reshaped tensor to move the depth dimension to the front
+transposed_tensor = C.ops.transpose(reshaped_tensor, (0, 3, 1, 2))
+
+# Output tensor with shape (1, 8, 6, 4)
+output_tensor = transposed_tensor
+```
+In this example, the `cntk.ops.reshape` API is used to reshape the input tensor from `(1, 2, 3, 4)` to `(1, 2, 6, 4)`, which effectively increases the depth dimension by a factor of 2. The `cntk.ops.transpose` API is then used to move the depth dimension to the front, resulting in an output tensor with shape `(1, 8, 6, 4)`.
+
+Note that this implementation assumes that the input tensor has a batch size of 1 and a number of channels equal to 2. You may need to adjust the reshape and transpose operations depending on your specific use case.

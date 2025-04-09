@@ -1,0 +1,10 @@
+mxnet.ndarray.eye
+mxnet.ndarray.diag
+mxnet.ndarray.fill_diagonal
+mxnet.ndarray.init.Eye
+mxnet.ndarray.linalg.gemm2
+mxnet.ndarray.linalg.trmm
+mxnet.ndarray.linalg.trsm
+mxnet.ndarray.linalg.syrk
+mxnet.ndarray.linalg.syr2k
+mxnet.ndarray.linalg.gemv

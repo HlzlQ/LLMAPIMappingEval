@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Reflection.PropertyInfo.GetGetMethod` in C#:
+
+1. java.lang.reflect.Method.getDeclaringClass
+2. java.lang.reflect.Field.getGetMethod
+3. java.lang.reflect.AccessibleObject.getAnnotation
+4. java.lang.reflect.Constructor.getDeclaringClass
+5. java.lang.reflect.Method.invoke
+6. java.lang.reflect.Field.getType
+7. java.lang.reflect.Modifier.isPublic
+8. java.lang.Class.getMethod
+9. java.lang.reflect.Method.getReturnType
+10. java.lang.Class.getDeclaredMethod

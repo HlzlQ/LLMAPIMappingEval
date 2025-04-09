@@ -1,0 +1,5 @@
+1. CNTK.LeakyReLU
+2. CNTK.ParametricReLULike
+3. CNTK.PReLU
+4. CNTK.Sigmoid
+5. CNTK.ReLU

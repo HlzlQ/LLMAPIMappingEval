@@ -1,0 +1,10 @@
+
+```python
+import tensorflow as tf
+# Your code here
+```
+Answer: ```python
+import torch.optim as optim
+# Equivalent PyTorch API
+opt = optim.Adagrad(model.parameters(), lr=0.01)
+```

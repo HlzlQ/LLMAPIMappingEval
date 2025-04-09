@@ -1,0 +1,5 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+2. NUnit.Framework.Assert.IsFalse
+3. xunit.assert.False
+4. FluentAssertions.Bool.ShouldBeFalse
+5. Shouldly.ShouldNotBeTrue

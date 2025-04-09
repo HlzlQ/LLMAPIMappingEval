@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.ReLU`:
+
+1. CNTK.ReLULayer
+2. CNTK.ActivationLayer
+3. CNTK.ReLUActivation
+4. CNTK.LeakyReLULayer
+5. CNTK.ParamReLU
+6. CNTK.SigmoidLayer
+7. CNTK.TanhLayer
+8. CNTK.HardTanhLayer
+9. CNTK.PReLU
+10. CNTK.ElementTimesLayer

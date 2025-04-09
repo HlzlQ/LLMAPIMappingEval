@@ -1,0 +1,11 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+
+The mapping between TensorFlow and PyTorch for 3D convolution operations can be complex due to differences in their APIs and underlying implementations. However, based on common usage and naming conventions, the most likely equivalent API in PyTorch for `tf.nn.conv3d` is:
+
+```python
+torch.nn.functional.conv3d
+```

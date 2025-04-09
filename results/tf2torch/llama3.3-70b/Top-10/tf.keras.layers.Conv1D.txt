@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.Conv1D`:
+
+1. torch.nn.Conv1d
+2. torch.nn.functional.conv1d
+3. torch.nn.modules.conv.Conv1d
+4. torch.nn.ConvTranspose1d
+5. torch.nn.functional.conv_transpose1d
+6. torch.nn.utils.spectral_normConv1d
+7. torch.nn.quantized.Conv1d
+8. torch.nn.intrinsic.qat.Conv1d
+9. torch.nn.qat.Conv1d
+10. torch.nn.modules.conv._ConvNd

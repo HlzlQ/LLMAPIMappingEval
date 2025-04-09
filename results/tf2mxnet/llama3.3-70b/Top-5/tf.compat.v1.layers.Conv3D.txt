@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.layers.Conv3D`:
+
+1. mxnet.gluon.nn.Conv3D
+2. mxnet.ndarray.Convolution
+3. mxnet.gluon.contrib.nn.Conv3DTranspose
+4. mxnet.symbol.Convolution
+5. mxnet.gluon.nn.Conv3DTranspose

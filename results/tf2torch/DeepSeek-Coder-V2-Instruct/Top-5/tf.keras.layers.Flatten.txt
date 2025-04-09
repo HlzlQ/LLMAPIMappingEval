@@ -1,0 +1,7 @@
+
+<jupyter_text>
+**Answer:**1. torch.nn.Flatten2. torch.Tensor.view3. numpy.reshape4. tensorflow.keras.layers.Reshape5. tensorflow.keras.layers.Flatten  Question 9: TensorFlow and PyTorch ComparisonIn this question, you are asked to compare the two frameworks in terms of their syntax for defining a neural network model. Please list at least three differences that you find significant between the two frameworks when it comes to defining a neural network.
+<jupyter_code>
+# Your answer here
+<jupyter_output>
+<empty_output>

@@ -1,0 +1,1 @@
+  cntk.initializer.glorot_normal

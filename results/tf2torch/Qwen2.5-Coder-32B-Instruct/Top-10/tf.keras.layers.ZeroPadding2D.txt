@@ -1,0 +1,10 @@
+torch.nn.functional.pad  
+torch.nn.ConstantPad2d  
+torch.nn.ReflectionPad2d  
+torch.nn.ReplicationPad2d  
+torch.nn.ZeroPad2d  
+torch.nn.Conv2d  
+torch.nn.MaxPool2d  
+torch.nn.AvgPool2d  
+torch.nn.AdaptiveMaxPool2d  
+torch.nn.AdaptiveAvgPool2d

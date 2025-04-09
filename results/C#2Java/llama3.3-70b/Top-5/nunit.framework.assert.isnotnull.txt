@@ -1,0 +1,5 @@
+1. org.junit.Assert.assertNotNull
+2. org.hamcrest.MatcherAssert.assertThat
+3. org.junit.internal.matchers.NotNullMatcher
+4. org.junit.matchers.JUnitMatchers.notNullValue
+5. org.hamcrest.core.IsNotNullException

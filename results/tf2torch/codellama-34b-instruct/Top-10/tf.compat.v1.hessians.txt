@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.hessians`:
+
+1. `torch.autograd.hessian`
+2. `torch.nn.functional.hessian`
+3. `torch.optim.Hessian`
+4. `torch.utils.hessian`
+5. `torch.nn.modules.hessian`
+6. `torch.nn.functional.hessian_vector_product`
+7. `torch.nn.functional.hessian_matrix_product`
+8. `torch.nn.functional.hessian_tensor_product`
+9. `torch.nn.functional.hessian_vector_matrix_product`
+10. `torch.nn.functional.hessian_matrix_vector_product`

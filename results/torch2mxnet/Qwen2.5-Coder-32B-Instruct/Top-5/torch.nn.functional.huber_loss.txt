@@ -1,0 +1,5 @@
+mxnet.gluon.loss.HuberLoss  
+mxnet.ndarray.huber_loss  
+mxnet.symbol.huber_loss  
+mxnet.metric.HuberLoss  
+mxnet.contrib.loss.HuberLoss

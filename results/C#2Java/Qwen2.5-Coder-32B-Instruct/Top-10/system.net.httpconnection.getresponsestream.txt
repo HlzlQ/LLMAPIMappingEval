@@ -1,0 +1,10 @@
+java.net.HttpURLConnection.getInputStream
+java.net.URLConnection.getInputStream
+javax.net.ssl.HttpsURLConnection.getInputStream
+java.net.HttpURLConnection.getErrorStream
+java.net.URLConnection.getContent
+java.net.HttpURLConnection.getResponseCode
+java.net.HttpURLConnection.getHeaderField
+java.net.HttpURLConnection.getContentType
+java.net.HttpURLConnection.getContentLength
+java.net.HttpURLConnection.getDate

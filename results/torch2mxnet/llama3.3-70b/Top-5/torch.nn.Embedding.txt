@@ -1,0 +1,5 @@
+1. mxnet.ndarray.Embedding
+2. mxnet.gluon.nn.Embedding
+3. mxnet.gluon.nn.HybridSequential
+4. mxnet.gluon.nn.Dense
+5. mxnet.gluon.nn.Block

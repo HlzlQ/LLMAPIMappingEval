@@ -1,0 +1,10 @@
+java.lang.Math.max
+java.util.Collections.max
+java.util.Comparator.comparingInt
+java.util.Comparator.comparingLong
+java.util.Comparator.comparingDouble
+java.util.Arrays.stream
+java.util.List.stream
+java.util.stream.IntStream.max
+java.util.stream.LongStream.max
+java.util.stream.DoubleStream.max

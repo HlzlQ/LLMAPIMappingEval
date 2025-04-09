@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.ConvTranspose3d`:
+
+1. `cntk.layers.ConvolutionTranspose3D`
+2. `cntk.layers.Deconvolution3D`
+3. `cntk.layers.UpSampling3D`
+4. `cntk.layers.Convolution3D` with a stride greater than 1
+5. `cntk.layers.MaxUnpooling3D`

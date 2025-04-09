@@ -1,0 +1,14 @@
+
+MXNet does not have a direct equivalent to PyTorch's `torch.nn.RNN` module. However, you can use MXNet's `mxnet.rnn` module to create a recurrent neural network (RNN) model. Here is an example of how to create an RNN model using MXNet:
+```
+import mxnet as mx
+
+# Define the RNN model architecture
+model = mx.rnn(num_layers=1, input_size=784, hidden_size=256, output_size=10)
+
+# Initialize the model parameters
+model.initialize()
+```
+In this example, we define an RNN model with one layer and 256 hidden units. The `input_size` parameter specifies the number of input features, and the `output_size` parameter specifies the number of output classes.
+
+Note that MXNet's `rnn` module provides more flexibility than PyTorch's `RNN` module in terms of the types of RNN cells that can be used (e.g., LSTM, GRU, etc.). However, the basic usage and functionality are similar between the two libraries.

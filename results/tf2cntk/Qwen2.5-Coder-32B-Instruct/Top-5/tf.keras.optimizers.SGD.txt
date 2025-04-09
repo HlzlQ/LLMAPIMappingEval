@@ -1,0 +1,5 @@
+cntk.train.sgd
+cntk.learners.sgd
+cntk.optimizers.sgd
+cntk.trainer.sgd
+cntk.training.sgd

@@ -1,0 +1,10 @@
+mx.nd.dot
+mx.nd.batch_dot
+mx.nd.linalg.gemm
+mx.nd.linalg.syrk
+mx.nd.linalg.gemv
+mx.nd.linalg.trmm
+mx.nd.linalg.trsm
+mx.nd.linalg.symm
+mx.nd.linalg.sytrf
+mx.nd.linalg.sytri

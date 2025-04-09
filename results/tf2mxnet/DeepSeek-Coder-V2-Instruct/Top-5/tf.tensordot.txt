@@ -1,0 +1,6 @@
+
+1. mxnet.ndarray.dot
+2. mxnet.symbol.sum
+3. mxnet.symbol.broadcast_add
+4. mxnet.symbol.expand_dims
+5. mxnet.symbol.slice_axis

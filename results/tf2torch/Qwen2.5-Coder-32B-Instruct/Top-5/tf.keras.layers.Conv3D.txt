@@ -1,0 +1,5 @@
+torch.nn.Conv3d  
+torch.nn.functional.conv3d  
+torch.nn.modules.conv._ConvNd  
+torch.nn.modules.conv.Conv3d  
+torch.nn.modules.module.Module

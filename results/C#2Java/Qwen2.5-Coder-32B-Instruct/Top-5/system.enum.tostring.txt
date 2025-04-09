@@ -1,0 +1,5 @@
+java.lang.Enum.toString  
+java.util.Arrays.toString  
+java.lang.String.valueOf  
+java.text.MessageFormat.format  
+java.lang.Object.toString

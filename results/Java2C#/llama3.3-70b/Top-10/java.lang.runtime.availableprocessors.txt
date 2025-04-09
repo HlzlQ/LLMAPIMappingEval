@@ -1,0 +1,10 @@
+1. System.Environment.ProcessorCount
+2. System.Runtime.InteropServices.RuntimeInformation.ProcessorCount
+3. Microsoft.Win32.Registry.GetValue
+4. System.Management.ManagementObjectSearcher
+5. System.Diagnostics.Process.ThreadCount
+6. System.Runtime.InteropServices.LibraryLoader
+7. System.AppDomain.Data
+8. System.Threading.ThreadPool.GetMaxThreads
+9. System.Runtime.InteropServices.Marshal
+10. System.Diagnostics.Process.GetCurrentProcess.Threads.Count

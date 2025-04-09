@@ -1,0 +1,5 @@
+java.util.ArrayList.addAll
+java.util.List.subList
+java.util.Collections.copy
+java.util.ArrayList.set
+java.util.ArrayList.add

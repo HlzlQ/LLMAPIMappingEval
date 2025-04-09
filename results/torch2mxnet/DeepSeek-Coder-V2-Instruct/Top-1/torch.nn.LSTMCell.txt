@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: mxnet.gluon.rnn.LSTMCell
+<jupyter_output>
+<empty_output>

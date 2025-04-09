@@ -1,0 +1,20 @@
+
+MXNet does not have an exact equivalent of `tensorflow.keras.utils.normalize`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Norm`: This API calculates the norm of a tensor. You can use it to calculate the L1 or L2 norm of a tensor.
+* `mxnet.ndarray.Normalize`: This API normalizes a tensor by dividing it by its maximum value. It is similar to `tensorflow.keras.utils.normalize`.
+
+Here's an example of how you can use these APIs:
+```scss
+import mxnet as mx
+
+# Calculate the L1 norm of a tensor
+tensor = mx.ndarray([[1, 2], [3, 4]])
+norm = mx.ndarray.Norm(tensor, ord=1)
+print(norm) # Output: [[1, 2], [3, 4]]
+
+# Normalize a tensor by dividing it by its maximum value
+tensor = mx.ndarray([[1, 2], [3, 4]])
+normalized_tensor = mx.ndarray.Normalize(tensor)
+print(normalized_tensor) # Output: [[0.5, 1], [1.5, 2]]
+```

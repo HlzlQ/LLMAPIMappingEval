@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to the `java.lang.String.indexOf()` method. However, you can use the `IndexOf()` method in C#'s `System.String` class to achieve similar functionality.

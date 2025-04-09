@@ -1,0 +1,2 @@
+
+PyTorch equivalent of `tensorflow.compat.v1.norm` is `torch.norm`.

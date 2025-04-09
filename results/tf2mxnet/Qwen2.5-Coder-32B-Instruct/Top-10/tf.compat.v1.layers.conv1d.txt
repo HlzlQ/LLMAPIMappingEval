@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Conv1D  
+mxnet.ndarray.convolution  
+mxnet.symbol.Convolution  
+mxnet.gluon.nn.HybridSequential  
+mxnet.gluon.nn.Sequential  
+mxnet.gluon.nn.Dense  
+mxnet.gluon.nn.Activation  
+mxnet.gluon.nn.BatchNorm  
+mxnet.gluon.nn.Dropout  
+mxnet.gluon.nn.Flatten

@@ -1,0 +1,11 @@
+
+Answer: 1. torch.optim.Adadelta
+2. torch.optim.Adam
+3. torch.optim.Adamax
+4. torch.optim.ASGD
+5. torch.optim.LBFGS
+6. torch.optim.RMSprop
+7. torch.optim.Rprop
+8. torch.optim.SGD
+9. torch.optim.SparseAdam
+10. torch.optim.Adam

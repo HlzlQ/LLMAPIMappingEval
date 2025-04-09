@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.init.constant_`:
+
+1. `mxnet.initializer.Constant`
+2. `mxnet.initializer.zeros`
+3. `mxnet.initializer.ones`
+4. `mxnet.initializer.uniform`
+5. `mxnet.initializer.normal`
+6. `mxnet.initializer.truncated_normal`
+7. `mxnet.initializer.variance_scaling`
+8. `mxnet.initializer.orthogonal`
+9. `mxnet.initializer.xavier`
+10. `mxnet.initializer.kaiming`

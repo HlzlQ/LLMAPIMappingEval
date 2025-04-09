@@ -1,0 +1,10 @@
+1. Regex.Match
+2. Regex.Groups
+3. Match.Success
+4. GroupCollection.Item
+5. Group.Value
+6. Capture.Index
+7. Capture.Length
+8. Capture.Value
+9. Match.Captures
+10. RegexOptions

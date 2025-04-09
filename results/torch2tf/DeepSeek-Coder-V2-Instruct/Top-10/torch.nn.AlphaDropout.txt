@@ -1,0 +1,12 @@
+
+
+1. Dropout
+2. SpatialDropout2D
+3. AlphaDropout
+4. Dropout2D
+5. Dropout3D
+6. GaussianDropout
+7. FeatureAlphaDropout
+8. SpatialDropout3D
+9. SoftDropout
+10. BayesianDropout

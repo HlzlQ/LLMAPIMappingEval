@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.init.uniform_`:
+
+1. `mxnet.initializer.Uniform`
+2. `mxnet.initializer.RandomUniform`
+3. `mxnet.initializer.UniformInit`
+4. `mxnet.initializer.UniformDistribution`
+5. `mxnet.initializer.UniformReal`

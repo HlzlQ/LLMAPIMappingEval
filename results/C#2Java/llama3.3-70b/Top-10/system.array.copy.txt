@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.array.copy` in C#:
+
+1. java.lang.System.arraycopy
+2. java.util.Arrays.copyOf
+3. java.util.Arrays.copyOfRange
+4. java.lang.reflect.Array.copy
+5. java.nio.ByteBuffer.copy
+6. java.nio.CharBuffer.copy
+7. java.nio.DoubleBuffer.copy
+8. java.nio.FloatBuffer.copy
+9. java.nio.IntBuffer.copy
+10. java.nio.LongBuffer.copy

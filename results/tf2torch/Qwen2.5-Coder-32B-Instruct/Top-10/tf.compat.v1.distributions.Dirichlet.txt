@@ -1,0 +1,10 @@
+torch.distributions.dirichlet.Dirichlet
+torch.distributions.categorical.Categorical
+torch.distributions.multinomial.Multinomial
+torch.distributions.normal.Normal
+torch.distributions.beta.Beta
+torch.distributions.gamma.Gamma
+torch.distributions.poisson.Poisson
+torch.distributions.exponential.Exponential
+torch.distributions.uniform.Uniform
+torch.distributions.log_normal.LogNormal

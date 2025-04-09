@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to `torch.nn.functional.log_softmax`:
+
+1. `mxnet.ndarray.log_softmax`
+2. `mxnet.ndarray.softmax` with the `log` argument set to `True`
+3. `mxnet.ndarray.log_softmax_forward`
+4. `mxnet.ndarray.log_softmax_backward`
+5. `mxnet.ndarray.softmax_cross_entropy`
+6. `mxnet.ndarray.softmax_cross_entropy_with_logits`
+7. `mxnet.ndarray.log_softmax_loss`
+8. `mxnet.ndarray.log_softmax_hinge_loss`
+9. `mxnet.ndarray.log_softmax_squared_hinge_loss`
+10. `mxnet.ndarray.log_softmax_triplet_loss`

@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.rand` -> `CNTK.random_sample`
+2. `torch.nn.functional.relu` -> `CNTK.relu`
+3. `torch.optim.SGD` -> `CNTK.adam`
+4. `torch.Tensor` -> `CNTK.Value`
+5. `torch.cat` -> `CNTK.splice`
+6. `torch.sum` -> `CNTK.reduce_sum`
+7. `torch.mean` -> `CNTK.reduce_mean`
+8. `torch.max` -> `CNTK.reduce_max`
+9. `torch.min` -> `CNTK.reduce_min`
+10. `torch.unique` -> `CNTK.unique`

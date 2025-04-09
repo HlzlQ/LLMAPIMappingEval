@@ -1,0 +1,5 @@
+1. tf.keras.losses.MeanSquaredError
+2. tf.reduce_mean
+3. tf.square
+4. tf.keras.losses.mse
+5. tf.compat.v1.losses.mean_squared_error

@@ -1,0 +1,10 @@
+1. System.Collections.Generic.SortedDictionary.Add
+2. System.Collections.Generic.Dictionary.Add
+3. System.Collections.Hashtable.Add
+4. System.Collections.Specialized.ListDictionary.Add
+5. System.Collections.Generic.SortedList.Add
+6. System.Collections.Generic.HybridDictionary.Add
+7. System.Runtime.Caching.MemoryCache.AddOrGetExisting
+8. System.Web.Caching.Cache.Insert
+9. System.Collections.Concurrent.ConcurrentDictionary.TryAdd
+10. System.Collections.Generic.Dictionary.TryGetValue

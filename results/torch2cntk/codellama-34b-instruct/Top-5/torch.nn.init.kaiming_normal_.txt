@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.init.kaiming_normal`:
+
+1. `cntk.initializer.kaiming_normal`
+2. `cntk.initializer.he_normal`
+3. `cntk.initializer.xavier_normal`
+4. `cntk.initializer.msra_normal`
+5. `cntk.initializer.glorot_normal`

@@ -1,0 +1,2 @@
+
+MXNet does not have a direct equivalent to the `tensorflow.keras.losses.Poisson` class. However, you can use the `mxnet.gluon.loss.PoissonNLLLoss` class as an alternative.

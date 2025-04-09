@@ -1,0 +1,5 @@
+torch.zeros_
+torch.nn.init.zeros_
+torch.nn.parameter.Parameter(torch.zeros)
+torch.tensor(0)
+torch.nn.init.constant_(tensor, val=0)

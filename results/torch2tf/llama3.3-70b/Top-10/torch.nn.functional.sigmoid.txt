@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent TensorFlow APIs for `torch.nn.functional.sigmoid`:
+
+1. tf.nn.sigmoid
+2. tf.math.sigmoid
+3. tf.keras.activations.sigmoid
+4. tf.sigmoid
+5. tf.compat.v1.nn.sigmoid
+6. tf.compat.v1.math.sigmoid
+7. tf.keras.layers.Activation('sigmoid')
+8. tf.nn.relu6
+9. tf.math.tanh
+10. tf.keras.activations.get('sigmoid')

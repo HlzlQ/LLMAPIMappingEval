@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.AvgPool2d`:
+
+1. `CNTK.layers.AveragePooling`
+2. `CNTK.layers.Pooling`
+3. `CNTK.layers.AvgPool`
+4. `CNTK.layers.PoolingLayer`
+5. `CNTK.layers.AveragePool`
+6. `CNTK.layers.DownSample`
+7. `CNTK.layers.Subsampling`
+8. `CNTK.layers.AverageDownsample`
+9. `CNTK.layers.Pool`
+10. `CNTK.layers.AvgPoolingLayer`

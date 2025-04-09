@@ -1,0 +1,12 @@
+
+
+1. tf.keras.layers.Dense
+2. tf.keras.layers.Conv2D
+3. tf.keras.layers.MaxPooling2D
+4. tf.keras.layers.Flatten
+5. tf.keras.layers.Dropout
+6. tf.keras.layers.BatchNormalization
+7. tf.keras.layers.Activation
+8. tf.keras.layers.InputLayer
+9. tf.keras.layers.GlobalAveragePooling2D
+10. tf.keras.layers.Concatenate

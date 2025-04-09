@@ -1,0 +1,5 @@
+1. org.junit.Assert.assertEquals
+2. org.testng.Assert.assertEquals
+3. junit.framework.Assert.assertEquals
+4. org.hamcrest.MatcherAssert.assertThat
+5. org.junit.jupiter.api.Assertions.assertEquals

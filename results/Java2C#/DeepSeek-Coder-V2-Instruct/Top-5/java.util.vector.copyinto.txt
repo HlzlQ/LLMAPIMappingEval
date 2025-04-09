@@ -1,0 +1,5 @@
+1. System.Array.CopyTo
+2. Array.Copy
+3. Buffer.BlockCopy
+4. MemoryExtensions.AsSpan().CopyTo
+5. Span<T>.CopyTo

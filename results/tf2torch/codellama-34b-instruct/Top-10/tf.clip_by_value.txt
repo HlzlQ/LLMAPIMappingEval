@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.clip_by_value`:
+
+1. `torch.clamp`
+2. `torch.clip`
+3. `torch.clip_by_value`
+4. `torch.clip_by_norm`
+5. `torch.clip_by_mean`
+6. `torch.clip_by_std`
+7. `torch.clip_by_variance`
+8. `torch.clip_by_skewness`
+9. `torch.clip_by_kurtosis`
+10. `torch.clip_by_percentile`

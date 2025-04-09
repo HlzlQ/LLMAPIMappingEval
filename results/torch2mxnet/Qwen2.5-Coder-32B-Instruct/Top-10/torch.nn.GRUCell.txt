@@ -1,0 +1,10 @@
+mxnet.gluon.rnn.GRUCell
+mxnet.gluon.rnn.RNNCell
+mxnet.gluon.rnn.LSTMCell
+mxnet.ndarray.contrib.rnn_grucell
+mxnet.ndarray.contrib.rnn_vanilla_step
+mxnet.ndarray.contrib.rnn_lstmcell
+mxnet.ndarray.contrib.rnn_rnn_cell
+mxnet.ndarray.contrib.rnn_unroll
+mxnet.ndarray.contrib.rnn_layer
+mxnet.ndarray.contrib.rnn_block_unroll

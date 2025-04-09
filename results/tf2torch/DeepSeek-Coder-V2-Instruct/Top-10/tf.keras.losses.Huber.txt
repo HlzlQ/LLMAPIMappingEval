@@ -1,0 +1,11 @@
+
+Answer: 1. MSELoss
+2. CrossEntropyLoss
+3. BinaryCrossentropy
+4. CategoricalCrossentropy
+5. SparseCategoricalCrossentropy
+6. NLLLoss
+7. KLDivLoss
+8. SmoothL1Loss
+9. Huber
+10. L1Loss

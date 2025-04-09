@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.dot
+2. mxnet.symbol.dot
+3. mxnet.sym.make_loss
+4. mxnet.symbol.make_loss
+5. mxnet.ndarray.linalg_gemm
+6. mxnet.symbol.linalg_gemm
+7. mxnet.ndarray.batch_dot
+8. mxnet.symbol.batch_dot
+9. mxnet.ndarray.sum
+10. mxnet.symbol.sum

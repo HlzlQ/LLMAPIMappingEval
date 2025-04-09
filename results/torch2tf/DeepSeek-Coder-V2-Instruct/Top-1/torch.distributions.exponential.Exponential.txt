@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tfp.distributions.Exponential
+<jupyter_output>
+<empty_output>

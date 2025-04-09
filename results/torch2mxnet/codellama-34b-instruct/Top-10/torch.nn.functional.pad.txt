@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.pad`:
+
+1. `mxnet.ndarray.pad`
+2. `mxnet.ndarray.pad_constant`
+3. `mxnet.ndarray.pad_reflect`
+4. `mxnet.ndarray.pad_replicate`
+5. `mxnet.ndarray.pad_wrap`
+6. `mxnet.ndarray.pad_edge`
+7. `mxnet.ndarray.pad_linear_ramp`
+8. `mxnet.ndarray.pad_constant_like`
+9. `mxnet.ndarray.pad_reflect_like`
+10. `mxnet.ndarray.pad_replicate_like`

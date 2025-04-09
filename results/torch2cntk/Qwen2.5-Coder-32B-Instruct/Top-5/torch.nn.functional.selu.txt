@@ -1,0 +1,5 @@
+cntk.ops.selu  
+cntk.activations.selu  
+cntk.layers.SELU  
+cntk.functions.selu  
+cntk.models.selu

@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for optimizing a model:
+
+1. `tf.train.AdamOptimizer`
+2. `tf.keras.optimizers.Adam`
+3. `tf.train.GradientDescentOptimizer`
+4. `tf.keras.optimizers.SGD`
+5. `tf.keras.optimizers.RMSprop`

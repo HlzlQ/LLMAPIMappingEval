@@ -1,0 +1,5 @@
+cntk.adagrad
+cntk.optimizers.adagrad
+cntk.learners.adagrad
+cntk.train.adagrad
+cntk.training.adagrad

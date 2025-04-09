@@ -1,0 +1,2 @@
+
+Answer: dense, conv2d, max_pooling2d, flatten, average_pooling2d

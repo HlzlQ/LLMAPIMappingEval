@@ -1,0 +1,11 @@
+
+CNTK does not have a direct equivalent to PyTorch's `torch.distributions.normal.Normal` class. However, CNTK provides a similar functionality through its `cntk.layers.Distribution` module. Specifically, you can use the `cntk.layers.Distribution.Normal` class to create a normal distribution object in CNTK.
+
+Here's an example of how to create a normal distribution object in CNTK:
+```csharp
+using Cntk;
+
+// Create a normal distribution object with mean 0 and standard deviation 1
+var dist = new Normal(0, 1);
+```
+Note that the `Normal` class in CNTK takes two arguments: the first is the mean of the distribution, and the second is the standard deviation. In this example, we're creating a normal distribution with mean 0 and standard deviation 1.

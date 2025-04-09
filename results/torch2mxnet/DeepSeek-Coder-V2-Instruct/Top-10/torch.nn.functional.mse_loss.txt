@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.loss.L2Loss
+2. mxnet.ndarray.square
+3. mxnet.ndarray.mean
+4. mxnet.ndarray.sum
+5. mxnet.ndarray.broadcast_sub
+6. mxnet.ndarray.broadcast_div
+7. mxnet.ndarray.sqrt
+8. mxnet.ndarray.clip
+9. mxnet.ndarray.square_root_safe
+10. mxnet.ndarray.abs

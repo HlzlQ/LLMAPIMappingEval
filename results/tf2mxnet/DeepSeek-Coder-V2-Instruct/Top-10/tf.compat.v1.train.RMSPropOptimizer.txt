@@ -1,0 +1,26 @@
+
+```python
+import mxnet as mx
+from mxnet import gluon
+from mxnet.gluon import nn
+
+# Example mapping for RMSPropOptimizer
+class RMSPropGluon(gluon.Block):
+    def __init__(self, learning_rate=0.01, decay_rate=0.9, epsilon=1e-8, **kwargs):
+        super(RMSPropGluon, self).__init__(**kwargs)
+        with self.name_scope():
+            self.optimizer = gluon.Trainer(params=self.collect_params(), 'rmsprop', {'learning_rate': learning_rate, 'gamma1': decay_rate, 'epsilon': epsilon})
+    
+    def forward(self, x):
+        return x
+```
+Answer: 1. mxnet.optimizer.RMSProp
+2. mxnet.gluon.Trainer
+3. mxnet.optimizer.Optimizer
+4. mxnet.ndarray.optimizer.apply_updates
+5. mxnet.optimizer.create
+6. mxnet.initializer.MSRAPrelu
+7. mxnet.rnn.RMSP
+8. mxnet.contrib.quantization.rmsprop_momentum
+9. mxnet.symbol.rmsprop_update
+10. mxnet.gluon.loss.RMSL

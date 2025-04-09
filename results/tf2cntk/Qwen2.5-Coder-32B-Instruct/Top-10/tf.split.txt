@@ -1,0 +1,10 @@
+cntk.axis_slice
+cntk.slice
+cntk.ops.slice
+cntk.sequence.last
+cntk.sequence.first
+cntk.sequence.gather
+cntk.sequence.distribute
+cntk.sequence.pack
+cntk.sequence.unpack
+cntk.sequence.reduce_sum

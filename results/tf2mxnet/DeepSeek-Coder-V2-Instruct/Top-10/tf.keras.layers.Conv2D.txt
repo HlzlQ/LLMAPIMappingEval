@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.Conv2D
+2. mxnet.ndarray.Convolution
+3. mxnet.symbol.Convolution
+4. mxnet.image.imread
+5. mxnet.image.resize_short
+6. mxnet.image.normalize
+7. mxnet.image.transform_first
+8. mxnet.gluon.Block
+9. mxnet.ndarray.FullyConnected
+10. mxnet.symbol.FullyConnected

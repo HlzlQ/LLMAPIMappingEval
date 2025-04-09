@@ -1,0 +1,10 @@
+tf.math.tanh  
+tf.nn.tanh  
+tf.keras.activations.tanh  
+tf.raw_ops.Tanh  
+tf.compat.v1.nn.tanh  
+tf.compat.v2.nn.tanh  
+tf.compat.v1.math.tanh  
+tf.compat.v2.math.tanh  
+tf.keras.layers.Activation('tanh')  
+tf.keras.backend.tanh

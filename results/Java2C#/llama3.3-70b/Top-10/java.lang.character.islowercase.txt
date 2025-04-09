@@ -1,0 +1,10 @@
+1. System.Char.IsLower
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.Equals
+4. System.Globalization.CultureInfo.CurrentCulture.CompareInfo.IndexOf
+5. System.Text.Encoding.Default.GetByteCount
+6. System.Char.ToLower
+7. System.Char.ToUpper
+8. System.String.CompareTo
+9. System.Globalization.CultureInfo.CurrentCulture.CompareInfo.IsPrefix
+10. System.Text.RegularExpressions.Regex.Replace

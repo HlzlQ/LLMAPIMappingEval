@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. java.text.DecimalFormatSymbols.getDecimalSeparator()
+2. java.text.NumberFormat.getDecimalSeparator()
+3. java.text.DecimalFormat.getDecimalSeparator()
+4. java.util.Locale.getDecimalSeparator()
+5. java.text.DecimalFormatSymbols.getInstance().getDecimalSeparator()

@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to TensorFlow's `tensorflow.keras.activations.elu`:
+
+1. `torch.nn.ELU`
+2. `torch.nn.functional.elu`
+3. `torch.nn.LeakyReLU`
+4. `torch.nn.PReLU`
+5. `torch.nn.RReLU`

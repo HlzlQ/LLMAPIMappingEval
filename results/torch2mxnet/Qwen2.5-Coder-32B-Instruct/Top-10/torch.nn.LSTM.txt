@@ -1,0 +1,10 @@
+mxnet.gluon.rnn.LSTM
+mxnet.ndarray.contrib.lstm
+mxnet.symbol.contrib.lstm
+mxnet.gluon.rnn.LSTMCell
+mxnet.ndarray.RNN
+mxnet.symbol.RNN
+mxnet.ndarray.LSTM
+mxnet.symbol.LSTM
+mxnet.gluon.rnn.BidirectionalLSTM
+mxnet.ndarray.contrib.bidirectional_lstm_unroll

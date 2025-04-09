@@ -1,0 +1,7 @@
+  tf.clip_by_value is a TensorFlow API for clipping values in a tensor to a specified range. The equivalent MXNet API is:
+
+* mxnet.ndarray.clip
+* mxnet.ndarray.clip_grad
+* mxnet.ndarray.clip_weight
+* mxnet.ndarray.clip_bias
+* mxnet.ndarray.clip_activation

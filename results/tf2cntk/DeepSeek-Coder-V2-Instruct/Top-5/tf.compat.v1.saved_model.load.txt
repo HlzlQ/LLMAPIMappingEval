@@ -1,0 +1,14 @@
+
+```python
+import cntk as C
+```
+
+```python
+cntk_apis = [
+    "C.load_model",
+    "C.Function.load",
+    "C.Model.load",
+    "C.train.read_training_config",
+    "C.ops.load_proto"
+]
+```

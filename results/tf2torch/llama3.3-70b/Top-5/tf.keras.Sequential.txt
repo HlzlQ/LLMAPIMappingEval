@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that match the functionality of `tensorflow.keras.Sequential`:
+
+1. `torch.nn.Module`
+2. `torch.nn.Sequential`
+3. `torch.nn.DataParallel`
+4. `torch.nn.ModuleList`
+5. `torch.nn.Container`

@@ -1,0 +1,12 @@
+
+
+1. LearningRateScheduler
+2. ExponentialDecay
+3. PiecewiseConstantDecay
+4. PolynomialDecay
+5. CosineAnnealingDecay
+6. InverseTimeDecay
+7. StepLR
+8. MultiStepLR
+9. ExponentialLR
+10. ReduceLROnPlateau

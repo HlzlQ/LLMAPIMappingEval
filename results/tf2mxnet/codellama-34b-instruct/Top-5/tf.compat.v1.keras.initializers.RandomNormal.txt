@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for random normal initialization:
+
+1. `mxnet.initializer.RandomNormal`
+2. `mxnet.init.RandomNormal`
+3. `mxnet.initializers.random_normal`
+4. `mxnet.init.random_normal`
+5. `mxnet.initializers.RandomNormalInitializer`

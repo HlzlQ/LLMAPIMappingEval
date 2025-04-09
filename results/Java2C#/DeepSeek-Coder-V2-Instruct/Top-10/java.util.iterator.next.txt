@@ -1,0 +1,10 @@
+1. MoveNext()
+2. Current
+3. GetEnumerator()
+4. Reset()
+5. Dispose()
+6. Add()
+7. Remove()
+8. Contains()
+9. CopyTo()
+10. ToArray()

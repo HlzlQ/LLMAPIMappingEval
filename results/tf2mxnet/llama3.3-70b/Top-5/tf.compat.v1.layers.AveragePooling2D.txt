@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.layers.AveragePooling2D`:
+
+1. mxnet.ndarray.Pooling
+2. mxnet.gluon.nn.AvgPool2D
+3. mxnet.gluon.nn.GlobalAvgPool2D
+4. mxnet.ndarray.contrib.Pooling
+5. mxnet.gluon.nn.MaxPool2D

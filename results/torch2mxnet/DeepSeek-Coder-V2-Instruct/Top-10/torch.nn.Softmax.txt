@@ -1,0 +1,16 @@
+
+
+## 解题答案
+
+以下是与 `torch.nn.Softmax` 功能最接近的 10 个 MXNet API：
+
+1. mxnet.ndarray.softmax
+2. mxnet.symbol.softmax
+3. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+4. mxnet.gluon.nn.SoftmaxActivation
+5. mxnet.ndarray.log_softmax
+6. mxnet.symbol.log_softmax
+7. mxnet.gluon.nn.SoftmaxOutput
+8. mxnet.ndarray.pick
+9. mxnet.symbol.pick
+10. mxnet.ndarray.broadcast_mul

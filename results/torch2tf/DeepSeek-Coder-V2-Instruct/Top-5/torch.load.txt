@@ -1,0 +1,9 @@
+
+```python
+import torch
+model = torch.load('model.pth')
+```
+Answer: ```python
+import tensorflow as tf
+model = tf.saved_model.load('model.pth')
+```

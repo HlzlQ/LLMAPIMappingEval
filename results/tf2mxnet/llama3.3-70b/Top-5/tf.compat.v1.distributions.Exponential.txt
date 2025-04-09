@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.distributions.Exponential`:
+
+1. mxnet.ndarray.exponential
+2. mxnet.gluon.loss.Exponential
+3. mxnet.gluon.probability.Exponential
+4. mxnet.ndarray.random.exponential
+5. mxnet.gluon.contrib.loss.Exponential

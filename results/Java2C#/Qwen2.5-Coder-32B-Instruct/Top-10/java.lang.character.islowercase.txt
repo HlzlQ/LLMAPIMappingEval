@@ -1,0 +1,10 @@
+System.Char.IsLower  
+System.Text.RegularExpressions.Regex.IsMatch  
+System.Linq.Enumerable.Any  
+System.String.ToLower  
+System.Globalization.CultureInfo.TextInfo.ToLower  
+System.Collections.Generic.List<char>.Exists  
+System.Array.Exists  
+System.Predicate<char>  
+System.Func<char, bool>  
+System.Convert.ToBoolean

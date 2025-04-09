@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.Embedding`:
+
+1. `cntk.layers.Embedding`
+2. `cntk.layers.DenseEmbedding`
+3. `cntk.layers.Lookup`
+4. `cntk.layers.Indexing`
+5. `cntk.layers.Slice`
+6. `cntk.layers.Gather`
+7. `cntk.layers.Scatter`
+8. `cntk.layers.ElementTimes`
+9. `cntk.layers.EmbeddingLayer`
+10. `cntk.layers.SequenceEmbedding`

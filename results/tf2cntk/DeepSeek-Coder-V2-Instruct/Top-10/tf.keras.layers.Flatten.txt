@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.flatten
+2. cntk.ops.reshape
+3. cntk.ops.expand_dims
+4. cntk.ops.slice
+5. cntk.ops.transpose
+6. cntk.ops.reduce_mean
+7. cntk.ops.batch_norm
+8. cntk.ops.element_times
+9. cntk.ops.plus
+10. cntk.ops.relu

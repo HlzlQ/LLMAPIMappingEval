@@ -1,0 +1,10 @@
+torch.nn.functional.avg_pool2d  
+torch.nn.AvgPool2d  
+torch.nn.AdaptiveAvgPool2d  
+torch.nn.MaxPool2d  
+torch.nn.AdaptiveMaxPool2d  
+torch.nn.LPPool2d  
+torch.nn.FractionalMaxPool2d  
+torch.nn.FractionalAvgPool2d  
+torch.nn.Conv2d  
+torch.nn.ConvTranspose2d

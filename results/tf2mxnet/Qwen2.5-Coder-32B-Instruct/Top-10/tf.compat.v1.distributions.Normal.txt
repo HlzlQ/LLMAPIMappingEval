@@ -1,0 +1,10 @@
+mxnet.gluon.probability.Normal
+mxnet.ndarray.random.normal
+mxnet.symbol.random.normal
+mxnet.ndarray.sample_normal
+mxnet.symbol.sample_normal
+mxnet.ndarray.contrib.sampling.normal
+mxnet.symbol.contrib.sampling.normal
+mxnet.ndarray.random.exponential
+mxnet.symbol.random.exponential
+mxnet.ndarray.random.gamma

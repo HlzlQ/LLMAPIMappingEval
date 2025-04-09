@@ -1,0 +1,1 @@
+mxnet.ndarray.Activation(act_type='linear')

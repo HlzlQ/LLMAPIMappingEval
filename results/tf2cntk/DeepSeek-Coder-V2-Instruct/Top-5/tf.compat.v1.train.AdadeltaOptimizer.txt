@@ -1,0 +1,10 @@
+
+Answer: ```python
+cntk_optimizers = [
+    "momentum_sgd",
+    "adam",
+    "rmsprop",
+    "adagrad",
+    "ftrl"
+]
+```

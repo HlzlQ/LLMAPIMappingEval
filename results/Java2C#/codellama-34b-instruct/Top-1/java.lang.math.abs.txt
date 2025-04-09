@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to the `java.lang.Math.abs()` method. However, you can use the `System.Math.Abs()` method in C# to achieve similar functionality.

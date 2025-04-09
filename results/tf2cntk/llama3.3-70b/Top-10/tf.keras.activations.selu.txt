@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.selu`:
+
+1. CNTK SELU
+2. CNTK Activation SELU
+3. cntk.ops.selu
+4. cntk.layers.SELU
+5. CNTK selu activation
+6. cntk.functions.selu
+7. CNTK scaled exponential linear unit (SELU)
+8. cntk.activations.selu
+9. CNTK ops SELU activation
+10. cntk.layers.Activation_SELU

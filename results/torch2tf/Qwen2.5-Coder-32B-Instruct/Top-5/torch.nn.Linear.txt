@@ -1,0 +1,5 @@
+tf.keras.layers.Dense  
+tf.compat.v1.layers.dense  
+tf.nn.linear  
+tf.matmul  
+tf.linalg.matmul

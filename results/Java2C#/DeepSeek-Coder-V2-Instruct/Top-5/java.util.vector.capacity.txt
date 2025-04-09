@@ -1,0 +1,5 @@
+1. Vector<T>.Capacity
+2. List<T>.Count
+3. Array.Length
+4. StringBuilder.Capacity
+5. Memory<T>.Length

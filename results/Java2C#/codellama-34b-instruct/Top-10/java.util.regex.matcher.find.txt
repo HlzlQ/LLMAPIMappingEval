@@ -1,0 +1,12 @@
+  Sure! Here are the top 10 C# APIs that match the functionality of Java's `java.util.regex.matcher.find`:
+
+1. `System.Text.RegularExpressions.Match`
+2. `System.Text.RegularExpressions.Regex.IsMatch`
+3. `System.Text.RegularExpressions.Regex.Matches`
+4. `System.Text.RegularExpressions.Regex.Replace`
+5. `System.Text.RegularExpressions.Regex.Split`
+6. `System.Text.RegularExpressions.Regex.Substring`
+7. `System.Text.RegularExpressions.Regex.ToLower`
+8. `System.Text.RegularExpressions.Regex.ToUpper`
+9. `System.Text.RegularExpressions.Regex.Trim`
+10. `System.Text.RegularExpressions.Regex.TrimEnd`

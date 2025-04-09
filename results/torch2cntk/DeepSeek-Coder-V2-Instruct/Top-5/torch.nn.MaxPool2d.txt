@@ -1,0 +1,2 @@
+
+Answer: MaxPool1D, MaxPool3D, AvgPool1D, AvgPool2D, GlobalMaxPool1D

@@ -1,0 +1,4 @@
+
+Answer: 1. torch.nn.AvgPool1d
+2. torch.nn.AdaptiveAvgPool1d
+3. torch.nn.functional.avg_pool1d

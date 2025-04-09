@@ -1,0 +1,5 @@
+torch.nn.modules.loss._Loss.reduction  
+torch.nn.functional.cross_entropy.reduction  
+torch.nn.functional.mse_loss.reduction  
+torch.nn.functional.binary_cross_entropy.reduction  
+torch.nn.functional.nll_loss.reduction

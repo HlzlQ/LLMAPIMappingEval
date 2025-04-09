@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the Java API `org.testng.assert.AssertFalse`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse`
+2. `NUnit.Framework.Assert.False`
+3. `xunit.assert.False`
+4. `FluentAssertions.AssertionExtensions.Should().BeFalse()`
+5. `NSubstitute.Received.InOrder(() => { Assert.False(actual); })`

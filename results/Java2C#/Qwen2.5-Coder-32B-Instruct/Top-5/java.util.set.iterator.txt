@@ -1,0 +1,5 @@
+System.Collections.Generic.IEnumerable.GetEnumerator  
+System.Collections.Generic.ICollection.GetEnumerator  
+System.Collections.Generic.ISet.GetEnumerator  
+System.Collections.Generic.HashSet<T>.GetEnumerator  
+System.Collections.Generic.SortedSet<T>.GetEnumerator

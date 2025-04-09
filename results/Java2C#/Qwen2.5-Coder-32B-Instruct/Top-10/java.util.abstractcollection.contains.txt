@@ -1,0 +1,10 @@
+System.Collections.Generic.ICollection`1.Contains  
+System.Collections.Generic.IList`1.Contains  
+System.Collections.Generic.ISet`1.Contains  
+System.Collections.ArrayList.Contains  
+System.Collections.Hashtable.ContainsKey  
+System.Collections.Hashtable.ContainsValue  
+System.Collections.Specialized.NameValueCollection.GetValues  
+System.Collections.Specialized.StringCollection.Contains  
+System.Collections.Concurrent.ConcurrentBag`1.Contains  
+System.Collections.Concurrent.ConcurrentQueue`1.Contains

@@ -1,0 +1,8 @@
+
+Answer: ```
+1. torch.nn.Tanh
+2. torch.nn.functional.tanh
+3. tf.keras.activations.tanh
+4. tensorflow.nn.tanh
+5. numpy.tanh
+```

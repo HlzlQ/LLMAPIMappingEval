@@ -1,0 +1,9 @@
+  tf.compat.v1.distributions.Exponential
+
+The above TensorFlow API is a class for constructing an exponential distribution. The equivalent MXNet API for this is:
+
+* mxnet.ndarray.exponential
+* mxnet.random.exponential
+* mxnet.random.distributions.Exponential
+* mxnet.random.distributions.exponential_like
+* mxnet.random.distributions.ExponentialDistribution

@@ -1,0 +1,10 @@
+System.Collections.IEnumerator
+System.Collections.Generic.IEnumerator<T>
+System.Collections.Generic.List<T>.GetEnumerator
+System.Collections.ArrayList.GetEnumerator
+System.Collections.Generic.LinkedList<T>.GetEnumerator
+System.Collections.Concurrent.BlockingCollection<T>.GetConsumingEnumerable().GetEnumerator
+System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue(out T)
+System.Collections.Concurrent.ConcurrentStack<T>.TryPop(out T)
+System.Collections.Concurrent.ConcurrentBag<T>.GetEnumerator
+System.Collections.Specialized.StringCollection.GetEnumerator

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `tensorflow.keras.layers.Embedding`:
+
+1. `CNTK.Embedding`
+2. `CNTK.Lookup`
+3. `CNTK.DenseEmbedding`
+4. `CNTK.SequentialEmbedding`
+5. `CNTK.WordEmbedding`
+6. `CNTK.TextEmbedding`
+7. `CNTK.EmbeddingLayer`
+8. `CNTK.LookupTable`
+9. `CNTK.IndexingLayer`
+10. `CNTK.SubsamplingLayer`

@@ -1,0 +1,15 @@
+
+Answer: ```python
+tfp = tf.contrib.distributions
+```
+
+1. `tfp.Gamma`
+2. `tfp.gamma.log_prob`
+3. `tfp.gamma.mean`
+4. `tfp.gamma.variance`
+5. `tfp.gamma.sample`
+6. `tfp.gamma.entropy`
+7. `tfp.gamma.mode`
+8. `tfp.gamma.quantile`
+9. `tfp.gamma.log_cdf`
+10. `tfp.gamma.prob`

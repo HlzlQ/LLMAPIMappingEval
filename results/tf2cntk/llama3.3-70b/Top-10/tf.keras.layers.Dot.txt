@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `tensorflow.keras.layers.Dot`:
+
+1. `CNTK.ElementTimes`
+2. `CNTK.TransposeTimes`
+3. `CNTK.BatchNormalization`
+4. `CNTK.ReduceSum`
+5. `CNTK.ReduceMean`
+6. `CNTK.MatrixMultiply`
+7. `CNTK.Times`
+8. `CNTK.Elementwise`
+9. `CNTK.InnerProduct`
+10. `CNTK.Dense`

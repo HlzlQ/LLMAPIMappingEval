@@ -1,0 +1,2 @@
+
+PyTorch: `torch.nn.init.normal_`

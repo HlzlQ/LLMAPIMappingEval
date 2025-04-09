@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.Embedding`:
+
+1. mxnet.ndarray.Embedding
+2. mxnet.gluon.nn.Embedding
+3. mxnet.gluon.nn.DenseEmbedding
+4. mxnet.contrib.tensorboard.embedding
+5. mxnet.ndarray.sparse.Embedding
+6. mxnet.gluon.nn.SparseEmbedding
+7. mxnet.gluon.nn.HybridSequential_Embedding
+8. mxnet.gluon.nn.Block_Embedding
+9. mxnet.ndarray.FullyIndexableEmbedding
+10. mxnet.gluon.nn.IndexedEmbedding

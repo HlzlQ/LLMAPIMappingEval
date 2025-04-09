@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.regex.Pattern`:
+
+1. `System.Text.RegularExpressions.Regex`
+2. `System.Text.RegularExpressions.Match`
+3. `System.Text.RegularExpressions.MatchCollection`
+4. `System.Text.RegularExpressions.Group`
+5. `System.Text.RegularExpressions.GroupCollection`
+6. `System.Text.RegularExpressions.Capture`
+7. `System.Text.RegularExpressions.CaptureCollection`
+8. `System.Text.RegularExpressions.Split`
+9. `System.Text.RegularExpressions.Replace`
+10. `System.Text.RegularExpressions.IsMatch`

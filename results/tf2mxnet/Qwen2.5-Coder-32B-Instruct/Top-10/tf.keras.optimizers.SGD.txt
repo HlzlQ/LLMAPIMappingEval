@@ -1,0 +1,10 @@
+mxnet.gluon.Trainer
+mxnet.optimizer.SGD
+mxnet.ndarray.sgd_update
+mxnet.ndarray.sgd_mom_update
+mxnet.ndarray.sgd_multi_precision_update
+mxnet.ndarray.sgd_mom_multi_precision_update
+mxnet.ndarray.sgd_nesterov_update
+mxnet.ndarray.sgd_mom_nesterov_update
+mxnet.ndarray.sgd_nesterov_multi_precision_update
+mxnet.ndarray.sgd_mom_nesterov_multi_precision_update

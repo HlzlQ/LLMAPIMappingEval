@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.Concat
+3. System.Collections.Generic.List<T>.InsertRange
+4. System.Collections.Generic.Collection<T>.Add
+5. System.Collections.ObjectModel.Collection<T>.AddItem

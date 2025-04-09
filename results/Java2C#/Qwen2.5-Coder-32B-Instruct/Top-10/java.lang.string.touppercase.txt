@@ -1,0 +1,10 @@
+System.String.ToUpper  
+System.String.ToUpperInvariant  
+System.Globalization.CultureInfo.TextInfo.ToTitleCase  
+System.Globalization.CultureInfo.TextInfo.ToLower  
+System.Globalization.CultureInfo.TextInfo.ToUpper  
+System.Globalization.TextInfo.ToTitleCase  
+System.Globalization.TextInfo.ToLower  
+System.Globalization.TextInfo.ToUpper  
+System.String.ToUpper(System.IFormatProvider)  
+System.String.ToUpper(System.Globalization.CultureInfo)

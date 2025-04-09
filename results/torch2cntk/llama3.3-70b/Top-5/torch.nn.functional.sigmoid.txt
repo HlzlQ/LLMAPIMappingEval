@@ -1,0 +1,5 @@
+1. cntk.ops.sigmoid
+2. cntk.layers.Sigmoid
+3. cntk.ops.logistic
+4. cntk.layers.Logistic
+5. cntk.ops.softmax

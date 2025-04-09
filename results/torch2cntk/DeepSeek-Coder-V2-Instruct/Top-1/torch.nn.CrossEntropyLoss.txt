@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("torch.nn.CrossEntropyLoss -> Cntk.losses.cross_entropy")
+<jupyter_output>
+torch.nn.CrossEntropyLoss -> Cntk.losses.cross_entropy

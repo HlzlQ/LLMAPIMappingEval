@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.IO.Directory.CreateDirectory` method:
+
+1. `java.io.File.mkdir()`
+2. `java.io.File.mkdirs()`
+3. `java.nio.file.Files.createDirectory()`
+4. `java.nio.file.Path.toFile().mkdir()`
+5. `java.nio.file.Path.toFile().mkdirs()`
+6. `org.apache.commons.io.FileUtils.forceMkdir()`
+7. `org.apache.commons.io.FileUtils.forceMkdirParent()`
+8. `com.google.common.io.Files.createParentDirs()`
+9. `com.google.common.io.MoreFiles.createParentDirectories()`
+10. `com.google.common.io.RecursiveDeleteOption.ALLOW_INSECURE`

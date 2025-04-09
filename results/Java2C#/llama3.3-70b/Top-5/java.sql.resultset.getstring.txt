@@ -1,0 +1,5 @@
+1. System.Data.SqlClient.SqlDataReader.GetString
+2. System.Data.Common.DbDataReader.GetString
+3. Microsoft.Data.SqlClient.SqlDataReader.GetString
+4. System.Data.OleDb.OleDbDataReader.GetString
+5. System.Data.IDataReader.GetString

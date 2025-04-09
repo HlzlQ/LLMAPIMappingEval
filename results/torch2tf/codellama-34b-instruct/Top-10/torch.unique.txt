@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that correspond to the `torch.unique` PyTorch API:
+
+1. `tf.unique`
+2. `tf.sets.unique`
+3. `tf.math.unique`
+4. `tf.data.unique`
+5. `tf.sparse.unique`
+6. `tf.ragged.unique`
+7. `tf.quantization.unique`
+8. `tf.linalg.unique`
+9. `tf.signal.unique`
+10. `tf.image.unique`

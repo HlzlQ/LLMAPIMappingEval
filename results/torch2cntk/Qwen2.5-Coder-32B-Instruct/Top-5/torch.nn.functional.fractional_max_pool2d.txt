@@ -1,0 +1,5 @@
+cntk.layers.pooling.max_pooling
+cntk.layers.pooling.global_max_pooling
+cntk.layers.pooling.windowed_max_pooling
+cntk.layers.pooling.dynamic_axis_max_pooling
+cntk.layers.pooling.sequence_max_pooling

@@ -1,0 +1,9 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.log_softmax`:
+
+1. `mxnet.ndarray.log_softmax`
+2. `mxnet.symbol.log_softmax`
+3. `mxnet.ndarray.LogSoftmax`
+4. `mxnet.symbol.LogSoftmax`
+5. `mxnet.ndarray.softmax_cross_entropy`
+
+Note that the first four APIs are similar to PyTorch's `log_softmax` function, while the fifth API is a loss function that computes the softmax cross entropy between two arrays.

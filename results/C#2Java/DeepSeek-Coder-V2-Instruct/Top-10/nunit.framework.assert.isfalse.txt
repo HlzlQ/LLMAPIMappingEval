@@ -1,0 +1,10 @@
+1. org.junit.jupiter.api.Assertions.assertFalse
+2. org.junit.Assert.assertFalse
+3. java.util.concurrent.atomic.AtomicBoolean.compareAndSet
+4. javax.swing.JOptionPane.isVisible
+5. android.test.AndroidTestCase.runTest
+6. com.microsoft.visualstudio.qualitytools.unittestframework.Assert.IsFalse
+7. org.testng.Assert.assertFalse
+8. junit.framework.Assert.assertFalse
+9. ch.qos.logback.classic.util.ContextInitializer.isResettingLogger
+10. org.apache.commons.lang3.Validate.isFalse

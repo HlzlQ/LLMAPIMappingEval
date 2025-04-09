@@ -1,0 +1,10 @@
+System.Math.Floor
+Math.Floor
+System.Double.Floor
+System.Single.Floor
+System.Numerics.BigInteger.Floor
+System.Numerics.BigDecimal.Floor
+System.Decimal.Floor
+System.Math.Round
+Math.Round
+System.Numerics.Complex.Floor

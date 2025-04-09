@@ -1,0 +1,5 @@
+System.Collections.Generic.Queue<T>.Dequeue()
+System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue()
+System.Collections.Concurrent.BlockingCollection<T>.Take()
+System.Collections.Concurrent.BlockingCollection<T>.TryTake()
+System.Linq.Enumerable.FirstOrDefault()

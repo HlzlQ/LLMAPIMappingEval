@@ -1,0 +1,11 @@
+
+1. mxnet.ndarray.Pooling
+2. mxnet.symbol.max_pooling2d
+3. mxnet.gluon.nn.MaxPool2D
+4. mxnet.ndarray.contrib.BilinearResize2D
+5. mxnet.ndarray.contrib.DeformableConvolution
+6. mxnet.ndarray.contrib.SpatialTransformer
+7. mxnet.symbol.contrib.BilinearResize2D
+8. mxnet.symbol.contrib.DeformableConvolution
+9. mxnet.symbol.contrib.SpatialTransformer
+10. mxnet.gluon.nn.MaxPooling2D

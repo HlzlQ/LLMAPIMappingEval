@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+2. NUnit.Framework.Assert.IsTrue
+3. System.Diagnostics.Debug.Assert
+4. System.Diagnostics.Trace.Assert
+5. FluentAssertions.BoolExtensions.ShouldBeTrue
+6. Shouldly.Should.BeTrue
+7. xunit.assert.True
+8. SpecFlow.Assist.AssertTrue
+9. Gallio.Framework.Assertions.Assert.IsTrue
+10. MbUnit.Framework.Assert.IsTrue

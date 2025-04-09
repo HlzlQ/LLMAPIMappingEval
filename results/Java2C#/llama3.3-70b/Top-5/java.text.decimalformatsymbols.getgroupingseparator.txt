@@ -1,0 +1,5 @@
+1. System.Globalization.NumberFormatInfo.CurrencyGroupSeparator
+2. System.Globalization.NumberFormatInfo.NumberGroupSeparator
+3. System.Globalization.CultureInfo.CurrentCulture.NumberFormat.NumberGroupSeparator
+4. System.Globalization.CultureInfo.InvariantCulture.NumberFormat.NumberGroupSeparator
+5. System.Threading.Thread.CurrentThread.CurrentCulture.NumberFormat.NumberGroupSeparator

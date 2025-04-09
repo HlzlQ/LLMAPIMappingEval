@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.LeakyReLU | mxnet.ndarray.leaky_relu |
+  | torch.nn.functional.leaky_relu | mxnet.ndarray.leaky_relu |
+  | torch.nn.init.leaky_relu_ | mxnet.initializer.LeakyReLU |
+  | torch.nn.modules.activation.LeakyReLU | mxnet.gluon.nn.LeakyReLU |
+  | torch.nn.modules.container.LeakyReLU | mxnet.gluon.nn.Sequential |
+  | torch.nn.modules.conv.LeakyReLU2d | mxnet.gluon.nn.Conv2D |
+  | torch.nn.modules.linear.LeakyReLU | mxnet.gluon.nn.Dense |
+  | torch.nn.modules.normalization.LeakyReLU | mxnet.gluon.nn.BatchNorm |
+  | torch.nn.modules.pooling.LeakyReLU2d | mxnet.gluon.nn.MaxPool2D |
+  | torch.nn.modules.upsampling.LeakyReLU2d | mxnet.gluon.nn.UpSampling2D |

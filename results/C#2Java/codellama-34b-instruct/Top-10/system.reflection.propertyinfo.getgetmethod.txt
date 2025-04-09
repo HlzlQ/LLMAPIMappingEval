@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the given C# API:
+
+1. `java.lang.reflect.Method.getGetMethod()`
+2. `java.lang.Class.getGetMethod()`
+3. `java.lang.reflect.Field.getGetMethod()`
+4. `java.lang.reflect.PropertyInfo.getGetMethod()`
+5. `java.beans.PropertyDescriptor.getReadMethod()`
+6. `java.beans.FeatureDescriptor.getReadMethod()`
+7. `javax.el.ELContext.getGetMethod()`
+8. `javax.el.ValueExpression.getGetMethod()`
+9. `org.springframework.core.convert.converter.Converter.getGetMethod()`
+10. `org.springframework.core.convert.converter.GenericConverter.getGetMethod()`

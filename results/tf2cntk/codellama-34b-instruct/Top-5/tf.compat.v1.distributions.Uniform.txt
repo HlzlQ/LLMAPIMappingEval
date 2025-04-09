@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for uniform distribution:
+
+1. `cntk.uniform_distribution`
+2. `cntk.random.uniform`
+3. `cntk.distributions.Uniform`
+4. `cntk.distributions.uniform`
+5. `cntk.random.uniform_distribution`

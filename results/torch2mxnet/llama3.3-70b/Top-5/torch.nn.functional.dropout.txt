@@ -1,0 +1,5 @@
+1. mxnet.ndarray.random.dropout
+2. mxnet.gluon.nn.Dropout
+3. mxnet.ndarray.Dropout
+4. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+5. mxnet.gluon.nn.HybridSequential

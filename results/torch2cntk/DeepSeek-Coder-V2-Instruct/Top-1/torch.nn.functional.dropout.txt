@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("torch.nn.functional.dropout -> cntk.ops.Dropout")
+<jupyter_output>
+torch.nn.functional.dropout -> cntk.ops.Dropout

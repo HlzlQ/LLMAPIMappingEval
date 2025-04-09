@@ -1,0 +1,5 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Values
+2. System.Linq.Enumerable.Values
+3. System.Collections.Generic.SortedDictionary<TKey, TValue>.Values
+4. System.Collections.Specialized.OrderedDictionary.Values
+5. System.Collections.Generic.SortedList<TKey, TValue>.Values

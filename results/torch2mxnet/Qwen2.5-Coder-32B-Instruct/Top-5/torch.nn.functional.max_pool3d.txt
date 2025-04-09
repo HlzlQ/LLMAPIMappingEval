@@ -1,0 +1,5 @@
+mxnet.ndarray.Pooling
+mxnet.gluon.nn.MaxPool3D
+mxnet.symbol.Pooling
+mxnet.ndarray.max_pooling
+mxnet.symbol.max_pooling

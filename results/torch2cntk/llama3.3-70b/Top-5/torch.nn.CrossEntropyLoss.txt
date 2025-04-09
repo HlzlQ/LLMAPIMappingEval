@@ -1,0 +1,5 @@
+1. cntk.losses.cross_entropy
+2. cntk.metrics.classification_error
+3. cntk.train.trainer
+4. cntk.learners.sgd
+5. cntk.layers.CrossEntropyError

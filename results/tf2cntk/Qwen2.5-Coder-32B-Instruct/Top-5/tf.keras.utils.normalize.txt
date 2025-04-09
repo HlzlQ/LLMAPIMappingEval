@@ -1,0 +1,5 @@
+cntk.ops.element_divide  
+cntk.ops.reduce_max  
+cntk.ops.reduce_min  
+cntk.ops.minus  
+cntk.ops.times

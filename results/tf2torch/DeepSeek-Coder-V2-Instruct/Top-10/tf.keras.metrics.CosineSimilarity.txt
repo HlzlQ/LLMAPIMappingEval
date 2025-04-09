@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.functional.cosine_similarity
+2. torch.nn.CosineEmbeddingLoss
+3. torch.nn.CosineSimilarity
+4. torch.nn.CosineAnnealingLR
+5. torch.optim.lr_scheduler.CosineAnnealingLR
+6. torchmetrics.functional.cosine_similarity
+7. torchmetrics.CosineSimilarity
+8. tensorflow.keras.losses.CosineSimilarity
+9. tensorflow.keras.metrics.CosineSimilarity
+10. tensorflow_hub.keras_layers.CosineSimilarity

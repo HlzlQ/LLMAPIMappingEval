@@ -1,0 +1,2 @@
+
+Answer: SparseCategoricalCrossentropy, CategoricalCrossentropy, MeanSquaredError, MeanAbsoluteError, BinaryCrossentropy, CosineSimilarity, SoftmaxCrossEntropyLoss, HuberLoss, LogCoshLoss, Poisson

@@ -1,0 +1,5 @@
+System.Collections.Generic.Dictionary.Add  
+System.Collections.Generic.IDictionary.Add  
+System.Collections.Hashtable.Add  
+System.Collections.Specialized.HybridDictionary.Add  
+System.Collections.Specialized.ListDictionary.Add

@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+transposed_conv2d
+<jupyter_output>
+<empty_output>

@@ -1,0 +1,7 @@
+Based on the PyTorch API `torch.split`, here are 5 MXNet APIs that have similar functions:
+
+1. mx.nd.split
+2. mx.ndarray.split
+3. mx.gluon.utils.split_data
+4. mxnet.ndarray.SplitV2
+5. mxnet gluon.utils.split_and_load

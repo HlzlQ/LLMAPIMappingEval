@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that are similar to the Java API `org.testng.assert.assertnotsame`:
+
+1. NUnit.Framework.Assert.AreNotSame
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame
+3. xunit.assert.NotSame
+4. FluentAssertions.AssertionExtensions.Should().NotBeSameAs()
+5. NUnit.Framework.Assert.That(actual, Is.Not.SameAs(expected))
+6. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.That(actual, Is.Not.SameAs(expected))
+7. xunit.assert.Equal(actual, expected)
+8. FluentAssertions.AssertionExtensions.Should().BeSameAs()
+9. NUnit.Framework.Assert.AreSame
+10. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame

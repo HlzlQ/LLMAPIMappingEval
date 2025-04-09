@@ -1,0 +1,10 @@
+tf.is_tensor  
+tf.debugging.assert_type  
+tf.TensorSpec.from_tensor  
+tf.function.input_signature  
+tf.data.Dataset.from_tensor_slices  
+tf.raw_ops.IsTensor  
+tf.compat.v1.convert_to_tensor_or_sparse_tensor  
+tf.compat.v1.placeholder_with_default  
+tf.compat.v1.py_func  
+tf.compat.v1.summary.tensor_summary

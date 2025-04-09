@@ -1,0 +1,5 @@
+cntk.optimizers.rmsprop
+cntk.optimizers.RMSProp
+cntk.learners.rmsprop
+cntk.learners.RMSPropLearner
+cntk.train.training_session.rmsprop

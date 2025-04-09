@@ -1,0 +1,5 @@
+System.Reflection.PropertyInfo.GetSetMethod
+System.ComponentModel.TypeDescriptor.GetProperties
+System.ComponentModel.PropertyDescriptorCollection.Find
+System.ComponentModel.IndexedPropertyDescriptor.GetIndexedWriteMethod
+System.Type.GetProperty

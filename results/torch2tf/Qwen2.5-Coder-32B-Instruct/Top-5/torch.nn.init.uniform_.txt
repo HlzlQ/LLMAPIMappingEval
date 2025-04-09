@@ -1,0 +1,5 @@
+tf.random.set_seed  
+tf.random.uniform  
+tf.keras.initializers.RandomUniform  
+tf.compat.v1.random_uniform_initializer  
+tf.compat.v2.random.uniform

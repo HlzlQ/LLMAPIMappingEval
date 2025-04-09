@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.is_tensor`:
+
+1. `torch.is_tensor`
+2. `torch.tensor`
+3. `torch.as_tensor`
+4. `torch.from_numpy`
+5. `torch.to_numpy`
+6. `torch.tensor_like`
+7. `torch.tensor_convert`
+8. `torch.tensor_cast`
+9. `torch.tensor_copy`
+10. `torch.tensor_move`

@@ -1,0 +1,14 @@
+
+CNTK does not have an exact equivalent of TensorFlow's `Uniform` distribution. However, you can use the `uniform` function in CNTK to achieve similar results. Here's an example:
+```csharp
+using CNTK;
+
+// Define a uniform distribution with min = 0 and max = 1
+var dist = new Uniform(0, 1);
+
+// Sample from the distribution
+var sample = dist.Sample();
+
+Console.WriteLine($"Sampled value: {sample}");
+```
+In this example, we define a `Uniform` distribution with min = 0 and max = 1, and then use the `Sample()` method to generate a random number from the distribution. The resulting sample will be a floating-point number between 0 and 1.

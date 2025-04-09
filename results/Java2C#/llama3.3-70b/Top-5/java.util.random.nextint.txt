@@ -1,0 +1,5 @@
+1. System.Random.Next
+2. System.Random.NextInt32
+3. System.Security.Cryptography.RNGCryptoServiceProvider.GetBytes
+4. System.Random.NextBytes
+5. System.Security.Cryptography.RandomNumberGenerator.GetBytes

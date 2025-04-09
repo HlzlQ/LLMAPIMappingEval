@@ -1,0 +1,10 @@
+java.util.ArrayList.add
+java.util.List.add
+java.util.Collection.add
+java.util.AbstractList.add
+java.util.AbstractCollection.add
+java.util.Vector.add
+java.util.Stack.add
+java.util.LinkedList.add
+java.util.PriorityQueue.add
+java.util.ArrayDeque.add

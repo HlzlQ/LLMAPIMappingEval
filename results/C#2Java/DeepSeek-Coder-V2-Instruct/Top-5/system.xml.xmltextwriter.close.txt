@@ -1,0 +1,5 @@
+1. `java.io.Writer#close`
+2. `javax.xml.stream.XMLStreamWriter#close`
+3. `org.w3c.dom.Node#getNodeName`
+4. `org.xml.sax.ContentHandler#endDocument`
+5. `com.thoughtworks.xstream.io.HierarchicalStreamWriter#close`

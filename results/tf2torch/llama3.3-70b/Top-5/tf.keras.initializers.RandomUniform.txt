@@ -1,0 +1,5 @@
+1. torch.nn.init.uniform_
+2. torch.randn
+3. torch.rand
+4. torch.Tensor.uniform_
+5. torch.distributions.Uniform

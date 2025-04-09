@@ -1,0 +1,5 @@
+1. java.util.ArrayList.toArray()
+2. java.util.Arrays.copyOf()
+3. java.util.Arrays.copyOfRange()
+4. java.lang.System.arraycopy()
+5. java.util.ArrayList.ensureCapacity()

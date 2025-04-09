@@ -1,0 +1,16 @@
+
+
+## 解题答案
+
+以下是与PyTorch中的`torch.nn.Upsample`功能最接近的MXNet API：
+
+1. `mxnet.ndarray.contrib.BilinearResize2D`
+2. `mxnet.ndarray.contrib.TriangularCubicResize2D`
+3. `mxnet.ndarray.contrib.PixelShuffle`
+4. `mxnet.ndarray.contrib.DeformableConvolution`
+5. `mxnet.ndarray.contrib.SpatialTransformer`
+6. `mxnet.ndarray.contrib.Upsampling`
+7. `mxnet.ndarray.contrib.BicubicResize2D`
+8. `mxnet.ndarray.contrib.DeformableConvolutionV2`
+9. `mxnet.ndarray.contrib.SpatialTransformerV2`
+10. `mxnet.ndarray.contrib.PixelUnshuffle`

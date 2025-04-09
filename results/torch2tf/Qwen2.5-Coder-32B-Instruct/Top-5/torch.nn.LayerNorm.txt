@@ -1,0 +1,5 @@
+tf.keras.layers.LayerNormalization  
+tf.nn.layer_normalization  
+tf.contrib.layers.layer_norm  
+tf.keras.layers.BatchNormalization  
+tf.keras.layers.GroupNormalization

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.concurrent.copyonwritearraylist.contains`:
+
+1. `System.Collections.Concurrent.ConcurrentBag<T>.Contains`
+2. `System.Collections.Concurrent.ConcurrentQueue<T>.Contains`
+3. `System.Collections.Concurrent.ConcurrentStack<T>.Contains`
+4. `System.Collections.Generic.List<T>.Contains`
+5. `System.Collections.ObjectModel.Collection<T>.Contains`
+6. `System.Collections.Specialized.StringCollection.Contains`
+7. `System.Collections.ArrayList.Contains`
+8. `System.Collections.Hashtable.Contains`
+9. `System.Collections.SortedList.Contains`
+10. `System.Collections.Stack.Contains`

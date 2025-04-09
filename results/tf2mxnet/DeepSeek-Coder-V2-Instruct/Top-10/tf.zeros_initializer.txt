@@ -1,0 +1,17 @@
+
+
+```python
+import mxnet as mx
+```
+
+### Answer:
+1. `mx.nd.zeros_like`
+2. `mx.nd.ones_like`
+3. `mx.nd.full_like`
+4. `mx.nd.zeros`
+5. `mx.nd.ones`
+6. `mx.nd.full`
+7. `mx.initializer.Zero`
+8. `mx.initializer.One`
+9. `mx.initializer.Constant`
+10. `mx.initializer.Xavier`

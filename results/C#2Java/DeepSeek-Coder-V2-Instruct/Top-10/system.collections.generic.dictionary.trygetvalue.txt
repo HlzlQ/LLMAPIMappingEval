@@ -1,0 +1,10 @@
+1. java.util.Map.getOrDefault
+2. java.util.HashMap.putIfAbsent
+3. java.util.concurrent.ConcurrentHashMap.get
+4. java.util.Optional.orElseGet
+5. java.util.Optional.orElse
+6. java.util.Map.computeIfPresent
+7. java.util.Map.computeIfAbsent
+8. java.util.Map.merge
+9. java.util.HashMap.put
+10. java.util.concurrent.ConcurrentHashMap.getOrDefault

@@ -1,0 +1,2 @@
+
+Answer: dense_to_dense, convolution2d, batch_normalization, activation, flatten

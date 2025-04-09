@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.init.eye_`:
+
+1. mxnet.ndarray.eye
+2. mxnet.initializer.Eye
+3. mxnet.init.Eye
+4. mxnet.gluon.nn.Dense.params_initializer
+5. mxnet.gluon.nn.Identity
+6. mxnet.nd.eye
+7. mxnet.ndarray.full
+8. mxnet.initializer.Init
+9. mxnet.gluon.utils.initialize
+10. mxnet.gluon.nn.Block.initialize

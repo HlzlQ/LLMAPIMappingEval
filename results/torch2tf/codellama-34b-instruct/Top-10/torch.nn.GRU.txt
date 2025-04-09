@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from PyTorch's `torch.nn.GRU` API to TensorFlow's API:
+
+1. `torch.nn.GRU` -> `tf.keras.layers.GRU`
+2. `torch.nn.GRUCell` -> `tf.keras.layers.GRUCell`
+3. `torch.nn.GRU.forward` -> `tf.keras.layers.GRU.call`
+4. `torch.nn.GRU.backward` -> `tf.keras.layers.GRU.backward`
+5. `torch.nn.GRU.step` -> `tf.keras.layers.GRU.step`
+6. `torch.nn.GRU.zero_state` -> `tf.keras.layers.GRU.zero_state`
+7. `torch.nn.GRU.hidden_size` -> `tf.keras.layers.GRU.units`
+8. `torch.nn.GRU.num_layers` -> `tf.keras.layers.GRU.num_layers`
+9. `torch.nn.GRU.batch_first` -> `tf.keras.layers.GRU.batch_first`
+10. `torch.nn.GRU.dropout` -> `tf.keras.layers.GRU.dropout`

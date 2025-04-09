@@ -1,0 +1,12 @@
+
+Answer: 
+1. Normal
+2. log_prob
+3. rsample
+4. sample
+5. mean
+6. variance
+7. stddev
+8. entropy
+9. cdf
+10. icdf

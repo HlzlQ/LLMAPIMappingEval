@@ -1,0 +1,8 @@
+
+The Java API "org.testng.assertjunit.assertsame" can be mapped to the following C# APIs:
+
+* NUnit.Framework.Assert.AreSame
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+* xunit.assert.Same
+
+Please note that these are just a few examples, and there may be other C# APIs with similar functionality.

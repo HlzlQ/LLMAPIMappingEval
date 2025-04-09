@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for saving a model:
+
+1. cntk.save_model
+2. cntk.save_model_to_file
+3. cntk.save_model_to_string
+4. cntk.save_model_to_memory
+5. cntk.save_model_to_database
+6. cntk.save_model_to_cloud
+7. cntk.save_model_to_local_storage
+8. cntk.save_model_to_remote_storage
+9. cntk.save_model_to_distributed_storage
+10. cntk.save_model_to_custom_storage

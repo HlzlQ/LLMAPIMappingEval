@@ -1,0 +1,5 @@
+1. java.util.regex.Pattern.compile
+2. java.util.regex.Matcher.reset
+3. java.util.regex.Matcher.find
+4. java.util.regex.Matcher.group
+5. java.util.regex.Matcher.matches

@@ -1,0 +1,7 @@
+
+Answer: 
+1. Adam
+2. Adamax
+3. Adagrad
+4. RMSprop
+5. SGD

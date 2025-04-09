@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.treemap.put`:
+
+1. `System.Collections.Generic.SortedDictionary<TKey, TValue>.Add`
+2. `System.Collections.Generic.SortedList<TKey, TValue>.Add`
+3. `System.Collections.Specialized.OrderedDictionary.Add`
+4. `System.Linq.Enumerable.ToDictionary`
+5. `System.Linq.Enumerable.ToLookup`
+6. `System.Collections.Generic.List<T>.Sort`
+7. `System.Collections.Generic.List<T>.BinarySearch`
+8. `System.Collections.Generic.List<T>.FindIndex`
+9. `System.Collections.Generic.List<T>.FindLastIndex`
+10. `System.Collections.Generic.List<T>.FindAll`

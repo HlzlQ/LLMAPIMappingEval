@@ -1,0 +1,12 @@
+
+
+1. tf.keras.layers.Conv3DTranspose
+2. tf.nn.conv3d_transpose
+3. tf.layers.conv3d_transpose
+4. tf.keras.layers.UpSampling3D
+5. tf.image.resize_images
+6. tf.keras.layers.Conv3D
+7. tf.nn.conv3d
+8. tf.layers.conv3d
+9. torch.nn.functional.conv_transpose3d
+10. tf.keras.layers.Deconvolution3D

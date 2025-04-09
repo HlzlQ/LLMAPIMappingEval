@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.random.next` in C#:
+
+1. java.util.Random.nextInt
+2. java.util.concurrent.ThreadLocalRandom.current
+3. java.security.SecureRandom.nextInt
+4. java.util.concurrent.atomic.AtomicLong.incrementAndGet
+5. java.lang.Math.random
+6. java.util.concurrent.ThreadLocalRandom.nextInt
+7. java.security.SecureRandom.nextLong
+8. java.util.Random.nextLong
+9. java.util.concurrent.ThreadLocalRandom.nextLong
+10. java.util.Random.nextDouble

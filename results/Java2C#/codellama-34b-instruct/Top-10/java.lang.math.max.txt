@@ -1,0 +1,12 @@
+  Sure! Here are the top 10 C# APIs that match the functionality of the Java API:
+
+1. System.Math.Max(double, double)
+2. System.Math.Max(float, float)
+3. System.Math.Max(int, int)
+4. System.Math.Max(long, long)
+5. System.Math.Max(short, short)
+6. System.Math.Max(byte, byte)
+7. System.Math.Max(sbyte, sbyte)
+8. System.Math.Max(ushort, ushort)
+9. System.Math.Max(uint, uint)
+10. System.Math.Max(ulong, ulong)

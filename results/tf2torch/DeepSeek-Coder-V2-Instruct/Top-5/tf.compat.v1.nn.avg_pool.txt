@@ -1,0 +1,12 @@
+
+```python
+import torch
+import tensorflow as tf
+```
+
+### Answer:
+1. `torch.nn.functional.avg_pool2d`
+2. `tf.compat.v1.layers.average_pooling2d`
+3. `tf.compat.v1.nn.avg_pool`
+4. `tf.compat.v1.nn.avg_pool2d`
+5. `torch.nn.AvgPool2d`

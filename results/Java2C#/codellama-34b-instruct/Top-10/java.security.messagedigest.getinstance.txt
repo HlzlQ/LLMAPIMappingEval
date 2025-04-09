@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Security.Cryptography.MD5
+2. System.Security.Cryptography.SHA1
+3. System.Security.Cryptography.SHA256
+4. System.Security.Cryptography.SHA384
+5. System.Security.Cryptography.SHA512
+6. System.Security.Cryptography.RIPEMD160
+7. System.Security.Cryptography.HMACMD5
+8. System.Security.Cryptography.HMACSHA1
+9. System.Security.Cryptography.HMACSHA256
+10. System.Security.Cryptography.HMACSHA384

@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent of `torch.nn.functional.linear` is `mxnet.ndarray.Linear`.

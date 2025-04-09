@@ -1,0 +1,7 @@
+Here are the 5 CNTK APIs that may have similar functionality:
+
+1. `CNTK.spatial_transformer`
+2. `CNTK.reshape`
+3. `CNTK.transpose`
+4. `CNTK.slice`
+5. `CNTK.reorder`

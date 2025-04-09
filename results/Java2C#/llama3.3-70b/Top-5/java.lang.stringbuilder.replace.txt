@@ -1,0 +1,5 @@
+1. System.Text.StringBuilder.Replace
+2. System.String.Replace
+3. System.Text.RegularExpressions.Regex.Replace
+4. Microsoft.VisualBasic.Strings.Replace
+5. System.Web.HttpUtility.HtmlReplace

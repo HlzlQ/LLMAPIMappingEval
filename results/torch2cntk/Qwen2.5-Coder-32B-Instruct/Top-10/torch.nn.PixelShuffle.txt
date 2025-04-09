@@ -1,0 +1,10 @@
+cntk.ops.reshape
+cntk.ops.transpose
+cntk.layers.Convolution2DTranspose
+cntk.layers.Upsample
+cntk.layers.MaxPoolingWithUndo
+cntk.layers.AveragePoolingWithUndo
+cntk.layers.GlobalAveragePooling
+cntk.layers.GlobalMaxPooling
+cntk.layers.Dropout
+cntk.layers.BatchNormalization

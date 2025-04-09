@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. ConvolutionTranspose
+2. Deconvolution
+3. TransposedConvolution
+4. ConvolutionTransposed
+5. deconvolution_layer

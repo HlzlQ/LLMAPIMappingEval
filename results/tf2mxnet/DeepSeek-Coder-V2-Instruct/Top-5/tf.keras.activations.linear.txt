@@ -1,0 +1,11 @@
+
+"""
+
+# Answer:
+"""
+1. mxnet.ndarray.relu
+2. mxnet.ndarray.softmax
+3. mxnet.ndarray.sigmoid
+4. mxnet.ndarray.tanh
+5. mxnet.ndarray.linear
+"""

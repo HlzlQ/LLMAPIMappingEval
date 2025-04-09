@@ -1,0 +1,12 @@
+
+```python
+import tensorflow as tf
+import torch
+from torch import nn
+
+# Assuming we want to create a GRU layer with 128 units and return_sequences=True
+gru_layer = tf.keras.layers.GRU(units=128, return_sequences=True)
+```
+Answer: ```python
+gru_layer = nn.GRU(input_size=128, hidden_size=128, num_layers=1, batch_first=True)
+```

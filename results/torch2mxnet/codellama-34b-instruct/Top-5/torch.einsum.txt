@@ -1,0 +1,7 @@
+  The following are the five most likely MXNet APIs for each PyTorch API:
+
+1. torch.einsum: mxnet.ndarray.einsum
+2. torch.matmul: mxnet.ndarray.dot
+3. torch.mm: mxnet.ndarray.dot
+4. torch.mv: mxnet.ndarray.dot
+5. torch.sum: mxnet.ndarray.sum

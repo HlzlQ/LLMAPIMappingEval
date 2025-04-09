@@ -1,0 +1,20 @@
+
+CNTK does not have an exact equivalent to the `Dot` layer in TensorFlow. However, you can achieve a similar functionality using the `Times` layer in CNTK.
+
+Here's an example of how you can use the `Times` layer to perform dot product operations in CNTK:
+```
+from cntk.layers import Times
+
+# Create two input tensors
+input_tensor1 = np.random.rand(3, 4)
+input_tensor2 = np.random.rand(4, 5)
+
+# Create a Times layer with the dot product operation
+times_layer = Times(dot=True)
+
+# Compute the dot product of the two input tensors using the Times layer
+output_tensor = times_layer([input_tensor1, input_tensor2])
+```
+In this example, the `Times` layer is created with the `dot` parameter set to `True`, which indicates that the layer should perform a dot product operation. The two input tensors are then passed to the layer using the `[]` notation, and the resulting output tensor is stored in the `output_tensor` variable.
+
+Note that the `Times` layer can also be used for other types of matrix multiplication operations, such as element-wise multiplication or matrix multiplication with a transposed second input. The `dot` parameter can be set to `False` to disable the dot product operation and use the default behavior of the layer.

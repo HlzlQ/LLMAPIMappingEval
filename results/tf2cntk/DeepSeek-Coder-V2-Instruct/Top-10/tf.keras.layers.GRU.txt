@@ -1,0 +1,2 @@
+
+Answer: LSTM, SimpleRNN, Dense, Conv2D, MaxPooling2D, Flatten, Dropout, Activation, BatchNormalization, Embedding

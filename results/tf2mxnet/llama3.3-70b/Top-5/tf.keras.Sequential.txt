@@ -1,0 +1,5 @@
+1. mxnet.gluon.nn.HybridSequential
+2. mxnet.gluon.nn.Sequential
+3. mxnet.mod.Module
+4. mxnet.gluon.Block
+5. mxnet.gluon.nn.ChainBlock

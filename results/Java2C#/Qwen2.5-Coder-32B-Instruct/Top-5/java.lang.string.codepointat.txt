@@ -1,0 +1,5 @@
+System.String.GetNumericValue  
+System.Char.ConvertFromUtf32  
+System.Text.Encoding.UTF8.GetString  
+System.Globalization.CodePointConverter.ConvertToUtf16  
+System.Globalization.CodePointConverter.ConvertFromUtf32

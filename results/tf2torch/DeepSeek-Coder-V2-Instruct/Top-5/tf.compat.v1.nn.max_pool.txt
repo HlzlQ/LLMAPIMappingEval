@@ -1,0 +1,11 @@
+
+```python
+import torch
+import tensorflow as tf
+```
+
+1. `tf.nn.max_pool`
+2. `torch.nn.MaxPool1d`
+3. `torch.nn.MaxPool2d`
+4. `torch.nn.MaxPool3d`
+5. `tf.compat.v1.nn.max_pool`

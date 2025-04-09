@@ -1,0 +1,1 @@
+System.Enum.ToString() in C# is equivalent to java.lang.Object.toString() in Java.

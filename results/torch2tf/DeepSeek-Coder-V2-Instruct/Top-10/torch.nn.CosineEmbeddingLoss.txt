@@ -1,0 +1,11 @@
+
+Answer: 1. tf.losses.cosine_distance
+2. tf.keras.losses.CosineSimilarity
+3. tf.nn.l2_normalize
+4. tf.math.reduce_mean
+5. tf.math.subtract
+6. tf.math.multiply
+7. tf.math.add
+8. tf.math.sqrt
+9. tf.math.square
+10. tf.keras.losses.MeanSquaredError

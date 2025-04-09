@@ -1,0 +1,10 @@
+java.lang.StringBuilder.delete  
+java.lang.StringBuilder.deleteCharAt  
+java.lang.StringBuffer.delete  
+java.lang.StringBuffer.deleteCharAt  
+java.text.StringCharacterIterator.setIndex  
+java.util.AbstractList.remove  
+java.util.ArrayList.remove  
+java.util.LinkedList.remove  
+java.util.List.remove  
+java.util.Vector.remove

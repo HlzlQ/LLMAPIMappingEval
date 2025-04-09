@@ -1,0 +1,2 @@
+
+Answer: Normal, LogNormal, Bernoulli, Categorical, MultivariateNormal

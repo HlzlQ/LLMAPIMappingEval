@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.LayerNorm
+2. torch.nn.functional.layer_norm
+3. torch.nn.BatchNorm1d
+4. torch.nn.BatchNorm2d
+5. torch.nn.BatchNorm3d

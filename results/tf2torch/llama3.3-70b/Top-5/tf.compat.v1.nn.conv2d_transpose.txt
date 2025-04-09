@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.compat.v1.nn.conv2d_transpose`:
+
+1. torch.nn.ConvTranspose2d
+2. torch.nn.functional.conv_transpose2d
+3. torch.nn.Upsample
+4. torch.nn.functional.interpolate
+5. torch.nn.functional.conv_transpose2d

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.startswith` in C#:
+
+1. java.lang.String.startsWith()
+2. java.lang.String.startsWith(String prefix, int toffset)
+3. org.apache.commons.lang3.StringUtils.startsWith()
+4. org.apache.commons.lang3.StringUtils.startsWithIgnoreCase()
+5. org.springframework.util.StringUtils.startsWithIgnoreCase()
+6. com.google.common.base.Strings.startsWith()
+7. com.google.common.base.Strings.startsWithIgnoreCase()
+8. java.nio.charset.StandardCharsets.UTF_8.toString().startsWith()
+9. javax.xml.bind.DatatypeConverter.parseString().startsWith()
+10. org.eclipse.jdt.core.compiler.CharOperation.startsWith()

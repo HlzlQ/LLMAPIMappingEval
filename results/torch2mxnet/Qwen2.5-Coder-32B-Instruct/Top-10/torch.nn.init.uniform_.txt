@@ -1,0 +1,10 @@
+mxnet.ndarray.random.uniform
+mxnet.initializer.Uniform
+mxnet.gluon.nn.HybridSequential.initialize
+mxnet.gluon.nn.Sequential.initialize
+mxnet.gluon.Parameter.init
+mxnet.gluon.Block.initialize
+mxnet.gluon.nn.Conv2D.initialize
+mxnet.gluon.nn.Dense.initialize
+mxnet.gluon.nn.BatchNorm.initialize
+mxnet.gluon.nn.Embedding.initialize

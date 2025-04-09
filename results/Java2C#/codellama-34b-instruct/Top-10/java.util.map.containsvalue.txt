@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.map.containsValue`:
+
+1. `System.Collections.Generic.Dictionary<TKey, TValue>.ContainsValue`
+2. `System.Collections.Specialized.NameObjectCollectionBase.ContainsValue`
+3. `System.Collections.Hashtable.ContainsValue`
+4. `System.Collections.SortedList.ContainsValue`
+5. `System.Collections.Generic.IList<T>.Contains`
+6. `System.Collections.Generic.ISet<T>.Contains`
+7. `System.Collections.Generic.HashSet<T>.Contains`
+8. `System.Collections.Generic.LinkedList<T>.Contains`
+9. `System.Collections.Generic.Queue<T>.Contains`
+10. `System.Collections.Generic.Stack<T>.Contains`

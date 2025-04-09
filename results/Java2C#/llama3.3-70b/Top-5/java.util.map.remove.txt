@@ -1,0 +1,5 @@
+System.Collections.Generic.Dictionary<TKey, TValue>.Remove
+System.Collections.Generic.IDictionary<TKey, TValue>.Remove
+System.Collections.Hashtable.Remove
+System.Collections.IDictionary.Remove
+System.Collections.Specialized.NameValueCollection.Remove

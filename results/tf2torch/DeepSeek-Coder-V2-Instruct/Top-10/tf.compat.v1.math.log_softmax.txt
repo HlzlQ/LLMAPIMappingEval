@@ -1,0 +1,12 @@
+
+
+1. torch.nn.functional.log_softmax
+2. torch.nn.LogSoftmax
+3. tf.math.log
+4. tf.nn.log_softmax
+5. tf.keras.activations.log_softmax
+6. tf.compat.v1.nn.log_softmax
+7. tf.compat.v1.nn.softmax_cross_entropy_with_logits
+8. torch.nn.functional.softmax
+9. tf.keras.activations.softmax
+10. tf.compat.v1.nn.softmax

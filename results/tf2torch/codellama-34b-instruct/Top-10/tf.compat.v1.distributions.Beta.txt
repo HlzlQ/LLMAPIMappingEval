@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Beta`:
+
+1. `torch.distributions.Beta`
+2. `torch.distributions.beta_distribution`
+3. `torch.distributions.BetaDistribution`
+4. `torch.distributions.beta`
+5. `torch.distributions.BetaVariate`
+6. `torch.distributions.beta_variate`
+7. `torch.distributions.BetaVariateDistribution`
+8. `torch.distributions.beta_variate_distribution`
+9. `torch.distributions.BetaVariateVariate`
+10. `torch.distributions.beta_variate_variate`

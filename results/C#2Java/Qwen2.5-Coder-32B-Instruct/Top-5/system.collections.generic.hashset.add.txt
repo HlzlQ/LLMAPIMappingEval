@@ -1,0 +1,5 @@
+java.util.HashSet.add
+java.util.LinkedHashSet.add
+java.util.TreeSet.add
+java.util.concurrent.CopyOnWriteArraySet.add
+java.util.Collections.newSetFromMap.add

@@ -1,0 +1,7 @@
+
+
+1. torch.unique
+2. torch.unique_consecutive
+3. torch.tensor
+4. torch.sort
+5. torch.argsort

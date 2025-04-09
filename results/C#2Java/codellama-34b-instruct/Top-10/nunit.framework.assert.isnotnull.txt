@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the given C# API:
+
+1. org.junit.Assert.assertNotNull
+2. org.testng.Assert.assertNotNull
+3. org.easymock.EasyMock.notNull
+4. org.mockito.Mockito.notNull
+5. org.powermock.api.easymock.PowerMock.notNull
+6. org.powermock.api.mockito.PowerMockito.notNull
+7. org.jmock.Expectations.notNull
+8. org.jmock.lib.legacy.ClassImposteriser.notNull
+9. org.easymock.internal.MocksControl.notNull
+10. org.mockito.internal.creation.MockSettingsImpl.notNull

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.sql.ResultSet.next()
+2. java.sql.Statement.getMoreResults()
+3. java.sql.Statement.getResultSet()
+4. java.sql.Statement.executeQuery()
+5. java.sql.PreparedStatement.executeQuery()
+6. java.sql.CallableStatement.executeQuery()
+7. java.sql.DatabaseMetaData.getMoreResults()
+8. java.sql.ResultSetMetaData.next()
+9. java.sql.SQLWarning.next()
+10. java.sql.SQLException.next()

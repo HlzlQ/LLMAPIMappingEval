@@ -1,0 +1,1 @@
+  The MXNet equivalent of `torch.nn.functional.ctc_loss` is `mxnet.ndarray.contrib.ctc_loss`.

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the TensorFlow `meshgrid` API:
+
+1. `mxnet.ndarray.meshgrid`
+2. `mxnet.numpy.meshgrid`
+3. `mxnet.tensor.meshgrid`
+4. `mxnet.math.meshgrid`
+5. `mxnet.linalg.meshgrid`

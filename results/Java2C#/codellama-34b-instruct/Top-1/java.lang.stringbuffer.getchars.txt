@@ -1,0 +1,1 @@
+C# does not have an exact equivalent of the `java.lang.StringBuffer` class, but it does have a `System.Text.StringBuilder` class that provides similar functionality. The `GetChars` method in C# is called `CopyTo`.

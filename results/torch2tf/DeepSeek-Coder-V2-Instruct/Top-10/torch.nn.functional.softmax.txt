@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. tf.nn.softmax
+2. torch.nn.functional.log_softmax
+3. tf.nn.log_softmax
+4. torch.nn.Softmax
+5. tf.keras.activations.softmax
+6. torch.nn.functional.relu
+7. tf.nn.relu
+8. torch.nn.ReLU
+9. torch.nn.functional.sigmoid
+10. tf.math.sigmoid

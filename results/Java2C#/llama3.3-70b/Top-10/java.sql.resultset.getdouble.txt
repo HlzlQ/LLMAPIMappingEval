@@ -1,0 +1,10 @@
+1. System.Data.IDataReader.GetDouble
+2. System.Data.SqlClient.SqlDataReader.GetDouble
+3. System.Data.OleDb.OleDbDataReader.GetDouble
+4. System.Data.Common.DbDataReader.GetDouble
+5. System.Data.SQLite.SQLiteDataReader.GetDouble
+6. MySql.Data.MySqlClient.MySqlDataReader.GetDouble
+7. Npgsql.NpgsqlDataReader.GetDouble
+8. Oracle.ManagedDataAccess.Client.OracleDataReader.GetDouble
+9. Microsoft.Data.SqlClient.SqlDataReader.GetDouble
+10. FirebirdSql.Data.FirebirdClient.FbDataReader.GetDouble

@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that correspond to the C# API `system.collections.generic.hashset.contains`:
+
+1. `java.util.HashSet.contains(Object o)`
+2. `java.util.HashMap.containsKey(Object key)`
+3. `java.util.Hashtable.containsKey(Object key)`
+4. `java.util.LinkedHashMap.containsKey(Object key)`
+5. `java.util.TreeMap.containsKey(Object key)`
+6. `java.util.WeakHashMap.containsKey(Object key)`
+7. `java.util.IdentityHashMap.containsKey(Object key)`
+8. `java.util.EnumMap.containsKey(Object key)`
+9. `java.util.concurrent.ConcurrentHashMap.containsKey(Object key)`
+10. `java.util.concurrent.ConcurrentSkipListMap.containsKey(Object key)`

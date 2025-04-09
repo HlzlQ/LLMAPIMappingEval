@@ -1,0 +1,7 @@
+
+
+1. mxnet.ndarray.ones_like
+2. mxnet.symbol.ones_like
+3. mxnet.initializer.One
+4. mxnet.gluon.nn.init.Ones
+5. mxnet.init.ones

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.generic.list.get` in C#:
+
+1. java.util.ArrayList.get
+2. java.util.List.get
+3. java.util.AbstractList.get
+4. java.util.Collections.singletonList.get
+5. java.util.Arrays.asList.get
+6. java.util.Vector.get
+7. java.util.Stack.get
+8. java.util.LinkedList.get
+9. java.util.CopyOnWriteArrayList.get
+10. java.util.concurrent.CopyOnWriteArrayList.get

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.split`:
+
+1. `mxnet.ndarray.split`
+2. `mxnet.ndarray.array_split`
+3. `mxnet.ndarray.split_v2`
+4. `mxnet.ndarray.array_split_v2`
+5. `mxnet.ndarray.split_with_sizes`

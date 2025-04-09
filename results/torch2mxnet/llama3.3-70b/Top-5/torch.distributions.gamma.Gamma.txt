@@ -1,0 +1,5 @@
+1. mx.nd.random.gamma
+2. mx.gluon.loss.GammaLoss
+3. mxnet.ndarray.random.gamma
+4. mx.gluon.contrib.loss.GammaLoss
+5. mxnet.gluon.loss.LGammaLoss

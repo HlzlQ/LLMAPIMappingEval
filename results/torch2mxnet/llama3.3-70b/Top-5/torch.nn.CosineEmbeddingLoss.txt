@@ -1,0 +1,5 @@
+1. mx.gluon.loss.CosineEmbeddingLoss
+2. mxnet.gluon.loss.CosineEmbeddingLoss
+3. gluon.loss.CosineEmbeddingLoss
+4. mx.gluon.contrib.loss.CosineEmbeddingLoss
+5. mxnet.gluon.contrib.loss.CosineEmbeddingLoss

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.losses.Poisson`:
+
+1. `mxnet.gluon.loss.Poisson`
+2. `mxnet.ndarray.poisson_loss`
+3. `mxnet.symbolic.loss.Poisson`
+4. `mxnet.autograd.loss.Poisson`
+5. `mxnet.optimizer.loss.Poisson`

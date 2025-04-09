@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Laplace`:
+
+1. torch.distributions.Laplace
+2. torch.distributions.Normal
+3. torch.distributions.DoubleExponential
+4. torch.distributions.Exponential
+5. torch.distributions.Stable

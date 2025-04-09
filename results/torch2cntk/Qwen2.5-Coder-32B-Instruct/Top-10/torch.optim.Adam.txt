@@ -1,0 +1,10 @@
+cntk.learners.adam
+cntk.learners.momentum_sgd
+cntk.learners.nesterov_momentum_sgd
+cntk.learners.rmsprop
+cntk.learners.fsadagrad
+cntk.learners.adadelta
+cntk.learners.adamax
+cntk.learners.amsgrad
+cntk.learners.momsgd
+cntk.learners.nesterov_momentum_sgd

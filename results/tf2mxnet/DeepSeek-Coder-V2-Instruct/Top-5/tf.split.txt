@@ -1,0 +1,11 @@
+
+```python
+import mxnet as mx
+a = mx.nd.array([1,2,3,4])
+b = a.split(axis=0, num_outputs=2)
+```
+Answer: ```python
+import mxnet as mx
+a = mx.nd.array([1,2,3,4])
+b = mx.nd.split(data=a, axis=0, num_outputs=2)
+```

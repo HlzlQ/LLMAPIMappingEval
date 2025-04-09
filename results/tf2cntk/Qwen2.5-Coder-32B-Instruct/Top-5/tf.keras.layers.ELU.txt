@@ -1,0 +1,5 @@
+cntk.ops.elu  
+cntk.activations.elu  
+cntk.layers.blocks.elu  
+cntk.layers.sequence.elu  
+cntk.layers.default_options.elu

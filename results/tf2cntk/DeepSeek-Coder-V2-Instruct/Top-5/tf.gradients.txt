@@ -1,0 +1,11 @@
+
+
+```python
+cntk_api = [
+    "gradient",
+    "value_gradients",
+    "output_gradients",
+    "eval",
+    "trainer"
+]
+```

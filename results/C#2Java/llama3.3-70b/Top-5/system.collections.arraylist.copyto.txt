@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.collections.arraylist.copyto` in C#:
+
+1. java.util.ArrayList.clone()
+2. java.util.Collections.copy()
+3. java.util.List.toArray()
+4. java.lang.System.arraycopy()
+5. java.util.ArrayList.addAll()

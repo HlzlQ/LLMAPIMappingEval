@@ -1,0 +1,5 @@
+tf.keras.callbacks.LearningRateScheduler  
+tf.keras.optimizers.schedules.ExponentialDecay  
+tf.keras.optimizers.schedules.PiecewiseConstantDecay  
+tf.keras.optimizers.schedules.InverseTimeDecay  
+tf.keras.optimizers.schedules.CosineDecayRestarts

@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.linear`:
+
+1. `mxnet.ndarray.Linear`
+2. `mxnet.symbol.Linear`
+3. `mxnet.gluon.nn.Dense`
+4. `mxnet.gluon.nn.Linear`
+5. `mxnet.gluon.nn.linear`
+6. `mxnet.ndarray.dense`
+7. `mxnet.ndarray.linear`
+8. `mxnet.symbol.dense`
+9. `mxnet.symbol.linear`
+10. `mxnet.gluon.nn.DenseBlock`

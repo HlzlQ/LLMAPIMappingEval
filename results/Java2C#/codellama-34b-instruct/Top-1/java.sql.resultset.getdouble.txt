@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to the `java.sql.resultset.getdouble` method. However, you can use the `GetDouble` method of the `SqlDataReader` class in C# to achieve similar functionality.

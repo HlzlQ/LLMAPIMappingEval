@@ -1,0 +1,5 @@
+System.Collections.Generic.SortedDictionary<TKey,TValue>.TryGetValue  
+System.Collections.Generic.SortedList<TKey,TValue>.TryGetValueByKey  
+System.Collections.Generic.SortedDictionary<TKey,TValue>.this[]  
+System.Collections.Generic.SortedList<TKey,TValue>.this[]  
+System.Collections.Generic.SortedSet<T>.Contains

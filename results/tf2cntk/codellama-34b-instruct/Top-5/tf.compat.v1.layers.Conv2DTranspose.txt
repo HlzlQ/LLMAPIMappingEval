@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for Conv2DTranspose:
+
+1. `cntk.layers.ConvolutionTranspose2D`
+2. `cntk.layers.Deconvolution2D`
+3. `cntk.layers.UpSampling2D`
+4. `cntk.layers.PixelShuffle`
+5. `cntk.layers.DepthToSpace`

@@ -1,0 +1,10 @@
+System.Data.SqlClient.SqlDataReader.GetDouble  
+System.Data.OleDb.OleDbDataReader.GetDouble  
+System.Data.OracleClient.OracleDataReader.GetDouble  
+System.Data.SQLite.SQLiteDataReader.GetDouble  
+Npgsql.NpgsqlDataReader.GetDouble  
+MySql.Data.MySqlClient.MySqlDataReader.GetDouble  
+Microsoft.Data.SqlClient.SqlDataReader.GetDouble  
+FirebirdSql.Data.FirebirdClient.FbDataReader.GetDouble  
+IBM.Data.DB2.Core.DB2DataReader.GetDouble  
+Oracle.ManagedDataAccess.Client.OracleDataReader.GetDouble

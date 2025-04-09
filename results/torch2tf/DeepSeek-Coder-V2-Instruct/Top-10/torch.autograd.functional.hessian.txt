@@ -1,0 +1,11 @@
+
+Answer: 1. tf.GradientTape
+2. tf.hessians
+3. tf.jacobian
+4. tf.custom_gradient
+5. tf.stop_gradient
+6. tf.trainable_variables
+7. tf.variable_scope
+8. tf.layers
+9. tf.metrics
+10. tf.summary

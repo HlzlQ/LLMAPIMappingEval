@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.MaxPool3d
+2. tf.keras.layers.AveragePooling3D
+3. tf.keras.layers.GlobalMaxPooling3D
+4. tf.keras.layers.MaxPooling3D
+5. tf.keras.layers.MaxPool3D

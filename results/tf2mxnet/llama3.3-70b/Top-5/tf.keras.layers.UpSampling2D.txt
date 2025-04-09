@@ -1,0 +1,5 @@
+1. mxnet.ndarray.UpSampling
+2. mxnet.gluon.nn.Upsampling
+3. mxnet.gluon.nn.HybridSequential
+4. mxnet.gluon.nn.MaxPool2D
+5. mxnet.gluon.nn.Conv2DTranspose

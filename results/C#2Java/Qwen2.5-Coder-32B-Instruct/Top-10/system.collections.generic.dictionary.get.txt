@@ -1,0 +1,10 @@
+java.util.Map.get
+java.util.HashMap.get
+java.util.LinkedHashMap.get
+java.util.TreeMap.get
+java.util.concurrent.ConcurrentHashMap.get
+java.util.Hashtable.get
+java.util.IdentityHashMap.get
+java.util.WeakHashMap.get
+java.util.Properties.get
+java.util.Dictionary.get

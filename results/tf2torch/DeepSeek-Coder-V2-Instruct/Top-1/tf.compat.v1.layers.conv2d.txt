@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+tf_layer = tf.compat.v1.layers.conv2d(inputs=..., filters=..., kernel_size=..., strides=..., padding=...)
+```
+Answer: ```python
+import torch.nn as nn
+torch_layer = nn.Conv2d(in_channels=..., out_channels=..., kernel_size=..., stride=..., padding=...)
+```

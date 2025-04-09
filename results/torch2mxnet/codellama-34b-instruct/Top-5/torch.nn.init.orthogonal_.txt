@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.init.orthogonal_`:
+
+1. `mxnet.initializer.Orthogonal`
+2. `mxnet.initializer.Xavier`
+3. `mxnet.initializer.GlorotNormal`
+4. `mxnet.initializer.GlorotUniform`
+5. `mxnet.initializer.HeNormal`

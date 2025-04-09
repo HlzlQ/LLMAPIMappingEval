@@ -1,0 +1,10 @@
+1. System.Data.SqlClient.SqlDataReader.GetBoolean
+2. System.Data.Common.DbDataReader.GetBoolean
+3. Microsoft.Data.SqlClient.SqlDataReader.GetBoolean
+4. System.Data.Odbc.OdbcDataReader.GetBoolean
+5. System.Data.OleDb.OleDbDataReader.GetBoolean
+6. Npgsql.NpgsqlDataReader.GetBoolean
+7. MySql.Data.MySqlClient.MySqlDataReader.GetBoolean
+8. Oracle.ManagedDataAccess.Client.OracleDataReader.GetBoolean
+9. System.Data.SQLite.SQLiteDataReader.GetBoolean
+10. FirebirdSql.Data.FirebirdClient.FbDataReader.GetBoolean

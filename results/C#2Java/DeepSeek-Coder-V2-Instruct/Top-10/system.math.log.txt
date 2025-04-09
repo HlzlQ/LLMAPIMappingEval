@@ -1,0 +1,11 @@
+java.lang.Math.log
+java.lang.Math.log10
+java.lang.Math.log1p
+java.util.logging.Logger.log
+java.nio.file.Files.lines
+java.math.BigInteger.log
+javax.swing.JOptionPane.showInputDialog
+org.apache.commons.math3.special.Gamma.log
+com.google.common.math.DoubleMath.isMathematicalInteger
+com.ibm.icu.util.ULocale.getBaseName
+java.lang.StrictMath.log

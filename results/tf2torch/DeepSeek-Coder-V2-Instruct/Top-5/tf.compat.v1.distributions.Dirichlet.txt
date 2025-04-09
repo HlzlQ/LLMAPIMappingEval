@@ -1,0 +1,7 @@
+
+Answer: 
+1. torch.distributions.dirichlet.Dirichlet
+2. torch.distributions.multivariate_normal.MultivariateNormal
+3. torch.distributions.beta.Beta
+4. torch.distributions.gamma.Gamma
+5. torch.distributions.normal.Normal

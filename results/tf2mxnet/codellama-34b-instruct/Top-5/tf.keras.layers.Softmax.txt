@@ -1,0 +1,7 @@
+  tf.keras.layers.Softmax() is a layer that applies the softmax function to its input. In MXNet, this can be achieved using the following layers:
+
+1. mxnet.gluon.nn.Softmax(): This layer applies the softmax function to its input.
+2. mxnet.gluon.nn.Activation('softmax'): This layer applies the softmax activation function to its input.
+3. mxnet.gluon.nn.Dense(num_classes, activation='softmax'): This layer is a fully connected layer with a softmax activation function.
+4. mxnet.gluon.nn.Conv2D(num_classes, activation='softmax'): This layer is a 2D convolutional layer with a softmax activation function.
+5. mxnet.gluon.nn.BatchNorm(activation='softmax'): This layer applies the batch normalization operation to its input and then applies the softmax activation function.

@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.losses.CategoricalHinge`:
+
+1. mxnet.ndarray.loss.SigmoidBinaryCrossEntropy
+2. mxnet.gluon.loss.SigmoidBCELoss
+3. mxnet.gluon.loss.HingeLoss
+4. mxnet.ndarray.loss.Hinge
+5. mxnet.gluon.loss.CategoricalCrossentropy
+6. mxnet.ndarray.loss.SoftmaxCrossEntropy
+7. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+8. mxnet.ndarray.loss.LogisticLoss
+9. mxnet.gluon.loss.BinaryCrossEntropyLoss
+10. mxnet.gluon.loss.KLDivLoss

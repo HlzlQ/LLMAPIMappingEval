@@ -1,0 +1,5 @@
+tf.keras.layers.ELU  
+tf.nn.elu  
+tf.keras.activations.elu  
+tf.math.elu  
+tf.compat.v1.nn.elu

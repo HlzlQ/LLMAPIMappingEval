@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.keras.layers.GRUCell`:
+
+1. mxnet.ndarray.rnn.GRUCell
+2. mxnet.gluon.rnn.GRUCell
+3. mxnet.gluon.nn.GRUCell
+4. mxnet.contrib.rnn.GRUCell
+5. mxnet.gluon.rnn.HybridGRUCell

@@ -1,0 +1,10 @@
+cntk.random.uniform
+cntk.ops.random_uniform
+cntk.distributions.Uniform
+cntk.layers.RandomUniformInitializer
+cntk.initializer.uniform
+cntk.random.normal
+cntk.ops.random_normal
+cntk.distributions.Normal
+cntk.layers.RandomNormalInitializer
+cntk.initializer.normal

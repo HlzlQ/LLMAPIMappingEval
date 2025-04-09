@@ -1,0 +1,5 @@
+1. mx.nd.Normal
+2. mx.gluon.loss.L2Loss
+3. mx.gluon.loss.L1Loss 
+4. mxnet.ndarray.random.normal
+5. mx.gluon.nn.HybridSequential

@@ -1,0 +1,18 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+
+```python
+# Your code here
+```
+
+```python
+# Output:
+# 1. torch.norm
+# 2. torch.linalg.vector_norm
+# 3. torch.nn.functional.normalize
+# 4. torch.linalg.matrix_norm
+# 5. torch.linalg.norm
+```

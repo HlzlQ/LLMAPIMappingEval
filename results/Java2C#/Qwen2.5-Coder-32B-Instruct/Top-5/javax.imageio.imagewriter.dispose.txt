@@ -1,0 +1,5 @@
+System.Drawing.Image.Dispose  
+System.Windows.Media.Imaging.BitmapImage.ClearValue  
+System.Windows.Media.Imaging.WriteableBitmap.Clear  
+System.Drawing.Graphics.Dispose  
+System.Drawing.Bitmap.Dispose

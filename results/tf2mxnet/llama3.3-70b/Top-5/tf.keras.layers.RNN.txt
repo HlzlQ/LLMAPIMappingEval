@@ -1,0 +1,5 @@
+1. mxnet.gluon.rnn.RNN
+2. mxnet.gluon.rnn.LSTM
+3. mxnet.gluon.rnn.GRU
+4. mxnet.ndarray.rnn.Fusion_RNN
+5. mxnet.gluon.contrib.rnn.BidirectionalCell

@@ -1,0 +1,5 @@
+1. java.lang.Math.round
+2. java.math.BigDecimal.setScale
+3. java.lang.Double.doubleToLongBits
+4. java.lang.Float.floatToIntBits
+5. java.lang.Integer.parseInt

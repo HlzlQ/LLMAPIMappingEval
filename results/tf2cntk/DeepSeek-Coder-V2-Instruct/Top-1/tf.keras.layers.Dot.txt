@@ -1,0 +1,2 @@
+
+CNTK_API = "ElementTimes"

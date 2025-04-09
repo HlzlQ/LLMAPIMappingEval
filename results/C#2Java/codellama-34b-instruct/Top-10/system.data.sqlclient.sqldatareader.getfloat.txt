@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.sql.ResultSet.getFloat()
+2. java.sql.CallableStatement.getFloat()
+3. java.sql.PreparedStatement.getFloat()
+4. java.sql.SQLInput.readFloat()
+5. java.sql.SQLOutput.writeFloat()
+6. oracle.jdbc.driver.OracleResultSet.getFloat()
+7. com.microsoft.sqlserver.jdbc.SQLServerResultSet.getFloat()
+8. org.postgresql.jdbc.PgResultSet.getFloat()
+9. org.sqlite.jdbc.SQLiteResultSet.getFloat()
+10. com.ibm.db2.jcc.am.SqlDataReader.getFloat()

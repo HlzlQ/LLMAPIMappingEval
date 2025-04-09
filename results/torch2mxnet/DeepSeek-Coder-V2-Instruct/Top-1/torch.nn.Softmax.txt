@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Softmax in MXNet
+"softmax"
+<jupyter_output>
+<empty_output>

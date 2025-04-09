@@ -1,0 +1,13 @@
+
+Answer: ```
+1. tfp.distributions.Dirichlet
+2. tf.linalg.diag_part
+3. tf.matmul
+4. tf.reduce_sum
+5. tf.math.log
+6. tf.nn.softmax
+7. tf.random.uniform
+8. tf.linalg.set_diag
+9. tf.linalg.inv
+10. tf.linalg.matmul
+```

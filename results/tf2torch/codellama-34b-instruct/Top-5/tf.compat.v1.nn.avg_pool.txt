@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for average pooling:
+
+1. `torch.nn.AvgPool2d`
+2. `torch.nn.functional.avg_pool2d`
+3. `torch.nn.modules.pooling.AvgPool2d`
+4. `torch.nn.modules.pooling.AveragePooling2D`
+5. `torch.nn.modules.pooling.AvgPooling2D`

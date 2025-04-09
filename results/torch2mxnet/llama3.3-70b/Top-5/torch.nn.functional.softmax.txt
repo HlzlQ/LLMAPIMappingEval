@@ -1,0 +1,5 @@
+1. mx.nd.softmax
+2. mx.gluon.nn.Softmax
+3. mx.gluon.loss.SoftmaxCrossEntropyLoss
+4. mx.ndarray.softmax
+5. mx.gluon.loss.SoftmaxOutput

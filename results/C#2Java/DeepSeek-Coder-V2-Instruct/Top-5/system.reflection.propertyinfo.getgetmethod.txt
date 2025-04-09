@@ -1,0 +1,5 @@
+1. java.beans.PropertyDescriptor.getReadMethod()
+2. javax.persistence.metamodel.SingularAttribute.getJavaMember()
+3. org.springframework.data.util.ReflectionUtils.findMethod(Class<?> clazz, String name)
+4. org.apache.commons.beanutils.PropertyUtils.getPropertyDescriptor(Object bean)
+5. java.lang.reflect.Field.getAnnotatedType()

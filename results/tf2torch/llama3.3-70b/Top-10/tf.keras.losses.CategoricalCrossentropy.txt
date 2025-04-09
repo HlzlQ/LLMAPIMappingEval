@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.losses.CategoricalCrossentropy`:
+
+1. torch.nn.CrossEntropyLoss
+2. torch.nn.NLLLoss
+3. torch.nn.functional.cross_entropy
+4. torch.nn.functional.nll_loss
+5. torch.nn.KLDivLoss
+6. torch.nn.MSELoss
+7. torch.nn.L1Loss
+8. torch.nn.SmoothL1Loss
+9. torch.nn.PoissonNLLLoss
+10. torch.nn.functional.kl_div

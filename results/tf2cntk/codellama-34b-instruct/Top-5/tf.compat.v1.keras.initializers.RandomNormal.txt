@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for random normal initialization:
+
+1. `cntk.initializer.RandomNormal`
+2. `cntk.initializer.GlorotNormal`
+3. `cntk.initializer.HeNormal`
+4. `cntk.initializer.LeCunNormal`
+5. `cntk.initializer.XavierNormal`

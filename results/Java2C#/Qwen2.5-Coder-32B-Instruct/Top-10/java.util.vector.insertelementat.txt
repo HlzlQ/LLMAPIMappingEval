@@ -1,0 +1,10 @@
+System.Collections.ArrayList.Insert
+System.Collections.Generic.List<T>.Insert
+System.Collections.IList.Insert
+System.Collections.Specialized.StringCollection.Insert
+System.Collections.ObjectModel.Collection<T>.InsertItem
+System.Windows.Forms.BindingSource.Insert
+System.Data.DataTable.Rows.InsertAt
+System.Web.UI.WebControls.ListViewDataItemCollection.Insert
+System.Web.UI.WebControls.RepeaterItemCollection.Insert
+System.Web.UI.WebControls.TreeNodeCollection.Insert

@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.activations.hard_sigmoid`:
+
+1. mxnet.ndarray.Activation
+2. mxnet.gluon.nn.Hardsigmoid
+3. mxnet.gluon.nn.Activation
+4. mxnet.nd.Hardsigmoid
+5. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+6. mxnet.ndarray.Sigmoid
+7. mxnet.gluon.nn.Sigmoid
+8. mxnet.nd.Sigmoid
+9. mxnet.gluon.nn.LeakyReLUI
+10. mxnet.gluon.nn.SoftmaxActivation

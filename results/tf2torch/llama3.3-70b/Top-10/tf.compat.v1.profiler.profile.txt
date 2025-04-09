@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that may have similar functions to `tensorflow.compat.v1.profiler.profile`:
+
+1. torch.profiler.profile
+2. torch.autograd.profiler.emit_nvtx
+3. torch.autograd.profiler.record_function
+4. torch.cuda.profiler.start
+5. torch.cuda.profiler.stop
+6. torch.profiler.record_function
+7. torch.profiler.profile_with_args
+8. torch.autograd.profiler.profile
+9. torch.profiler.enable_profiling
+10. torch.profiler.disable_profiling

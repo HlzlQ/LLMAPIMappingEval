@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator.MoveNext
+2. System.Collections.Generic.IEnumerator.MoveNext
+3. System.Collections.Generic.IEnumerable.GetEnumerator
+4. System.Linq.Enumerable.Any
+5. System.Collections.IEnumerable.GetEnumerator
+6. System.Data.IDataReader.Read
+7. System.IO.StreamReader.ReadLine
+8. System.Xml.XmlReader.Read
+9. System.Text.RegularExpressions.MatchCollection.GetEnumerator
+10. System.Collections.Concurrent.BlockingCollectionEnumerator.MoveNext

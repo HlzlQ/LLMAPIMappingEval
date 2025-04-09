@@ -1,0 +1,5 @@
+System.Collections.Generic.LinkedList<T>.RemoveFirst  
+System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue  
+System.Collections.Concurrent.ConcurrentStack<T>.TryPop  
+System.Collections.Generic.Queue<T>.Dequeue  
+System.Collections.Generic.Stack<T>.Pop

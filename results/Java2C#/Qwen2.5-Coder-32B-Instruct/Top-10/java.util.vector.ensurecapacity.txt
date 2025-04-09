@@ -1,0 +1,10 @@
+System.Collections.ArrayList.EnsureCapacity  
+System.Collections.Generic.List<T>.EnsureCapacity  
+System.Collections.Concurrent.ConcurrentBag<T>.EnsureCapacity  
+System.Collections.Concurrent.ConcurrentQueue<T>.EnsureCapacity  
+System.Collections.Concurrent.ConcurrentStack<T>.EnsureCapacity  
+System.Collections.ObjectModel.Collection<T>.EnsureCapacity  
+System.Collections.Specialized.StringCollection.EnsureCapacity  
+System.Collections.Specialized.NameValueCollection.EnsureCapacity  
+System.Collections.Generic.LinkedList<T>.EnsureCapacity  
+System.Collections.Generic.Queue<T>.EnsureCapacity

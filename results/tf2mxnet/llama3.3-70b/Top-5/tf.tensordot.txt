@@ -1,0 +1,5 @@
+1. mxnet.nd.dot
+2. mxnet.ndarray.Dot
+3. mxnet gluon.nn.Dense
+4. mxnet.ndarray.sum
+5. mxnet.ndarray.batch_dot

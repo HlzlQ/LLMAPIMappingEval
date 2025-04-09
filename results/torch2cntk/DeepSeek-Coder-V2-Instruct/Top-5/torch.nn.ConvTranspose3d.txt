@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.conv_transpose3d, nn.ConvTranspose3d

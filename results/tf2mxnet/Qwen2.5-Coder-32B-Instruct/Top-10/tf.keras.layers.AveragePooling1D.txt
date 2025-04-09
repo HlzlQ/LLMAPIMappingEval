@@ -1,0 +1,10 @@
+mxnet.gluon.nn.GlobalAvgPool1D  
+mxnet.ndarray.avg_pool1d  
+mxnet.symbol.AvgPool1D  
+mxnet.gluon.nn.AvgPool1D  
+mxnet.ndarray.contrib.AdaptiveAvgPooling1D  
+mxnet.symbol.contrib.AdaptiveAvgPooling1D  
+mxnet.gluon.nn.GlobalMaxPool1D  
+mxnet.ndarray.max_pool1d  
+mxnet.symbol.MaxPool1D  
+mxnet.ndarray.pooling

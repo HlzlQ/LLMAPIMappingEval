@@ -1,0 +1,16 @@
+
+
+```python
+cntk_apis = [
+    "times",
+    "plus",
+    "minus",
+    "div",
+    "sqrt",
+    "exp",
+    "log",
+    "relu",
+    "sigmoid",
+    "softmax"
+]
+```

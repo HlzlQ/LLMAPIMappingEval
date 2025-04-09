@@ -1,0 +1,14 @@
+
+CNTK does not have an exact equivalent of the `glorot_uniform` initializer from TensorFlow. However, you can use the `uniform` initializer in CNTK to achieve similar results. Here's how:
+```csharp
+using Microsoft.Research.CNTK;
+
+// Create a uniform initializer with a range of -limit to limit
+var init = new UniformInitializer(new Range(-limit, limit));
+
+// Use the initializer to initialize the weights and biases of a layer
+var layer = new DenseLayer(units: 128, activation: "relu", kernel_initializer: init);
+```
+In this example, we create a `UniformInitializer` with a range of -limit to limit. This will initialize the weights and biases of the layer with random values between -limit and limit. The `DenseLayer` constructor takes an optional `kernel_initializer` argument that allows us to specify the initializer for the weights and biases.
+
+Note that CNTK's `UniformInitializer` is not exactly the same as TensorFlow's `glorot_uniform` initializer, but it can be used to achieve similar results in some cases.

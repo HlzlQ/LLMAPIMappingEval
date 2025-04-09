@@ -1,0 +1,9 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:```1. torch.nn.Conv2d2. torch.nn.Linear3. torch.nn.MaxPool2d4. torch.nn.ReLU5. torch.nn.BatchNorm2d6. torch.nn.Dropout7. torch.nn.Sequential8. torch.nn.Module9. torch.nn.Parameter10. torch.nn.functional.conv2d```
+<jupyter_code>
+# This cell is left intentionally blank to ensure the notebook can be run on Google Colab without errors.
+<jupyter_output>
+<empty_output>

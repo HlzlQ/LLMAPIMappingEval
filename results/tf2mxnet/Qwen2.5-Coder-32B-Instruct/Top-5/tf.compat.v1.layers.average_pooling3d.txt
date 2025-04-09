@@ -1,0 +1,5 @@
+mxnet.gluon.nn.AvgPool3D  
+mxnet.symbol.AvgPool3D  
+mxnet.ndarray.AvgPool3D  
+mxnet.contrib.symbol.AvgPool3D  
+mxnet.contrib.ndarray.AvgPool3D

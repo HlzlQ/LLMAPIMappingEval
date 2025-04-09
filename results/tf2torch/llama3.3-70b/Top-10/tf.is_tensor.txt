@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that are similar to `tensorflow.is_tensor`:
+
+1. torch.is_tensor
+2. torch.Tensor
+3. torch.as_tensor
+4. torch.from_numpy
+5. torch.tensor
+6. torch.autograd.Variable
+7. torch.cuda.is_available
+8. torch.device
+9. torch.dtype
+10. torch.numel

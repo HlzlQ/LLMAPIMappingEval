@@ -1,0 +1,5 @@
+cntk.ops.unique
+cntk.ops.argmax
+cntk.ops.argmin
+cntk.ops.reduce_sum
+cntk.ops.reduce_mean

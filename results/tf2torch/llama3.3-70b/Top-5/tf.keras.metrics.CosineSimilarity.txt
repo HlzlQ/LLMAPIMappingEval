@@ -1,0 +1,5 @@
+1. torch.nn.CosineSimilarity
+2. torch.nn.functional.cosine_similarity
+3. torchmetrics.CosineSimilarity
+4. pytorch_metric_learning.metrics.CosineSimilarity
+5. sklearn.metrics.pairwise.cosine_similarity

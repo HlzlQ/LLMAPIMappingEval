@@ -1,0 +1,5 @@
+1. cntk.initializers.uniform
+2. cntk.initializers.glorot_uniform
+3. cntk.initializers.he_uniform
+4. cntk.initializers.normal
+5. cntk.initializers.xavier_uniform

@@ -1,0 +1,14 @@
+
+"""
+
+# Answer:
+1. torch.nn.init.kaiming_normal_
+2. torch.nn.init.xavier_uniform_
+3. torch.nn.init.xavier_normal_
+4. torch.nn.init.kaiming_uniform_
+5. torch.nn.init.orthogonal_
+6. torch.nn.init.sparse
+7. torch.nn.init.constant_
+8. torch.nn.init.ones_
+9. torch.nn.init.zeros_
+10. torch.nn.init.normal_

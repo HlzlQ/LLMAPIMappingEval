@@ -1,0 +1,5 @@
+System.Char.IsControl
+System.Text.Encoding.IsSingleByte
+System.Globalization.CharUnicodeInfo.GetUnicodeCategory
+System.Text.RegularExpressions.Regex.IsMatch
+System.String.IndexOfAny

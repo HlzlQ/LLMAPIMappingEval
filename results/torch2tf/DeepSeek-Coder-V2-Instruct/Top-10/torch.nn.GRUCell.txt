@@ -1,0 +1,12 @@
+
+
+1. tf.keras.layers.GRUCell
+2. torch.nn.GRUCell
+3. tf.compat.v1.nn.rnn_cell.GRUCell
+4. tensorflow.python.keras.layers.gru_cell.GRUCell
+5. mxnet.gluon.rnn.GRUCell
+6. tensorflow.contrib.rnn.GRUCell
+7. tf.compat.v1.nn.basic_rnn_cell.GRUCell
+8. tensorflow.keras.layers.GRUCell
+9. keras.layers.GRUCell
+10. torch.nn.modules.rnn.GRUCell

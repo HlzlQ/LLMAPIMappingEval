@@ -1,0 +1,12 @@
+
+
+1. StepLR
+2. MultiStepLR
+3. CosineAnnealingLR
+4. ReduceLROnPlateau
+5. OneCycleLR
+6. LambdaLR
+7. Sequential
+8. CyclicLR
+9. CosineAnnealingWarmRestarts
+10. PolynomialDecay

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.collections.generic.list.toarray`:
+
+1. `java.util.List.toArray()`
+2. `java.util.ArrayList.toArray()`
+3. `java.util.LinkedList.toArray()`
+4. `java.util.Vector.toArray()`
+5. `java.util.Stack.toArray()`
+6. `java.util.Queue.toArray()`
+7. `java.util.PriorityQueue.toArray()`
+8. `java.util.concurrent.CopyOnWriteArrayList.toArray()`
+9. `java.util.concurrent.ConcurrentLinkedDeque.toArray()`
+10. `java.util.concurrent.ConcurrentSkipListSet.toArray()`

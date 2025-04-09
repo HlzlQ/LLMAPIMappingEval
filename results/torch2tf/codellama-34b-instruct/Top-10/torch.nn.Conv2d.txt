@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for the same functionality as PyTorch's `torch.nn.Conv2d`:
+
+1. `tf.keras.layers.Conv2D`
+2. `tf.layers.conv2d`
+3. `tf.nn.conv2d`
+4. `tf.nn.depthwise_conv2d`
+5. `tf.nn.separable_conv2d`
+6. `tf.keras.applications.Conv2D`
+7. `tf.keras.layers.DepthwiseConv2D`
+8. `tf.keras.layers.SeparableConv2D`
+9. `tf.nn.atrous_conv2d`
+10. `tf.nn.conv2d_transpose`

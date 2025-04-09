@@ -1,0 +1,10 @@
+
+
+## Solution
+
+1. `torch.nn.functional.relu` -> `mxnet.ndarray.relu`
+2. `torch.nn.functional.sigmoid` -> `mxnet.ndarray.sigmoid`
+3. `torch.nn.functional.softmax` -> `mxnet.ndarray.softmax`
+4. `torch.nn.functional.log_softmax` -> `mxnet.ndarray.log_softmax`
+5. `torch.nn.functional.cross_entropy` -> `mxnet.ndarray.softmax_cross_entropy`
+6. `torch.nn.functional.binary_cross_entropy` -> `mxnet.ndarray.sigmoid_cross_entropy`

@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.losses.categorical_hinge`:
+
+1. `torch.nn.CrossEntropyLoss()`
+2. `torch.nn.BCEWithLogitsLoss()`
+3. `torch.nn.MSELoss()`
+4. `torch.nn.L1Loss()`
+5. `torch.nn.SmoothL1Loss()`

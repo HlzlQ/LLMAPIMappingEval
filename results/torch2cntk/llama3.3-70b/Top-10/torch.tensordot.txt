@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.tensordot`:
+
+1. `cntk.times`
+2. `cntk.reduce_sum`
+3. `cntk.transpose`
+4. `cntk.reshape`
+5. `cntk.element_times`
+6. `cntk.batch_normalization`
+7. `cntk.gather`
+8. `cntk.scatter`
+9. `cntk.reduce_mean`
+10. `cntk.matmul`

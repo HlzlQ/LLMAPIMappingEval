@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+System.Diagnostics.Trace.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+NUnit.Framework.Assert.IsTrue
+Xunit.Assert.True
+FluentAssertions.Assertions.AssertionScopeExtensions.BeTrue
+NSubstitute.Received.InOrderExtensions.ReceivedWithAnyArgs
+Moq.Language.Flow.ITimes.Throws<T>
+Castle.Core.AssertionHelper.IsTrue
+TestStack.BDDfy.Scanners.StepScanner.StepExecutionResultExtensions.ShouldBeTrue

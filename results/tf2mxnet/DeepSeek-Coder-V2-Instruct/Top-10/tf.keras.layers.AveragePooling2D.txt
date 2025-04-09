@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.AvgPool2D
+2. mxnet.ndarray.contrib.BilinearResize2D
+3. mxnet.ndarray.contrib.Cropping2D
+4. mxnet.ndarray.contrib.DeformableConvolution
+5. mxnet.ndarray.contrib.SpatialTransformer
+6. mxnet.ndarray.Pooling
+7. mxnet.ndarray.UpSampling
+8. mxnet.ndarray.BilinearResize
+9. mxnet.ndarray.Cropping
+10. mxnet.ndarray.Deconvolution

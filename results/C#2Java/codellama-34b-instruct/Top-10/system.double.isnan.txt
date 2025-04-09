@@ -1,0 +1,12 @@
+  Here are ten Java methods that correspond to the C# `System.Double.IsNaN` method:
+
+1. `java.lang.Double.isNaN()`
+2. `java.lang.Double.isInfinite()`
+3. `java.lang.Double.isFinite()`
+4. `java.lang.Double.isNormal()`
+5. `java.lang.Double.isSubnormal()`
+6. `java.lang.Double.isZero()`
+7. `java.lang.Double.isNegative()`
+8. `java.lang.Double.isPositive()`
+9. `java.lang.Double.isNaNOrInfinite()`
+10. `java.lang.Double.isFiniteOrNaN()`

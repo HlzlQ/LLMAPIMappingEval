@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. `tf.constant`
+2. `tf.placeholder`
+3. `tf.Variable`
+4. `tf.Session`
+5. `tf.run`
+6. `tf.get_default_graph`
+7. `tf.Graph`
+8. `tf.GradientTape`
+9. `tf.function`
+10. `tf.train.Optimizer`

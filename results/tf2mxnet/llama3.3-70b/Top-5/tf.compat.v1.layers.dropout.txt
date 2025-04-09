@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.layers.dropout`:
+
+1. mxnet.ndarray.Dropout
+2. mxnet.gluon.nn.Dropout
+3. mxnet.gluon.loss.Dropout
+4. mxnet.sym.Dropout
+5. mxnet.gluon.nn.HybridSequential.Dropout

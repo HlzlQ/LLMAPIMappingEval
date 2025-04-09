@@ -1,0 +1,1 @@
+cntk.cross_entropy_with_softmax

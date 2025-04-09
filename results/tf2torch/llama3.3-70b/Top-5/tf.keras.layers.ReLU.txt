@@ -1,0 +1,5 @@
+1. torch.nn.ReLU
+2. torch.nn.LeakyReLU
+3. torch.nn.RReLU
+4. torch.nn.Hardtanh
+5. torch.nn.ReLU6

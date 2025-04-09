@@ -1,0 +1,12 @@
+  Sure! Here are the 5 most likely C# APIs for each Java API:
+
+1. java.lang.String.toUpperCase()
+	* C#: System.String.ToUpper()
+2. java.lang.String.toLowerCase()
+	* C#: System.String.ToLower()
+3. java.lang.String.trim()
+	* C#: System.String.Trim()
+4. java.lang.String.substring(int beginIndex, int endIndex)
+	* C#: System.String.Substring(int startIndex, int length)
+5. java.lang.String.indexOf(String str)
+	* C#: System.String.IndexOf(String value)

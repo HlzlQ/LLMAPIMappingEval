@@ -1,0 +1,2 @@
+
+Answer: torch.is_tensor, tf.is_tensor

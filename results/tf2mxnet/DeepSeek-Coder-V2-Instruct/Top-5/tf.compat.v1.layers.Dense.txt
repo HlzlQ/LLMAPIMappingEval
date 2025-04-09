@@ -1,0 +1,7 @@
+
+
+1. mxnet.gluon.nn.Dense
+2. nn.Linear
+3. tf.keras.layers.Dense
+4. torch.nn.Linear
+5. keras.layers.Dense

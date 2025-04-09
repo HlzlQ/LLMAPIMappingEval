@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.functional.max_pool3d`:
+
+1. `CNTK.layers.MaxPooling`
+2. `CNTK.layers.Pooling`
+3. `CNTK.layers.MaxUnpooling`
+4. `CNTK.ops.max_pooling`
+5. `CNTK.ops.pooling`
+6. `CNTK.layers.Subsampling`
+7. `CNTK.layers.Downsample`
+8. `CNTK.layers.ConvolutionalMaxPooling`
+9. `CNTK.layers.SpatialMaxPooling`
+10. `CNTK.layers.Pooling3D`

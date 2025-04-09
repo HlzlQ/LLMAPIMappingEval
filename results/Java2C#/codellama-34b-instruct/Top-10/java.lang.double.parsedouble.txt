@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.lang.Double.parseDouble`:
+
+1. `System.Double.Parse`
+2. `System.Convert.ToDouble`
+3. `double.Parse`
+4. `float.Parse`
+5. `decimal.Parse`
+6. `int.Parse`
+7. `long.Parse`
+8. `short.Parse`
+9. `sbyte.Parse`
+10. `ushort.Parse`

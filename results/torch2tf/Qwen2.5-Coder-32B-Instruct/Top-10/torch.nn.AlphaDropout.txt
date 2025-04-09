@@ -1,0 +1,10 @@
+tf.keras.layers.Dropout  
+tf.nn.dropout  
+tf.keras.layers.GaussianDropout  
+tf.keras.layers.AlphaDropout  
+tf.keras.layers.SpatialDropout1D  
+tf.keras.layers.SpatialDropout2D  
+tf.keras.layers.SpatialDropout3D  
+tf.keras.layers.experimental.RandomFeatureNoise  
+tf.keras.layers.experimental.RandomFourierFeatures  
+tf.keras.layers.experimental.RandomRotation

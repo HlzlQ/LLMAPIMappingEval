@@ -1,0 +1,5 @@
+System.Data.SqlClient.SqlDataReader.IsDBNull
+System.Data.OleDb.OleDbDataReader.IsDBNull
+System.Data.OracleClient.OracleDataReader.IsDBNull
+System.Data.SQLite.SQLiteDataReader.IsDBNull
+System.Data.IDataReader.IsDBNull

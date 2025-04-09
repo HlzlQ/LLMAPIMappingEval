@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.GetRange  
+System.Collections.ArrayList.GetRange  
+System.Collections.ObjectModel.ReadOnlyCollection<T>.GetRange  
+System.Collections.Specialized.StringCollection.GetRange  
+System.Collections.Concurrent.ConcurrentBag<T>.ToList (with GetRange equivalent)  
+System.Collections.Concurrent.ConcurrentQueue<T>.ToList (with GetRange equivalent)  
+System.Collections.Concurrent.ConcurrentStack<T>.ToList (with GetRange equivalent)  
+System.Collections.Generic.LinkedList<T>.ToList (with GetRange equivalent)  
+System.Collections.Generic.SortedList<TKey,TValue>.GetViewBetween  
+System.Collections.ObjectModel.Collection<T>.Items.GetRange

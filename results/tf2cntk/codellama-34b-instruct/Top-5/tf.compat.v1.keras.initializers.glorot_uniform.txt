@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used as alternatives to `tensorflow.compat.v1.keras.initializers.glorot_uniform`:
+
+1. `cntk.initializer.glorot_uniform`
+2. `cntk.initializer.he_normal`
+3. `cntk.initializer.kaiming_uniform`
+4. `cntk.initializer.msra_uniform`
+5. `cntk.initializer.xavier_uniform`

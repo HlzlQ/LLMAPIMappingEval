@@ -1,0 +1,5 @@
+java.lang.String.concat  
+java.lang.StringBuilder.append  
+java.lang.StringBuffer.append  
+java.util.Arrays.toString  
+java.text.MessageFormat.format

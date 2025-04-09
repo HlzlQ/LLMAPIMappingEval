@@ -1,0 +1,24 @@
+
+MXNet does not have an exact equivalent of TensorFlow's `tf.unique` API. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.unique`: This API returns the unique elements of a tensor along with their indices and counts. It is similar to TensorFlow's `tf.unique` API but does not support the `axis` argument.
+* `mxnet.ndarray.unique_with_counts`: This API returns the unique elements of a tensor along with their counts. It is similar to TensorFlow's `tf.unique_with_counts` API but does not support the `axis` argument.
+
+Here's an example code snippet that demonstrates how to use these APIs:
+```python
+import mxnet as mx
+
+# Create a tensor with duplicate elements
+data = mx.nd.array([1, 2, 3, 4, 5, 6, 7, 8, 9])
+
+# Get the unique elements and their indices
+unique_elements, indices = mx.nd.unique(data)
+print("Unique elements:", unique_elements)
+print("Indices:", indices)
+
+# Get the unique elements and their counts
+unique_elements, counts = mx.nd.unique_with_counts(data)
+print("Unique elements:", unique_elements)
+print("Counts:", counts)
+```
+Note that MXNet's `unique` API is more flexible than TensorFlow's `tf.unique` API, as it allows you to specify the axis along which to find unique elements. However, if you only need to find unique elements along a specific axis, you can use the `axis` argument in TensorFlow's `tf.unique` API.

@@ -1,0 +1,10 @@
+torch.nn.functional.conv_transpose2d  
+torch.nn.ConvTranspose2d  
+torch.nn.functional.conv2d  
+torch.nn.Conv2d  
+torch.nn.functional.interpolate  
+torch.nn.Upsample  
+torch.nn.MaxUnpool2d  
+torch.nn.functional.max_unpool2d  
+torch.nn.functional.upsample  
+torch.nn.functional.upsample_bilinear

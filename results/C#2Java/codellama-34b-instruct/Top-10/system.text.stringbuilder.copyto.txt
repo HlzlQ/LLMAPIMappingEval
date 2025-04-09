@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that are similar to the C# API `system.text.stringbuilder.copyto`:
+
+1. `java.lang.StringBuilder.append()`
+2. `java.lang.StringBuilder.insert()`
+3. `java.lang.StringBuilder.replace()`
+4. `java.lang.StringBuilder.delete()`
+5. `java.lang.StringBuilder.setLength()`
+6. `java.lang.StringBuilder.capacity()`
+7. `java.lang.StringBuilder.ensureCapacity()`
+8. `java.lang.StringBuilder.trimToSize()`
+9. `java.lang.StringBuilder.toString()`
+10. `java.lang.StringBuilder.subSequence()`

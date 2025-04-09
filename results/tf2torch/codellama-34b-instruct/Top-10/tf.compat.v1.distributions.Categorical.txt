@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Categorical`:
+
+1. `torch.distributions.Categorical`
+2. `torch.distributions.categorical_lib.Categorical`
+3. `torch.distributions.categorical_lib.CategoricalDistribution`
+4. `torch.distributions.categorical_lib.CategoricalLogits`
+5. `torch.distributions.categorical_lib.CategoricalProbs`
+6. `torch.distributions.categorical_lib.CategoricalSoftmax`
+7. `torch.distributions.categorical_lib.CategoricalSoftmaxLogits`
+8. `torch.distributions.categorical_lib.CategoricalSoftmaxProbs`
+9. `torch.distributions.categorical_lib.CategoricalSoftmaxLogits`
+10. `torch.distributions.categorical_lib.CategoricalSoftmaxProbs`

@@ -1,0 +1,5 @@
+1. System.IO.TextWriter.Append
+2. System.String.Concat
+3. System.Text.StringBuilder.Append
+4. System.Console.Write
+5. System.Console.WriteLine

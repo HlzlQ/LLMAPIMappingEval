@@ -1,0 +1,5 @@
+torch.nn.functional.hardsigmoid  
+torch.nn.Hardsigmoid  
+torch.sigmoid  
+torch.nn.Sigmoid  
+torch.nn.functional.sigmoid

@@ -1,0 +1,9 @@
+  tf.nn.softmax
+  mxnet.ndarray.softmax
+  mxnet.symbol.SoftmaxOutput
+  mxnet.symbol.SoftmaxActivation
+  mxnet.ndarray.softmax_cross_entropy
+  mxnet.ndarray.sparse_softmax_cross_entropy
+  mxnet.ndarray.log_softmax
+  mxnet.ndarray.softmax_output
+  mxnet.symbol.SoftmaxOutput

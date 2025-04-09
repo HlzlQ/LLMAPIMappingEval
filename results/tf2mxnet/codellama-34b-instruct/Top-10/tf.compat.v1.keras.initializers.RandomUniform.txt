@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for random uniform initialization:
+
+1. `mxnet.initializers.RandomUniform`
+2. `mxnet.initializers.uniform`
+3. `mxnet.initializers.random_uniform`
+4. `mxnet.initializers.Uniform`
+5. `mxnet.initializers.uniform_init`
+6. `mxnet.initializers.random_uniform_init`
+7. `mxnet.initializers.UniformInitializer`
+8. `mxnet.initializers.RandomUniformInitializer`
+9. `mxnet.initializers.uniform_initializer`
+10. `mxnet.initializers.random_uniform_initializer`

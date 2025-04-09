@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs that correspond to the C# `System.String.CompareOrdinal` method:
+
+1. `java.lang.String.compareTo(String)`
+2. `java.lang.String.compareToIgnoreCase(String)`
+3. `java.lang.String.equalsIgnoreCase(String)`
+4. `java.lang.String.regionMatches(int, String, int, int)`
+5. `java.lang.String.startsWith(String, int)`
+6. `java.lang.String.endsWith(String)`
+7. `java.lang.String.indexOf(String, int)`
+8. `java.lang.String.lastIndexOf(String, int)`
+9. `java.lang.String.contains(CharSequence)`
+10. `java.lang.String.matches(String)`

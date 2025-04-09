@@ -1,0 +1,2 @@
+
+Answer: torch.nn.CrossEntropyLoss -> cntk.losses.cross_entropy_with_softmax

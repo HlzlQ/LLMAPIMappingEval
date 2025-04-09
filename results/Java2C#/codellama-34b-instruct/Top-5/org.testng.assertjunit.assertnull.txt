@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the given Java API:
+
+1. NUnit.Framework.Assert.Null
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+3. xunit.assert.null
+4. FluentAssertions.AssertionExtensions.ShouldBeNull
+5. NSubstitute.Received.InOrder.Null

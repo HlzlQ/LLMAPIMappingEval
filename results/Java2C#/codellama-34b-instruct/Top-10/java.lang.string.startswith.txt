@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java `String.startsWith()` method:
+
+1. `string.StartsWith()`
+2. `string.Contains()`
+3. `string.IndexOf()`
+4. `string.LastIndexOf()`
+5. `string.Substring()`
+6. `string.Remove()`
+7. `string.Replace()`
+8. `string.TrimStart()`
+9. `string.TrimEnd()`
+10. `string.ToLower()`

@@ -1,0 +1,12 @@
+
+MXNet does not have a direct equivalent to `torch.split`. However, you can achieve similar functionality using the `mxnet.ndarray.split` function. Here's an example:
+```python
+import mxnet as mx
+
+# Create a random 3D tensor
+data = mx.nd.random.uniform(0, 1, (2, 3, 4))
+
+# Split the tensor along the second axis
+splits = mx.nd.split(data, axis=1)
+```
+In this example, `mx.nd.split` splits the input tensor `data` into multiple sub-tensors along the specified axis (in this case, the second axis). The resulting list of sub-tensors is stored in the variable `splits`.

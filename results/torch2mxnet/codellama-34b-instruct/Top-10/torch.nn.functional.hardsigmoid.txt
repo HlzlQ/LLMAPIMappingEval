@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.hardsigmoid`:
+
+1. `mxnet.ndarray.hard_sigmoid`
+2. `mxnet.ndarray.activation.hard_sigmoid`
+3. `mxnet.ndarray.activation.HardSigmoid`
+4. `mxnet.ndarray.activation.hardsigmoid`
+5. `mxnet.ndarray.activation.hard_sigmoid_forward`
+6. `mxnet.ndarray.activation.hard_sigmoid_backward`
+7. `mxnet.ndarray.activation.HardSigmoidForward`
+8. `mxnet.ndarray.activation.HardSigmoidBackward`
+9. `mxnet.ndarray.activation.hard_sigmoid_forward_backward`
+10. `mxnet.ndarray.activation.hard_sigmoid_backward_forward`

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the PyTorch API `torch.distributions.bernoulli.Bernoulli`:
+
+1. `mxnet.random.bernoulli`
+2. `mxnet.random.bernoulli_like`
+3. `mxnet.random.bernoulli_sample`
+4. `mxnet.random.bernoulli_logpmf`
+5. `mxnet.random.bernoulli_cdf`

@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for Gamma distribution:
+
+1. `tf.distributions.Gamma`
+2. `tf.random.gamma`
+3. `tf.distributions.GammaDistribution`
+4. `tf.distributions.gamma_distribution`
+5. `tf.distributions.GammaWithSoftplusConcentrationRate`

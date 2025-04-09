@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `tensorflow.compat.v1.layers.Conv3DTranspose`:
+
+1. `torch.nn.ConvTranspose3d`
+2. `torch.nn.functional.conv_transpose3d`
+3. `torch.nn.modules.conv.ConvTranspose3d`
+4. `torch.nn.modules.conv.ConvTranspose3dModule`
+5. `torch.nn.modules.conv.ConvTranspose3dLayer`
+6. `torch.nn.modules.conv.ConvTranspose3dBlock`
+7. `torch.nn.modules.conv.ConvTranspose3dCell`
+8. `torch.nn.modules.conv.ConvTranspose3dUnit`
+9. `torch.nn.modules.conv.ConvTranspose3dLayerNorm`
+10. `torch.nn.modules.conv.ConvTranspose3dBatchNorm`

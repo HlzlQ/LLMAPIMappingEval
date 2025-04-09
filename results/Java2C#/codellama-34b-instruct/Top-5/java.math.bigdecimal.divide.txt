@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each Java API:
+
+1. java.math.BigDecimal.divide(BigDecimal divisor, int scale, RoundingMode roundingMode)
+	* C# equivalent: System.Numerics.BigInteger.DivRem(BigInteger dividend, BigInteger divisor, out BigInteger remainder)
+2. java.math.BigDecimal.divide(BigDecimal divisor, int scale, RoundingMode roundingMode)
+	* C# equivalent: System.Math.DivRem(double dividend, double divisor, out double remainder)
+3. java.math.BigDecimal.divide(BigDecimal divisor, int scale, RoundingMode roundingMode)
+	* C# equivalent: System.Numerics.BigInteger.Divide(BigInteger dividend, BigInteger divisor)
+4. java.math.BigDecimal.divide(BigDecimal divisor, int scale, RoundingMode roundingMode)
+	* C# equivalent: System.Math.DivRem(decimal dividend, decimal divisor, out decimal remainder)
+5. java.math.BigDecimal.divide(BigDecimal divisor, int scale, RoundingMode roundingMode)
+	* C# equivalent: System.Numerics.BigInteger.Divide(BigInteger dividend, BigInteger divisor, out BigInteger remainder)

@@ -1,0 +1,7 @@
+Java does not have a direct equivalent to the `System.Web.HttpUtility.UrlDecode` method in C#. However, you can use the `URLDecoder` class from the `java.net` package to achieve similar functionality. Here's an example:
+```java
+import java.net.URLDecoder;
+
+String decodedUrl = URLDecoder.decode("https%3A%2F%2Fexample.com%2Fpath%2Fto%2Fresource%3Fquery%3Dstring", "UTF-8");
+```
+In this example, the `URLDecoder` class is used to decode a URL that has been encoded using the `HttpUtility.UrlEncode` method in C#. The resulting decoded URL is stored in the `decodedUrl` variable.

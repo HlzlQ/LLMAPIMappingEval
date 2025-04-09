@@ -1,0 +1,5 @@
+1. java.util.regex.Pattern.matches
+2. java.lang.String.matches
+3. javax.swing.text.RegularExpression.matches
+4. org.apache.oro.text.regex.Perl5Compiler.compile
+5. org.apache.oro.text.regex.Perl5Matcher.matches

@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.layers.Dense`:
+
+1. torch.nn.Linear
+2. torch.nn.Module
+3. torch.nn.Parameter
+4. torch.nn.functional.linear
+5. torch.nn.init.xavier_uniform_
+6. torch.nn.init.kaiming_uniform_
+7. torch.nn.ReLU
+8. torch.nn.Sigmoid
+9. torch.nn.Tanh
+10. torch.nn.Identity

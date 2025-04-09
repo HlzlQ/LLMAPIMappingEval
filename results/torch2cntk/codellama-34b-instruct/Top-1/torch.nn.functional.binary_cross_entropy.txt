@@ -1,0 +1,2 @@
+
+CNTK equivalent: binary_cross_entropy

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for Conv3DTranspose:
+
+1. mxnet.symbol.Convolution3DTranspose
+2. mxnet.symbol.Deconvolution3D
+3. mxnet.symbol.UpSampling3D
+4. mxnet.symbol.Conv3DTranspose
+5. mxnet.symbol.ConvTranspose3D

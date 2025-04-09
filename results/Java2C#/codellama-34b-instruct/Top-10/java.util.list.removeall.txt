@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.util.list.removeall`:
+
+1. `System.Collections.Generic.List<T>.RemoveAll`
+2. `System.Linq.Enumerable.Except`
+3. `System.Collections.Generic.HashSet<T>.ExceptWith`
+4. `System.Collections.Generic.SortedSet<T>.ExceptWith`
+5. `System.Collections.Generic.IList<T>.RemoveAll`
+6. `System.Collections.Generic.ICollection<T>.RemoveAll`
+7. `System.Collections.Generic.IEnumerable<T>.Except`
+8. `System.Collections.Generic.ISet<T>.ExceptWith`
+9. `System.Collections.Generic.ISortedSet<T>.ExceptWith`
+10. `System.Collections.Generic.IReadOnlyList<T>.RemoveAll`

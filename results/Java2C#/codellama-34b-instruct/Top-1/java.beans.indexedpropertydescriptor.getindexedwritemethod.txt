@@ -1,0 +1,13 @@
+C# does not have an exact equivalent to the Java API "java.beans.indexedpropertydescriptor.getIndexedWriteMethod". However, C# provides a similar functionality through the use of indexers.
+
+In C#, you can define an indexer on a class by using the `this` keyword followed by the indexer's parameters in brackets, like this:
+```
+public int this[int index]
+{
+    get { return _values[index]; }
+    set { _values[index] = value; }
+}
+```
+This indexer allows you to access and modify the elements of an array using the syntax `myObject[index]`.
+
+So, in C#, the equivalent API for "java.beans.indexedpropertydescriptor.getIndexedWriteMethod" would be the indexer property with a setter method.

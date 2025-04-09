@@ -1,0 +1,10 @@
+1. System.IO.Path.GetFullPath
+2. System.IO.FileInfo.FullName
+3. System.IO.DirectoryInfo.FullName
+4. System.IO.FileSystemInfo.FullName
+5. System.IO.FileSystemWatcher.Path
+6. System.IO.FileStream.Name
+7. System.IO.MemoryMappedFiles.MemoryMappedFile.FilePath
+8. System.IO.DriveInfo.RootDirectory
+9. System.IO.Compression.ZipArchiveEntry.FullName
+10. System.IO.IsolatedStorage.IsolatedStorageFile.GetUserStoreForAssembly().GetFullPath

@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.ConvolutionTranspose
+2. cntk.ops.transposed_convolution
+3. cntk.ops.deconvolution
+4. cntk.ops.upsample
+5. cntk.ops.reconcile_dynamic_axes
+6. cntk.ops.reshape
+7. cntk.ops.slice
+8. cntk.ops.expand_dims
+9. cntk.ops.squeeze
+10. cntk.ops.batch_normalization

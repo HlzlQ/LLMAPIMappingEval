@@ -1,0 +1,2 @@
+
+Answer: tensorflow.keras.layers.SimpleRNN, tensorflow.keras.layers.GRU, tensorflow.keras.layers.LSTM, tensorflow.keras.layers.CuDNNGRU, tensorflow.keras.layers.CuDNNLSTM, cntk.layers.Recurrence, cntk.layers.LSTMStackCell, cntk.layers.GRUStackCell, cntk.layers.RNNStackCell, cntk.layers.Sequence

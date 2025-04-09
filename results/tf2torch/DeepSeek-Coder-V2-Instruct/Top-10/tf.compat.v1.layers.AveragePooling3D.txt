@@ -1,0 +1,12 @@
+
+
+1. torch.nn.AvgPool3d
+2. torch.nn.AdaptiveAvgPool3d
+3. torch.nn.functional.avg_pool3d
+4. tensorflow.compat.v1.layers.AveragePooling3D
+5. tensorflow.keras.layers.AveragePooling3D
+6. tf.compat.v1.layers.average_pooling3d
+7. tf.compat.v1.nn.avg_pool_3d
+8. torchvision.ops.AvgPool3d
+9. tensorflow.keras.layers.MaxPooling3D
+10. tensorflow.keras.layers.AveragePooling3D

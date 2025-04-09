@@ -1,0 +1,5 @@
+1. ResultSet.getLong(String columnLabel)
+2. ResultSet.getLong(int columnIndex)
+3. CallableStatement.getLong(String parameterName)
+4. PreparedStatement.getLong(int parameterIndex)
+5. Statement.getLong(int parameterIndex)

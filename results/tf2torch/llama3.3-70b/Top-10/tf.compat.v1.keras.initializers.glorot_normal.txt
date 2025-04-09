@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings:
+
+1. torch.nn.init.xavier_normal_
+2. torch.nn.init.kaiming_normal_
+3. torch.nn.init.normal_
+4. torch.nn.init.uniform_
+5. torch.nn.init.xavier_uniform_
+6. torch.nn.init.kaiming_uniform_
+7. torch.nn.init.sparse_normal_
+8. torch.nn.init.orthogonal_
+9. torch.nn.init.eye_
+10. torch.nn.init.dirac_

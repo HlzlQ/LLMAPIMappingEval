@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.unique`:
+
+1. mx.nd.unique
+2. mx.ndarray.unique
+3. nd.unique
+4. mxnet.ndarray.unique
+5. mx.nd.array.unique
+6. mxnet.nd.unique
+7. nd.array.unique
+8. mx.ndarray.unique_axis
+9. mx.nd.unique_axis
+10. mxnet.ndarray.unique_sorted

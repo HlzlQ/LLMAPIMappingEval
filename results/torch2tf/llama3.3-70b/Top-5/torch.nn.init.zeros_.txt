@@ -1,0 +1,5 @@
+1. tf.zeros
+2. tf.initializers.Zeros
+3. tf.keras.initializers.Zeros
+4. tf.compat.v1.zeros
+5. tf.Variable_initializer(tf.zeros_initializer)

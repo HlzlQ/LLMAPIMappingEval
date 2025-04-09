@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. `torch.nn.functional.leaky_relu`
+2. `mxnet.ndarray.LeakyReLU`
+3. `mxnet.symbol.Activation` with argument `act_type='leaky'`
+4. `mxnet.gluon.nn.LeakyReLU`
+5. `mxnet.contrib.ndarray.LeakyReLU`
+6. `mxnet.sym.Activation` with argument `act_type='leakyrelu'`
+7. `mxnet.symbol.Activation` with argument `act_type='prelu'`
+8. `mxnet.gluon.nn.PReLU`
+9. `mxnet.contrib.ndarray.PReLU`
+10. `mxnet.sym.Activation` with argument `act_type='relu'` and setting negative slope manually

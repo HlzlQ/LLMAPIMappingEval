@@ -1,0 +1,11 @@
+
+Answer: 1. tf.keras.losses.Poisson
+2. tf.keras.losses.CategoricalCrossentropy
+3. tf.keras.losses.SparseCategoricalCrossentropy
+4. tf.keras.losses.BinaryCrossentropy
+5. tf.keras.losses.MeanSquaredError
+6. tf.keras.losses.MeanAbsoluteError
+7. tf.keras.losses.Huber
+8. tf.keras.losses.LogCosh
+9. tf.keras.losses.KLDivergence
+10. tf.keras.losses.CosineSimilarity

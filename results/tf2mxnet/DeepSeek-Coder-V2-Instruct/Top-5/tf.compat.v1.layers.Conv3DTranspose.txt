@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.ndarray.Deconvolution
+2. mxnet.symbol.Convolution_transpose
+3. mxnet.gluon.nn.Conv3DTranspose
+4. tensorflow.keras.layers.Conv3DTranspose
+5. tensorflow.compat.v1.layers.Conv3DTranspose

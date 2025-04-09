@@ -1,0 +1,5 @@
+System.Math.Log
+System.Math.Log10
+System.Math.Log2
+System.Math.Exp
+System.Math.Pow

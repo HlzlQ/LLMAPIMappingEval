@@ -1,0 +1,1 @@
+cntk.layers.Recurrence(cntk.layers.GRU)

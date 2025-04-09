@@ -1,0 +1,8 @@
+
+Answer: ```
+1. mxnet.ndarray.uniform
+2. mxnet.random.uniform
+3. mxnet.symbol.Variable
+4. mxnet.symbol.Uniform
+5. mxnet.gluon.nn.Dense
+```

@@ -1,0 +1,10 @@
+java.net.InetAddress.getByName  
+java.net.DatagramSocket.getInetAddress  
+java.net.ServerSocket.getInetAddress  
+java.net.Socket.getInetAddress  
+java.net.NetworkInterface.getInetAddresses  
+java.net.URL.getHost  
+java.net.URI.getHost  
+java.nio.channels.SocketChannel.getLocalAddress  
+java.nio.channels.SocketChannel.getRemoteAddress  
+java.nio.channels.AsynchronousServerSocketChannel.getLocalAddresses

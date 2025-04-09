@@ -1,0 +1,10 @@
+java.lang.String.toLowerCase
+java.lang.String.toLowerCase(java.util.Locale)
+java.nio.file.Paths.get
+java.nio.file.Path.toString
+java.io.File.getName
+java.io.File.getPath
+java.net.URL.getFile
+java.net.URI.getPath
+java.lang.reflect.Method.getName
+java.lang.Class.getSimpleName

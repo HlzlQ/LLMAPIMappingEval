@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet APIs with similar functions to `torch.nn.Flatten`:
+
+1. mxnet.ndarray.flatten
+2. mxnet gluon.nn.Flatten
+3. mxnet.ndarray.reshape
+4. mxnet.gluon.nn.Dense
+5. mxnet.ndarray.squeeze

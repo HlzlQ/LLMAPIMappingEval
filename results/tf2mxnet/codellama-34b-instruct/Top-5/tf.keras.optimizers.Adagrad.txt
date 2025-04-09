@@ -1,0 +1,3 @@
+  tf.keras.optimizers.Adagrad is a gradient descent optimization algorithm that adapts the learning rate for each parameter based on the historical gradient information. In MXNet, the equivalent API is:
+
+* mxnet.optimizer.AdaGrad

@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.selu`:
+
+1. `mxnet.ndarray.SELU`
+2. `mxnet.symbol.SELU`
+3. `mxnet.gluon.SELU`
+4. `mxnet.initializers.SELU`
+5. `mxnet.regularizers.SELU`
+6. `mxnet.optimizers.SELU`
+7. `mxnet.losses.SELU`
+8. `mxnet.metrics.SELU`
+9. `mxnet.layers.SELU`
+10. `mxnet.activations.SELU`

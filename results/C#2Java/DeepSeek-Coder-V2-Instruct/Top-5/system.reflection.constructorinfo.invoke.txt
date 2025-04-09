@@ -1,0 +1,5 @@
+java.lang.reflect.Constructor.newInstance
+java.lang.reflect.Method.invoke
+java.lang.reflect.Field.set
+java.lang.reflect.Field.get
+java.lang.reflect.Member.invoke

@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Module
+2. torch.nn.Sequential
+3. torch.nn.Linear
+4. torch.nn.ReLU
+5. torch.nn.Dropout
+6. torch.optim.Adam
+7. torch.optim.SGD
+8. torch.Tensor
+9. torch.cat
+10. torch.flatten

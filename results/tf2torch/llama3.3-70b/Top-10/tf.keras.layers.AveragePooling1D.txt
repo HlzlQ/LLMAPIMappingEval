@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.AveragePooling1D`:
+
+1. torch.nn.AvgPool1d
+2. torch.nn.functional.avg_pool1d
+3. torch.nn.AdaptiveAvgPool1d
+4. torch.nn.functional.adaptive_avg_pool1d
+5. torch.nn.Pool1d
+6. torch.nn.functional.pool1d
+7. torch.nn.AvgPool2d
+8. torch.nn.functional.avg_pool2d
+9. torch.nn.AdaptiveMaxPool1d
+10. torch.nn.functional.adaptive_max_pool1d

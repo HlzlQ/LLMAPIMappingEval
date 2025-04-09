@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that have similar functionality to TensorFlow's `unique` API:
+
+1. `mxnet.ndarray.unique`
+2. `mxnet.ndarray.unique_counts`
+3. `mxnet.ndarray.unique_inverse`
+4. `mxnet.ndarray.unique_labels`
+5. `mxnet.ndarray.unique_values`
+6. `mxnet.ndarray.unique_indices`
+7. `mxnet.ndarray.unique_counts_per_label`
+8. `mxnet.ndarray.unique_labels_per_index`
+9. `mxnet.ndarray.unique_values_per_label`
+10. `mxnet.ndarray.unique_indices_per_label`

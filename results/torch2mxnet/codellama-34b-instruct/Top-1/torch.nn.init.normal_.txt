@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent API for `torch.nn.init.normal` is `mxnet.initializer.Normal`.

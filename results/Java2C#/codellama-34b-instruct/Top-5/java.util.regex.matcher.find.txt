@@ -1,0 +1,7 @@
+  Sure! Here are the five C# APIs that I believe are the closest matches to the Java API `java.util.regex.matcher.find`:
+
+1. `System.Text.RegularExpressions.Match.Success`
+2. `System.Text.RegularExpressions.Match.Index`
+3. `System.Text.RegularExpressions.Match.Length`
+4. `System.Text.RegularExpressions.Match.Value`
+5. `System.Text.RegularExpressions.Match.Captures`

@@ -1,0 +1,5 @@
+torch.nn.Sigmoid  
+torch.sigmoid  
+torch.functional.sigmoid  
+torch.nn.functional.sigmoid  
+torch.autograd.Function.sigmoid

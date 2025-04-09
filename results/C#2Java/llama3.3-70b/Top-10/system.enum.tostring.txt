@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.enum.tostring` in C#:
+
+1. java.lang.Enum.toString()
+2. java.lang.String.valueOf()
+3. java.util.EnumMap.toString()
+4. java.util.Enums.toString()
+5. java.lang.Class.getEnumConstants()
+6. java.lang.reflect.Field.getEnumConstant()
+7. java.util.ArrayList.toString()
+8. java.util.Collections.enumeration()
+9. java.util.Enumeration.nextElement()
+10. java.util.Iterator.next()

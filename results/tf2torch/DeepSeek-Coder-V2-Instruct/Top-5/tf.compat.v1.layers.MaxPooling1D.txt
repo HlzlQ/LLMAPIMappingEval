@@ -1,0 +1,7 @@
+
+
+1. torch.nn.MaxPool1d
+2. torch.nn.AvgPool1d
+3. torch.nn.AdaptiveMaxPool1d
+4. torch.nn.AdaptiveAvgPool1d
+5. torch.nn.functional.max_pool1d

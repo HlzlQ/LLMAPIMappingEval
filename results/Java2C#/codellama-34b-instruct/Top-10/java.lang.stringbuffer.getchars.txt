@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.lang.StringBuffer.getChars()`:
+
+1. `System.Text.StringBuilder.CopyTo(int sourceIndex, char[] destination, int destinationIndex, int count)`
+2. `System.Text.StringBuilder.GetChars(int startIndex, int length, char[] buffer, int bufferStartIndex)`
+3. `System.Text.StringBuilder.ToString()`
+4. `System.Text.StringBuilder.ToCharArray()`
+5. `System.Text.StringBuilder.CopyTo(int sourceIndex, string destination, int destinationIndex, int count)`
+6. `System.Text.StringBuilder.GetChars(int startIndex, int length, string buffer, int bufferStartIndex)`
+7. `System.Text.StringBuilder.ToString(int startIndex, int length)`
+8. `System.Text.StringBuilder.ToCharArray(int startIndex, int length)`
+9. `System.Text.StringBuilder.CopyTo(int sourceIndex, StringBuilder destination, int destinationIndex, int count)`
+10. `System.Text.StringBuilder.GetChars(int startIndex, int length, StringBuilder buffer, int bufferStartIndex)`

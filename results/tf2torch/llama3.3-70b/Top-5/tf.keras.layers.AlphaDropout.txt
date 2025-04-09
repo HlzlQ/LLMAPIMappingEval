@@ -1,0 +1,5 @@
+1. torch.nn.AlphaDropout
+2. torch.nn.Dropout
+3. torch.nn.Dropout2d
+4. torch.nn.Dropout3d
+5. torch.nn.FeatureDropout

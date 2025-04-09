@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.Exponential
+2. torch.nn.functional.exponential
+3. torch.optim.lr_scheduler.ExponentialLR
+4. tensorflow.compat.v1.distributions.Exponential
+5. tf.contrib.distributions.Exponential
+6. tf.keras.initializers.RandomExponential
+7. tf.layers.exponetial
+8. tf.losses.exponential_loss
+9. tf.metrics.mean_exponential_error
+10. tf.train.exponential_decay

@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.distributions.normal.Normal | mxnet.ndarray.normal |
+  | .sample() | .sample() |
+  | .log_prob() | .log_prob() |
+  | .entropy() | .entropy() |
+  | .kl_divergence() | .kl_divergence() |

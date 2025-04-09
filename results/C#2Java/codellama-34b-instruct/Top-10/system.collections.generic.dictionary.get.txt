@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.Collections.Generic.Dictionary` class:
+
+1. `java.util.HashMap`
+2. `java.util.Hashtable`
+3. `java.util.LinkedHashMap`
+4. `java.util.TreeMap`
+5. `java.util.concurrent.ConcurrentHashMap`
+6. `java.util.WeakHashMap`
+7. `java.util.IdentityHashMap`
+8. `java.util.EnumMap`
+9. `java.util.SortedMap`
+10. `java.util.NavigableMap`

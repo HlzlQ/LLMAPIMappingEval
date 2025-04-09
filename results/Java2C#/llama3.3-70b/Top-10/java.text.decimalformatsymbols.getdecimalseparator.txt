@@ -1,0 +1,10 @@
+1. System.Globalization.NumberFormatInfo.NumberDecimalSeparator
+2. System.Globalization.CultureInfo.CurrentCulture.NumberFormat.NumberDecimalSeparator
+3. System.Threading.Thread.CurrentThread.CurrentCulture.NumberFormat.NumberDecimalSeparator
+4. System.Globalization.NumberFormatInfo.CurrencyDecimalSeparator
+5. System.Globalization.CultureInfo.InvariantCulture.NumberFormat.NumberDecimalSeparator
+6. System.Windows.Forms.Application.CurrentCulture.NumberFormat.NumberDecimalSeparator
+7. System.Globalization.RegionInfo.CurrentRegion.NumberFormat.NumberDecimalSeparator
+8. System.Globalization.CultureAndRegionInfoBuilder.NumberFormat.NumberDecimalSeparator
+9. System.Globalization.DateTimeFormatInfo.NumberDecimalSeparator
+10. System.Globalization.TextInfo.ListSeparator

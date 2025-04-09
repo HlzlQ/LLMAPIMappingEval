@@ -1,0 +1,10 @@
+1. System.String.ToLower
+2. System.String.ToLowerInvariant
+3. System.Text.RegularExpressions.Regex.Replace
+4. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToLower
+5. System.Char.ToLower
+6. System.Char.ToLowerInvariant
+7. Microsoft.VisualBasic.Strings.LCase
+8. System.Web.HttpUtility.HtmlDecode
+9. System.Text.Encoding.Unicode.GetString
+10. System.Globalization.StringInfo.ToLower

@@ -1,0 +1,10 @@
+torch.nn.Linear  
+torch.nn.functional.linear  
+torch.nn.Parameter  
+torch.nn.Module  
+torch.nn.Sequential  
+torch.nn.ReLU  
+torch.nn.Sigmoid  
+torch.nn.Tanh  
+torch.nn.Dropout  
+torch.nn.BatchNorm1d

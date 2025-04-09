@@ -1,0 +1,1 @@
+C# has a similar method called `String.CompareToIgnoreCase` which compares two strings using ordinal sort rules and ignoring case.

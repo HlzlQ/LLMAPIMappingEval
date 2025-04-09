@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.ToArray  
+System.Linq.Enumerable.ToArray  
+System.Array.Copy  
+System.Buffer.BlockCopy  
+System.Runtime.InteropServices.Marshal.Copy  
+System.Collections.ArrayList.ToArray  
+System.Collections.Specialized.StringCollection.CopyTo  
+System.Collections.Hashtable.Values.CopyTo  
+System.Collections.Queue.CopyTo  
+System.Collections.Stack.CopyTo

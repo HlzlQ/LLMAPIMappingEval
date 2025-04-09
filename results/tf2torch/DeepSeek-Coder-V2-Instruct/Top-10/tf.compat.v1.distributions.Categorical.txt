@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.categorical.Categorical
+2. torch.nn.functional.one_hot
+3. torch.argmax
+4. torch.Tensor.scatter_
+5. torch.multinomial
+6. torch.nn.Softmax
+7. torch.nn.LogSoftmax
+8. torch.nn.CrossEntropyLoss
+9. torch.nn.NLLLoss
+10. torch.nn.Module

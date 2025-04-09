@@ -1,0 +1,6 @@
+
+Answer: 1. cntk.layers.Convolution3D
+2. cntk.ops.convolution_transpose
+3. cntk.ops.pooling
+4. cntk.ops.batch_normalization
+5. cntk.ops.relu

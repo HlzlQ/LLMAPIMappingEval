@@ -1,0 +1,11 @@
+
+Answer: 1. tf.initializers.glorot_uniform
+2. tf.initializers.he_uniform
+3. tf.initializers.lecun_normal
+4. tf.initializers.xavier_normal
+5. tf.initializers.variance_scaling
+6. tf.initializers.random_uniform
+7. tf.initializers.random_normal
+8. tf.initializers.truncated_normal
+9. tf.initializers.orthogonal
+10. tf.initializers.identity

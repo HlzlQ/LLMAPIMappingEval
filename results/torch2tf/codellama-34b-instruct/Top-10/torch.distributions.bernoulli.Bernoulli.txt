@@ -1,0 +1,13 @@
+
+Here are ten TensorFlow APIs that correspond to the PyTorch API `torch.distributions.bernoulli.Bernoulli`:
+
+1. `tf.random.bernoulli`
+2. `tf.random.binomial`
+3. `tf.random.categorical`
+4. `tf.random.normal`
+5. `tf.random.uniform`
+6. `tf.distributions.Bernoulli`
+7. `tf.distributions.Binomial`
+8. `tf.distributions.Categorical`
+9. `tf.distributions.Normal`
+10. `tf.distributions.Uniform`

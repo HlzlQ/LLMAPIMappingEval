@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.sql.ResultSet.getLong()
+2. java.sql.ResultSet.getInt()
+3. java.sql.ResultSet.getShort()
+4. java.sql.ResultSet.getByte()
+5. java.sql.ResultSet.getFloat()
+6. java.sql.ResultSet.getDouble()
+7. java.sql.ResultSet.getString()
+8. java.sql.ResultSet.getBoolean()
+9. java.sql.ResultSet.getDate()
+10. java.sql.ResultSet.getTime()

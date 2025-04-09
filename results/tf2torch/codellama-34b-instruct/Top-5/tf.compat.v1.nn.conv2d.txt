@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for convolutional neural networks (CNNs):
+
+1. torch.nn.Conv2d
+2. torch.nn.ConvTranspose2d
+3. torch.nn.MaxPool2d
+4. torch.nn.AvgPool2d
+5. torch.nn.BatchNorm2d

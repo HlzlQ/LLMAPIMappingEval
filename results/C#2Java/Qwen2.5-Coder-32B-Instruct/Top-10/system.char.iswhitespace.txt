@@ -1,0 +1,10 @@
+java.lang.Character.isWhitespace
+java.util.regex.Pattern.matches
+java.util.Scanner.hasNext
+java.io.BufferedReader.readLine
+java.nio.file.Files.readAllLines
+java.lang.String.trim
+java.lang.String.split
+java.text.BreakIterator.getWordInstance
+java.awt.font.TextLayout.getCharacterLevel
+java.text.Normalizer.normalize

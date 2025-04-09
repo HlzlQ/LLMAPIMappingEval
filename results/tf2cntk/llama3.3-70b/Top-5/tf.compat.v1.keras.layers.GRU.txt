@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK API mappings for `tensorflow.compat.v1.keras.layers.GRU`:
+
+1. `cntk.layers.Recurrence`
+2. `cntk.layers.LSTM`
+3. `cntk.layers.GRU`
+4. `cntk.layers.SimpleRecurrence`
+5. `cntk.layers.RecurrentLSTMLayer`

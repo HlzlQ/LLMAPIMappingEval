@@ -1,0 +1,12 @@
+
+
+1. nn.CrossEntropyLoss()
+2. F.cross_entropy()
+3. torch.nn.functional.log_softmax()
+4. torch.nn.functional.nll_loss()
+5. torch.nn.NLLLoss()
+6. torch.nn.BCEWithLogitsLoss()
+7. tensorflow.compat.v1.nn.sparse_softmax_cross_entropy_with_logits
+8. tensorflow.compat.v1.nn.softmax_cross_entropy_with_logits
+9. F.binary_cross_entropy_with_logits
+10. torch.nn.BCELoss()

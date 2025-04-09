@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.StringReader.Read()
+2. System.IO.StreamReader.Read()
+3. System.IO.TextReader.Read()
+4. System.IO.BinaryReader.Read()
+5. System.IO.BufferedStreamReader.Read()
+6. System.IO.FileStreamReader.Read()
+7. System.IO.MemoryStreamReader.Read()
+8. System.IO.NetworkStreamReader.Read()
+9. System.IO.PipedStreamReader.Read()
+10. System.IO.StringBuilderReader.Read()

@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.train.AdadeltaOptimizer`:
+
+1. mxnet.optimizer.Adadelta
+2. mxnet.optimizer.AdaDelta
+3. mxnet.optimizer.adadelta
+4. mxnet.optimizer.AdaDeltaOptimizer
+5. mxnet.optimizer.AdadeltaOptimizer

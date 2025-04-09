@@ -1,0 +1,10 @@
+cntk.layers.pooling.max_pooling
+cntk.layers.sequence.max_pooling
+cntk.layers.reduce.max
+cntk.layers.sequence.reduce_max
+cntk.layers.pooling.global_max_pooling
+cntk.layers.sequence.global_max_pooling
+cntk.layers.reduce.global_max
+cntk.layers.sequence.reduce_global_max
+cntk.layers.pooling.windowed_max_pooling
+cntk.layers.sequence.windowed_max_pooling

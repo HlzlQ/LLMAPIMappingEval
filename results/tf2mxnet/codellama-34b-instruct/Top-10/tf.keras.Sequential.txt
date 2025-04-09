@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that correspond to the TensorFlow Keras Sequential API:
+
+1. mxnet.gluon.nn.Sequential
+2. mxnet.gluon.nn.Dense
+3. mxnet.gluon.nn.Conv2D
+4. mxnet.gluon.nn.MaxPooling2D
+5. mxnet.gluon.nn.Flatten
+6. mxnet.gluon.nn.Dropout
+7. mxnet.gluon.nn.BatchNormalization
+8. mxnet.gluon.nn.Activation
+9. mxnet.gluon.nn.Embedding
+10. mxnet.gluon.nn.LSTM

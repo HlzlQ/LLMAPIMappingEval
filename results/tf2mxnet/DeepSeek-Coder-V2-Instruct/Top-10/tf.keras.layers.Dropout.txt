@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.Dropout
+2. mxnet.ndarray.dropout
+3. mxnet.symbol.Dropout
+4. mxnet.contrib.mxnet_model.Dropout
+5. mxnet.initializer.Dropout
+6. mxnet.rnn.Dropout
+7. mxnet.optimizer.Dropout
+8. mxnet.metric.Dropout
+9. mxnet.gluon.loss.Dropout
+10. mxnet.image.Dropout

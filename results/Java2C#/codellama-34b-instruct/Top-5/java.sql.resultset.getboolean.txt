@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Data.SqlClient.SqlDataReader.GetBoolean`
+2. `System.Data.OleDb.OleDbDataReader.GetBoolean`
+3. `System.Data.Odbc.OdbcDataReader.GetBoolean`
+4. `System.Data.Common.DbDataReader.GetBoolean`
+5. `Microsoft.Data.SqlClient.SqlDataReader.GetBoolean`

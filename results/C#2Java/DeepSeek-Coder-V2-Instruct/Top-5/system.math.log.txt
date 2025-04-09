@@ -1,0 +1,5 @@
+1. java.lang.Math.log(double a)
+2. java.lang.StrictMath.log(double a)
+3. java.util.logging.Logger.log(Level level, String message)
+4. javax.management.log.LogManager.log(LogRecord record)
+5. org.apache.commons.math3.special.Gamma.log(double x)

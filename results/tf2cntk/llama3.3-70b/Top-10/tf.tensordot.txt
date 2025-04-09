@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.tensordot`:
+
+1. `CNTK.times`
+2. `CNTK.reduce_sum`
+3. `CNTK.matmul`
+4. `CNTK.transpose`
+5. `CNTK.reshape`
+6. `CNTK.batch_times`
+7. `CNTK.element_times`
+8. `CNTK.contract`
+9. `CNTK.reduce_mean`
+10. `CNTK.dot`

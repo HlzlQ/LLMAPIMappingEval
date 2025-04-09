@@ -1,0 +1,10 @@
+org.junit.jupiter.api.Assertions.assertNotNull  
+org.testng.Assert.assertNotNull  
+junit.framework.Assert.assertNotNull  
+junit.framework.TestCase.assertNotNull  
+org.apache.commons.lang3.Validate.notNull  
+java.util.Objects.requireNonNull  
+com.google.common.base.Preconditions.checkNotNull  
+org.hamcrest.MatcherAssert.assertThat (with org.hamcrest.CoreMatchers.notNullValue)  
+org.eclipse.jdt.core.dom.rewrite.ASTRewrite.createStringLiteral  
+org.junit.Assert.assertNotNull

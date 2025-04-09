@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.LSTM`:
+
+1. torch.nn.LSTM
+2. torch.nn.RNN
+3. torch.nn.GRU
+4. torch.nn.LSTMCell
+5. torch.nn.RNNCell
+6. torch.nn.GRUCell
+7. torch.nn.ModuleList
+8. torch.nn.Sequential
+9. torch.nn.rnn.LSTM
+10. torch.nn.rnn.GRU

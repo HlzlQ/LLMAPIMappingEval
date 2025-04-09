@@ -1,0 +1,2 @@
+
+The PyTorch API `torch.nn.utils.clip_grad_value` is used to clip the gradient values of a model during training. The equivalent TensorFlow API for this functionality is `tf.clip_by_value`.

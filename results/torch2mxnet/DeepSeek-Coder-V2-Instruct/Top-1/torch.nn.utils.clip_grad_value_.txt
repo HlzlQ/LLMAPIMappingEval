@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: mxnet.ndarray.clip_by_value
+<jupyter_output>
+<empty_output>

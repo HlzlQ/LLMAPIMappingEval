@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.einsum`:
+
+1. mxnet.nd.einsum
+2. mxnet.ndarray.einsum
+3. mxnet.linalg.einsum
+4. mxnet.numpy.einsum
+5. mxnet.np.einsum
+6. mxnet.ops.einsum
+7. mxnet.symbol.einsum
+8. mxnet gluon.einsum
+9. mxnet.ndarray.linalg.einsum
+10. mxnet.nd.linalg.einsum

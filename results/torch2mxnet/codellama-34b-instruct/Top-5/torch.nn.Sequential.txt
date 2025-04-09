@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Sequential | mxnet.gluon.nn.Sequential |
+  | torch.nn.Linear | mxnet.gluon.nn.Dense |
+  | torch.nn.ReLU | mxnet.gluon.nn.Activation |
+  | torch.nn.MaxPool2d | mxnet.gluon.nn.MaxPool2d |
+  | torch.nn.Conv2d | mxnet.gluon.nn.Conv2d |

@@ -1,0 +1,5 @@
+1. CNTK ELU Activation
+2. CNTK Leaky ReLU
+3. CNTK Softplus
+4. CNTK Sigmoid
+5. CNTK Tanh

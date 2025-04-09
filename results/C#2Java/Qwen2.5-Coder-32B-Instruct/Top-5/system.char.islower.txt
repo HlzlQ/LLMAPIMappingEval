@@ -1,0 +1,5 @@
+java.lang.Character.isLowerCase
+java.util.stream.IntStream.filter
+java.util.stream.Stream.filter
+java.nio.CharBuffer.chars
+java.lang.String.chars

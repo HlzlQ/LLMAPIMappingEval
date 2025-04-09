@@ -1,0 +1,26 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer: torch.nn.functional.softmax
+<jupyter_code>
+import tensorflow as tf
+import torch
+import torch.nn.functional as F
+
+# Define a tensor in TensorFlow
+tf_tensor = tf.constant([1.0, 2.0, 3.0], dtype=tf.float32)
+
+# Apply softmax in TensorFlow
+tf_softmax = tf.math.softmax(tf_tensor)
+print("TensorFlow Softmax:", tf_softmax.numpy())
+
+# Define a tensor in PyTorch
+torch_tensor = torch.tensor([1.0, 2.0, 3.0], dtype=torch.float32)
+
+# Apply softmax in PyTorch
+torch_softmax = F.softmax(torch_tensor, dim=-1)
+print("PyTorch Softmax:", torch_softmax.detach().numpy())
+<jupyter_output>
+TensorFlow Softmax: [0.09003057 0.24472847 0.66524094]
+PyTorch Softmax: [0.09003057 0.24472847 0.66524094]

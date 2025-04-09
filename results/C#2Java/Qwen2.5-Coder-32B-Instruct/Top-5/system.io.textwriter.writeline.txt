@@ -1,0 +1,5 @@
+java.io.PrintWriter.println  
+java.io.BufferedWriter.newLine  
+java.io.FileWriter.write  
+java.lang.System.out.println  
+java.io.PrintStream.println

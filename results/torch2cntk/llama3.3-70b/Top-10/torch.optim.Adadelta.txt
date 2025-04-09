@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.optim.Adadelta`:
+
+1. `cntk.learners.adadelta`
+2. `cntk.optimizers.adadelta`
+3. `cntk.train.adadelta`
+4. `cntk.ada_delta`
+5. `cntk.optimization.adadelta`
+6. `cntk.learning_rate_schedulers.adadelta`
+7. `cntk.optimizers.adadelta_optimizer`
+8. `cntk.trainers.adadelta_trainer`
+9. `cntk.algorithms.adadelta`
+10. `cntk.optimization_methods.adadelta`

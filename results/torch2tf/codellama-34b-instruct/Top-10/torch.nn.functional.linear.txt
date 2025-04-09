@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.nn.functional.linear`:
+
+1. `tf.keras.layers.Dense`
+2. `tf.keras.layers.Linear`
+3. `tf.keras.layers.Flatten`
+4. `tf.keras.layers.Reshape`
+5. `tf.keras.layers.Permute`
+6. `tf.keras.layers.RepeatVector`
+7. `tf.keras.layers.Lambda`
+8. `tf.keras.layers.Embedding`
+9. `tf.keras.layers.Bidirectional`
+10. `tf.keras.layers.TimeDistributed`

@@ -1,0 +1,5 @@
+1. mx.autograd.train_mode
+2. mx.autograd.predict_mode
+3. mx.autograd.record
+4. mx.autograd.pause
+5. mx.autograd.set_training

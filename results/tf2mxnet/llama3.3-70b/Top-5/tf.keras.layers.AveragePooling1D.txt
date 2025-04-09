@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.keras.layers.AveragePooling1D`:
+
+1. mxnet.ndarray.Pooling
+2. mxnet.gluon.nn.AvgPool1D
+3. mxnet.gluon.nn.GlobalAvgPool1D
+4. mxnet.gluon.nn.AvgPool2D (with adjustments for 1D input)
+5. mxnet.gluon.nn.HybridSequential (with AvgPool1D block)

@@ -1,0 +1,5 @@
+java.net.URLEncoder.encode
+org.apache.commons.codec.net.URLCodec.encode
+java.net.URI.create
+java.net.URI.normalize
+java.net.URIComponent.encode

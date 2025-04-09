@@ -1,0 +1,10 @@
+tf.keras.losses.CosineSimilarity  
+tf.nn.cosine_similarity  
+tf.matmul  
+tf.norm  
+tf.reduce_sum  
+tf.square  
+tf.subtract  
+tf.math.acos  
+tf.math.divide  
+tf.math.multiply

@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. `tf.add_n` -> `mxnet.ndarray.sum`
+2. `tf.gradients` -> `mxnet.autograd.grad`
+3. `tf.trainable_variables` -> `mxnet.gluon.Parameter`
+4. `tf.placeholder` -> `mxnet.symbol.Variable`
+5. `tf.Session` -> `mxnet.module.Module`
+6. `tf.reduce_sum` -> `mxnet.ndarray.sum`
+7. `tf.constant` -> `mxnet.ndarray.ones_like`
+8. `tf.Variable` -> `mxnet.gluon.Parameter`
+9. `tf.get_variable` -> `mxnet.gluon.Parameter`
+10. `tf.nn.relu` -> `mxnet.symbol.Activation`

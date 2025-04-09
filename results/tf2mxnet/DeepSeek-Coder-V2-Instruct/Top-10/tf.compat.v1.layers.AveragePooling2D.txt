@@ -1,0 +1,11 @@
+
+1. mxnet.ndarray.contrib.BilinearResize2D
+2. mxnet.ndarray.Pooling
+3. mxnet.ndarray.Pooling2D
+4. mxnet.ndarray.GlobalMaxPooling
+5. mxnet.ndarray.GlobalAveragePooling
+6. mxnet.ndarray.AvgPool2D
+7. mxnet.ndarray.MaxPool2D
+8. mxnet.ndarray.SpatialAveragePooling
+9. mxnet.ndarray.SpatialMaxPooling
+10. mxnet.ndarray.BilinearUpsampling

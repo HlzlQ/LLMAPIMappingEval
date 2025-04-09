@@ -1,0 +1,14 @@
+
+```python
+import tensorflow as tf
+```
+
+```python
+import torch
+```
+
+### Answer:
+```python
+# TensorFlow API: tf.gradients
+# PyTorch equivalent API: torch.autograd.grad
+```

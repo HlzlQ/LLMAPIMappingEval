@@ -1,0 +1,10 @@
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase

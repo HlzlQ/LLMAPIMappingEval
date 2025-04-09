@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.einsum`:
+
+1. torch.einsum
+2. torch.tensordot
+3. torch.matmul
+4. torch.mm
+5. torch.mv
+6. torch.dot
+7. torch.bmm
+8. torch.contract
+9. torch.qr
+10. torch.svd

@@ -1,0 +1,5 @@
+torch.nn.init.kaiming_normal_
+torch.nn.init.normal_
+torch.nn.init.xavier_normal_
+torch.nn.init.uniform_
+torch.nn.init.he_normal_

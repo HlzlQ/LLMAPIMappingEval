@@ -1,0 +1,10 @@
+1. System.Xml.Serialization.XmlSerializer
+2. System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+3. System.IO.StreamWriter.Close
+4. System.IO.TextWriter.Close
+5. System.Xml.XmlWriter.Close
+6. System.Runtime.Serialization.Json.DataContractJsonSerializer
+7. System.Net.Http.HttpClient.Dispose
+8. System.IO.Compression.GZipStream.Dispose
+9. System.IO.MemoryStream.Dispose
+10. System.IO.FileStream.Dispose

@@ -1,0 +1,10 @@
+mxnet.init.Orthogonal
+mxnet.gluon.nn.initializer.Orthogonal
+mxnet.ndarray.random.orthogonal
+mxnet.symbol.random.orthogonal
+mxnet.init.Xavier
+mxnet.gluon.nn.initializer.Xavier
+mxnet.init.Uniform
+mxnet.gluon.nn.initializer.Uniform
+mxnet.init.Normal
+mxnet.gluon.nn.initializer.Normal

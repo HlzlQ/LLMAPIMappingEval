@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# AvgPool2d -> Pooling
+<jupyter_output>
+<empty_output>

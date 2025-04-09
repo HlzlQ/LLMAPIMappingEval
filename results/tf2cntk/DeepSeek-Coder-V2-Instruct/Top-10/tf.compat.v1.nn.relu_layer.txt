@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.ops.relu
+2. cntk.ops.sigmoid
+3. cntk.ops.tanh
+4. cntk.ops.softmax
+5. cntk.ops.element_times
+6. cntk.ops.plus
+7. cntk.ops.minus
+8. cntk.ops.div
+9. cntk.ops.mul
+10. cntk.ops.convolution

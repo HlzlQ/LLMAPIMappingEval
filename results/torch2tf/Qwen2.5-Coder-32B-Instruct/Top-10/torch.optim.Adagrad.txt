@@ -1,0 +1,10 @@
+tf.keras.optimizers.Adagrad  
+tf.train.AdagradOptimizer  
+tf.compat.v1.train.AdagradOptimizer  
+tf.keras.optimizers.schedules.ExponentialDecay  
+tf.keras.optimizers.Adam  
+tf.keras.optimizers.RMSprop  
+tf.keras.optimizers.SGD  
+tf.keras.optimizers.Nadam  
+tf.keras.optimizers.Ftrl  
+tf.keras.optimizers.Adadelta

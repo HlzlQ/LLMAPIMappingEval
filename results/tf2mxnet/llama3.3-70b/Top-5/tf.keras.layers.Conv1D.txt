@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.keras.layers.Conv1D`:
+
+1. mxnet.gluon.nn.Conv1D
+2. mxnet.ndarray.Convolution
+3. mxnet.gluon.contrib.nn.Conv1D
+4. mxnet.gluon.nn.Conv1DTranspose
+5. mxnet.ndarray.Convolution_v1

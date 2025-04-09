@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Softmax`:
+
+1. `cntk.layers.softmax`
+2. `cntk.layers.activation.softmax`
+3. `cntk.layers.output.softmax`
+4. `cntk.layers.loss.softmax_cross_entropy`
+5. `cntk.layers.loss.softmax_hinge`
+6. `cntk.layers.loss.softmax_squared_hinge`
+7. `cntk.layers.loss.softmax_triplet`
+8. `cntk.layers.loss.softmax_margin`
+9. `cntk.layers.loss.softmax_angular`
+10. `cntk.layers.loss.softmax_euclidean`

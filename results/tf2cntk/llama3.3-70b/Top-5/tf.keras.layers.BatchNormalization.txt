@@ -1,0 +1,5 @@
+1. BatchNormalization
+2. LayerNormalization
+3. InstanceNormalization
+4. GroupNormalization
+5. Scale

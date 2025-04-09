@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.KeyValuePair<TKey, TValue>.Value
+2. System.Collections.Specialized.NameObjectCollectionBase.Get(int)
+3. System.Collections.Specialized.NameObjectCollectionBase.Get(string)
+4. System.Collections.Specialized.NameValueCollection.Get(int)
+5. System.Collections.Specialized.NameValueCollection.Get(string)

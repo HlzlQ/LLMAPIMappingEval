@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent layer to `tensorflow.keras.layers.BatchNormalization` is `mxnet.gluon.nn.BatchNorm`.

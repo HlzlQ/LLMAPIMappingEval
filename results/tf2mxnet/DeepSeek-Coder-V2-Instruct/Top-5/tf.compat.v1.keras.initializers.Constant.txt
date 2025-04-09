@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+tf_constant = tf.keras.initializers.Constant(value=1.0)
+```
+
+Answer: ```python
+mxnet_constant = mx.init.Constant(value=1.0)
+```

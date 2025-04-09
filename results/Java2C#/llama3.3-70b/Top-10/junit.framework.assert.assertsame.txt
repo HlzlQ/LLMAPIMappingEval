@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+2. NUnit.Framework.Assert.AreSame
+3. NUnit.Framework.Assert.AreEqual
+4. xunit.assert.Equal
+5. FluentAssertions.Primitives.ReferenceTypeEquivalenceAssertion
+6. Shouldly.ShouldBeSameAs
+7. Shouldly.ShouldBe
+8. xunit.assert.Same
+9. NUnit.Framework.Assert.IdentifierEquals
+10. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.ReferenceEquals

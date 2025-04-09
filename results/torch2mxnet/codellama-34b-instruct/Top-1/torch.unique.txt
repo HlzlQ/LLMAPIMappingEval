@@ -1,0 +1,19 @@
+
+MXNet does not have a direct equivalent of `torch.unique`. However, you can achieve similar functionality using the following APIs:
+
+* `mxnet.ndarray.unique`: This API returns the unique elements of an array, along with their indices and counts.
+* `mxnet.ndarray.nonzero`: This API returns the indices of the non-zero elements in an array.
+
+You can use these APIs to implement a custom version of `torch.unique` in MXNet. Here's an example:
+```scss
+import mxnet as mx
+
+def unique(arr):
+    # Get the unique elements and their indices
+    uniques, indices = mx.ndarray.unique(arr)
+    
+    # Get the counts of each unique element
+    counts = mx.ndarray.nonzero(uniques)
+    
+    return uniques, indices, counts
+```

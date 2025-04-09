@@ -1,0 +1,11 @@
+
+Answer: tensorflow.keras.models.load_model
+tensorflow.keras.models.save_model
+tensorflow.keras.models.fit
+tensorflow.keras.models.evaluate
+tensorflow.keras.models.predict
+tensorflow.keras.models.summary
+tensorflow.keras.models.compile
+tensorflow.keras.models.get_weights
+tensorflow.keras.models.set_weights
+tensorflow.keras.models.save_weights

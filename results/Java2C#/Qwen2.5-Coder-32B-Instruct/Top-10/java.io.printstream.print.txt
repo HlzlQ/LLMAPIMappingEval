@@ -1,0 +1,10 @@
+System.IO.StreamWriter.Write  
+System.Console.Write  
+System.Text.StringBuilder.Append  
+System.Diagnostics.Debug.Write  
+System.Diagnostics.Trace.Write  
+System.Web.HttpResponse.Write  
+System.IO.TextWriter.Write  
+System.IO.BinaryWriter.Write  
+System.IO.BufferedStream.Write  
+System.Net.Sockets.NetworkStream.Write

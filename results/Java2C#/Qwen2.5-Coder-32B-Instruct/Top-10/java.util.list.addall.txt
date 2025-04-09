@@ -1,0 +1,10 @@
+System.Collections.Generic.List.AddRange  
+System.Collections.ArrayList.AddRange  
+System.Collections.Generic.Collection.AddRange  
+System.Collections.ObjectModel.Collection.AddRange  
+System.Collections.Specialized.StringCollection.AddRange  
+System.Web.UI.WebControls.ListViewItemCollection.AddRange  
+System.Windows.Forms.BindingSource.AddNew  
+System.Data.DataTable.LoadDataRow  
+System.Data.DataRowCollection.AddArray  
+System.Data.DataSet.Merge

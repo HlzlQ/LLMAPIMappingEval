@@ -1,0 +1,5 @@
+1. ToArray()
+2. List<T>.ToArray()
+3. Array.AsList(list)
+4. Enumerable.ToArray(source)
+5. ListExtensions.ToArrary(list)

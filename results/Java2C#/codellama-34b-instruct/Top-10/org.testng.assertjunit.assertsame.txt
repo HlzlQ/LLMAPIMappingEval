@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely C# APIs for the Java API `org.testng.assertjunit.assertsame`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame`
+2. `NUnit.Framework.Assert.AreSame`
+3. `xunit.assert.Same`
+4. `FluentAssertions.AssertionExtensions.ShouldBeSameAs`
+5. `NSubstitute.ReceivedExtensions.Received`
+6. `Moq.Mock.Verify`
+7. `Machine.Specifications.It.ShouldBeTheSameAs`
+8. `JetBrains.dotTrace.Assertions.Assertion.AreSame`
+9. `Microsoft.VisualStudio.TestPlatform.UnitTestFramework.Assert.AreSame`
+10. `NUnitLite.Assert.AreSame`

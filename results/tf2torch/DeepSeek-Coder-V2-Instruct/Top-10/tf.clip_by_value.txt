@@ -1,0 +1,12 @@
+
+
+1. torch.clamp
+2. torch.nn.functional.relu
+3. torch.nn.functional.leaky_relu
+4. torch.nn.functional.prelu
+5. torch.nn.functional.elu
+6. torch.nn.functional.selu
+7. torch.nn.functional.gelu
+8. torch.nn.functional.silu
+9. torch.nn.functional.tanh
+10. torch.nn.functional.sigmoid

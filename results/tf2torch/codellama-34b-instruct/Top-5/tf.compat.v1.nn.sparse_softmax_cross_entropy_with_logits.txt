@@ -1,0 +1,5 @@
+  tf.nn.sparse_softmax_cross_entropy_with_logits
+  torch.nn.functional.cross_entropy
+  torch.nn.functional.nll_loss
+  torch.nn.functional.binary_cross_entropy
+  torch.nn.functional.multiclass_cross_entropy

@@ -1,0 +1,16 @@
+
+MXNet does not have a direct equivalent of `torch.nn.ConvTranspose3d`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Convolution`: This API performs a 2D or 3D convolution on an input array. You can set the `transpose` parameter to `True` to perform a transposed convolution.
+* `mxnet.ndarray.Deconvolution`: This API performs a 2D or 3D deconvolution on an input array. It is similar to `Convolution`, but it uses a different algorithm that can be more efficient for some types of inputs.
+
+Here's an example of how you might use these APIs:
+```
+import mxnet as mx
+
+# Create a 3D convolutional layer with a transposed convolution
+conv = mx.ndarray.Convolution(num_filters=16, kernel_size=(3, 3, 3), stride=(2, 2, 2), padding=(1, 1, 1), transpose=True)
+
+# Create a 3D deconvolutional layer
+deconv = mx.ndarray.Deconvolution(num_filters=16, kernel_size=(3, 3, 3), stride=(2, 2, 2), padding=(1, 1, 1))
+```

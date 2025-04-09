@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that are similar to the Java API `org.testng.assertjunit.assertnull`:
+
+1. NUnit.Framework.Assert.Null
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+3. Xunit.Assert.Null
+4. FluentAssertions.AssertionExtensions.Should().BeNull()
+5. NSubstitute.Received.InOrder(() => {})
+6. Moq.Mock.Verify(m => m.Method(), Times.Never())
+7. JUnit.Framework.Assert.assertNull
+8. TestNG.Assert.assertNull
+9. EasyMock.EasyMock.expectLastCall().andReturn(null)
+10. PowerMock.Mockito.when(mock.method()).thenReturn(null)

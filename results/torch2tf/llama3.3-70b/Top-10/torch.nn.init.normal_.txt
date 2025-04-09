@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.init.normal_`:
+
+1. tf.random.normal
+2. tf.initializers.RandomNormal
+3. tf.keras.initializers.RandomNormal
+4. tf.keras.initializers.TruncatedNormal
+5. tf.compat.v1.random_normal
+6. tf.compat.v1.truncated_normal
+7. tf.distributions.Normal
+8. tf.random.truncated_normal
+9. tf.keras.layers.Input(shape=[None], dtype='float32', normalizer=tf.keras.initializers.RandomNormal)
+10. tf.initializers.TruncatedNormal

@@ -1,0 +1,10 @@
+System.Collections.ArrayList.Remove
+System.Collections.Generic.List<T>.Remove
+System.Collections.ObjectModel.Collection<T>.Remove
+System.Collections.Specialized.StringCollection.Remove
+System.Web.UI.WebControls.ListView.DeleteItem
+System.Windows.Forms.BindingSource.RemoveAt
+System.Data.DataTable.Rows.RemoveAt
+System.Data.DataRowCollection.RemoveAt
+System.Xml.Linq.XContainer.RemoveNodes
+System.Xml.XmlNodeList.ItemOf[System.Int32].RemoveChild

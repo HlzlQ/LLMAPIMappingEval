@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Dirichlet`:
+
+1. torch.distributions.Dirichlet
+2. torch.distributions.Distribution
+3. torch.distributions.ConjugatePrior
+4. torch.distributions.transformed_distribution.TransformedDistribution
+5. torch.distributions.constraints.Constraint
+6. torch.distributions.utils.log_sum_exp
+7. torch.special.gammaln
+8. torch.special.betainc
+9. torch.special.beta
+10. torch.distributions.Beta

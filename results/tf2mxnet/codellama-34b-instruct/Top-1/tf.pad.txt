@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent function to `tf.pad` is `mxnet.ndarray.pad`.

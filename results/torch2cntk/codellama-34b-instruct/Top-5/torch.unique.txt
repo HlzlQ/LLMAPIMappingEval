@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the `torch.unique` PyTorch API:
+
+1. `cntk.unique`
+2. `cntk.ops.unique`
+3. `cntk.ops.unique_with_counts`
+4. `cntk.ops.unique_with_indices`
+5. `cntk.ops.unique_with_inverse`

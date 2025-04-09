@@ -1,0 +1,6 @@
+
+* cntk.initializer.HeNormal
+* cntk.initializer.GlorotNormal
+* cntk.initializer.XavierNormal
+* cntk.initializer.MSRANormal
+* cntk.initializer.KaimingNormal

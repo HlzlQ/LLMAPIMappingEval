@@ -1,0 +1,11 @@
+
+Answer: 1. tf.keras.losses.SparseCategoricalCrossentropy
+2. tf.keras.losses.CategoricalCrossentropy
+3. tf.nn.softmax_cross_entropy_with_logits
+4. tf.nn.sparse_softmax_cross_entropy_with_logits
+5. tf.nn.softmax_cross_entropy_with_logits_v2
+6. tf.keras.losses.CategoricalCrossentropy(from_logits=True)
+7. tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
+8. tf.nn.sparse_softmax_cross_entropy_with_logits_v2
+9. tf.nn.softmax_cross_entropy_with_logits_v2
+10. tf.keras.losses.CategoricalCrossentropy(from_logits=True)

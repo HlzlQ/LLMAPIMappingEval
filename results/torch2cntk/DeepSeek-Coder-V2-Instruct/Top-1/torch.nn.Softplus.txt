@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.softplus")
+<jupyter_output>
+CNTK.softplus

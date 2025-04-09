@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that are similar to the C# API `system.string.indexof`:
+
+1. `String.indexOf()`: This method returns the index within this string of the first occurrence of the specified substring, starting at the specified index.
+2. `String.lastIndexOf()`: This method returns the index within this string of the last occurrence of the specified substring.
+3. `String.contains()`: This method returns true if and only if this string contains the specified sequence of char values.
+4. `String.startsWith()`: This method tests if this string starts with the specified prefix.
+5. `String.endsWith()`: This method tests if this string ends with the specified suffix.
+6. `String.indexOf(int ch)`: This method returns the index within this string of the first occurrence of the specified character, starting at the specified index.
+7. `String.lastIndexOf(int ch)`: This method returns the index within this string of the last occurrence of the specified character.
+8. `String.indexOf(String str)`: This method returns the index within this string of the first occurrence of the specified substring, starting at the specified index.
+9. `String.lastIndexOf(String str)`: This method returns the index within this string of the last occurrence of the specified substring.
+10. `String.contains(CharSequence s)`: This method returns true if and only if this string contains the specified sequence of char values.

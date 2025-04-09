@@ -1,0 +1,5 @@
+java.nio.charset.Charset.encode
+java.nio.ByteBuffer.put
+java.nio.ByteBuffer.array
+java.nio.ByteBuffer.position
+java.nio.ByteBuffer.limit

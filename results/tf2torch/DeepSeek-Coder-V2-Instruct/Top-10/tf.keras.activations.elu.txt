@@ -1,0 +1,12 @@
+
+
+1. torch.nn.ELU
+2. torch.nn.LeakyReLU
+3. torch.nn.PReLU
+4. torch.nn.RReLU
+5. torch.nn.Sigmoid
+6. torch.nn.Tanh
+7. torch.nn.Softmax
+8. torch.nn.LogSoftmax
+9. torch.nn.ReLU
+10. torch.nn.GELU

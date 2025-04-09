@@ -1,0 +1,5 @@
+1. java.lang.String.startsWith()
+2. java.lang.String.regionMatches()
+3. java.util.regex.Pattern.matches()
+4. java.lang.String.indexOf()
+5. org.apache.commons.lang3.StringUtils.startsWith()

@@ -1,0 +1,7 @@
+  BatchNorm1d is a layer in both PyTorch and MXNet that normalizes the activations of a neural network. Here are the five most likely MXNet APIs with the same functionality as PyTorch's BatchNorm1d:
+
+  1. mxnet.gluon.nn.BatchNorm
+2. mxnet.gluon.nn.InstanceNorm
+3. mxnet.gluon.nn.LayerNorm
+4. mxnet.gluon.nn.GroupNorm
+5. mxnet.gluon.nn.WeightedNorm

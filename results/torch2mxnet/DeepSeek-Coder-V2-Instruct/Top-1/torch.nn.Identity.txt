@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet equivalent for torch.nn.Identity
+"mxnet.gluon.nn.Identity"
+<jupyter_output>
+<empty_output>

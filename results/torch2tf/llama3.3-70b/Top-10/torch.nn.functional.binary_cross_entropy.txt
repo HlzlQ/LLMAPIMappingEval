@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.binary_cross_entropy`:
+
+1. tf.keras.losses.BinaryCrossentropy
+2. tf.reduce_mean(tf.keras.losses.binary_crossentropy)
+3. tf.losses.binary_crossentropy
+4. tf.metrics.binary_crossentropy
+5. tf.keras.backend.binary_crossentropy
+6. tf.compat.v1.losses.sigmoid_cross_entropy
+7. tf.nn.sigmoid_cross_entropy_with_logits
+8. tf.keras.losses.get('binary_crossentropy')
+9. tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits)
+10. tf.keras.losses.BinaryCrossentropy(from_logits=True)

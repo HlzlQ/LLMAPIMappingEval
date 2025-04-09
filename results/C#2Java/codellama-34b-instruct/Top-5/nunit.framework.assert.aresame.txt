@@ -1,0 +1,9 @@
+The C# API `nunit.framework.assert.aresame` is used for asserting that two objects refer to the same instance. The equivalent Java API for this functionality is `org.junit.Assert.assertSame`.
+
+Here are five other APIs in Java that have similar functionality:
+
+1. `org.junit.Assert.assertEquals`: This method asserts that two objects are equal, but it does not check whether they refer to the same instance.
+2. `org.junit.Assert.assertNotSame`: This method asserts that two objects do not refer to the same instance.
+3. `org.junit.Assert.assertTrue`: This method asserts that a condition is true, and it can be used to check whether two objects refer to the same instance by using the `==` operator.
+4. `org.junit.Assert.assertFalse`: This method asserts that a condition is false, and it can be used to check whether two objects do not refer to the same instance by using the `!=` operator.
+5. `org.junit.Assert.assertThat`: This method asserts that an object matches a certain condition, which can be specified using a Hamcrest matcher. It can be used to check whether two objects refer to the same instance by using the `sameInstance` matcher.

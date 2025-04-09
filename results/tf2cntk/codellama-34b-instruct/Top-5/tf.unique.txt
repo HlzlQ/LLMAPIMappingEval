@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow `unique` function:
+
+1. `cntk.ops.unique`
+2. `cntk.ops.unique_with_counts`
+3. `cntk.ops.unique_with_indices`
+4. `cntk.ops.unique_with_inverse`
+5. `cntk.ops.unique_with_inverse_and_counts`

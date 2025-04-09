@@ -1,0 +1,7 @@
+
+
+1. mxnet.ndarray.unique
+2. mxnet.symbol.unique
+3. mxnet.gluon.nn.Unique
+4. mxnet.ndarray.sort
+5. mxnet.symbol.sort

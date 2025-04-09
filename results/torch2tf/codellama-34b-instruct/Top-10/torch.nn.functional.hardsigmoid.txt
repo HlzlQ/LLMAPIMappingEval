@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.nn.functional.hardsigmoid`:
+
+1. `tf.keras.layers.HardSigmoid`
+2. `tf.keras.activations.hard_sigmoid`
+3. `tf.nn.hard_sigmoid`
+4. `tf.nn.relu6`
+5. `tf.nn.leaky_relu`
+6. `tf.nn.softmax`
+7. `tf.keras.layers.Softmax`
+8. `tf.keras.activations.softmax`
+9. `tf.nn.sigmoid`
+10. `tf.keras.activations.sigmoid`

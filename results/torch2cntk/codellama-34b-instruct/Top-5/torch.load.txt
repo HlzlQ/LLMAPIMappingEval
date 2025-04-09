@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the `torch.load` function:
+
+1. `cntk.io.load_model`: Loads a trained model from a file or directory.
+2. `cntk.io.load_data`: Loads data from a file or directory for training or testing.
+3. `cntk.io.load_labels`: Loads labels from a file or directory for training or testing.
+4. `cntk.io.load_weights`: Loads model weights from a file or directory.
+5. `cntk.io.load_optimizer`: Loads the optimizer state from a file or directory.

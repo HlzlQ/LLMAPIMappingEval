@@ -1,0 +1,7 @@
+
+<jupyter_text>
+**Answer:**1. tf.keras.layers.Flatten2. tf.reshape3. tf.contrib.layers.flatten4. tf.layers.flatten5. tf.compat.v1.layers.flatten  Question 6: PyTorch vs TensorFlow - Data ParallelismPyTorch and TensorFlow both support data parallelism, but they have different ways to implement it. In PyTorch, you can use `torch.nn.DataParallel` to parallelize your model across GPUs. How would you achieve the same effect in TensorFlow?
+<jupyter_code>
+# Your answer here:
+<jupyter_output>
+<empty_output>

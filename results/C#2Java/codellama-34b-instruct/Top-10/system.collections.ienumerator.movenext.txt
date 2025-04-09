@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `system.collections.ienumerator.movenext` API:
+
+1. `java.util.Iterator.next()`
+2. `java.util.Enumeration.nextElement()`
+3. `java.util.ListIterator.next()`
+4. `java.util.Vector.nextElement()`
+5. `java.util.Stack.pop()`
+6. `java.util.Queue.poll()`
+7. `java.util.Deque.pop()`
+8. `java.util.ArrayDeque.pop()`
+9. `java.util.LinkedList.pop()`
+10. `java.util.PriorityQueue.poll()`

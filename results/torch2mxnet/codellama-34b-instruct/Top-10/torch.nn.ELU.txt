@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.ELU | mxnet.ndarray.elu |
+  | torch.nn.ReLU | mxnet.ndarray.relu |
+  | torch.nn.Sigmoid | mxnet.ndarray.sigmoid |
+  | torch.nn.Tanh | mxnet.ndarray.tanh |
+  | torch.nn.Softmax | mxnet.ndarray.softmax |
+  | torch.nn.LogSoftmax | mxnet.ndarray.log_softmax |
+  | torch.nn.Dropout | mxnet.ndarray.dropout |
+  | torch.nn.BatchNorm1d | mxnet.ndarray.batch_norm |
+  | torch.nn.Conv2d | mxnet.ndarray.conv2d |
+  | torch.nn.MaxPool2d | mxnet.ndarray.max_pool2d |

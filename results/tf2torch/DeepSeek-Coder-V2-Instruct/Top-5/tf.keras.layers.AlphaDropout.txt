@@ -1,0 +1,2 @@
+
+Answer: Dropout, SpatialDropout2D, AlphaDropout, GaussianNoise, GaussianDropout

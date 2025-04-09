@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.optim.SGD`:
+
+1. `cntk.learners.sgd`
+2. `cntk.trainers.sgd`
+3. `cntk.optimizers.sgd`
+4. `cntk.learners.stochastic_gradient_descent`
+5. `cntk.trainers.stochastic_gradient_descent`

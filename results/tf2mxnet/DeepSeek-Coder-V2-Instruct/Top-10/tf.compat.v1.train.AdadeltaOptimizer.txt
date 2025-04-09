@@ -1,0 +1,12 @@
+
+
+1. mxnet.optimizer.Adadelta
+2. mxnet.optimizer.SGD
+3. mxnet.optimizer.Adam
+4. mxnet.optimizer.RMSProp
+5. mxnet.optimizer.Lars
+6. mxnet.optimizer.NAG
+7. mxnet.optimizer.Momentum
+8. mxnet.optimizer.Adamax
+9. mxnet.optimizer.Adagrad
+10. mxnet.optimizer.Ftrl

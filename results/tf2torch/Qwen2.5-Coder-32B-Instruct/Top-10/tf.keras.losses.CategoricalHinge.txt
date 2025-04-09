@@ -1,0 +1,10 @@
+torch.nn.functional.hinge_embedding_loss  
+torch.nn.functional.margin_ranking_loss  
+torch.nn.functional.cosine_embedding_loss  
+torch.nn.functional.multi_margin_loss  
+torch.nn.functional.triplet_margin_loss  
+torch.nn.functional.triplet_margin_with_distance_loss  
+torch.nn.functional.smooth_l1_loss  
+torch.nn.functional.l1_loss  
+torch.nn.functional.mse_loss  
+torch.nn.functional.kl_div

@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that correspond to the PyTorch API `torch.no_grad`:
+
+1. `tf.GradientTape(persistent=False)`: This creates a gradient tape that is not persistent, meaning it will only record gradients for the current iteration and then discard them.
+2. `tf.GradientTape(stop_gradient=True)`: This creates a gradient tape that stops recording gradients after the first iteration.
+3. `tf.GradientTape(persistent=False, stop_gradient=True)`: This creates a gradient tape that is not persistent and stops recording gradients after the first iteration.
+4. `tf.GradientTape(persistent=False, record_gradients=False)`: This creates a gradient tape that is not persistent and does not record any gradients.
+5. `tf.GradientTape(stop_gradient=True, record_gradients=False)`: This creates a gradient tape that stops recording gradients after the first iteration and does not record any gradients.

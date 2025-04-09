@@ -1,0 +1,5 @@
+1. java.util.HashSet.add
+2. java.util.LinkedHashSet.add
+3. java.util.TreeSet.add
+4. java.util.concurrent.ConcurrentHashMap.putIfAbsent
+5. java.util.concurrent.CopyOnWriteArraySet.add

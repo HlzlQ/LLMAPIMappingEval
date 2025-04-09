@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings:
+
+1. torch.nn.init.constant_
+2. torch.tensor
+3. torch.ones
+4. torch.zeros
+5. torch.full

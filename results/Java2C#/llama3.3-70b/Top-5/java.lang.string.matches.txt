@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Regex.IsMatch
+System.Text.RegularExpressions.Regex.Matches
+Microsoft.VisualBasic.CompilerServices.Operators.LikeString
+System.Text.RegularExpressions.MatchCollection
+System.Text.RegularExpressions.Matcher

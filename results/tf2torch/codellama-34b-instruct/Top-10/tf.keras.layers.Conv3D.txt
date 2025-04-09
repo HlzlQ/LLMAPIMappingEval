@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Conv3D`:
+
+1. `torch.nn.Conv3d`
+2. `torch.nn.ConvTranspose3d`
+3. `torch.nn.MaxPool3d`
+4. `torch.nn.AvgPool3d`
+5. `torch.nn.AdaptiveMaxPool3d`
+6. `torch.nn.AdaptiveAvgPool3d`
+7. `torch.nn.BatchNorm3d`
+8. `torch.nn.InstanceNorm3d`
+9. `torch.nn.GroupNorm3d`
+10. `torch.nn.LayerNorm3d`

@@ -1,0 +1,10 @@
+1. System.String.IndexOf
+2. System.Text.StringBuilder.IndexOf
+3. System.String.LastIndexOf
+4. System.Text.StringBuilder.LastIndexOf
+5. System.String.IndexOfAny
+6. System.Text.StringBuilder.IndexOfAny
+7. System.String.LastIndexOfAny
+8. System.Text.StringBuilder.LastIndexOfAny
+9. System.String.IndexOfMethod
+10. Microsoft.VisualBasic.Strings.InStr

@@ -1,0 +1,5 @@
+1. org.junit.jupiter.api.Assertions.assertNull
+2. org.junit.Assert.assertNull
+3. ch.qos.logback.core.util.Assert
+4. javax.validation.constraints.Null
+5. org.testng.Assert.assertNull

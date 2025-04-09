@@ -1,0 +1,5 @@
+tf.keras.losses.CategoricalCrossentropy  
+tf.nn.ctc_loss_v2  
+tf.nn.ctc_loss  
+tf.keras.backend.ctc_batch_cost  
+tf.compat.v1.nn.ctc_loss

@@ -1,0 +1,10 @@
+torch.nn.functional.log_softmax  
+torch.log_softmax  
+torch.nn.LogSoftmax  
+torch.nn.functional.softmax  
+torch.nn.Softmax  
+torch.exp  
+torch.log  
+torch.nn.functional.cross_entropy  
+torch.nn.CrossEntropyLoss  
+torch.nn.functional.nll_loss

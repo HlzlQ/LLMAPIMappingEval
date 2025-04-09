@@ -1,0 +1,2 @@
+
+MXNet_API = "softmax_cross_entropy"

@@ -1,0 +1,12 @@
+
+
+```python
+import cntk as C
+```
+Answer: ```python
+C.no_gradient
+C.replace_placeholders
+C.trainable_parameters
+C.default_options
+C.combine
+```

@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that match the functionality of `system.collections.immutable.immutablelist.contains`:
+
+1. `java.util.List.contains(Object o)`
+2. `java.util.ArrayList.contains(Object o)`
+3. `java.util.LinkedList.contains(Object o)`
+4. `java.util.Vector.contains(Object o)`
+5. `java.util.Stack.contains(Object o)`
+6. `java.util.Queue.contains(Object o)`
+7. `java.util.PriorityQueue.contains(Object o)`
+8. `java.util.concurrent.CopyOnWriteArrayList.contains(Object o)`
+9. `java.util.concurrent.ConcurrentLinkedDeque.contains(Object o)`
+10. `java.util.concurrent.ConcurrentSkipListSet.contains(Object o)`

@@ -1,0 +1,10 @@
+torch.unique
+torch.unique_consecutive
+torch.Tensor.unique
+torch.Tensor.unique_consecutive
+torch.nn.functional.unique
+torch.nn.functional.unique_consecutive
+torch.utils.data.unique
+torch.utils.data.unique_consecutive
+torch.sparse.unique
+torch.sparse.unique_consecutive

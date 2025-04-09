@@ -1,0 +1,13 @@
+
+Here are ten TensorFlow APIs that correspond to the PyTorch API `torch.distributions.normal.Normal`:
+
+1. `tf.random.normal`
+2. `tf.random.truncated_normal`
+3. `tf.random.uniform`
+4. `tf.random.exponential`
+5. `tf.random.gamma`
+6. `tf.random.poisson`
+7. `tf.random.binomial`
+8. `tf.random.negative_binomial`
+9. `tf.random.geometric`
+10. `tf.random.hypergeometric`

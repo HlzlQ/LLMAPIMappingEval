@@ -1,0 +1,11 @@
+
+Answer: 1. nn.CrossEntropyLoss
+2. F.binary_crossentropy
+3. F.mse_loss
+4. F.l1_loss
+5. F.smooth_l1_loss
+6. F.poisson_nll_loss
+7. F.cosine_embedding_loss
+8. F.huber_loss
+9. F.kl_div
+10. F.categorical_crossentropy

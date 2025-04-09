@@ -1,0 +1,5 @@
+System.IO.StreamReader.Read
+System.IO.StreamReader.ReadToEnd
+System.IO.StreamReader.ReadLine
+System.IO.StreamReader.Peek
+System.IO.StreamReader.ReadBlock

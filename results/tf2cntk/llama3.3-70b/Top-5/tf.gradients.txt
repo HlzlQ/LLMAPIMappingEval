@@ -1,0 +1,5 @@
+1. cntk.grad
+2. cntk.training_parameter_l2_per_sample_gradient
+3. cntk.sequence.gradients
+4. cntk.layers.Parameter.gradient
+5. cntk.ops.grad

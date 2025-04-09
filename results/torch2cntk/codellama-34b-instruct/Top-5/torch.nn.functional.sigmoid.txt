@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.sigmoid`:
+
+1. `cntk.ops.sigmoid`
+2. `cntk.layers.activation.Sigmoid`
+3. `cntk.layers.ActivationLayer(cntk.ops.sigmoid)`
+4. `cntk.layers.Dense(cntk.ops.sigmoid, ...)`
+5. `cntk.layers.Sequential([cntk.layers.Dense(...), cntk.layers.Sigmoid()])`

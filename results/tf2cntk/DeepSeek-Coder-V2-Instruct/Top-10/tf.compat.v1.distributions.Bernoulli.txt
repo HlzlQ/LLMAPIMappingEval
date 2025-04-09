@@ -1,0 +1,5 @@
+
+
+```python
+cntk_bernoulli = ["Categorical", "Bernoulli", "Binomial", "Geometric", "NegativeBinomial", "Poisson", "Exponential", "Gamma", "Normal", "Uniform"]
+```

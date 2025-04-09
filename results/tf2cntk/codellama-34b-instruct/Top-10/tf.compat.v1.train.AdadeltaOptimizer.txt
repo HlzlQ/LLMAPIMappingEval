@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `AdadeltaOptimizer`:
+
+1. `cntk.learners.adadelta_learner`
+2. `cntk.learners.adadelta_sgd_learner`
+3. `cntk.learners.adadelta_momentum_learner`
+4. `cntk.learners.adadelta_nesterov_learner`
+5. `cntk.learners.adadelta_rmsprop_learner`
+6. `cntk.learners.adadelta_adagrad_learner`
+7. `cntk.learners.adadelta_adam_learner`
+8. `cntk.learners.adadelta_nadam_learner`
+9. `cntk.learners.adadelta_amsgrad_learner`
+10. `cntk.learners.adadelta_adabound_learner`

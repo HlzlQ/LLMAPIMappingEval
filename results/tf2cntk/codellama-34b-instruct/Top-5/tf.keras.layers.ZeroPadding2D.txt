@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for zero-padding a 2D tensor:
+
+1. `cntk.layers.ZeroPadding2D`
+2. `cntk.layers.Padding2D`
+3. `cntk.layers.ConstantPadding2D`
+4. `cntk.layers.ReflectPadding2D`
+5. `cntk.layers.ReplicatePadding2D`

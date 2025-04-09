@@ -1,0 +1,14 @@
+
+Here are the equivalent APIs for each function in TensorFlow:
+
+* `tf.split`: `mxnet.ndarray.split`
+* `tf.concat`: `mxnet.ndarray.concatenate`
+* `tf.expand_dims`: `mxnet.ndarray.expand_dims`
+* `tf.squeeze`: `mxnet.ndarray.squeeze`
+* `tf.reshape`: `mxnet.ndarray.reshape`
+* `tf.transpose`: `mxnet.ndarray.transpose`
+* `tf.gather`: `mxnet.ndarray.take`
+* `tf.scatter_nd`: `mxnet.ndarray.scatter_nd`
+* `tf.pad`: `mxnet.ndarray.pad`
+* `tf.unstack`: `mxnet.ndarray.unstack`
+* `tf.stack`: `mxnet.ndarray.stack`

@@ -1,0 +1,10 @@
+cntk.adadelta
+cntk.optimizers.adadelta
+cntk.learners.adadelta
+cntk.learner.adadelta
+cntk.training.adadelta
+cntk.train.adadelta
+cntk.trainer.adadelta
+cntk.optimizer.adadelta
+cntk.optimization.adadelta
+cntk.learning_rate_schedule.adadelta

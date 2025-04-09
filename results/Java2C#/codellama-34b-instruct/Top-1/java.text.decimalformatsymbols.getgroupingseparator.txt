@@ -1,0 +1,17 @@
+C# does not have an exact equivalent to the `java.text.DecimalFormatSymbols` class. However, you can use the `System.Globalization.NumberFormatInfo` class to achieve similar functionality in C#.
+
+The `GetGroupSeparator()` method in Java is used to get the character that is used as a group separator in numbers. In C#, you can use the `NumberFormatInfo.CurrencyGroupSeparator` property to get the same information.
+
+Here's an example of how you can use the `NumberFormatInfo.CurrencyGroupSeparator` property in C#:
+```
+using System.Globalization;
+
+// Get the current culture's NumberFormatInfo object
+NumberFormatInfo nfi = CultureInfo.CurrentCulture.NumberFormat;
+
+// Get the group separator character
+char groupSeparator = nfi.CurrencyGroupSeparator;
+
+Console.WriteLine("Group separator: {0}", groupSeparator);
+```
+This code will output the group separator character for the current culture, which is typically a comma (",") in many cultures.

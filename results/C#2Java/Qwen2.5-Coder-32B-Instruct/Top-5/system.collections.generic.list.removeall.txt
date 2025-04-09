@@ -1,0 +1,5 @@
+java.util.List.removeAll
+java.util.ArrayList.removeAll
+java.util.LinkedList.removeAll
+java.util.Vector.removeAll
+java.util.Stack.removeAll

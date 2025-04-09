@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.Dense`:
+
+1. mxnet.gluon.nn.Dense
+2. mxnet.ndarray.Dense
+3. mxnet.gluon.nn.FullyConnected
+4. mxnet.ndarray.FullyConnected
+5. mxnet.gluon.nn.Linear
+6. mxnet.ndarray.Linear
+7. mxnet.gluon.nn.Affine
+8. mxnet.ndarray.Affine
+9. mxnet.gluon.nn.InnerProduct
+10. mxnet.ndarray.InnerProduct

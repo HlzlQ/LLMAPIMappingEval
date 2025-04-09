@@ -1,0 +1,2 @@
+
+MXNet's equivalent of `tensorflow.compat.v1.nn.conv2d` is `mxnet.ndarray.Convolution`.

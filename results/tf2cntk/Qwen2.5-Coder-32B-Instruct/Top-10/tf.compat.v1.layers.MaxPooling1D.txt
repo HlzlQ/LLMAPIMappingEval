@@ -1,0 +1,10 @@
+cntk.layers.pooling.max_pooling
+cntk.layers.sequence.reduce_max
+cntk.layers.sequence.reduce_min
+cntk.layers.sequence.reduce_mean
+cntk.layers.sequence.reduce_sum
+cntk.layers.sequence.reduce_argmax
+cntk.layers.sequence.reduce_argmin
+cntk.layers.sequence.reduce_logsumexp
+cntk.layers.sequence.reduce_prod
+cntk.layers.sequence.reduce_stable_logsumexp

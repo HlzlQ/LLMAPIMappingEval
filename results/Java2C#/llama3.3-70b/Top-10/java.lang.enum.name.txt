@@ -1,0 +1,10 @@
+1. System.Enum.GetName
+2. System.Enum.GetNames
+3. System.Reflection.Enum.GetName
+4. System.Type.GetEnumName
+5. System.Enum.ToString
+6. System.Enum.Parse
+7. System.Enum.GetValues
+8. System.Reflection.FieldInfo.GetValue
+9. System.Enum.IsDefined
+10. System.Enum.Format

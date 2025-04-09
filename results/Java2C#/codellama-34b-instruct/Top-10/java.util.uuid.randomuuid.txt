@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Guid.NewGuid()
+2. Guid.NewGuid()
+3. UUID.RandomUUID()
+4. java.util.UUID.randomUUID()
+5. com.google.common.io.BaseEncoding.base64().encode(java.util.UUID.randomUUID().toString().getBytes())
+6. org.apache.commons.codec.binary.Base64.encodeBase64URLSafeString(java.util.UUID.randomUUID().toString().getBytes())
+7. java.util.UUID.fromString(java.util.UUID.randomUUID().toString()).toString()
+8. com.google.common.hash.Hashing.goodFastHash(128).hashString(java.util.UUID.randomUUID().toString(), Charsets.UTF_8)
+9. org.apache.commons.codec.digest.DigestUtils.sha256Hex(java.util.UUID.randomUUID().toString())
+10. java.security.MessageDigest.getInstance("SHA-256").digest(java.util.UUID.randomUUID().toString().getBytes())

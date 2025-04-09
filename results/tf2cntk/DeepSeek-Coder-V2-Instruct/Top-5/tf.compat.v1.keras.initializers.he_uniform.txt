@@ -1,0 +1,21 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Import necessary modules from CNTK
+from cntk import initializers
+```
+
+```python
+# Map TensorFlow API to CNTK API
+tensorflow_to_cntk = {
+    'tensorflow.compat.v1.keras.initializers.he_uniform': initializers.HeUniformInitializer
+}
+```
+
+```python
+# Output the names of the 5 APIs that are most likely ones
+print([key for key in tensorflow_to_cntk.keys()][:5])
+```

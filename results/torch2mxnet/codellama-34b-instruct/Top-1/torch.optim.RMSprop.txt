@@ -1,0 +1,2 @@
+
+MXNet's equivalent of torch.optim.RMSprop is mxnet.optimizer.RMSProp.

@@ -1,0 +1,2 @@
+
+tf.nn.log_softmax

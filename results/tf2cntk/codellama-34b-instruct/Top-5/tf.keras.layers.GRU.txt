@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.GRU`:
+
+1. `cntk.layers.RecurrentBlock`
+2. `cntk.layers.LSTM`
+3. `cntk.layers.GRU`
+4. `cntk.layers.RNN`
+5. `cntk.layers.Sequential`

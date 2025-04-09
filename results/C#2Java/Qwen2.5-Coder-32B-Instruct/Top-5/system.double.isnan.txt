@@ -1,0 +1,5 @@
+java.lang.Double.isNaN  
+java.lang.Float.isNaN  
+java.math.BigDecimal.isNaN  
+java.math.BigInteger.isProbablePrime (not exactly equivalent but related)  
+java.util.Objects.isNull (not exactly equivalent but related)

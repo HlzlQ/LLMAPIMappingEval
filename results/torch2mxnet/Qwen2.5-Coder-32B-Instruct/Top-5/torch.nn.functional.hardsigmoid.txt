@@ -1,0 +1,5 @@
+mxnet.ndarray.Activation
+mxnet.symbol.Activation
+mxnet.gluon.nn.HardSigmoid
+mxnet.ndarray.hardsigmoid
+mxnet.symbol.hardsigmoid

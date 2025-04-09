@@ -1,0 +1,8 @@
+
+Answer: ```plaintext
+mxnet.initializer.Eye
+mxnet.init.eye
+mxet.ndarray.eye
+mxnet.random.uniform
+mxnet.random.normal
+```

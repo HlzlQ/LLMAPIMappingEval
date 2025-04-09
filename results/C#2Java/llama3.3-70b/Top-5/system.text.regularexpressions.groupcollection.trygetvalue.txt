@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.text.regularexpressions.groupcollection.trygetvalue`:
+
+1. java.util.regex.Matcher.group()
+2. java.util.regex.Matcher.groupCount()
+3. java.util.regex.Matcher.start()
+4. java.util.regex.Matcher.end()
+5. org.apache.commons.lang3.StringUtils.substringBetween()

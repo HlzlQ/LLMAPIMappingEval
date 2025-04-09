@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.collections.generic.sortedlist.get`:
+
+1. `java.util.SortedMap.get`
+2. `java.util.TreeMap.get`
+3. `java.util.NavigableMap.get`
+4. `java.util.ConcurrentSkipListMap.get`
+5. `java.util.Collections.binarySearch`
+6. `java.util.Arrays.binarySearch`
+7. `java.util.ArrayList.indexOf`
+8. `java.util.LinkedList.indexOf`
+9. `java.util.Vector.indexOf`
+10. `java.util.Stack.peek`

@@ -1,0 +1,5 @@
+cntk.layers.Embedding
+cntk.ops.embedding_parameter
+cntk.layers.Dense
+cntk.layers.Sequential
+cntk.layers.FunctionalBlock

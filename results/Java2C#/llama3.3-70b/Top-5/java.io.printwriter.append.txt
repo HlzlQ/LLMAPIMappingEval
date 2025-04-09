@@ -1,0 +1,5 @@
+1. System.IO.StreamWriter.Write
+2. System.IO.TextWriter.Append
+3. System.Console.Out.WriteLine
+4. System.IO.StringWriter.Write
+5. System.IO.File.AppendText

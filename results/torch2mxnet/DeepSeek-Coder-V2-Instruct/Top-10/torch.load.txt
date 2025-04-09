@@ -1,0 +1,21 @@
+
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+
+# Example usage:
+# Load a model from a file
+model = mx.nd.load('model.params')
+```
+
+Answer: 1. `mx.nd.save`
+2. `mx.nd.load`
+3. `mx.gluon.nn.Block.save_parameters`
+4. `mx.gluon.nn.Block.load_parameters`
+5. `mx.model.load_checkpoint`
+6. `mx.model.save_checkpoint`
+7. `mxnet.contrib.onnx.export_model`
+8. `mxnet.contrib.onnx.import_model`
+9. `mxnet.ndarray.save`
+10. `mxnet.ndarray.load`

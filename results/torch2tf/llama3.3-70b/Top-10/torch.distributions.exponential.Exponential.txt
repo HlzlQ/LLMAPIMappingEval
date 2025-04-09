@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent TensorFlow APIs for `torch.distributions.exponential.Exponential`:
+
+1. tf.distributions.Exponential
+2. tfp.distributions.Exponential
+3. tf.random.exponential
+4. tf.math.exp
+5. tfp.bijectors.Exp
+6. tfp.distributions.LogNormal
+7. tfp.distributions.Gamma
+8. tfp.distributions.InverseGamma
+9. tfp.distributions.Weibull
+10. tfp.distributions.Rayleigh

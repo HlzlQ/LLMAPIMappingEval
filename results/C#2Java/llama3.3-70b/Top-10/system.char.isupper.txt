@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.char.isupper` in C#:
+
+1. java.lang.Character.isUpperCase
+2. java.lang.String.toUpperCase
+3. java.lang.String.equalsIgnoreCase
+4. java.lang.Character.isLetter
+5. java.lang.Character.isDigit
+6. java.lang.String.toLowerCase
+7. java.lang.Character.isWhitespace
+8. java.lang.String.regionMatches
+9. java.lang.Character.isJavaIdentifierStart
+10. java.lang.Character.isJavaIdentifierPart

@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to the `java.lang.String.substring()` method. However, you can use the `Substring()` method in C# to achieve similar functionality.

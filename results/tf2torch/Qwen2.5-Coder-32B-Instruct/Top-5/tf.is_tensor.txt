@@ -1,0 +1,5 @@
+torch.is_tensor  
+torch.Tensor.is_tensor  
+torch.tensor.is_tensor  
+torch.as_tensor.is_tensor  
+torch.from_numpy.is_tensor

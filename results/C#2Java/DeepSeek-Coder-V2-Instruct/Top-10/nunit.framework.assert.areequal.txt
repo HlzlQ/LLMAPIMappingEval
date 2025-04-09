@@ -1,0 +1,10 @@
+1. org.junit.jupiter.api.Assertions.assertEquals
+2. org.junit.Assert.assertEquals
+3. org.testng.Assert.assertEquals
+4. ch.qos.logback.core.rolling.helper.FileSize.equals
+5. java.util.Objects.equals
+6. java.lang.String.equals
+7. javax.xml.transform.Source.equals
+8. org.w3c.dom.Node.isEqualNode
+9. org.apache.commons.lang3.builder.EqualsBuilder.append
+10. org.hamcrest.core.IsEqual.equalTo

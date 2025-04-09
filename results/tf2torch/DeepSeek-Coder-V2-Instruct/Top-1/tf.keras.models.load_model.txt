@@ -1,0 +1,5 @@
+
+```python
+model = tensorflow.keras.models.load_model('path/to/my_model')
+```
+Answer: torch.hub.load

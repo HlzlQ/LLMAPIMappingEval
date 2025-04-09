@@ -1,0 +1,10 @@
+mxnet.gluon.prob.Exponential
+mxnet.ndarray.random.exponential
+mxnet.symbol.random.exponential
+mxnet.ndarray.random.gamma
+mxnet.symbol.random.gamma
+mxnet.ndarray.random.poisson
+mxnet.symbol.random.poisson
+mxnet.ndarray.random.wald
+mxnet.symbol.random.wald
+mxnet.ndarray.random.lognormal

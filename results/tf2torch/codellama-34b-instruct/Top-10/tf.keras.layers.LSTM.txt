@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow LSTM API:
+
+1. torch.nn.LSTM
+2. torch.nn.RNN
+3. torch.nn.GRU
+4. torch.nn.LSTMCell
+5. torch.nn.RNNCell
+6. torch.nn.GRUCell
+7. torch.nn.LSTMModule
+8. torch.nn.RNNModule
+9. torch.nn.GRUModule
+10. torch.nn.LSTMLayer

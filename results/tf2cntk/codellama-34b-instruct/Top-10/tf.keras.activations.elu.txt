@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.elu`:
+
+1. `cntk.layers.ELU`
+2. `cntk.layers.LeakyReLU`
+3. `cntk.layers.PReLU`
+4. `cntk.layers.ParametricReLU`
+5. `cntk.layers.Softplus`
+6. `cntk.layers.Swish`
+7. `cntk.layers.Sigmoid`
+8. `cntk.layers.Tanh`
+9. `cntk.layers.HardSigmoid`
+10. `cntk.layers.HardTanh`

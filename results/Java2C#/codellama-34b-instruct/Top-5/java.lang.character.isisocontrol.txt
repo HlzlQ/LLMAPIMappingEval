@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Char.IsISOControl()`
+2. `System.Text.RegularExpressions.Regex.IsMatch(string input, string pattern)`
+3. `System.Globalization.UnicodeCategory.IsISOControl()`
+4. `System.String.IsNullOrEmpty()`
+5. `System.Char.IsWhiteSpace()`

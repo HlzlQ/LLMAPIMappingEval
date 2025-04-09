@@ -1,0 +1,10 @@
+mxnet.gluon.nn.PReLU  
+mxnet.ndarray.Activation  
+mxnet.symbol.Activation  
+mxnet.gluon.nn.LeakyReLU  
+mxnet.ndarray.leaky_relu  
+mxnet.symbol.leaky_relu  
+mxnet.gluon.nn.ELU  
+mxnet.ndarray.elu  
+mxnet.symbol.elu  
+mxnet.gluon.nn.SwishActivation

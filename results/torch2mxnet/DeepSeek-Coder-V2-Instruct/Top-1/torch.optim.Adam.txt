@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: mxnet.optimizer.adam
+<jupyter_output>
+<empty_output>

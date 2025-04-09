@@ -1,0 +1,5 @@
+  Math.Log(double a)
+Math.Log10(double a)
+Math.Log(double a, double newBase)
+Math.Log2(double a)
+Math.Log1p(double a)

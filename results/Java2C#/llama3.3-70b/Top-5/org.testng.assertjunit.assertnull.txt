@@ -1,0 +1,5 @@
+1. System.Diagnostics.Debug.Assert
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+3. NUnit.Framework.Assert.Null
+4. FluentAssertions.Primitives.NullableObjectAssertions.ShouldBeNull
+5. xunit.assert.Null

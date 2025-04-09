@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.activations.tanh`:
+
+1. `torch.nn.functional.tanh`
+2. `torch.nn.modules.activation.Tanh`
+3. `torch.nn.modules.activation.HyperbolicTangent`
+4. `torch.nn.modules.activation.Sigmoid`
+5. `torch.nn.modules.activation.ReLU`
+6. `torch.nn.modules.activation.LeakyReLU`
+7. `torch.nn.modules.activation.Softmax`
+8. `torch.nn.modules.activation.LogSoftmax`
+9. `torch.nn.modules.activation.SigmoidCrossEntropyWithLogits`
+10. `torch.nn.modules.activation.SoftmaxCrossEntropyWithLogits`

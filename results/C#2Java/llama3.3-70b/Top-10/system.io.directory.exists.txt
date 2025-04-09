@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.io.directory.exists` in C#:
+
+1. java.io.File.exists
+2. java.nio.file.Files.exists
+3. java.nio.file.Paths.get.exists
+4. java.io.Directory.exists
+5. java.nio.file.FileSystemProvider.checkAccess
+6. java.io.File.isDirectory
+7. java.nio.file.FileVisitor.visitFile
+8. java.io.File.list
+9. java.nio.file.Files.isReadable
+10. java.nio.file.Files.isDirectory

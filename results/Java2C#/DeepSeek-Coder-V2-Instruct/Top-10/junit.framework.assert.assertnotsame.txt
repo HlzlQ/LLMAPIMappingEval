@@ -1,0 +1,12 @@
+```csharp
+System.Object.ReferenceEquals
+System.String.Equals
+System.IEquatable<T>.Equals
+System.Collections.Generic.EqualityComparer<T>.Default.Equals
+System.Linq.Enumerable.SequenceEqual
+System.Guid.op_Equality
+System.DateTime.op_Equality
+System.TimeSpan.op_Equality
+System.ValueType.GetHashCode
+System.Object.GetHashCode
+```

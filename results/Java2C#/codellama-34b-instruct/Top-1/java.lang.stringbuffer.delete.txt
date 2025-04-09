@@ -1,0 +1,1 @@
+C# does not have an exact equivalent of the Java StringBuffer class. However, it has a similar class called StringBuilder which provides similar functionality. The delete method in C# can be used to remove characters from a string.

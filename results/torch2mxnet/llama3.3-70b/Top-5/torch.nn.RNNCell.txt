@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `torch.nn.RNNCell`:
+
+1. mxnet.ndarray.rnn.RNN
+2. mxnet.gluon.rnn.RNNCell
+3. mxnet.gluon.rnn.BasicRNNCell
+4. mxnet.gluon.rnn.LSTMCell
+5. mxnet.gluon.rnn.GRUCell

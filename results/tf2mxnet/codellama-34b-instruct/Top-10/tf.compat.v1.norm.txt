@@ -1,0 +1,10 @@
+  tf.nn.l2_normalize
+  tf.nn.local_response_normalization
+  tf.nn.sufficient_statistics
+  tf.nn.normalize_moments
+  tf.nn.batch_normalization
+  tf.nn.fused_batch_norm
+  tf.nn.batch_norm_with_global_normalization
+  tf.nn.layer_norm
+  tf.nn.instance_norm
+  tf.nn.group_norm

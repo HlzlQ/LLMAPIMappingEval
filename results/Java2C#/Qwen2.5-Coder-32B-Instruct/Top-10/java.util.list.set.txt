@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Insert  
+System.Collections.Generic.List<T>.RemoveAt  
+System.Collections.Generic.List<T>.Add  
+System.Collections.Generic.List<T>.Clear  
+System.Collections.Generic.List<T>.Contains  
+System.Collections.Generic.List<T>.IndexOf  
+System.Collections.Generic.List<T>.LastIndexOf  
+System.Collections.Generic.List<T>.Remove  
+System.Collections.Generic.List<T>.RemoveAll  
+System.Collections.Generic.List<T>.Sort

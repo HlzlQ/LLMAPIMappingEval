@@ -1,0 +1,5 @@
+1. System.Data.IDataReader.GetLong
+2. System.Data.Common.DbDataReader.GetLong
+3. Microsoft.Data.SqlClient.SqlDataReader.GetLong
+4. System.Data.OleDb.OleDbDataReader.GetLong
+5. System.Data.SQLite.SQLiteDataReader.GetLong

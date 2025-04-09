@@ -1,0 +1,5 @@
+java.util.HashSet.iterator
+java.util.Set.iterator
+java.util.Collection.iterator
+java.lang.Iterable.iterator
+java.util.AbstractSet.iterator

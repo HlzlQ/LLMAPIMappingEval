@@ -1,0 +1,5 @@
+java.lang.System.getProperty
+java.lang.System.getenv
+java.lang.RuntimeMXBean.getSystemProperties
+java.lang.ProcessBuilder.environment
+java.lang.management.ManagementFactory.getEnvironmentProperties

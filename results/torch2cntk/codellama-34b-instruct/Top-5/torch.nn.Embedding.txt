@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `torch.nn.Embedding` API:
+
+1. `cntk.layers.Embedding`
+2. `cntk.layers.EmbeddingLayer`
+3. `cntk.layers.EmbeddingBlock`
+4. `cntk.layers.EmbeddingWithMasking`
+5. `cntk.layers.EmbeddingWithPadding`

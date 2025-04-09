@@ -1,0 +1,7 @@
+  The C# API "system.data.sqlclient.sqldatareader.getboolean" can be mapped to the following Java APIs:
+
+1. java.sql.ResultSet.getBoolean()
+2. java.sql.ResultSet.getObject(int, Class<T>)
+3. java.sql.ResultSet.getObject(String, Class<T>)
+4. java.sql.ResultSet.getByte(int)
+5. java.sql.ResultSet.getShort(int)

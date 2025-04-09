@@ -1,0 +1,5 @@
+1. System.Xml.Serialization.XmlSerializer
+2. System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+3. System.IO.StreamWriter.Close
+4. System.Xml.XmlWriter.Close
+5. System.IO.TextWriter.Close

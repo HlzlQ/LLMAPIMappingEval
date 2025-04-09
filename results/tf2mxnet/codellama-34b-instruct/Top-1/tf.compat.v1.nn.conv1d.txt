@@ -1,0 +1,22 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.nn.conv1d`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Convolution`: This API performs a 1D convolution on a 3D input array. It takes the input array, the filter weights, and the bias vector as arguments.
+* `mxnet.ndarray.convolve`: This API is similar to `Convolution`, but it takes the input array and the filter weights as arguments, and returns the output of the convolution operation.
+
+Here's an example of how you can use these APIs to perform a 1D convolution in MXNet:
+```scss
+import mxnet as mx
+
+# Create a random input array
+input_array = mx.nd.random.normal(shape=(3, 4, 5))
+
+# Create a random filter weights array
+filter_weights = mx.nd.random.normal(shape=(3, 2, 1))
+
+# Perform the convolution using Convolution API
+output = mx.ndarray.Convolution(input_array, filter_weights)
+
+# Perform the convolution using convolve API
+output = mx.ndarray.convolve(input_array, filter_weights)
+```

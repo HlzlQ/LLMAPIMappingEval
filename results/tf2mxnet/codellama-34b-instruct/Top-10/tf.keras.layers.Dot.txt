@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dot`:
+
+1. `mxnet.ndarray.dot`
+2. `mxnet.symbol.dot`
+3. `mxnet.operator.dot`
+4. `mxnet.tensor.dot`
+5. `mxnet.linalg.dot`
+6. `mxnet.matrix.dot`
+7. `mxnet.vector.dot`
+8. `mxnet.array.dot`
+9. `mxnet.ndarray.inner_product`
+10. `mxnet.ndarray.outer_product`

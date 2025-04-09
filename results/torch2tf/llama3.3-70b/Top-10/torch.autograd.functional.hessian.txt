@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that may have similar functionality to `torch.autograd.functional.hessian`:
+
+1. tf.gradients
+2. tf.hessians
+3. tf.gradient_tape
+4. tf.GradientTape
+5. tf.compute_gradient
+6. tf.compute_hessian
+7. tf.second_order_gradients
+8. tf.jacobian
+9. tf.batch_jacobian
+10. tf.vectorized_map

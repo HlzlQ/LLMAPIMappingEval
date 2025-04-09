@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.max_pool1d
+2. mxnet.symbol.max_pool1d
+3. mxnet.gluon.nn.MaxPool1D
+4. mxnet.gluon.nn.GlobalMaxPool1D
+5. mxnet.ndarray.contrib.BilinearResize2D
+6. mxnet.ndarray.contrib.DeformableConvolution
+7. mxnet.ndarray.contrib.ROIAlign
+8. mxnet.ndarray.contrib.SpatialTransformer
+9. mxnet.ndarray.contrib.Upsampling
+10. mxnet.ndarray.contrib.BilinearResize2D

@@ -1,0 +1,6 @@
+
+Answer: 1. cntk.ops.relu
+2. cntk.ops.times
+3. cntk.ops.plus
+4. cntk.ops.input_variable
+5. cntk.ops.placeholder

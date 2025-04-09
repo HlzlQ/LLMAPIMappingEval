@@ -1,0 +1,10 @@
+System.String.ToCharArray
+System.String.CopyTo
+System.Text.Encoding.GetBytes
+System.Buffer.BlockCopy
+System.Runtime.InteropServices.Marshal.Copy
+System.Array.Copy
+System.Span.CopyTo
+System.Memory.CopyTo
+System.ReadOnlySpan.CopyTo
+System.ReadOnlyMemory.CopyTo

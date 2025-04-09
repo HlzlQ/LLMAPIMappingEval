@@ -1,0 +1,1 @@
+cntk.ops.adaptive_average_pooling_2d

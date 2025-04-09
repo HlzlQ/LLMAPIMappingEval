@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.functional.huber_loss`:
+
+1. mxnet.ndarray.huber_loss
+2. mxnet.gluon.loss.HuberLoss
+3. mxnet.gluon.loss.L2Loss
+4. mxnet.gluon.loss.MSE
+5. mxnet.ndarray.L2Loss
+6. mxnet.ndarray.MSE
+7. mxnet.gluon.loss.SquaredL2Loss
+8. mxnet.gluon.loss.L1Loss
+9. mxnet.ndarray.huber_loss_scalar
+10. mxnet.gluon.loss.SmoothL1Loss

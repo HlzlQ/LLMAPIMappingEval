@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for gradient clipping:
+
+1. `tf.clip_by_value`
+2. `tf.clip_by_norm`
+3. `tf.clip_by_global_norm`
+4. `tf.clip_by_average_norm`
+5. `tf.clip_by_stddev`
+6. `tf.clip_by_variance`
+7. `tf.clip_by_range`
+8. `tf.clip_by_percentile`
+9. `tf.clip_by_iqr`
+10. `tf.clip_by_mad`

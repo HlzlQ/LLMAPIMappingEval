@@ -1,0 +1,10 @@
+tf.norm  
+tf.linalg.norm  
+tf.math.reduce_euclidean_norm  
+tf.math.reduce_l2_norm  
+tf.math.reduce_sum  
+tf.math.sqrt  
+tf.reduce_sum  
+tf.square  
+tf.sqrt  
+tf.pow

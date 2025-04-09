@@ -1,0 +1,14 @@
+C# does not have a direct equivalent to the Java StringBuilder class. However, you can use the System.Text.StringBuilder class in C# to perform similar operations as the Java StringBuilder class.
+
+Here is the mapping of some common methods between Java StringBuilder and C# System.Text.StringBuilder:
+
+| Java StringBuilder | C# System.Text.StringBuilder |
+| --- | --- |
+| append() | Append() |
+| delete() | Remove() |
+| insert() | Insert() |
+| replace() | Replace() |
+| reverse() | Reverse() |
+| toString() | ToString() |
+
+Note that the C# System.Text.StringBuilder class also has additional methods not found in the Java StringBuilder class, such as AppendFormat(), CopyTo(), and Remove().

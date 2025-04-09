@@ -1,0 +1,10 @@
+java.lang.Math.abs
+java.lang.StrictMath.abs
+java.math.BigInteger.abs
+java.math.BigDecimal.abs
+java.time.Duration.abs
+java.time.Period.abs
+java.awt.geom.Point2D.distanceSq
+java.awt.geom.Point2D.distance
+java.util.Comparator.comparingInt
+java.util.Comparator.comparingDouble

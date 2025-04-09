@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.IO.File.SetLastWriteTimeUtc` in C#:
+
+1. java.io.File.setLastModified
+2. java.nio.file.Files.setLastModifiedTime
+3. java.nio.file.Path.setLastModifiedTime
+4. java.io.File.setLastModifiedTime
+5. java.nio.file.attribute.BasicFileAttributes.setLastModifiedTime
+6. java.nio.file.attribute.FileTime.setLastModifiedTime
+7. java.io.FileSystem.setLastModifiedTime
+8. java.nio.file.spi.FileSystemProvider.setLastModifiedTime
+9. java.nio.file.Files.setAttribute
+10. java.nio.file.Path.setAttribute

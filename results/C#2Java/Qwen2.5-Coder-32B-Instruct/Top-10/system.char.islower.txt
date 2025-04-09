@@ -1,0 +1,10 @@
+java.lang.Character.isLowerCase
+java.lang.String.toLowerCase
+java.util.Locale.toLanguageTag
+java.text.Normalizer.normalize
+java.nio.charset.CharsetEncoder.canEncode
+java.io.OutputStreamWriter.write
+java.io.PrintWriter.write
+java.io.FileWriter.write
+java.io.BufferedWriter.write
+java.io.Writer.write

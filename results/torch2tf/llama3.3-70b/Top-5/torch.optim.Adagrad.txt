@@ -1,0 +1,5 @@
+1. tf.keras.optimizers.Adagrad
+2. tf.train.AdagradOptimizer
+3. tf.compat.v1.train.AdagradOptimizer
+4. tf.optimizers.Adagrad
+5. tf.keras.optimizers.AdagradV2

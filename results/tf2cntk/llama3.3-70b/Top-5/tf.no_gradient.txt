@@ -1,0 +1,5 @@
+1. cntk.stop_gradient
+2. cntk.times
+3. cntk.constant
+4. cntk.input_variable
+5. cntk.alias

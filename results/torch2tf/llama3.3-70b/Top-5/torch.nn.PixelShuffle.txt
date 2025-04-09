@@ -1,0 +1,5 @@
+1. tf.nn.depth_to_space
+2. tf.keras.layers.DepthToSpace
+3. tf.image.resize
+4. tf.compat.v1.keras.layers.UpSampling2D
+5. tf.keras.layers.UpSampling2D

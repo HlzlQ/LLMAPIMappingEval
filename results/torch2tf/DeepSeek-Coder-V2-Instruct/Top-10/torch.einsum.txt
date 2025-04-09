@@ -1,0 +1,12 @@
+
+
+1. tf.linalg.matmul
+2. tf.einsum
+3. tf.reduce_sum
+4. tf.math.reduce_sum
+5. tf.tensordot
+6. tf.einsum
+7. tf.keras.layers.Dense
+8. tf.reshape
+9. tf.transpose
+10. tf.expand_dims

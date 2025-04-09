@@ -1,0 +1,10 @@
+mxnet.gluon.Trainer.set_learning_rate
+mxnet.lr_scheduler.FactorScheduler
+mxnet.lr_scheduler.MultiFactorScheduler
+mxnet.lr_scheduler.PolyScheduler
+mxnet.lr_scheduler.CosineScheduler
+mxnet.lr_scheduler.LRScheduler
+mxnet.lr_scheduler.StepLR
+mxnet.lr_scheduler.ReduceLROnPlateau
+mxnet.lr_scheduler.ExponentialDecayScheduler
+mxnet.lr_scheduler.PowerScheduler

@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that correspond to the TensorFlow API `tensorflow.compat.v1.nn.rnn_cell.RNNCell`:
+
+1. `mxnet.rnn.RNNCell`
+2. `mxnet.rnn.BasicLSTMCell`
+3. `mxnet.rnn.BasicGRUCell`
+4. `mxnet.rnn.LSTMCell`
+5. `mxnet.rnn.GRUCell`
+6. `mxnet.rnn.RNNCellWithProjection`
+7. `mxnet.rnn.LSTMCellWithProjection`
+8. `mxnet.rnn.GRUCellWithProjection`
+9. `mxnet.rnn.RNNCellWithZoneout`
+10. `mxnet.rnn.LSTMCellWithZoneout`

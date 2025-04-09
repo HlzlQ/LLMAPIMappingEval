@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.functional.elu` -> `mxnet.ndarray.LeakyReLU`
+2. `torch.nn.ELU` -> `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+3. `torch.nn.ELU` -> `mxnet.gluon.Block`
+4. `torch.nn.ELU` -> `mxnet.ndarray.relu`
+5. `torch.nn.ELU` -> `mxnet.ndarray.LeakyReLU`
+6. `torch.nn.ELU` -> `mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss`
+7. `torch.nn.ELU` -> `mxnet.gluon.loss.L2Loss`
+8. `torch.nn.ELU` -> `mxnet.ndarray.sigmoid`
+9. `torch.nn.ELU` -> `mxnet.gluon.loss.HuberLoss`
+10. `torch.nn.ELU` -> `mxnet.gluon.loss.PoissonNLLLoss`

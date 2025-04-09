@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.optim.RMSprop | mxnet.optimizer.RMSProp |
+  | torch.optim.RMSprop.step | mxnet.optimizer.RMSProp.update |
+  | torch.optim.RMSprop.zero_grad | mxnet.optimizer.RMSProp.zero_grad |
+  | torch.optim.RMSprop.state_dict | mxnet.optimizer.RMSProp.get_states |
+  | torch.optim.RMSprop.load_state_dict | mxnet.optimizer.RMSProp.set_states |

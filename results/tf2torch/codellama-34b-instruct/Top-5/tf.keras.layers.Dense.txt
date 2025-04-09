@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dense`:
+
+1. `torch.nn.Linear`
+2. `torch.nn.Dense`
+3. `torch.nn.LinearLayer`
+4. `torch.nn.DenseLayer`
+5. `torch.nn.FullyConnectedLayer`

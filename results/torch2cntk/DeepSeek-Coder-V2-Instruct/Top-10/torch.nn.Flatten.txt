@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here (just write the names of the APIs)
+print("Reshape, Flatten, Transpose, ExpandDims, ReduceSum, ReduceMax, ReduceMean, Sum, Mean, Squeeze")
+<jupyter_output>
+Reshape, Flatten, Transpose, ExpandDims, ReduceSum, ReduceMax, ReduceMean, Sum, Mean, Squeeze

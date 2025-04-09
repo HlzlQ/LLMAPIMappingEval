@@ -1,0 +1,10 @@
+System.Collections.ArrayList.AddRange  
+System.Collections.Generic.List<T>.AddRange  
+System.Collections.ObjectModel.Collection<T>.AddRange  
+System.Collections.Specialized.StringCollection.AddRange  
+System.Windows.Forms.BindingSource.AddNew  
+System.Data.DataTable.LoadDataRow  
+System.Web.UI.WebControls.ListViewItemCollection.AddRange  
+System.Web.UI.WebControls.RepeaterItemCollection.AddRange  
+System.Web.UI.WebControls.TreeNodeCollection.AddRange  
+System.Web.UI.WebControls.XmlDataSource.SelectNodes

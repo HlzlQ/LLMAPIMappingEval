@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.init.uniform_`:
+
+1. `cntk.initializer.Uniform`
+2. `cntk.initializer.RandomUniform`
+3. `cntk.initializer.UniformDistribution`
+4. `cntk.initializer.UniformReal`
+5. `cntk.initializer.UniformInteger`
+6. `cntk.initializer.UniformBoolean`
+7. `cntk.initializer.UniformCategorical`
+8. `cntk.initializer.UniformDiscrete`
+9. `cntk.initializer.UniformContinuous`
+10. `cntk.initializer.UniformReal`

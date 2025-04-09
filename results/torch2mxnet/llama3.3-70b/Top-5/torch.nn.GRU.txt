@@ -1,0 +1,5 @@
+1. mxnet.gluon.rnn.GRU
+2. mxnet.ndarray.GRU
+3. mxnet.gluon.rnn.GRUCell
+4. mxnet.ndarray.GRUCell
+5. mxnet.gluon.contrib.rnn.GRU

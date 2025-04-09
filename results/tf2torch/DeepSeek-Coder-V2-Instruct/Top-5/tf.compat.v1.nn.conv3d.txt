@@ -1,0 +1,7 @@
+
+
+1. torch.nn.functional.conv3d
+2. torch.nn.Conv3d
+3. F.conv3d (assuming this is a typo or placeholder for the correct function)
+4. nn.Conv3d (if there's such a thing in PyTorch, it might be specific to some libraries or custom implementations)
+5. tf.compat.v1.nn.conv3d_transpose (since conv3d is mentioned and transpose convolution is related but not the same as 3D convolution)

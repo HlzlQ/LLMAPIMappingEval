@@ -1,0 +1,5 @@
+1. java.lang.Math.ceil
+2. java.math.BigDecimal.setScale
+3. java.lang.Math.round
+4. java.lang.StrictMath.ceil
+5. java.lang.Double.doubleToLongBits

@@ -1,0 +1,6 @@
+
+Answer: 1. nn.HingeEmbeddingLoss
+2. F.multilabel_margin_loss
+3. F.hinge_embedding_loss
+4. torch.nn.functional.hinge_embedding_loss
+5. torch.nn.functional.multi_margin_loss

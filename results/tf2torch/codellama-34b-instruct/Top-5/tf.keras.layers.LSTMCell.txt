@@ -1,0 +1,5 @@
+  tf.keras.layers.LSTMCell(units, activation='tanh', recurrent_activation='sigmoid', use_bias=True, kernel_initializer='glorot_uniform', recurrent_initializer='orthogonal', bias_initializer='zeros', unit_forget_bias=True, kernel_regularizer=None, recurrent_regularizer=None, bias_regularizer=None, dropout=0.0, recurrent_dropout=0.0, implementation=1)
+
+PyTorch equivalent:
+
+torch.nn.LSTMCell(input_size, hidden_size, num_layers=1, bias=True, batch_first=False, dropout=0, bidirectional=False)

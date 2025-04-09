@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to the TensorFlow API `tensorflow.compat.v1.distributions.Categorical`:
+
+1. `torch.distributions.Categorical`
+2. `torch.distributions.Multinomial`
+3. `torch.distributions.OneHotCategorical`
+4. `torch.distributions.RelaxedOneHotCategorical`
+5. `torch.distributions.Bernoulli`

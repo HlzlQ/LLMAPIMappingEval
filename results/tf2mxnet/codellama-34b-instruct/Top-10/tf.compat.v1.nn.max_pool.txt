@@ -1,0 +1,12 @@
+  tf.compat.v1.nn.max_pool is a TensorFlow API for max pooling layers. Here are ten MXNet APIs with similar functions:
+
+1. mxnet.ndarray.Pooling
+2. mxnet.symbol.Pooling
+3. mxnet.gluon.nn.MaxPool1D
+4. mxnet.gluon.nn.MaxPool2D
+5. mxnet.gluon.nn.MaxPool3D
+6. mxnet.ndarray.max_pooling
+7. mxnet.symbol.max_pooling
+8. mxnet.gluon.nn.MaxPooling1D
+9. mxnet.gluon.nn.MaxPooling2D
+10. mxnet.gluon.nn.MaxPooling3D

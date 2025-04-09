@@ -1,0 +1,5 @@
+torch.nn.Linear  
+torch.nn.Module  
+torch.nn.Parameter  
+torch.nn.functional.linear  
+torch.autograd.Variable

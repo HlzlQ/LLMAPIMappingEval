@@ -1,0 +1,10 @@
+
+Here are five possible PyTorch APIs that can be used for convolutional layers:
+
+1. torch.nn.Conv2d
+2. torch.nn.ConvTranspose2d
+3. torch.nn.Conv1d
+4. torch.nn.Conv3d
+5. torch.nn.Conv2dSame
+
+Note that the first four APIs are similar to TensorFlow's `tf.layers.conv2d` API, while the last one is a PyTorch-specific API for convolutional layers with the same padding as TensorFlow's `SAME` padding mode.

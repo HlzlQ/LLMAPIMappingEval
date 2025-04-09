@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for batch normalization in a 1D convolutional layer:
+
+1. `tf.keras.layers.BatchNormalization`
+2. `tf.keras.layers.LayerNorm`
+3. `tf.keras.layers.InstanceNorm`
+4. `tf.keras.layers.GroupNorm`
+5. `tf.keras.layers.BatchNorm1d`

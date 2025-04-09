@@ -1,0 +1,10 @@
+java.sql.ResultSet.getString
+java.sql.CallableStatement.getString
+java.sql.PreparedStatement.getString
+java.sql.Statement.executeQuery.getString
+java.sql.Connection.createStatement.getString
+java.sql.DriverManager.getConnection.getString
+java.sql.DatabaseMetaData.getColumns.getString
+java.sql.ParameterMetaData.getParameterTypeName.getString
+java.sql.SQLInput.readString.getString
+java.sql.SQLOutput.writeString.getString

@@ -1,0 +1,11 @@
+
+Answer: 1. `tf.train.Optimizer` -> `mxnet.optimizer.Optimizer`
+2. `tf.train.GradientDescentOptimizer` -> `mxnet.optimizer.SGD`
+3. `tf.train.AdagradOptimizer` -> `mxnet.optimizer.Adagrad`
+4. `tf.train.AdamOptimizer` -> `mxnet.optimizer.Adam`
+5. `tf.train.RMSPropOptimizer` -> `mxnet.optimizer.RMSProp`
+6. `tf.keras.Model.compile` -> `mxnet.gluon.Block.hybrid_forward`
+7. `tf.keras.layers.Dense` -> `mxnet.gluon.nn.Dense`
+8. `tf.keras.losses.SparseCategoricalCrossentropy` -> `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+9. `tf.keras.metrics.Accuracy` -> `mxnet.metric.Accuracy`
+10. `tf.data.Dataset.from_tensor_slices` -> `mxnet.gluon.data.DataLoader`

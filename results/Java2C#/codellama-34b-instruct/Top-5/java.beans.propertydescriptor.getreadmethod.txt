@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.ComponentModel.PropertyDescriptor.GetReadMethod()`
+2. `System.Reflection.PropertyInfo.GetGetMethod()`
+3. `System.Reflection.MethodInfo.GetMethod()`
+4. `System.Reflection.MemberInfo.GetMember()`
+5. `System.Reflection.TypeInfo.GetProperty()`

@@ -1,0 +1,2 @@
+
+PyTorch equivalent of `tensorflow.keras.optimizers.SGD` is `torch.optim.SGD`.

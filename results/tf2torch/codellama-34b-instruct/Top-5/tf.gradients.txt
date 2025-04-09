@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.gradients`:
+
+1. `torch.autograd.backward`
+2. `torch.autograd.grad`
+3. `torch.autograd.grad_inputs`
+4. `torch.autograd.grad_outputs`
+5. `torch.autograd.grad_params`

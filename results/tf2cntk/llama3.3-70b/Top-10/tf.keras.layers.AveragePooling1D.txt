@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.AveragePooling1D`:
+
+1. CNTK.PoolingLayer
+2. CNTK.AveragePooling
+3. CNTK.PoolingLayer(Average)
+4. CNTK.Layers.AveragePool1D
+5. CNTK.Layers.Pooling1D
+6. CNTK.Functions.AveragePool
+7. CNTK.Blocks.AveragePool1D
+8. CNTK.PoolingLayer1D
+9. CNTK.Layers.SubsamplingLayer
+10. CNTK.Layers.AvgPool1D

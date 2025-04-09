@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.ones_initializer`:
+
+1. torch.ones
+2. torch.nn.init.ones_
+3. torch.tensor([1])
+4. torch.full
+5. torch.nn.Parameter(torch.ones)
+6. torch.ones_like
+7. torch.randn(1).fill_(1)
+8. torch.Tensor([1]).expand
+9. torch.autograd.Variable(torch.ones)
+10. torch.nn.init.constant_

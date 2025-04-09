@@ -1,0 +1,5 @@
+System.IO.FileInfo.Name  
+System.IO.Path.GetFileName  
+System.IO.DirectoryInfo.Name  
+System.IO.Path.GetFileNameWithoutExtension  
+System.IO.Path.GetExtension

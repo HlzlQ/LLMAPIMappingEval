@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.AvgPooling1D
+2. cntk.ops.average_pooling
+3. cntk.layers.MaxPooling1D
+4. cntk.ops.max_pooling
+5. cntk.layers.GlobalAveragePooling1D
+6. cntk.layers.GlobalMaxPooling1D
+7. cntk.layers.Convolution1D
+8. cntk.layers.BatchNormalization
+9. cntk.layers.Dense
+10. cntk.ops.relu

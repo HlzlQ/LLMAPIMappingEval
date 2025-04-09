@@ -1,0 +1,8 @@
+
+MXNet does not have an exact equivalent of `tensorflow.keras.layers.Conv2DTranspose`. However, you can use the following APIs to achieve a similar functionality:
+
+* `mxnet.gluon.nn.Conv2DTranspose`: This is a 2D transposed convolutional layer that can be used for upsampling or feature map extension. It takes in a tensor of shape `(batch_size, channels, height, width)` and applies a transposed convolution operation to it.
+* `mxnet.gluon.nn.ConvTranspose2D`: This is another 2D transposed convolutional layer that can be used for upsampling or feature map extension. It takes in a tensor of shape `(batch_size, channels, height, width)` and applies a transposed convolution operation to it.
+* `mxnet.gluon.nn.ConvTranspose3D`: This is a 3D transposed convolutional layer that can be used for upsampling or feature map extension in 3D data. It takes in a tensor of shape `(batch_size, channels, depth, height, width)` and applies a transposed convolution operation to it.
+
+Note that the above APIs are not exact equivalents of `tensorflow.keras.layers.Conv2DTranspose`, but they can be used to achieve similar functionality in MXNet.

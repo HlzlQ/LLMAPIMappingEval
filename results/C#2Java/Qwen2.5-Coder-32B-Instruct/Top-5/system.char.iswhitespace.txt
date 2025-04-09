@@ -1,0 +1,5 @@
+java.lang.Character.isWhitespace
+java.util.regex.Pattern.matches
+java.text.BreakIterator.getWordInstance
+java.text.Normalizer.normalize
+java.nio.CharBuffer.hasRemaining

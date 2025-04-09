@@ -1,0 +1,6 @@
+  The C# API `system.char.isdigit` can be mapped to the following Java APIs:
+
+* `Character.isDigit(int codePoint)`
+* `Character.isDigit(char ch)`
+
+Both of these methods return a boolean value indicating whether the specified character is a digit or not. The main difference between them is that the first method takes an integer code point as an argument, while the second method takes a char value.

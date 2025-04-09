@@ -1,0 +1,5 @@
+tf.ones_initializer  
+tf.keras.initializers.Ones  
+tf.constant_initializer  
+tf.fill  
+tf.ones_like

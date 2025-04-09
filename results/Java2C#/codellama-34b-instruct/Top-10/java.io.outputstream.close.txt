@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.StreamWriter.Close()
+2. System.IO.BinaryWriter.Close()
+3. System.IO.FileStream.Close()
+4. System.IO.MemoryStream.Close()
+5. System.IO.BufferedStream.Close()
+6. System.IO.Compression.DeflateStream.Close()
+7. System.IO.Compression.GZipStream.Close()
+8. System.IO.Pipes.PipeStream.Close()
+9. System.IO.Ports.SerialPort.Close()
+10. System.Net.Sockets.NetworkStream.Close()

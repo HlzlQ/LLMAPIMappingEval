@@ -1,0 +1,10 @@
+java.io.InputStream.read
+java.nio.channels.ReadableByteChannel.read
+java.nio.file.Files.newInputStream
+java.io.FileInputStream.read
+java.net.Socket.getInputStream
+java.net.ServerSocket.accept
+java.util.zip.ZipInputStream.read
+java.util.jar.JarInputStream.read
+java.security.DigestInputStream.read
+java.awt.image.BufferedImage.getRGB

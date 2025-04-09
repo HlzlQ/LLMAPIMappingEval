@@ -1,0 +1,10 @@
+java.io.FileInputStream.read
+java.nio.channels.FileChannel.read
+java.nio.file.Files.newInputStream
+java.nio.file.Paths.get
+java.nio.file.Files.readAllBytes
+java.nio.file.Files.readAllLines
+java.nio.file.Files.lines
+java.nio.file.Files.copy
+java.nio.file.Files.move
+java.nio.file.Files.delete

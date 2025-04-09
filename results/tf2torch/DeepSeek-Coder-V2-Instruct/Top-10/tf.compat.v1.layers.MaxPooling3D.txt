@@ -1,0 +1,11 @@
+
+1. nn.MaxPool3d
+2. F.max_pool3d
+3. torch.nn.functional.max_pool3d
+4. tf.keras.layers.MaxPooling3D
+5. tf.compat.v1.layers.MaxPooling3D
+6. nn.AvgPool3d
+7. F.avg_pool3d
+8. torch.nn.functional.avg_pool3d
+9. tf.keras.layers.AveragePooling3D
+10. tf.compat.v1.layers.AveragePooling3D

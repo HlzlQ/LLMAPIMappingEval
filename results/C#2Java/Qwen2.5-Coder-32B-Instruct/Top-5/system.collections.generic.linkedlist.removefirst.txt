@@ -1,0 +1,5 @@
+java.util.LinkedList.removeFirst
+java.util.Deque.removeFirst
+java.util.concurrent.ConcurrentLinkedDeque.removeFirst
+java.util.ArrayDeque.removeFirst
+java.util.PriorityQueue.poll (Note: This is not exactly the same but can be used in some contexts)

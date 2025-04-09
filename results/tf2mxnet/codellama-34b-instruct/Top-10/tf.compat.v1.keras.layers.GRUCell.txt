@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `tensorflow.compat.v1.keras.layers.GRUCell`:
+
+1. `mxnet.gluon.rnn.GRUCell`
+2. `mxnet.gluon.rnn.GRU`
+3. `mxnet.gluon.rnn.RNNCell`
+4. `mxnet.gluon.rnn.RNN`
+5. `mxnet.gluon.rnn.LSTMCell`
+6. `mxnet.gluon.rnn.LSTM`
+7. `mxnet.gluon.rnn.GRUCellV2`
+8. `mxnet.gluon.rnn.GRUV2`
+9. `mxnet.gluon.rnn.RNNCellV2`
+10. `mxnet.gluon.rnn.RNNV2`

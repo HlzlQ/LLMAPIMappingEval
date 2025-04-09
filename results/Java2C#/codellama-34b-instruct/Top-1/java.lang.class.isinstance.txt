@@ -1,0 +1,24 @@
+C# does not have a direct equivalent to the `isinstance` method in Java. However, you can use the `is` keyword to check if an object is an instance of a particular class or interface. Here's an example:
+```csharp
+if (obj is MyClass) {
+    // obj is an instance of MyClass
+} else {
+    // obj is not an instance of MyClass
+}
+```
+Alternatively, you can use the `GetType()` method to get the type of an object and then compare it with the desired type using the `==` operator. Here's an example:
+```csharp
+if (obj.GetType() == typeof(MyClass)) {
+    // obj is an instance of MyClass
+} else {
+    // obj is not an instance of MyClass
+}
+```
+Note that in C#, you can also use the `as` keyword to perform a safe cast and check if the object is an instance of a particular class or interface. Here's an example:
+```csharp
+if (obj as MyClass != null) {
+    // obj is an instance of MyClass
+} else {
+    // obj is not an instance of MyClass
+}
+```

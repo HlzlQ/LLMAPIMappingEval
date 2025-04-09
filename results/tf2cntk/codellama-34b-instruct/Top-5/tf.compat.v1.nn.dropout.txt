@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for dropout:
+
+1. `cntk.layers.Dropout`: This is a dropout layer that applies dropout to the input.
+2. `cntk.ops.dropout`: This is a dropout operation that can be applied to any tensor.
+3. `cntk.layers.DropoutWithScale`: This is a dropout layer that applies dropout with scaling to the input.
+4. `cntk.ops.dropout_with_scale`: This is a dropout operation with scaling that can be applied to any tensor.
+5. `cntk.layers.DropoutWithSpatial`: This is a dropout layer that applies dropout with spatial filtering to the input.

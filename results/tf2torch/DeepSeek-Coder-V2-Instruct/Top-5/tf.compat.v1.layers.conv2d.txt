@@ -1,0 +1,7 @@
+
+
+1. torch.nn.Conv2d
+2. tf.layers.conv2d
+3. keras.layers.convolutional.Conv2D
+4. nn.Module.Conv2d
+5. tensorflow.keras.layers.Conv2D

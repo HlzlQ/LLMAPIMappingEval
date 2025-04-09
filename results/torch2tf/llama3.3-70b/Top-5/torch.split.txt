@@ -1,0 +1,5 @@
+1. tf.split
+2. tf.tensor_split
+3. tf.unstack
+4. tf.stack
+5. tf.reshape

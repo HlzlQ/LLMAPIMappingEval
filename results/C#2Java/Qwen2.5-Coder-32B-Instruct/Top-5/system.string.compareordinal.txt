@@ -1,0 +1,5 @@
+java.lang.String.compareTo
+java.lang.String.compareToIgnoreCase
+java.nio.file.Files.compare
+java.util.Comparator.comparing
+java.util.Objects.compare

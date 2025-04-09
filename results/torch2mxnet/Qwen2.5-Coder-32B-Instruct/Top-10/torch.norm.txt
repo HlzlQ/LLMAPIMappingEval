@@ -1,0 +1,10 @@
+nd.linalg.norm
+nd.L2Norm
+nd.lp_norm
+nd.FrobeniusNorm
+nd.Norm
+nd.sqrt
+nd.square
+nd.sum
+nd.power
+nd.abs

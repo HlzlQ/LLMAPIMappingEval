@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.get_Item
+System.Collections.ArrayList.get_Item
+System.Collections.IList.get_Item
+System.Collections.ObjectModel.Collection<T>.get_Item
+System.Collections.Specialized.StringCollection.get_Item

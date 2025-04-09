@@ -1,0 +1,12 @@
+  Sure! Here are the top 10 C# APIs that are similar to Java's `java.sql.resultset.next`:
+
+1. `System.Data.SqlClient.SqlDataReader.Read()`
+2. `System.Data.OleDb.OleDbDataReader.Read()`
+3. `System.Data.Odbc.OdbcDataReader.Read()`
+4. `System.Data.OracleClient.OracleDataReader.Read()`
+5. `System.Data.SqlServerCe.SqlCeDataReader.Read()`
+6. `System.Data.MySqlClient.MySqlDataReader.Read()`
+7. `System.Data.SQLite.SQLiteDataReader.Read()`
+8. `System.Data.PostgreSQL.NpgsqlDataReader.Read()`
+9. `System.Data.DB2.DB2DataReader.Read()`
+10. `System.Data.Informix.IfxDataReader.Read()`

@@ -1,0 +1,5 @@
+System.IO.File.Create  
+System.IO.File.CreateText  
+System.IO.File.OpenWrite  
+System.IO.FileStream..ctor(string, FileMode)  
+System.IO.FileInfo.Create

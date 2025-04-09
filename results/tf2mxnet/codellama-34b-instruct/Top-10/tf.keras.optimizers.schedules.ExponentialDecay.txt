@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.schedules.ExponentialDecay`:
+
+1. `mxnet.optimizer.lr_scheduler.ExponentialDecay`
+2. `mxnet.optimizer.lr_scheduler.ExponentialLR`
+3. `mxnet.optimizer.lr_scheduler.ExponentialDecayLR`
+4. `mxnet.optimizer.lr_scheduler.ExponentialDecaySchedule`
+5. `mxnet.optimizer.lr_scheduler.ExponentialDecayWithWarmup`
+6. `mxnet.optimizer.lr_scheduler.ExponentialLRWithWarmup`
+7. `mxnet.optimizer.lr_scheduler.ExponentialDecayScheduleWithWarmup`
+8. `mxnet.optimizer.lr_scheduler.ExponentialDecayWithCosineAnnealing`
+9. `mxnet.optimizer.lr_scheduler.ExponentialLRWithCosineAnnealing`
+10. `mxnet.optimizer.lr_scheduler.ExponentialDecayScheduleWithCosineAnnealing`

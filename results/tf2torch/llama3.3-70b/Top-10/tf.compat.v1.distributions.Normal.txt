@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Normal`:
+
+1. torch.distributions.Normal
+2. torch.normal
+3. torch.randn
+4. torch.distributions.Distribution
+5. torch.Tensor.normal_
+6. torch.distributions.ContinuousDistribution
+7. torch.distributions.UnivariateDistribution
+8. torch.distributions.TransformedDistribution
+9. torch.distributions.Independent
+10. torch.distributions.Distribution.sample

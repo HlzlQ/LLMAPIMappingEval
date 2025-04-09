@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.ZeroPad2d`:
+
+1. `cntk.layers.ZeroPadding`
+2. `cntk.layers.Padding`
+3. `cntk.layers.ConstantPadding`
+4. `cntk.layers.ReflectionPadding`
+5. `cntk.layers.ReplicationPadding`

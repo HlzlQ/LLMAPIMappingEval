@@ -1,0 +1,7 @@
+
+
+1. tf.keras.layers.Dot
+2. tf.math.reduce_mean
+3. tf.linalg.matmul
+4. tf.nn.cosine_similarity
+5. tf.keras.metrics.CosineSimilarity

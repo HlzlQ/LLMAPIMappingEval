@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that correspond to the PyTorch API `torch.nn.functional.binary_cross_entropy`:
+
+1. `tf.keras.losses.BinaryCrossentropy`
+2. `tf.keras.losses.CategoricalCrossentropy`
+3. `tf.keras.losses.SparseCategoricalCrossentropy`
+4. `tf.keras.losses.SoftmaxCrossEntropyWithLogits`
+5. `tf.nn.sigmoid_cross_entropy_with_logits`
+6. `tf.nn.softmax_cross_entropy_with_logits`
+7. `tf.nn.sparse_softmax_cross_entropy_with_logits`
+8. `tf.nn.weighted_cross_entropy_with_logits`
+9. `tf.keras.losses.CategoricalHinge`
+10. `tf.keras.losses.SparseCategoricalHinge`

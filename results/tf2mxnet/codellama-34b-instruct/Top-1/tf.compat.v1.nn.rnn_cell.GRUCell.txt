@@ -1,0 +1,2 @@
+
+MXNet's equivalent of TensorFlow's `tensorflow.compat.v1.nn.rnn_cell.GRUCell` is `mxnet.gluon.rnn.GRUCell`.

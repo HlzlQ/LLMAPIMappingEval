@@ -1,0 +1,5 @@
+1. java.lang.String.compareTo
+2. java.lang.String.compareToIgnoreCase
+3. java.lang.String.regionMatches
+4. java.util.Comparator.compare
+5. java.lang.Object.equals

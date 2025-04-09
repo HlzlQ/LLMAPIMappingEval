@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Huber Loss in MXNet equivalent function is mxnet.gluon.loss.HuberLoss
+print("mxnet.gluon.loss.HuberLoss")
+<jupyter_output>
+mxnet.gluon.loss.HuberLoss

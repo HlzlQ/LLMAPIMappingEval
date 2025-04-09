@@ -1,0 +1,7 @@
+Here are five possible Java APIs that correspond to the given C# API:
+
+1. `org.junit.Assert.assertTrue`
+2. `org.testng.Assert.assertTrue`
+3. `com.google.common.truth.Truth.assertThat(boolean).isTrue()`
+4. `org.hamcrest.MatcherAssert.assertThat(boolean, org.hamcrest.CoreMatchers.is(true))`
+5. `junit.framework.Assert.assertTrue`

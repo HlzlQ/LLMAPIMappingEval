@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.GRU`:
+
+1. torch.nn.GRU
+2. torch.nn.LSTM
+3. torch.nn.RNN
+4. torch.nn.RNNCell
+5. torch.nn.GRUCell
+6. torch.nn.LSTMCell
+7. torch.nn.ModuleList
+8. torch.nn.Sequential
+9. torch.nn.rnn.GRU
+10. torch.nn.rnn.LSTM

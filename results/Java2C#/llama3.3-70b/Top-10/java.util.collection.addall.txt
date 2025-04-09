@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.Concat
+3. System.Collections.Generic.Dictionary<TKey,TValue>.Add
+4. System.Collections.Hashtable.Add
+5. System.Collections.Generic.SortedSet<T>.UnionWith
+6. System.Collections.Generic.HashSet<T>.UnionWith
+7. System.Collections.Generic.LinkedList<T>.AddLast
+8. System.Collections.Generic.List<T>.InsertRange
+9. System.Collections.ObjectModel.Collection<T>.AddItem
+10. System.Collections.Specialized.NameValueCollection.Add

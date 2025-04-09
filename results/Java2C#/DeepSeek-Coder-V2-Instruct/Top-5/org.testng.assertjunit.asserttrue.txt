@@ -1,0 +1,7 @@
+System.Diagnostics.Debug.Assert
+NUnit.Framework.Assert.IsTrue
+Xunit.Assert.True
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+NUnit.Framework.Assume.That
+
+These APIs are commonly used for asserting conditions in different testing frameworks and environments, providing a way to verify that certain expectations hold true during the execution of a program or test case.

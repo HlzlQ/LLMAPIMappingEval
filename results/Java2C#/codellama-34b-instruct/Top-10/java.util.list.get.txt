@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.util.list.get`:
+
+1. `System.Collections.Generic.List<T>.Get`
+2. `System.Collections.Generic.IList<T>.Get`
+3. `System.Collections.Generic.IReadOnlyList<T>.Get`
+4. `System.Collections.Generic.IEnumerable<T>.Get`
+5. `System.Collections.Generic.ICollection<T>.Get`
+6. `System.Collections.Generic.IReadOnlyCollection<T>.Get`
+7. `System.Linq.Enumerable.ElementAt`
+8. `System.Linq.Enumerable.First`
+9. `System.Linq.Enumerable.Last`
+10. `System.Linq.Enumerable.Single`

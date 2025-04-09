@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.equals` in C#:
+
+1. java.lang.String.equals()
+2. java.lang.Object.equals()
+3. java.util.Objects.equals()
+4. org.apache.commons.lang3.StringUtils.equals()
+5. com.google.common.base.Strings.equal()
+6. java.lang.String.equalsIgnoreCase()
+7. java.lang.String.compareTo()
+8. java.lang.String.contentEquals()
+9. java.util.regex.Pattern.matches()
+10. org.apache.commons.lang3.StringUtils.equalsIgnoreCase()

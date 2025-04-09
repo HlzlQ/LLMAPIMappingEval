@@ -1,0 +1,5 @@
+tf.keras.layers.GlobalAveragePooling2D  
+tf.nn.avg_pool  
+tf.nn.pool  
+tf.reduce_mean  
+tf.math.reduce_mean

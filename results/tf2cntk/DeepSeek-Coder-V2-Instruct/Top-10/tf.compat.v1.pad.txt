@@ -1,0 +1,7 @@
+
+
+```python
+cntk_equivalent = {
+    "tensorflow.compat.v1.pad": "CNTK equivalent not available",
+}
+```

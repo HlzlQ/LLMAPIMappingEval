@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.softmax`:
+
+1. `mxnet.ndarray.softmax`
+2. `mxnet.symbol.SoftmaxOutput`
+3. `mxnet.gluon.nn.Softmax`
+4. `mxnet.ndarray.softmax_cross_entropy`
+5. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`

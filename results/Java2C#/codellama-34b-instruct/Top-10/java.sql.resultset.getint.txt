@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Data.SqlClient.SqlDataReader.GetInt32()
+2. Microsoft.Data.SqlClient.SqlDataReader.GetInt32()
+3. MySql.Data.MySqlClient.MySqlDataReader.GetInt32()
+4. Npgsql.NpgsqlDataReader.GetInt32()
+5. Oracle.ManagedDataAccess.Client.OracleDataReader.GetInt32()
+6. IBM.Data.DB2.DB2DataReader.GetInt32()
+7. System.Data.SQLite.SQLiteDataReader.GetInt32()
+8. FirebirdSql.Data.FirebirdClient.FbDataReader.GetInt32()
+9. Devart.Data.PostgreSql.PgSqlDataReader.GetInt32()
+10. CData.CDataOracleClient.CDataOracleDataReader.GetInt32()

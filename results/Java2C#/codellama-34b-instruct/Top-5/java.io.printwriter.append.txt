@@ -1,0 +1,5 @@
+System.IO.StreamWriter.Write
+System.IO.StreamWriter.WriteLine
+System.IO.StreamWriter.Flush
+System.IO.StreamWriter.Close
+System.IO.StreamWriter.Dispose

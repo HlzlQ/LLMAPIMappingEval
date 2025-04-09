@@ -1,0 +1,5 @@
+1. cntk.ops.elu
+2. cntk.layers.Elu
+3. cntk.ops.leaky_relu
+4. cntk.ops.relu
+5. cntk.ops.tanh

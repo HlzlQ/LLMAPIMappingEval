@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.MaxPool1D`:
+
+1. `cntk.layers.MaxPooling1D`
+2. `cntk.layers.MaxPooling1DWithPadding`
+3. `cntk.layers.MaxPooling1DWithStride`
+4. `cntk.layers.MaxPooling1DWithKernelSize`
+5. `cntk.layers.MaxPooling1DWithDilation`
+6. `cntk.layers.MaxPooling1DWithPaddingAndStride`
+7. `cntk.layers.MaxPooling1DWithPaddingAndDilation`
+8. `cntk.layers.MaxPooling1DWithKernelSizeAndStride`
+9. `cntk.layers.MaxPooling1DWithKernelSizeAndDilation`
+10. `cntk.layers.MaxPooling1DWithPaddingAndKernelSizeAndStride`

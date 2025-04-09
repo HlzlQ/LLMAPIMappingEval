@@ -1,0 +1,7 @@
+1. Integer.parseInt(String s)
+2. BigInteger.valueOf(long val)
+3. Long.parseLong(String s)
+4. Short.parseShort(String s)
+5. Byte.parseByte(String s)
+
+These APIs are chosen based on the similarity in functionality, where they all convert a string representation of a number into its corresponding integer type in Java.

@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.ops.reduce_mean_square
+2. cntk.ops.squared_error
+3. cntk.ops.element_divide
+4. cntk.ops.sqrt
+5. cntk.ops.minus
+6. cntk.ops.plus
+7. cntk.ops.times
+8. cntk.ops.mean
+9. cntk.ops.reduce_sum
+10. cntk.ops.square

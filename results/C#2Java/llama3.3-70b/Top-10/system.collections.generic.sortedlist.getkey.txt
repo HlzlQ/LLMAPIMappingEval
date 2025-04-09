@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.SortedList.GetKey` in C#:
+
+1. java.util.TreeMap.getKey
+2. java.util.SortedMap.getKey
+3. java.util.NavigableMap.getKey
+4. java.util.AbstractSortedMap.getKey
+5. java.util.concurrent.ConcurrentSkipListMap.getKey
+6. java.util.LinkedHashMap.getKey
+7. java.util.HashMap.getKey
+8. java.util.IdentityHashMap.getKey
+9. java.util.EnumMap.getKey
+10. java.util.concurrent.ConcurrentHashMap.getKey

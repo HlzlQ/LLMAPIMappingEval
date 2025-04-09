@@ -1,0 +1,5 @@
+System.Collections.Generic.IDictionary<TKey,TValue>.TryGetValue  
+System.Collections.Generic.Dictionary<TKey,TValue>.TryGetValue  
+System.Collections.Hashtable.ContainsKey  
+System.Collections.Hashtable.Item  
+System.Collections.Generic.IDictionary<TKey,TValue>.Item

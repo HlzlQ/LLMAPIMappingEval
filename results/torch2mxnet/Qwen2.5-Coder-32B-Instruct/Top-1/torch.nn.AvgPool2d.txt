@@ -1,0 +1,1 @@
+mxnet.gluon.nn.GlobalAvgPool2D

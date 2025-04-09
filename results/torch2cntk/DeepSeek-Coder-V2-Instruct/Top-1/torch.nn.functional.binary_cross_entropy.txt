@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("torch.nn.functional.binary_cross_entropy -> Cntk.ops.losses.sigmoid_cross_entropy")
+<jupyter_output>
+torch.nn.functional.binary_cross_entropy -> Cntk.ops.losses.sigmoid_cross_entropy

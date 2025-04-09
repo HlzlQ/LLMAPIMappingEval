@@ -1,0 +1,10 @@
+cntk.losses.squared_error  
+cntk.losses.mean_squared_error  
+cntk.losses.regression_loss  
+cntk.losses.cross_entropy_with_softmax  
+cntk.losses.logistic  
+cntk.losses.hinge_loss  
+cntk.losses.poisson  
+cntk.losses.cosine_distance  
+cntk.losses.structured_hinge_loss  
+cntk.losses.weighted_squared_error

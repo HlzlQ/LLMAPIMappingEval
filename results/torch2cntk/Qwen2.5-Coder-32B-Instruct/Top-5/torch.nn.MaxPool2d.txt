@@ -1,0 +1,5 @@
+cntk.layers.max_pooling
+cntk.ops.argmax_over_axis
+cntk.reduce_max
+cntk.layers.pooling
+cntk.layers.max_pooling_with_window_shape

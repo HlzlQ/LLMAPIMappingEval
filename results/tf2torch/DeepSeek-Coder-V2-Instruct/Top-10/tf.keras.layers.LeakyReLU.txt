@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.LeakyReLU
+2. torch.nn.PReLU
+3. torch.nn.ELU
+4. torch.nn.SELU
+5. torch.nn.GELU
+6. torch.nn.SiLU
+7. torch.nn.RReLU
+8. torch.nn.CReLU
+9. torch.nn.Sigmoid
+10. torch.nn.Tanh

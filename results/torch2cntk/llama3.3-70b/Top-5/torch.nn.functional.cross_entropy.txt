@@ -1,0 +1,5 @@
+1. cross_entropy_with_softmax
+2. softmax_cross_entropy_error
+3. classification_error
+4. cross_entropy
+5. softmax_cross_entropy

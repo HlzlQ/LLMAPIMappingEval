@@ -1,0 +1,5 @@
+1. cntk.layers.DepthToSpace
+2. cntk.layers.SpaceToDepth
+3. cntk.layers.Reshape
+4. cntk.layers.Transpose
+5. cntk.layers.Slice

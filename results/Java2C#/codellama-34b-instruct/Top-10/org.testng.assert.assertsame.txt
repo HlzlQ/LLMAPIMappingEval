@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that are similar to the Java API `org.testng.assert.assertsame`:
+
+1. NUnit.Framework.Assert.AreSame
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+3. xunit.assert.Same
+4. FluentAssertions.AssertionExtensions.ShouldBeSameAs
+5. NSubstitute.ReceivedExtensions.Received
+6. Moq.Mock.Verify
+7. Ninject.Syntax.IBindingRoot.Bind
+8. Autofac.Builder.IRegistrationBuilder.Named
+9. Castle.Windsor.Installer.FromAssembly
+10. SimpleInjector.Container.Register

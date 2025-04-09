@@ -1,0 +1,12 @@
+Here are the top 10 TensorFlow API mappings for `torch.nn.PoissonNLLLoss`:
+
+1. tf.keras.losses.Poisson
+2. tf.nn.poisson_loss
+3. tf.keras.metrics.Poisson
+4. tfp.distributions.Poisson
+5. tfp.losses.Poisson
+6. tf.math.poisson
+7. tfp.metrics.PoissonLoss
+8. tf.keras.backend.poisson_loss
+9. tf.nn.log_poisson_loss
+10. tfp.distributions.LogPoisson

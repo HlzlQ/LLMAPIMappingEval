@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs for the C# `System.String.Replace` method:
+
+1. `java.lang.String.replace(char oldChar, char newChar)`
+2. `java.lang.String.replaceAll(String regex, String replacement)`
+3. `java.lang.String.replaceFirst(String regex, String replacement)`
+4. `java.lang.StringBuilder.replace(int start, int end, String str)`
+5. `java.lang.StringBuffer.replace(int start, int end, String str)`
+6. `org.apache.commons.lang3.StringUtils.replace(String text, String searchString, String replacement)`
+7. `org.apache.commons.lang3.StringUtils.replaceAll(String text, String regex, String replacement)`
+8. `org.apache.commons.lang3.StringUtils.replaceFirst(String text, String regex, String replacement)`
+9. `com.google.common.base.Strings.nullToEmpty(String str).replace(CharSequence target, CharSequence replacement)`
+10. `com.google.common.base.Strings.emptyToNull(String str).replace(CharSequence target, CharSequence replacement)`

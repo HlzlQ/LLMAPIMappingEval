@@ -1,0 +1,8 @@
+
+
+## Solution:
+1. `torch.tensor`
+2. `torch.nn.functional.relu`
+3. `torch.optimizer`
+4. `torch.autograd.grad`
+5. `torch.cat`

@@ -1,0 +1,5 @@
+cntk.ops.log
+cntk.ops.exp
+cntk.ops.relu
+cntk.ops.sigmoid
+cntk.ops.tanh

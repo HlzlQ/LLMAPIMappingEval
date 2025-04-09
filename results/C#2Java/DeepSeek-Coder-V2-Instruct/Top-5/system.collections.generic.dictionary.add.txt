@@ -1,0 +1,5 @@
+1. java.util.HashMap.put
+2. java.util.Map.put
+3. java.util.ConcurrentHashMap.put
+4. java.util.TreeMap.put
+5. java.util.LinkedHashMap.put

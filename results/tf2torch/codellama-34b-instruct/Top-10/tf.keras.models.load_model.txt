@@ -1,0 +1,13 @@
+
+Here are ten possible PyTorch APIs that can be used for loading a pre-trained model:
+
+1. `torch.load()`
+2. `torch.jit.load()`
+3. `torch.nn.Module.load_state_dict()`
+4. `torch.nn.Module.load_parameters()`
+5. `torch.nn.Module.load_weights()`
+6. `torch.nn.Module.load_model()`
+7. `torch.nn.Module.load_from_checkpoint()`
+8. `torch.nn.Module.load_from_pretrained()`
+9. `torch.nn.Module.load_from_state_dict()`
+10. `torch.nn.Module.load_from_parameters()`

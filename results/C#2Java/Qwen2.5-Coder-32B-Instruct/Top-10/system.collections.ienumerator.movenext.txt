@@ -1,0 +1,10 @@
+java.util.Iterator.hasNext
+java.util.Enumeration.hasMoreElements
+java.util.ListIterator.hasNext
+java.util.PrimitiveIterator.OfInt.hasNext
+java.util.PrimitiveIterator.OfLong.hasNext
+java.util.PrimitiveIterator.OfDouble.hasNext
+java.util.Spliterator.tryAdvance
+java.util.stream.Stream.iterator
+java.util.stream.IntStream.iterator
+java.util.stream.LongStream.iterator

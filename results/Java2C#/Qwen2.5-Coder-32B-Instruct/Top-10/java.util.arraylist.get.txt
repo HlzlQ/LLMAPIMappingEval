@@ -1,0 +1,10 @@
+System.Collections.Generic.List`1[T].get_Item
+System.Collections.ArrayList.get_Item
+System.Collections.Generic.IList`1[T].get_Item
+System.Collections.IList.get_Item
+System.Collections.ObjectModel.Collection`1[T].get_Item
+System.Collections.ObjectModel.ReadOnlyCollection`1[T].get_Item
+System.Collections.Specialized.StringCollection.get_Item
+System.Windows.Forms.BindingSource.get_Item
+System.Data.DataTable.get_Item
+System.Web.UI.WebControls.ListViewDataItem.get_DataItem

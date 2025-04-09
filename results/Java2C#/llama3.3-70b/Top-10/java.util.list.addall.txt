@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.Concat
+3. System.Collections.Generic.List<T>.InsertRange
+4. System.Collections.ObjectModel.Collection<T>.AddRange
+5. System.ComponentModel.BindingList<T>.AddRange
+6. System.Windows.Forms.ListBox.ObjectCollection.AddRange
+7. System.Windows.Controls.ItemCollection.Add
+8. System.Collections.Specialized.StringCollection.AddRange
+9. System.Collections.Generic.SortedSet<T>.UnionWith
+10. System.Collections.Generic.HashSet<T>.UnionWith

@@ -1,0 +1,10 @@
+1. RemoveRange(int index, int count) - System.Collections.Generic.List<T>
+2. Clear() - System.Collections.Generic.List<T>
+3. RemoveAt(int index) - System.Collections.Generic.List<T>
+4. RemoveAll(Predicate<T>) - System.Collections.Generic.List<T>
+5. TrimExcess() - System.Collections.Generic.List<T>
+6. AsParallel() - ParallelEnumerable
+7. ForAll<TSource>(IEnumerable<TSource>, Action<TSource>) - ParallelEnumerable
+8. Remove(object) - System.Collections.IList
+9. RemoveRange(int index, int count) - System.Collections.ArrayList
+10. Clear() - System.Collections.ArrayList

@@ -1,0 +1,10 @@
+mxnet.metric.CosineSimilarity  
+mxnet.gluon.loss.CosineEmbeddingLoss  
+mxnet.ndarray.linalg.gemm  
+mxnet.ndarray.dot  
+mxnet.ndarray.linalg.norm  
+mxnet.ndarray.linalg.svd  
+mxnet.ndarray.linalg.eigvalsh  
+mxnet.ndarray.linalg.solve  
+mxnet.ndarray.linalg.tensordot  
+mxnet.ndarray.linalg.batch_gemm

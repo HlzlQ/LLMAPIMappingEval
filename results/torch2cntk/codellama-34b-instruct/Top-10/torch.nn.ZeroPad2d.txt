@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.ZeroPad2d`:
+
+1. `cntk.layers.ZeroPadding`
+2. `cntk.layers.ZeroPadding2D`
+3. `cntk.layers.ZeroPadding3D`
+4. `cntk.layers.ZeroPaddingND`
+5. `cntk.layers.ZeroPad`
+6. `cntk.layers.ZeroPad2D`
+7. `cntk.layers.ZeroPad3D`
+8. `cntk.layers.ZeroPadND`
+9. `cntk.layers.ZeroPaddingLayer`
+10. `cntk.layers.ZeroPaddingLayer2D`

@@ -1,0 +1,5 @@
+1. getDeclaredMethod(String name, Class<?>... parameterTypes)
+2. getMethod(String name, Class<?>... parameterTypes)
+3. setAccessible(boolean flag)
+4. isSynthetic()
+5. toGenericString()

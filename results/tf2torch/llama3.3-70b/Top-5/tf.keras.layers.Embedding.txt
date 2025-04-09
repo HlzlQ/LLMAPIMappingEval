@@ -1,0 +1,5 @@
+1. torch.nn.Embedding
+2. torch.nn.functional.embedding
+3. torch.tensor.embedding
+4. torch.nn.Module.embedding
+5. torch.nn.functional.embeddings

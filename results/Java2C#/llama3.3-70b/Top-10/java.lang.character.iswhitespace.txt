@@ -1,0 +1,10 @@
+1. System.Char.IsWhiteSpace
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.IsNullOrWhiteSpace
+4. System.Text.RegularExpressions.Regex.Replace
+5. System.Char.IsControl
+6. System.Char.IsSeparator
+7. System.Text.Encoding.GetEncoding
+8. System.Globalization.CharUnicodeInfo.GetUnicodeCategory
+9. System.Text.RegularExpressions.Regex.Split
+10. System.Linq.Enumerable.All

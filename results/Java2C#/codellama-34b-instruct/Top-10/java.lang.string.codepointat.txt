@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.String.CodePointAt(int index)
+2. System.Text.RegularExpressions.Regex.IsMatch(string input, string pattern)
+3. System.Text.Encoding.UTF8.GetBytes(string s)
+4. System.Text.Encoding.Unicode.GetBytes(string s)
+5. System.Text.Encoding.ASCII.GetBytes(string s)
+6. System.Text.Encoding.Default.GetBytes(string s)
+7. System.Text.RegularExpressions.Regex.Matches(string input, string pattern)
+8. System.Text.RegularExpressions.Regex.Replace(string input, string pattern, string replacement)
+9. System.Text.RegularExpressions.Regex.Split(string input, string pattern)
+10. System.Text.Encoding.UTF32.GetBytes(string s)

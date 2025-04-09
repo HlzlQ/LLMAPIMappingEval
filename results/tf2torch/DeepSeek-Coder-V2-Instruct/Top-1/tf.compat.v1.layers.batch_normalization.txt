@@ -1,0 +1,15 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+The code provided imports TensorFlow and prints its version. To map the TensorFlow `layers.batch_normalization` to its PyTorch equivalent, we need to consider that both libraries have similar functionalities but use different names for their functions. 
+
+In PyTorch, the corresponding function is typically named `torch.nn.BatchNorm1d`, `torch.nn.BatchNorm2d`, or `torch.nn.BatchNorm3d` depending on whether you are dealing with 1D, 2D, or 3D data respectively.
+
+Here's the mapping:
+- TensorFlow: `tf.layers.batch_normalization`
+- PyTorch: `torch.nn.BatchNorm1d`, `torch.nn.BatchNorm2d`, `torch.nn.BatchNorm3d`
+
+So, the most likely PyTorch API for the TensorFlow function is `torch.nn.BatchNorm1d`, `torch.nn.BatchNorm2d`, or `torch.nn.BatchNorm3d`.

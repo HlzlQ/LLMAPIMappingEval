@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that are likely equivalent to `tensorflow.compat.v1.hessians`:
+
+1. torch.autograd.grad
+2. torch.autograd.hessian
+3. torch.autograd.functional.hessian
+4. torch.autograd.functional.jacobian
+5. torch.autograd.backward
+6. torch.autograd.forward_ad
+7. torch.autograd.grad_mode
+8. torch.autograd.HessianVectorProduct
+9. torch.autograd.jvp
+10. torch.autograd.vjp

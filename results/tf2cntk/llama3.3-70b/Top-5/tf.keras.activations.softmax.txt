@@ -1,0 +1,5 @@
+1. CNTK.softmax
+2. CNTK.activation.softmax
+3. CNTK.ops.softmax
+4. CNTK.layers.Softmax
+5. CNTK.functions.softmax

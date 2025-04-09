@@ -1,0 +1,10 @@
+System.Data.SqlClient.SqlDataReader.GetString  
+System.Data.OleDb.OleDbDataReader.GetString  
+System.Data.OracleClient.OracleDataReader.GetString  
+Npgsql.NpgsqlDataReader.GetString  
+MySql.Data.MySqlClient.MySqlDataReader.GetString  
+Microsoft.Data.SqlClient.SqlDataReader.GetString  
+System.Data.SQLite.SQLiteDataReader.GetString  
+FirebirdSql.Data.FirebirdClient.FbDataReader.GetString  
+IBM.Data.DB2.DB2DataReader.GetString  
+System.Data.Odbc.OdbcDataReader.GetString

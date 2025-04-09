@@ -1,0 +1,7 @@
+  tf.keras.layers.Conv1D is a 1D convolutional layer. The equivalent API in MXNet is:
+
+* mxnet.gluon.nn.Conv1D
+* mxnet.gluon.nn.Convolution
+* mxnet.gluon.nn.Conv2DTranspose
+* mxnet.gluon.nn.Conv3DTranspose
+* mxnet.gluon.nn.Conv1DTranspose

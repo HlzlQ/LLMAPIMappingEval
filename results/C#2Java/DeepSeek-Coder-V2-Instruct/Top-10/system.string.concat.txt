@@ -1,0 +1,10 @@
+java.lang.String.concat
+java.nio.charset.Charset.encode
+java.util.Formatter.format
+java.util.regex.Pattern.compile
+java.util.UUID.randomUUID
+java.net.URI.create
+java.io.FileOutputStream.write
+java.sql.Connection.createStatement
+javax.xml.transform.TransformerFactory.newTransformer
+org.w3c.dom.Document.createElement

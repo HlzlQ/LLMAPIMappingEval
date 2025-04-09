@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs that correspond to the C# `System.Double.Parse` method:
+
+1. `java.lang.Double.parseDouble(String s)`
+2. `java.lang.Double.valueOf(String s)`
+3. `java.text.DecimalFormat.parse(String source, ParsePosition pos)`
+4. `java.text.NumberFormat.parse(String source, ParsePosition pos)`
+5. `java.util.Scanner.nextDouble()`
+6. `java.util.regex.Pattern.compile("[+-]?\\d*(\\.\\d+)?").matcher(s).matches()`
+7. `org.apache.commons.lang3.math.NumberUtils.createDouble(String s)`
+8. `org.apache.commons.lang3.math.NumberUtils.parseDouble(String s)`
+9. `com.google.common.primitives.Doubles.tryParse(String s)`
+10. `io.vavr.control.Try.of(() -> Double.parseDouble(s)).get()`

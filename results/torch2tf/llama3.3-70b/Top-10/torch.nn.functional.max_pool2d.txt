@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.max_pool2d`:
+
+1. tf.nn.max_pool2d
+2. tf.keras.layers.MaxPooling2D
+3. tf.compat.v1.nn.max_pool
+4. tf.nn.pool
+5. tf.keras.layers.Pooling2D
+6. tf.image.resize
+7. tf.signal.fft2d
+8. tf.linalg.matmul
+9. tf.math.reduce_max
+10. tf.keras.layers.GlobalMaxPooling2D

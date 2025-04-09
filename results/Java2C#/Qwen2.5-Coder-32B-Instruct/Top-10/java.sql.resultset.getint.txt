@@ -1,0 +1,10 @@
+System.Data.SqlClient.SqlDataReader.GetInt32  
+System.Data.OleDb.OleDbDataReader.GetInt32  
+System.Data.OracleClient.OracleDataReader.GetInt32  
+System.Data.SQLite.SQLiteDataReader.GetInt32  
+Npgsql.NpgsqlDataReader.GetInt32  
+MySql.Data.MySqlClient.MySqlDataReader.GetInt32  
+Microsoft.Data.SqlClient.SqlDataReader.GetInt32  
+FirebirdSql.Data.FirebirdClient.FbDataReader.GetInt32  
+IBM.Data.DB2.Core.DB2DataReader.GetInt32  
+System.Data.Common.DbDataReader.GetInt32

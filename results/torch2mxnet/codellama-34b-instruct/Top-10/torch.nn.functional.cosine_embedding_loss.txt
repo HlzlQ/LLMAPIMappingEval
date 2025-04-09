@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.cosine_embedding_loss`:
+
+1. `mxnet.ndarray.CosineEmbeddingLoss`
+2. `mxnet.gluon.loss.CosineEmbeddingLoss`
+3. `mxnet.symbol.CosineEmbeddingLoss`
+4. `mxnet.ndarray.cosine_embedding_loss`
+5. `mxnet.gluon.loss.cosine_embedding_loss`
+6. `mxnet.symbol.cosine_embedding_loss`
+7. `mxnet.ndarray.CosineSimilarityLoss`
+8. `mxnet.gluon.loss.CosineSimilarityLoss`
+9. `mxnet.symbol.CosineSimilarityLoss`
+10. `mxnet.ndarray.cosine_similarity_loss`

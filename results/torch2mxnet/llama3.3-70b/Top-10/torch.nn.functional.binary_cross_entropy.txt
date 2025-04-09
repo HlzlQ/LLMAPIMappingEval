@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.functional.binary_cross_entropy`:
+
+1. mxnet.ndarray.softmax_cross_entropy
+2. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+3. mxnet.ndarray.sigmoid_binary_cross_entropy
+4. mxnet.gluon.loss.BinaryCrossEntropyLoss
+5. mxnet.ndarray.binary_cross_entropy
+6. mxnet.gluon.loss.LogisticLoss
+7. mxnet.ndarray.logistic_loss
+8. mxnet.gluon.loss.SigmoidCrossEntropyLoss
+9. mxnet.ndarray.sigmoid_cross_entropy
+10. mxnet.gluon.loss.BinaryCrossEntropy

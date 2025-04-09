@@ -1,0 +1,5 @@
+1. mx.nd.normalize
+2. mx.gluon.nn.BatchNorm
+3. mx.gluon.nn.InstanceNorm
+4. mx.gluon.nn.LayerNorm
+5. mx.gluon.utils.normalize

@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: mxnet.ndarray.zeroes_like
+<jupyter_output>
+<empty_output>

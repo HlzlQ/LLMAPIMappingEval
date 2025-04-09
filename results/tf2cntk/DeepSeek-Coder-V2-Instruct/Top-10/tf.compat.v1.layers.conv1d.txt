@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.Convolution1D
+2. cntk.ops.convolution
+3. cntk.ops.times_transpose
+4. cntk.ops.cross_entropy_with_softmax
+5. cntk.ops.squared_error
+6. cntk.ops.relu
+7. cntk.ops.sigmoid
+8. cntk.ops.tanh
+9. cntk.ops.convolution_transpose
+10. cntk.ops.pooling

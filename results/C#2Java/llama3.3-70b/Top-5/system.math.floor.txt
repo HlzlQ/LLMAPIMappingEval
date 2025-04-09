@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.math.floor` in C#:
+
+1. java.lang.Math.floor()
+2. java.lang.Math.floorDiv()
+3. java.lang.Math.round()
+4. java.lang.Math.ceil()
+5. java.lang.StrictMath.floor()

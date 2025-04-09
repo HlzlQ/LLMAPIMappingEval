@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.LSTMCell
+2. torch.nn.GRU
+3. torch.nn.RNN
+4. torch.nn.RNNCell
+5. torch.nn.LSTM
+6. torch.nn.GRUCell
+7. torch.nn.RNNLayer
+8. torch.nn.LSTMInputGate
+9. torch.nn.GRUForgetGate
+10. torch.nn.RNNOutputGate

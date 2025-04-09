@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `AveragePooling3D`:
+
+1. `torch.nn.AvgPool3d`
+2. `torch.nn.functional.avg_pool3d`
+3. `torch.nn.modules.pooling.AvgPool3d`
+4. `torch.nn.modules.pooling.AveragePooling3D`
+5. `torch.nn.modules.pooling.MaxPool3d`
+6. `torch.nn.functional.max_pool3d`
+7. `torch.nn.modules.pooling.MaxUnpool3d`
+8. `torch.nn.functional.max_unpool3d`
+9. `torch.nn.modules.pooling.AdaptiveAvgPool3d`
+10. `torch.nn.functional.adaptive_avg_pool3d`

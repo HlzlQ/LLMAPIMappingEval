@@ -1,0 +1,13 @@
+
+Answer: ```
+1. mxnet.ndarray.norm
+2. mxnet.symbol.norm
+3. mxnet.gluon.nn.BatchNorm
+4. mxnet.ndarray.L2Normalization
+5. mxnet.symbol.L2Normalization
+6. mxnet.ndarray.batch_norm
+7. mxnet.symbol.batch_norm
+8. mxnet.gluon.nn.InstanceNorm
+9. mxnet.ndarray.InstanceNorm
+10. mxnet.symbol.InstanceNorm
+```

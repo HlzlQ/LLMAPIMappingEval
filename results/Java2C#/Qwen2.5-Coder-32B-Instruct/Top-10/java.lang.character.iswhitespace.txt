@@ -1,0 +1,10 @@
+System.Char.IsWhiteSpace  
+System.String.IsNullOrWhiteSpace  
+System.Text.RegularExpressions.Regex.IsMatch  
+System.Linq.Enumerable.Any  
+System.Collections.Generic.List<char>.Contains  
+System.Array.Exists  
+System.Array.IndexOf  
+System.Array.Find  
+System.Array.FindIndex  
+System.Array.TrueForAll

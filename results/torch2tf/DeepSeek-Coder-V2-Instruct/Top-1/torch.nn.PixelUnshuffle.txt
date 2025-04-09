@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.image.extract_patches
+<jupyter_output>
+<empty_output>

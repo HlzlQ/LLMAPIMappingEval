@@ -1,0 +1,7 @@
+Based on the TensorFlow API `tf.split`, here are 5 MXNet APIs that have similar functions:
+
+1. mxnet.ndarray.split
+2. mxnet.gluon.utils.split_data
+3. mxnet.ndarray.array_split
+4. mxnet.gluon.nn.Split
+5. mxnet.ndarray.split_axis

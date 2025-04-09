@@ -1,0 +1,5 @@
+cntk.layers.ConvolutionTranspose
+cntk.layers.Upsample
+cntk.layers.Deconvolution
+cntk.layers.TransposeConvolution
+cntk.layers.BilinearUpsampling

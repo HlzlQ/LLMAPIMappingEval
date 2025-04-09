@@ -1,0 +1,5 @@
+System.Data.IDataRecord.GetByte  
+System.Data.SqlClient.SqlDataReader.GetByte  
+System.Data.OleDb.OleDbDataReader.GetByte  
+System.Data.OracleClient.OracleDataReader.GetByte  
+System.Data.SQLite.SQLiteDataReader.GetByte

@@ -1,0 +1,5 @@
+1. GetInt32()
+2. GetValue(int)
+3. Read()
+4. ExecuteScalar()
+5. FetchData()

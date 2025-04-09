@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.IEnumerator.MoveNext()
+2. System.Collections.Generic.IEnumerator<T>.MoveNext()
+3. System.Collections.IEnumerable.GetEnumerator()
+4. System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+5. System.Linq.Enumerable.Any<TSource>()
+6. System.Linq.Enumerable.Count<TSource>()
+7. System.Linq.Enumerable.First<TSource>()
+8. System.Linq.Enumerable.Last<TSource>()
+9. System.Linq.Enumerable.Single<TSource>()
+10. System.Linq.Enumerable.ElementAt<TSource>(int index)

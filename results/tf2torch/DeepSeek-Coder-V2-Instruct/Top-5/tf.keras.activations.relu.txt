@@ -1,0 +1,8 @@
+
+Answer: ```
+1. torch.nn.functional.relu
+2. torch.nn.ReLU
+3. F.leaky_relu
+4. F.elu
+5. F.gelu
+```

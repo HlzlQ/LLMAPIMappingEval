@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to the `java.lang.String.toUpperCase()` method. However, you can use the `string.ToUpper()` method in C# to achieve the same functionality.

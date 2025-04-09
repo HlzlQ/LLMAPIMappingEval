@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.optim.Adadelta`:
+
+1. mx.optimizer.Adadelta
+2. mx.optimizer.AdaDelta
+3. mx.optimizer.adadelta
+4. mx.optimizer.AdaDeltaOptimizer
+5. mx.optimizer.AdadeltaOptimizer
+6. mx.optimizer.adadelta_optimizer
+7. mx.optimizer.AdaDeltaUpdate
+8. mx.optimizer.AdadeltaUpdate
+9. mx.optimizer.adadelta_update
+10. mx.optimizer.AdaDeltaOptimizerCreator

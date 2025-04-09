@@ -1,0 +1,10 @@
+- Vector<T>.Capacity
+- List<T>.Capacity
+- Array.Length
+- StringBuilder.Capacity
+- Memory<T>.Length
+- Span<T>.Length
+- Queue<T>.Count
+- Stack<T>.Count
+- Dictionary<TKey, TValue>.Count
+- HashSet<T>.Count

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.io.BufferedReader.read()
+2. java.io.InputStreamReader.read()
+3. java.io.StringReader.read()
+4. java.nio.channels.Channels.newReader()
+5. java.nio.charset.CharsetDecoder.decode()
+6. java.nio.charset.CharsetEncoder.encode()
+7. java.util.Scanner.next()
+8. java.io.FileReader.read()
+9. java.io.InputStream.read()
+10. java.io.OutputStream.write()

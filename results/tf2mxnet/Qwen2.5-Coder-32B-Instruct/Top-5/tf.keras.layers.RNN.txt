@@ -1,0 +1,5 @@
+mxnet.gluon.rnn.RNN
+mxnet.gluon.rnn.LSTM
+mxnet.gluon.rnn.GRU
+mxnet.gluon.rnn.BidirectionalRNN
+mxnet.gluon.rnn.SequentialRNNCell

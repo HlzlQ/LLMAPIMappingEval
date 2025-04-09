@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.layers.BatchNormalization`:
+
+1. mxnet.gluon.nn.BatchNorm
+2. mxnet.ndarray.BatchNorm
+3. mxnet.gluon.contrib.nn.SyncBatchNorm
+4. mxnet.gluon.nn.InstanceNorm
+5. mxnet.gluon.nn.LayerNorm

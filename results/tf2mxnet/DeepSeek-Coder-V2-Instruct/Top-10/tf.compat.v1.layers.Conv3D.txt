@@ -1,0 +1,6 @@
+
+1. mxnet.gluon.nn.Conv3D
+2. mxnet.ndarray.Convolution
+3. mxnet.symbol.Convolution
+4. mxnet.contrib.mxnet_model.convolution3d
+5. None (since TensorFlow's Conv3D is not directly mapped to any MXNet API)

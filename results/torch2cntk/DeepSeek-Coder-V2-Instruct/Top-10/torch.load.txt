@@ -1,0 +1,17 @@
+
+
+```python
+import cntk as C
+```
+
+### Answer:
+1. `torch.load` is not directly mapped to a single API in CNTK. However, if we consider equivalent functionalities, some candidates might include:
+2. `C.load_model`
+3. `C.Function.load`
+4. `C.io.MinibatchSource.from_binary_file_map`
+5. `C.io.ImageDeserializer`
+6. `C.io.TextFormatReader`
+7. `C.io.HTKFeatureReader`
+8. `C.io.SoundFileReader`
+9. `C.io.CNTKTextFormatReader`
+10. `C.io.PythonReader`

@@ -1,0 +1,5 @@
+cntk.ops.reshape
+cntk.ops.permute_axes
+cntk.ops.tile
+cntk.ops.stack
+cntk.ops.splice

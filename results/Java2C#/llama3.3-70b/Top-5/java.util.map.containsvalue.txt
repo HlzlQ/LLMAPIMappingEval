@@ -1,0 +1,5 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.ContainsValue
+2. System.Collections.IDictionary.Contains
+3. System.Linq.Enumerable.Any
+4. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue
+5. System.Collections.Generic.Dictionary<TKey, TValue>.Values.Contains

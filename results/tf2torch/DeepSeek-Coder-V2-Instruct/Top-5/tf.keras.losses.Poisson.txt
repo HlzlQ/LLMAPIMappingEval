@@ -1,0 +1,8 @@
+
+Answer: ```
+1. torch.nn.functional.poisson_nll_loss
+2. torch.nn.PoissonNLLLoss
+3. torch.nn.BCEWithLogitsLoss
+4. torch.nn.MSELoss
+5. torch.nn.L1Loss
+```

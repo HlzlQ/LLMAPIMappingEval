@@ -1,0 +1,17 @@
+  SELU (Scaled Exponential Linear Unit) is a type of activation function used in deep neural networks. It is similar to the ReLU (Rectified Linear Unit) activation function, but it has a more gradual slope in the negative region. This can help to avoid the dying neurons problem that can occur with ReLU.
+
+In TensorFlow, the SELU activation function is implemented as follows:
+```
+import tensorflow as tf
+
+def selu(x):
+    return tf.keras.activations.selu(x)
+```
+To map this API to CNTK, you can use the following code:
+```
+import cntk as C
+
+def selu(x):
+    return C.layers.Activation('selu')(x)
+```
+Note that the `selu` function in CNTK is implemented slightly differently than in TensorFlow, but it has similar properties and can be used for similar purposes.

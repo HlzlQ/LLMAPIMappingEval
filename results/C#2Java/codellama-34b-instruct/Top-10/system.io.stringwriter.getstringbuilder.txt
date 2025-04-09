@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.io.StringWriter.getBuffer()
+2. java.lang.StringBuilder.toString()
+3. java.lang.StringBuilder.length()
+4. java.lang.StringBuilder.capacity()
+5. java.lang.StringBuilder.ensureCapacity(int)
+6. java.lang.StringBuilder.trimToSize()
+7. java.lang.StringBuilder.setLength(int)
+8. java.lang.StringBuilder.charAt(int)
+9. java.lang.StringBuilder.codePointAt(int)
+10. java.lang.StringBuilder.offsetByCodePoints(int, int)

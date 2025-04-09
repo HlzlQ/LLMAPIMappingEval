@@ -1,0 +1,10 @@
+torch.nn.Conv1d  
+torch.nn.functional.conv1d  
+torch.nn.modules.conv._ConvNd  
+torch.nn.modules.module.Module  
+torch.nn.parameter.Parameter  
+torch.Tensor  
+torch.autograd.Variable  
+torch.nn.init.kaiming_uniform_  
+torch.nn.init.xavier_uniform_  
+torch.nn.utils.weight_norm.WeightNorm

@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.gluon.nn.MaxPool2D
+2. mxnet.ndarray.max_pool2d
+3. mxnet.symbol.max_pooling
+4. mxnet.image.contrib.MaxPooling
+5. mxnet.gluon.nn.GlobalMaxPool2D

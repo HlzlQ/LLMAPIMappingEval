@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `tensorflow.keras.optimizers.Adagrad`:
+
+1. CNTK.adagrad
+2. CNTK.adagrad_optimizer
+3. CNTK.momentum_sgd
+4. CNTK.adam
+5. CNTK.rmsprop
+6. CNTK.nesterov
+7. CNTK.sgd
+8. CNTK.adagrad_with_momentum
+9. CNTK.adaptive_gradient_clipping
+10. CNTK.adagrad_with_learing_rate_multiplier

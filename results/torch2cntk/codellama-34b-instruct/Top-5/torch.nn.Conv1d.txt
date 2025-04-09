@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.Conv1d`:
+
+1. `cntk.layers.Convolution1D`
+2. `cntk.layers.ConvolutionTranspose1D`
+3. `cntk.layers.SeparableConvolution1D`
+4. `cntk.layers.DepthwiseConvolution1D`
+5. `cntk.layers.Convolution1DWithBias`

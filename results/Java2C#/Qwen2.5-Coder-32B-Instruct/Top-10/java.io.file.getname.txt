@@ -1,0 +1,10 @@
+System.IO.FileInfo.Name  
+System.IO.Path.GetFileName  
+System.IO.DirectoryInfo.Name  
+System.IO.Path.GetFileNameWithoutExtension  
+System.IO.Path.GetExtension  
+System.IO.Path.GetDirectoryName  
+System.IO.Path.Combine  
+System.IO.Path.ChangeExtension  
+System.IO.Path.HasExtension  
+System.IO.Path.IsPathFullyQualified

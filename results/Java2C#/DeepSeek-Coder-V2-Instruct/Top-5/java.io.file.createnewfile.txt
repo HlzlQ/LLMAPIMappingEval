@@ -1,0 +1,5 @@
+1. File.Create(String path)
+2. FileStream.Create(String path)
+3. StreamWriter.CreateText(String path)
+4. BinaryWriter.Create(String path)
+5. TextWriter.CreateText(String path)

@@ -1,0 +1,10 @@
+1. GetString()
+2. ReadOnlyProperty<string>
+3. DataRecord.GetString()
+4. SqlDataReader.GetString()
+5. DbDataRecord.GetString()
+6. ResultSet.GetString()
+7. DataTableReader.GetString()
+8. SqlCommand.ExecuteReader().GetString()
+9. MySqlDataReader.GetString()
+10. SQLiteDataReader.GetString()

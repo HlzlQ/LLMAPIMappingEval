@@ -1,0 +1,5 @@
+System.Collections.IEnumerator
+System.Collections.Generic.IEnumerator<T>
+System.Collections.Concurrent.Partitioner<T>.GetEnumerator()
+System.Linq.Enumerable.Empty<T>().GetEnumerator()
+System.Collections.ArrayList.Synchronized(new System.Collections.ArrayList()).GetEnumerator()

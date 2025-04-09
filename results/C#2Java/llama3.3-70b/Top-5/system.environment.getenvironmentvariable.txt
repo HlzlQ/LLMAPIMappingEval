@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `System.Environment.GetEnvironmentVariable` in C#:
+
+1. java.lang.System.getenv()
+2. java.lang.System.getProperty()
+3. java.util.Map getenv = System.getenv();
+4. javax.management.OperationsException getEnvironmentVariable()
+5. org.apache.commons.lang3.SystemUtils.getEnvironmentVariables()

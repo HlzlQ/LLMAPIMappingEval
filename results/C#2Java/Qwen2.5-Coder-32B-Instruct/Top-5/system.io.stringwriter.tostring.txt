@@ -1,0 +1,5 @@
+java.io.StringWriter.toString
+java.lang.StringBuilder.toString
+java.lang.StringBuffer.toString
+java.nio.CharBuffer.toString
+java.util.Formatter.toString

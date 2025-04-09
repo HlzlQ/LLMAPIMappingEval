@@ -1,0 +1,5 @@
+java.util.List.iterator
+java.util.ArrayList.iterator
+java.util.LinkedList.iterator
+java.util.Vector.iterator
+java.util.Stack.iterator

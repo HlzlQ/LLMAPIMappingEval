@@ -1,0 +1,5 @@
+1. CNTK SELU activation: cntk.relu
+2. CNTK Leaky ReLU: cntk.leaky_relu
+3. CNTK ELU: cntk.elu
+4. CNTK Softplus: cntk.softplus
+5. CNTK Softsign: cntk.softsign

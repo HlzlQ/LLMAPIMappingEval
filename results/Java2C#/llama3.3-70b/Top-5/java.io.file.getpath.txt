@@ -1,0 +1,5 @@
+1. System.IO.Path.GetFullPath
+2. System.IO.Path.Combine
+3. System.IO.FileInfo.FullName
+4. System.IO.DirectoryInfo.FullName
+5. System.IO.Path.GetCurrentPath

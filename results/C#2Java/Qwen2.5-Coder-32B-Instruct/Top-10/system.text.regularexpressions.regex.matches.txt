@@ -1,0 +1,10 @@
+java.util.regex.Pattern.matches
+java.util.regex.Matcher.matches
+java.lang.String.matches
+java.nio.file.Files.lines
+java.nio.file.Files.readAllLines
+java.io.BufferedReader.readLine
+java.io.InputStream.read
+java.io.Reader.read
+java.util.Scanner.hasNextLine
+java.util.Scanner.nextLine

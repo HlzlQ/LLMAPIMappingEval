@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely C# APIs for Java's `String.indexOf()`:
+
+1. `string.IndexOf()`
+2. `string.LastIndexOf()`
+3. `string.Contains()`
+4. `string.StartsWith()`
+5. `string.EndsWith()`

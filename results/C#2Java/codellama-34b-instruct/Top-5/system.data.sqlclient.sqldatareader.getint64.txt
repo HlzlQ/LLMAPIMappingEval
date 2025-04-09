@@ -1,0 +1,7 @@
+  The C# API "system.data.sqlclient.sqldatareader.getint64" can be mapped to the following Java APIs:
+
+1. java.sql.ResultSet.getLong()
+2. java.sql.ResultSet.getInt()
+3. java.sql.ResultSet.getShort()
+4. java.sql.ResultSet.getByte()
+5. java.sql.ResultSet.getBigDecimal()

@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.cross_entropy`:
+
+1. tf.keras.losses.SparseCategoricalCrossentropy
+2. tf.keras.losses.CategoricalCrossentropy
+3. tf.nn.sparse_softmax_cross_entropy_with_logits
+4. tf.nn.softmax_cross_entropy_with_logits
+5. tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits)
+6. tf.keras.backend.categorical_crossentropy
+7. tf.keras.backend.sparse_categorical_crossentropy
+8. tf.losses.SparseCategoricalCrossentropy
+9. tf.losses.CategoricalCrossentropy
+10. tf.compat.v1.keras.losses.sparse_categorical_crossentropy

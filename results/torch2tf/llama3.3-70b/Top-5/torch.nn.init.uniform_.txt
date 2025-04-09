@@ -1,0 +1,5 @@
+1. tf.random.uniform
+2. tf.keras.initializers.Uniform
+3. tf.keras.initializers.VarianceScaling
+4. tf.compat.v1.random_uniform
+5. tf.random.stateless_uniform

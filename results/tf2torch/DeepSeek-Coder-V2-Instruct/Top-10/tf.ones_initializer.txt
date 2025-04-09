@@ -1,0 +1,12 @@
+
+
+1. torch.zeros_like
+2. torch.ones_like
+3. torch.empty_like
+4. torch.full_like
+5. torch.randn_like
+6. torch.rand_like
+7. torch.eye
+8. torch.linspace
+9. torch.logspace
+10. torch.arange

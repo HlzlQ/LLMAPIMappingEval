@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.keras.layers.BatchNormalization`:
+
+1. torch.nn.BatchNorm1d
+2. torch.nn.BatchNorm2d
+3. torch.nn.BatchNorm3d
+4. torch.nn.InstanceNorm1d
+5. torch.nn.InstanceNorm2d
+6. torch.nn.InstanceNorm3d
+7. torch.nn.GroupNorm
+8. torch.nn.LocalResponseNorm
+9. torch.nn.LayerNorm
+10. torch.nn.SyncBatchNorm

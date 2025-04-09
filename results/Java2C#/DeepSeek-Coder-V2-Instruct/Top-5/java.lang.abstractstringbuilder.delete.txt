@@ -1,0 +1,5 @@
+1. StringBuilder.Remove(int startIndex, int length)
+2. String.Substring(int startIndex, int length)
+3. String.Replace(string oldValue, string newValue, StringComparison comparisonType)
+4. String.Remove(int startIndex, int length)
+5. StringBuilder.Delete(int startIndex, int length)

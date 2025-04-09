@@ -1,0 +1,10 @@
+tf.keras.layers.Conv2DTranspose  
+tf.nn.conv2d_transpose  
+tf.compat.v1.nn.conv2d_transpose  
+tf.layers.Conv2DTranspose  
+tf.contrib.layers.conv2d_transpose  
+tf.keras.layers.UpSampling2D  
+tf.keras.layers.ZeroPadding2D  
+tf.keras.layers.Cropping2D  
+tf.keras.layers.Reshape  
+tf.keras.layers.Lambda

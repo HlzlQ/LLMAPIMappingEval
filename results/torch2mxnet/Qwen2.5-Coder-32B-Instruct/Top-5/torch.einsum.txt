@@ -1,0 +1,5 @@
+mxnet.ndarray.dot  
+mxnet.ndarray.batch_dot  
+mxnet.ndarray.sum  
+mxnet.ndarray.transpose  
+mxnet.ndarray.reshape

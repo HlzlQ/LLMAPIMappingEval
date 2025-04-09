@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used as alternatives to `tensorflow.compat.v1.train.RMSPropOptimizer`:
+
+1. `cntk.learners.rmsprop`
+2. `cntk.learners.rmsprop_momentum`
+3. `cntk.learners.rmsprop_nesterov`
+4. `cntk.learners.adam`
+5. `cntk.learners.adagrad`

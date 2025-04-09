@@ -1,0 +1,5 @@
+cntk.layers.Convolution2D
+cntk.layers.Conv2D
+cntk.ops.convolution
+cntk.layers.Sequential
+cntk.layers.FunctionalBlock

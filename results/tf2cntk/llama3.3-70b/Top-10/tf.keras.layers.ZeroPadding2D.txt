@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functions to `tensorflow.keras.layers.ZeroPadding2D`:
+
+1. `CNTK.Convolution2D`
+2. `CNTK.Pooling`
+3. `CNTK.Padding`
+4. `CNTK.SequenceConvolution`
+5. `CNTK.SpatialConvolution`
+6. `CNTK.ConvolutionTranspose`
+7. `CNTK.Deconvolution`
+8. `CNTK.Subsampling`
+9. `CNTK.Convolution2DLayer`
+10. `CNTK.SpatialPadding`

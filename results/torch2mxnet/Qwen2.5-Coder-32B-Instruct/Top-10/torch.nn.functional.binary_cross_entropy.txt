@@ -1,0 +1,10 @@
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss  
+mxnet.ndarray.sigmoid_cross_entropy  
+mxnet.symbol.sigmoid_cross_entropy  
+mxnet.metric.BinaryAccuracy  
+mxnet.metric.LogLoss  
+mxnet.gluon.nn.SigmoidActivation  
+mxnet.ndarray.Activation  
+mxnet.symbol.Activation  
+mxnet.ndarray.logistic_regression_output  
+mxnet.symbol.logistic_regression_output

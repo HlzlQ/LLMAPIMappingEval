@@ -1,0 +1,5 @@
+1. tf.random.normal
+2. tf.keras.initializers.RandomNormal
+3. tf.keras.initializers.TruncatedNormal
+4. tf.compat.v1.random_normal
+5. tf.compat.v1.truncated_normal

@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that match the functionality of C#'s `System.Array.Sort`:
+
+1. `java.util.Arrays.sort(Object[] a)`
+2. `java.util.Collections.sort(List<T> list)`
+3. `java.util.ArrayList.sort(Comparator<? super E> c)`
+4. `java.util.LinkedList.sort(Comparator<? super E> c)`
+5. `java.util.Vector.sort(Comparator<? super E> c)`
+6. `java.util.Stack.sort(Comparator<? super E> c)`
+7. `java.util.PriorityQueue.sort(Comparator<? super E> c)`
+8. `java.util.concurrent.ConcurrentSkipListSet.sort(Comparator<? super E> c)`
+9. `java.util.concurrent.CopyOnWriteArrayList.sort(Comparator<? super E> c)`
+10. `java.util.concurrent.CopyOnWriteArraySet.sort(Comparator<? super E> c)`

@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.rnn.RNN
+2. mxnet.gluon.rnn.LSTM
+3. mxnet.gluon.rnn.GRU
+4. mxnet.ndarray.ones_like
+5. mxnet.ndarray.zeros_like
+6. mxnet.ndarray.expand_dims
+7. mxnet.ndarray.squeeze
+8. mxnet.ndarray.transpose
+9. mxnet.ndarray.concat
+10. mxnet.ndarray.split

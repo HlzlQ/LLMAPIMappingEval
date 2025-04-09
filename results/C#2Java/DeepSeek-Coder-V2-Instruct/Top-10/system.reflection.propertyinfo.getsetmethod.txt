@@ -1,0 +1,11 @@
+java.beans.PropertyDescriptor.getReadMethod
+java.beans.PropertyDescriptor.setWriteMethod
+java.lang.reflect.Method.getName
+java.lang.reflect.Method.getParameterTypes
+java.lang.reflect.Method.invoke
+java.lang.reflect.Method.isBridge
+java.lang.reflect.Method.getDeclaringClass
+java.lang.reflect.Method.getModifiers
+java.lang.reflect.Method.getReturnType
+java.lang.reflect.Method.getParameterCount
+java.lang.reflect.Method.isSynthetic

@@ -1,0 +1,5 @@
+java.lang.StringBuilder.delete  
+java.lang.StringBuilder.deleteCharAt  
+java.lang.StringBuffer.delete  
+java.lang.StringBuffer.deleteCharAt  
+java.text.StringCharacterIterator.setIndex

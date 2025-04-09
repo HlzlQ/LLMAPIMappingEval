@@ -1,0 +1,10 @@
+System.Collections.Generic.Dictionary<TKey,TValue>.TryGetValue  
+System.Collections.Generic.IDictionary<TKey,TValue>.TryGetValue  
+System.Collections.Hashtable.ContainsKey  
+System.Collections.Hashtable.Item  
+System.Collections.Specialized.NameValueCollection.Get  
+System.Collections.Specialized.NameObjectCollectionBase.BaseGet  
+System.Web.HttpRuntime.Cache.Get  
+System.Web.Caching.Cache.Get  
+System.Windows.Forms.Control.GetValue  
+System.Configuration.ConfigurationManager.AppSettings.Get

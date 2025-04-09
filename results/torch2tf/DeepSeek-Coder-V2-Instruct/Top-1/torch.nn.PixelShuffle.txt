@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.image.resize_images
+<jupyter_output>
+<empty_output>

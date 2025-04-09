@@ -1,0 +1,18 @@
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+```
+Answer: 
+1. `mxnet.ndarray.dot`
+2. `mxnet.gluon.nn.Dense`
+3. `mxnet.gluon.nn.Conv2D`
+4. `mxnet.gluon.nn.BatchNorm`
+5. `mxnet.gluon.nn.Activation`
+6. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+7. `mxnet.gluon.rnn.LSTM`
+8. `mxnet.gluon.rnn.GRU`
+9. `mxnet.gluon.Block`
+10. `mxnet.gluon.HybridBlock`

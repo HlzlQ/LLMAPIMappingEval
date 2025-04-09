@@ -1,0 +1,11 @@
+
+1. mxnet.gluon.nn.MaxPool1D
+2. mxnet.ndarray.max_pooling
+3. mxnet.symbol.max_pooling
+4. mxnet.image.contrib_bbox_targets
+5. mxnet.image.MultiBoxPrior
+6. mxnet.image.MultiBoxTarget
+7. mxnet.image.rbox_transform
+8. mxnet.ndarray.Pooling
+9. mxnet.symbol.Pooling
+10. mxnet.gluon.nn.Pooling

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Uniform`:
+
+1. torch.distributions.Uniform
+2. torch.uniform
+3. torch.distributions.continuous_Uniform
+4. torch.Tensor.uniform_
+5. torch.distributions.uniform.Uniform
+6. torch.rand
+7. torch.randint
+8. torch.distributions.transformed_distribution.TransformedDistribution
+9. torch.distributions.Distribution.uniform
+10. torch.distributions.ContinuousUniform

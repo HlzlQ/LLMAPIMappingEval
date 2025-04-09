@@ -1,0 +1,5 @@
+System.String.Concat
+System.String.Format
+System.Text.StringBuilder.Append
+string.Concat
+string.Join

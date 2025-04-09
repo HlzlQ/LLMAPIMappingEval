@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that can be used for Bernoulli distribution:
+
+1. `torch.distributions.Bernoulli`
+2. `torch.distributions.bernoulli_distribution`
+3. `torch.distributions.Binomial`
+4. `torch.distributions.binomial_distribution`
+5. `torch.distributions.Geometric`
+6. `torch.distributions.geometric_distribution`
+7. `torch.distributions.NegativeBinomial`
+8. `torch.distributions.negative_binomial_distribution`
+9. `torch.distributions.Poisson`
+10. `torch.distributions.poisson_distribution`

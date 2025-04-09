@@ -1,0 +1,5 @@
+System.Nullable<T>.HasValue
+System.Nullable<T>.Value
+System.Object.Equals(System.Object)
+System.Object.ReferenceEquals(System.Object, System.Object)
+System.String.IsNullOrEmpty(System.String)

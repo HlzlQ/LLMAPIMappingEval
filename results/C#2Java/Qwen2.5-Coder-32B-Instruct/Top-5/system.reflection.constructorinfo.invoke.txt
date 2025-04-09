@@ -1,0 +1,5 @@
+java.lang.reflect.Constructor.newInstance
+java.lang.reflect.Constructor.newInstanceWithCaller
+java.lang.reflect.Constructor.newInstance0
+java.lang.reflect.Constructor.newInstanceDirect
+java.lang.reflect.Constructor.newInstanceExact

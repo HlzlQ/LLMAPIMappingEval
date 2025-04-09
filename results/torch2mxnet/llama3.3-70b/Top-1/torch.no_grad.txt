@@ -1,0 +1,5 @@
+mx.autograd.train_mode or mx.autograd.pause 
+
+However, a more direct equivalent would be:
+
+mx.autograd.pause

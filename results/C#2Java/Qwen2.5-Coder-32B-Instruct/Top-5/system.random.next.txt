@@ -1,0 +1,5 @@
+java.util.Random.nextInt
+java.util.Random.nextDouble
+java.util.Random.nextBoolean
+java.util.Random.nextFloat
+java.util.Random.nextLong

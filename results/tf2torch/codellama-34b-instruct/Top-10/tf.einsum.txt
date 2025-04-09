@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow `einsum` API:
+
+1. `torch.einsum`
+2. `torch.matmul`
+3. `torch.dot`
+4. `torch.mv`
+5. `torch.mm`
+6. `torch.bmm`
+7. `torch.tensordot`
+8. `torch.einsum_like`
+9. `torch.einsum_batched`
+10. `torch.einsum_unbatched`

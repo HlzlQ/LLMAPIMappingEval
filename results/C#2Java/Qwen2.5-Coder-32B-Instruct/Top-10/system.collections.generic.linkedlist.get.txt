@@ -1,0 +1,10 @@
+java.util.LinkedList.getFirst  
+java.util.LinkedList.getLast  
+java.util.LinkedList.get  
+java.util.LinkedList.indexOf  
+java.util.LinkedList.lastIndexOf  
+java.util.LinkedList.offerFirst  
+java.util.LinkedList.offerLast  
+java.util.LinkedList.peekFirst  
+java.util.LinkedList.peekLast  
+java.util.LinkedList.pollFirst

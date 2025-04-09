@@ -1,0 +1,7 @@
+1. System.Activator.CreateInstance
+2. System.Reflection.ConstructorInfo.Invoke
+3. System.RuntimeTypeHandle.GetTypeFromHandle
+4. System.Type.GetConstructor
+5. System.Type.GetMethod
+
+These APIs in C# are most likely to have the same functions as `java.lang.reflect.constructor.newinstance` in Java, allowing for object creation similar to how `newInstance` is used in Java's reflection API.

@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.ones_like
+2. mxnet.symbol.ones_like
+3. mxnet.initializer.One
+4. mxnet.gluon.nn.init.Ones
+5. mxnet.image.color_normalize
+6. mxnet.image.imresize
+7. mxnet.ndarray.random_normal
+8. mxnet.symbol.Variable
+9. mxnet.symbol.ones
+10. mxnet.gluon.nn.init.Xavier

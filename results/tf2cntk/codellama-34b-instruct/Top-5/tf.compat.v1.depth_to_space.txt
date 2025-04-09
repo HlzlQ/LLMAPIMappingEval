@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for depth-to-space conversion:
+
+1. `cntk.depth_to_space`
+2. `cntk.layers.DepthToSpace`
+3. `cntk.ops.depth_to_space`
+4. `cntk.nn.depth_to_space`
+5. `cntk.contrib.depth_to_space`

@@ -1,0 +1,10 @@
+java.lang.reflect.Constructor.newInstance
+java.lang.reflect.Constructor.newInstanceWithCallerSensitive
+java.lang.reflect.Constructor.newInstanceWithArguments
+java.lang.reflect.Constructor.newInstanceWithSecurityContext
+java.lang.reflect.Constructor.newInstanceWithVarargs
+java.lang.reflect.Constructor.newInstanceWithAnnotations
+java.lang.reflect.Constructor.newInstanceWithCache
+java.lang.reflect.Constructor.newInstanceWithReflectionFactory
+java.lang.reflect.Constructor.newInstanceWithMethodHandle
+java.lang.reflect.Constructor.newInstanceWithUnsafe

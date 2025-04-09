@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that may have similar functionality to PyTorch's `torch.nn.PixelUnshuffle`:
+
+1. `CNTK.Reshape`
+2. `CNTK.Transpose`
+3. `CNTK.Slice`
+4. `CNTK.Concat`
+5. `CNTK.Split`
+6. `CNTK.Resample`
+7. `CNTK.Subsample`
+8. `CNTK.Upsample`
+9. `CNTK.Pooling`
+10. `CNTK.Rearrange`

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.LeakyReLU`:
+
+1. torch.nn.LeakyReLU
+2. torch.nn.ReLU
+3. torch.nn.PReLU
+4. torch.nn.RReLU
+5. torch.nn.Softshrink
+6. torch.nn.Hardshrink
+7. torch.nn.Softsign
+8. torch.nn.Tanhshrink
+9. torch.nn.Threshold
+10. torch.nn.Sigmoid

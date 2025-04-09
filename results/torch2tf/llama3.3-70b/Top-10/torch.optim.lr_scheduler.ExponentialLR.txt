@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API equivalents:
+
+1. tf.keras.optimizers.schedules.ExponentialDecay
+2. tf.compat.v1.train.exponential_decay
+3. tf.keras.optimizers.Adam
+4. tf.keras.optimizers.SGD
+5. tf.keras.optimizers.RMSprop
+6. tf.keras.optimizers.Adagrad
+7. tf.keras.optimizers.Adadelta
+8. tf.keras.optimizers.Adamax
+9. tf.keras.optimizers.Nadam
+10. tf.compat.v1.train.cosine_decay_restarts

@@ -1,0 +1,10 @@
+1. System.String.ToCharArray
+2. System.Text.Encoding.GetChars
+3. System.String.GetBuffer
+4. System.Text.Encoding.GetBytes
+5. System.String.CopyTo
+6. System.Text.UnicodeEncoding.GetChars
+7. System.Text.UTF8Encoding.GetChars
+8. System.Text.ASCIIEncoding.GetChars
+9. System.String.GetEnumerator
+10. System.Linq.Enumerable.ToArray

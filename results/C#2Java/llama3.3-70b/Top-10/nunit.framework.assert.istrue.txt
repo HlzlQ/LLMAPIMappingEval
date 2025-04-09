@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `nunit.framework.assert.istrue`:
+
+1. org.junit.Assert.assertTrue
+2. org.testng.Assert.assertTrue
+3. junit.framework.Assert.assertTrue
+4. org.hamcrest.MatcherAssert.assertThat
+5. org.junit.internal.matchers.JUnitMatchers.is
+6. org.hamcrest.core.Is.is
+7. org.junit.matchers.JUnitMatchers.isTrue
+8. org.apache.commons.lang3.Validate.isTrue
+9. org.easymock.EasyMockAssert.assertSame
+10. org.springframework.test.util.Assert.isTrue

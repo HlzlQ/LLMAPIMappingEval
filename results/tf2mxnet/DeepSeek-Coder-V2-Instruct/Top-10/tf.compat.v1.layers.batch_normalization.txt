@@ -1,0 +1,11 @@
+
+1. mxnet.gluon.nn.BatchNorm
+2. mxnet.ndarray.batch_norm
+3. mxnet.symbol.InstanceNorm
+4. mxnet.sym.BatchNorm
+5. mxnet.sym.InstanceNorm
+6. mxnet.ndarray.InstanceNorm
+7. mxnet.gluon.nn.InstanceNorm
+8. mxnet.symbol.BatchNormalization
+9. mxnet.symbol.InstanceNormalization
+10. mxnet.ndarray.BatchNorm

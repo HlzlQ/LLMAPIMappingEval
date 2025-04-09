@@ -1,0 +1,6 @@
+
+Answer: 1. torch.distributions.laplace.Laplace
+2. torch.distributions.Distribution
+3. torch.distributions.constraints.positive
+4. torch.distributions.transforms.ExpTransform
+5. torch.nn.functional.softplus

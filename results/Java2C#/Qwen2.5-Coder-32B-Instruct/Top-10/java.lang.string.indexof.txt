@@ -1,0 +1,10 @@
+System.String.IndexOf
+System.String.IndexOfAny
+System.String.LastIndexOf
+System.String.LastIndexOfAny
+System.String.IndexOf(String)
+System.String.IndexOf(Char)
+System.String.IndexOf(String, StringComparison)
+System.String.IndexOf(Char, StringComparison)
+System.String.IndexOf(String, Int32)
+System.String.IndexOf(Char, Int32)

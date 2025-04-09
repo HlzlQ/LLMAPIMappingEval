@@ -1,0 +1,16 @@
+
+CNTK does not have an exact equivalent of the `tensorflow.compat.v1.pad` function. However, you can achieve a similar result using the `cntk.ops.pad` function with the `mode` parameter set to `'constant'`.
+
+Here is an example:
+```
+import cntk as C
+
+# Create a tensor with shape (2, 3) and values [1, 2, 3, 4, 5, 6]
+x = C.ones((2, 3)) * 2
+
+# Pad the tensor with zeros on both sides to create a new tensor with shape (4, 5)
+padded_x = C.ops.pad(x, pad_width=1, mode='constant')
+```
+In this example, `pad_width` is set to 1, which means that the padding will be applied on both sides of the tensor. The `mode` parameter is set to `'constant'`, which means that the padded values will be filled with zeros.
+
+Note that in CNTK, the `pad` function only supports padding with a constant value, whereas in TensorFlow, you can specify different padding modes (e.g., 'reflect', 'symmetric', etc.).

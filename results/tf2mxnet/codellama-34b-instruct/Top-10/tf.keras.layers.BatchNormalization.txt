@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for batch normalization:
+
+1. `mxnet.gluon.nn.BatchNorm`
+2. `mxnet.gluon.nn.InstanceNorm`
+3. `mxnet.gluon.nn.LayerNorm`
+4. `mxnet.gluon.nn.GroupNorm`
+5. `mxnet.gluon.nn.BatchNorm1d`
+6. `mxnet.gluon.nn.BatchNorm2d`
+7. `mxnet.gluon.nn.BatchNorm3d`
+8. `mxnet.gluon.nn.InstanceNorm1d`
+9. `mxnet.gluon.nn.InstanceNorm2d`
+10. `mxnet.gluon.nn.InstanceNorm3d`

@@ -1,0 +1,10 @@
+List<T>.GetEnumerator()
+IEnumerator<T>.MoveNext()
+IEnumerator<T>.Current
+IEnumerable<T>.GetEnumerator()
+ICollection<T>.Count
+ICollection<T>.IsReadOnly
+IList<T>.this[int index]
+IList.Item[int index]
+IDictionary<TKey, TValue>.Keys
+IDictionary<TKey, TValue>.Values

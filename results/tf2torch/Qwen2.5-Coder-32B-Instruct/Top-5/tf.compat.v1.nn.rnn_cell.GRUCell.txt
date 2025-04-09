@@ -1,0 +1,5 @@
+torch.nn.GRU  
+torch.nn.GRUCell  
+torch.nn.RNN  
+torch.nn.RNNBase  
+torch.nn.LSTMCell

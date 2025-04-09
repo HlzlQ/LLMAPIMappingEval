@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.init.xavier_uniform`:
+
+1. `mxnet.initializer.Xavier()`
+2. `mxnet.initializer.XavierUniform()`
+3. `mxnet.initializer.VarianceScaling(scale=1, mode='fan_avg', distribution='uniform')`
+4. `mxnet.initializer.GlorotUniform()`
+5. `mxnet.initializer.HeUniform()`

@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+2. NUnit.Framework.Assert.IsFalse
+3. xunit.assert.False
+4. FluentAssertions.Bool.ShouldBeFalse
+5. Shouldly.ShouldNotBeTrue
+6. System.Diagnostics.Debug.Assert
+7. System.Diagnostics.Trace.Assert
+8. Moq.Mock.Verify
+9. NSubstitute.Substitute.AssertWasNotCalled
+10. xunit.recording.AssertRecordingDoesNotContain

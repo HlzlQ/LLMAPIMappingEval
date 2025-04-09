@@ -1,0 +1,8 @@
+
+Here are five possible mappings from TensorFlow's `tf.gradients` API to MXNet's API:
+
+1. `mxnet.autograd.backward`: This function computes the gradients of a tensor with respect to its inputs. It is similar to TensorFlow's `tf.gradients`, but it also supports automatic differentiation.
+2. `mxnet.ndarray.gradient`: This function computes the gradient of an array with respect to one or more of its inputs. It is similar to TensorFlow's `tf.gradients`, but it operates on MXNet's NDArray data structure.
+3. `mxnet.autograd.grad`: This function computes the gradients of a tensor with respect to its inputs, and returns them as a list of tensors. It is similar to TensorFlow's `tf.gradients`, but it also supports automatic differentiation.
+4. `mxnet.ndarray.backward`: This function computes the gradients of an array with respect to one or more of its inputs, and returns them as a list of arrays. It is similar to TensorFlow's `tf.gradients`, but it operates on MXNet's NDArray data structure.
+5. `mxnet.autograd.compute_gradient`: This function computes the gradients of a tensor with respect to its inputs, and returns them as a list of tensors. It is similar to TensorFlow's `tf.gradients`, but it also supports automatic differentiation.

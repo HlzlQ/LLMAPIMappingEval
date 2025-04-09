@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.compat.v1.keras.initializers.glorot_normal`:
+
+1. `torch.nn.init.kaiming_uniform`
+2. `torch.nn.init.kaiming_normal`
+3. `torch.nn.init.xavier_uniform`
+4. `torch.nn.init.xavier_normal`
+5. `torch.nn.init.glorot_uniform`

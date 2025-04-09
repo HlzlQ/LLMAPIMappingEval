@@ -1,0 +1,5 @@
+1. mxnet.ndarray.softmax
+2. mxnet.gluon.nn.Softmax
+3. mxnet.gluon.nn.SoftmaxActivation
+4. mxnet.nd.Softmax
+5. mxnet.gluon.loss.SoftmaxCrossEntropyLoss

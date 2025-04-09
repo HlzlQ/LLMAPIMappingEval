@@ -1,0 +1,14 @@
+
+CNTK does not have a direct equivalent to `torch.nn.functional.pad`. However, you can achieve similar functionality using the `padding` parameter in CNTK's convolutional layers.
+
+For example, if you want to pad a tensor with zeros on both sides of the spatial dimensions, you can use the following code:
+```csharp
+CNTK.Convolution2D(input_tensor, num_filters=32, kernel_size=(3, 3), padding='same')
+```
+This will apply a convolutional layer with 32 filters and a kernel size of (3, 3) to the input tensor, and pad the spatial dimensions with zeros on both sides. The `padding` parameter specifies the type of padding to use, in this case `'same'` which means that the output tensor will have the same shape as the input tensor.
+
+Alternatively, you can also use the `CNTK.Pad` layer to pad a tensor with zeros on both sides of the spatial dimensions. Here's an example:
+```csharp
+CNTK.Pad(input_tensor, padding=(1, 1))
+```
+This will pad the input tensor with zeros on both sides of the spatial dimensions, resulting in a tensor with the same shape as the input tensor but with additional zero-valued elements on both sides of the spatial dimensions.

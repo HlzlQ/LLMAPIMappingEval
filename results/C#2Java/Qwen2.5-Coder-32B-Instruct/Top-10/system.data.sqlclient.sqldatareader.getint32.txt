@@ -1,0 +1,10 @@
+java.sql.ResultSet.getInt
+java.sql.CallableStatement.getInt
+java.sql.PreparedStatement.getInt
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement
+java.sql.DriverManager.getConnection
+java.sql.SQLException.getMessage
+java.sql.SQLWarning.getNextWarning
+java.sql.DatabaseMetaData.getDriverName
+java.sql.DatabaseMetaData.getDatabaseProductName

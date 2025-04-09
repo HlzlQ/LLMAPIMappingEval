@@ -1,0 +1,5 @@
+1. Math.round()
+2. BigDecimal.setScale()
+3. BigDecimal.round()
+4. RoundingMode.HALF_UP
+5. DecimalFormat.round()

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.split`:
+
+1. `cntk.ops.split`
+2. `cntk.layers.split`
+3. `cntk.models.split`
+4. `cntk.variables.split`
+5. `cntk.functions.split`

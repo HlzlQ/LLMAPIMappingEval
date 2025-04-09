@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that correspond to the given TensorFlow API:
+
+1. `torch.profiler.profile`
+2. `torch.autograd.profiler.profile`
+3. `torch.nn.utils.profile`
+4. `torch.optim.profiler.profile`
+5. `torch.utils.profiler.profile`

@@ -1,0 +1,5 @@
+  Math.Floor(double)
+Math.Ceiling(double)
+Math.Round(double)
+Math.Truncate(double)
+Math.Abs(double)

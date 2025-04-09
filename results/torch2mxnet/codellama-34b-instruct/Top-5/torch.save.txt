@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for saving models:
+
+1. `mxnet.save_checkpoint()`
+2. `mxnet.save_parameters()`
+3. `mxnet.save_model()`
+4. `mxnet.save_state_dict()`
+5. `mxnet.save_weights()`

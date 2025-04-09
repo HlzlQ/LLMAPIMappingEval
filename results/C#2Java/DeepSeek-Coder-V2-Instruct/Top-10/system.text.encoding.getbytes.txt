@@ -1,0 +1,10 @@
+java.nio.charset.Charset.encode
+java.nio.ByteBuffer.put
+java.nio.ByteBuffer.array
+java.nio.ByteBuffer.wrap
+java.nio.ByteBuffer.asCharBuffer
+java.nio.ByteBuffer.getChars
+java.nio.ByteBuffer.slice
+java.nio.ByteBuffer.duplicate
+java.nio.ByteBuffer.compact
+java.nio.ByteBuffer.position

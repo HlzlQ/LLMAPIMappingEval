@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Upsample | mxnet.ndarray.upsample |
+  | torch.nn.functional.interpolate | mxnet.ndarray.interpolate |
+  | torch.nn.functional.upsample_bilinear | mxnet.ndarray.upsample_bilinear |
+  | torch.nn.functional.upsample_nearest | mxnet.ndarray.upsample_nearest |
+  | torch.nn.functional.upsample_bicubic | mxnet.ndarray.upsample_bicubic |

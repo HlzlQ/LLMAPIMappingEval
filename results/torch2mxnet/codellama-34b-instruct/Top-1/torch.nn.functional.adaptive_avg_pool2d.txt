@@ -1,0 +1,1 @@
+  mxnet.ndarray.adaptive_avg_pooling

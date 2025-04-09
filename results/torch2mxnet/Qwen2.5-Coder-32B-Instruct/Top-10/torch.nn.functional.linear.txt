@@ -1,0 +1,10 @@
+mxnet.ndarray.dot  
+mxnet.ndarray.batch_dot  
+mxnet.ndarray.FullyConnected  
+mxnet.gluon.nn.Dense  
+mxnet.ndarray.linear_algebra.gemm  
+mxnet.ndarray.linalg.gemm2  
+mxnet.ndarray.linalg.matmul  
+mxnet.ndarray.linalg.sgemm  
+mxnet.ndarray.linalg.dgemm  
+mxnet.ndarray.linalg.cgemm

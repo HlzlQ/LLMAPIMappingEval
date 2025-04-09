@@ -1,0 +1,18 @@
+
+```python
+import mxnet as mx
+from mxnet import gluon, nd
+from mxnet.gluon import nn
+```
+
+### Answer:
+1. `tf.nn.max_pool`
+2. `mx.nd.Pooling`
+3. `mx.nd.MaxPooling`
+4. `mx.nd.GlobalMaxPooling`
+5. `mx.nd.AvgPooling`
+6. `mx.nd.GlobalAvgPooling`
+7. `mx.nd.SpatialAveragePooling`
+8. `mx.nd.SpatialMaxPooling`
+9. `mx.nd.GlobalPooling`
+10. `mx.nd.Pooling2D`

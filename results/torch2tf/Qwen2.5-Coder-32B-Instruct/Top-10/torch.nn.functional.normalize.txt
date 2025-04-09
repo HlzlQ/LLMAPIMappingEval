@@ -1,0 +1,10 @@
+tf.math.l2_normalize  
+tf.linalg.norm  
+tf.nn.l2_normalize  
+tf.keras.layers.LayerNormalization  
+tf.keras.regularizers.L2  
+tf.keras.constraints.UnitNorm  
+tf.raw_ops.L2Normalize  
+tf.raw_ops.NormalizeV2  
+tf.raw_ops.FusedBatchNormV3  
+tf.raw_ops.FusedBatchNormGradV14

@@ -1,0 +1,10 @@
+1. System.Decimal.Divide
+2. System.Double.Divide
+3. System.Math.DivRem
+4. System.Numerics.BigInteger.Divide
+5. System.Decimal.GetDecimalValue
+6. System.Convert.ToDouble
+7. System.Math.Round
+8. System.Decimal.Truncate
+9. System.Numerics.BigInteger.DivRem
+10. System.Decimal.Remainder

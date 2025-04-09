@@ -1,0 +1,13 @@
+
+Here are ten possible C# APIs that correspond to the given Java API:
+
+1. NUnit.Framework.Assert.Null
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+3. xunit.assert.null
+4. FluentAssertions.AssertionExtensions.ShouldBeNull
+5. Shouldly.ShouldBeNull
+6. NSubstitute.Received.InOrder.ShouldBeNull
+7. Moq.Mock.VerifySet(mock => mock.Property = null);
+8. NUnit.Framework.Assert.That(actual, Is.Null);
+9. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+10. xunit.assert.notnull

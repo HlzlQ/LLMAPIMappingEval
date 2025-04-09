@@ -1,0 +1,13 @@
+
+Answer: ```
+1. mxnet.initializer.Orthogonal
+2. mxnet.initializer.Uniform
+3. mxnet.initializer.Normal
+4. mxnet.initializer.Constant
+5. mxnet.initializer.Xavier
+6. mxnet.initializer.GlorotUniform
+7. mxnet.initializer.GlorotNormal
+8. mxnet.initializer.HeUniform
+9. mxnet.initializer.HeNormal
+10. mxnet.initializer.LecunUniform
+```

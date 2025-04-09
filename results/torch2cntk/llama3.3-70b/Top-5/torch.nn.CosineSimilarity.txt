@@ -1,0 +1,5 @@
+1. cntk.cosine_distance
+2. cntk.reduce_mean
+3. cntk.element_times
+4. cntk.sqrt
+5. cntk.normalize

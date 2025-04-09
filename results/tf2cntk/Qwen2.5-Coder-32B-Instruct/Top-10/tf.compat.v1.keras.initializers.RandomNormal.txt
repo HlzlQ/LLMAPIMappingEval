@@ -1,0 +1,10 @@
+cntk.random.normal
+cntk.layers.Parameter.init
+cntk.initializer.normal
+cntk.layers.default_options.init
+cntk.layers.Convolution2D.init
+cntk.layers.Dense.init
+cntk.layers.Embedding.init
+cntk.layers.LSTM.init
+cntk.layers.GRU.init
+cntk.layers.RNN.init

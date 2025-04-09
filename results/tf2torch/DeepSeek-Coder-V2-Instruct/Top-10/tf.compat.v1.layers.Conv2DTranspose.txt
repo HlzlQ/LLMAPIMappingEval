@@ -1,0 +1,11 @@
+
+1. nn.ConvTranspose2d
+2. nn.UpsamplingNearest2d
+3. nn.functional.conv_transpose2d
+4. torchvision.transforms.Resize
+5. torch.nn.PixelShuffle
+6. torch.nn.FractionalMaxPool2d
+7. torch.nn.ConvTranspose1d
+8. torch.nn.ConvTranspose2d
+9. torch.nn.functional.conv_transpose2d
+10. torchvision.transforms.Resize

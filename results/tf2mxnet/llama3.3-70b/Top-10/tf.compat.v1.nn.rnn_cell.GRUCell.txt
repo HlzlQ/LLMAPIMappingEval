@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.nn.rnn_cell.GRUCell`:
+
+1. mxnet.ndarray.rnn.GRU
+2. mxnet.gluon.rnn.GRUCell
+3. mxnet.gluon.rnn.GRU
+4. mxnet.ndarray.rnn.GRUCell
+5. mxnet.gluon.contrib.rnn.GRUCell
+6. mxnet.gluon.contrib.rnn.GRU
+7. mxnet.ndarray.rnn.RNNCell
+8. mxnet.gluon.rnn.RNNCell
+9. mxnet.gluon.rnn.LSTMCell
+10. mxnet.gluon.rnn.SimpleRNNCell

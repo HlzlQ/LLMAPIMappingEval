@@ -1,0 +1,5 @@
+1. String.Equals(String, StringComparison)
+2. String.ToLower()
+3. String.ToUpper()
+4. String.Compare(String, String, Boolean)
+5. String.IndexOf(String, StringComparison)

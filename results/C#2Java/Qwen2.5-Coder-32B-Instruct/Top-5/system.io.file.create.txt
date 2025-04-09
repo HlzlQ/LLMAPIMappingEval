@@ -1,0 +1,5 @@
+java.nio.file.Files.createFile  
+java.io.File.createNewFile  
+java.nio.file.Files.createDirectories  
+java.nio.file.Files.createTempFile  
+java.nio.file.Files.createSymbolicLink

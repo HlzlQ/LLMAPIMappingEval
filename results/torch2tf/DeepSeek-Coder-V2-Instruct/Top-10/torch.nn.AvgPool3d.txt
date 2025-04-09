@@ -1,0 +1,12 @@
+
+
+1. tf.keras.layers.AveragePooling3D
+2. tf.nn.avg_pool3d
+3. tf.keras.layers.AvgPool3D
+4. tf.nn.max_pooling_3d
+5. tf.nn.average_pooling_3d
+6. tf.nn.avg_pool3d
+7. tf.nn.avg_pooling_3d
+8. tf.keras.layers.AvgPool3D
+9. tf.nn.max_pool3d
+10. tf.keras.layers.AveragePooling3D

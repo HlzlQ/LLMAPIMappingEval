@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Linear
+2. tf.layers.dense
+3. keras.layers.Dense
+4. tensorflow.compat.v1.layers.Dense
+5. mxnet.gluon.nn.Dense
+6. paddlepaddle.nn.Linear
+7. caffe2.python.layers.FC
+8. theano.tensor.nnet.dense
+9. cntk.ops.layers.Dense
+10. torchvision.models.densenet

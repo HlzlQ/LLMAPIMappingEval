@@ -1,0 +1,12 @@
+
+
+1. tf.reduce_sum
+2. tf.matmul
+3. tf.transpose
+4. tf.reshape
+5. tf.linalg.einsum
+6. tf.concat
+7. tf.split
+8. tf.expand_dims
+9. tf.squeeze
+10. tf.reduce_mean

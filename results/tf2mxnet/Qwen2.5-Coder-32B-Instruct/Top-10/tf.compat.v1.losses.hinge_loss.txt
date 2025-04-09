@@ -1,0 +1,10 @@
+mxnet.gluon.loss.HingeLoss
+mxnet.ndarray.contrib.hinge_loss
+mxnet.symbol.contrib.hinge_loss
+mxnet.gluon.nn.HingeLoss
+mxnet.ndarray.loss.hinge_loss
+mxnet.symbol.loss.hinge_loss
+mxnet.gluon.loss.SVMOutput
+mxnet.ndarray.contrib.svm_output
+mxnet.symbol.contrib.svm_output
+mxnet.gluon.nn.SVMOutput

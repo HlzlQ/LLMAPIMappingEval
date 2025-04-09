@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for alpha dropout:
+
+1. `tf.nn.dropout`
+2. `tf.nn.alpha_dropout`
+3. `tf.nn.dropout_with_alpha`
+4. `tf.nn.dropout_with_noise`
+5. `tf.nn.dropout_with_mask`
+6. `tf.nn.dropout_with_scale`
+7. `tf.nn.dropout_with_shuffle`
+8. `tf.nn.dropout_with_permute`
+9. `tf.nn.dropout_with_random_uniform`
+10. `tf.nn.dropout_with_random_normal`

@@ -1,0 +1,10 @@
+mxnet.ndarray.BatchNorm
+mxnet.gluon.nn.BatchNorm
+mxnet.symbol.BatchNorm
+mxnet.contrib.symbol.BatchNorm
+mxnet.gluon.block.BatchNorm
+mxnet.gluon.contrib.nn.BatchNorm
+mxnet.ndarray.batch_norm
+mxnet.symbol.batch_norm
+mxnet.gluon.nn.batch_norm
+mxnet.contrib.ndarray.batch_norm

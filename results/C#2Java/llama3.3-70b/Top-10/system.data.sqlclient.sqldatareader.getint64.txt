@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.data.sqlclient.sqldatareader.getint64`:
+
+1. java.sql.ResultSet.getLong
+2. java.sql.ResultSet.getByte
+3. java.sql.ResultSet.getShort
+4. java.sql.ResultSet.getInt
+5. java.sql.ResultSet.getFloat
+6. java.sql.ResultSet.getDouble
+7. java.sql.ResultSet.getString
+8. java.sql.ResultSet.getObject
+9. java.sql.ResultSet.getBoolean
+10. java.sql.ResultSet.getBytes

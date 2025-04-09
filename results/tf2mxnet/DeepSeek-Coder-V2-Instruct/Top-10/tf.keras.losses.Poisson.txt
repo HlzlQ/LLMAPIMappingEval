@@ -1,0 +1,13 @@
+
+Answer: ```
+1. mxnet.gluon.loss.L2Loss
+2. mxnet.gluon.loss.HuberLoss
+3. mxnet.gluon.loss.LogisticLoss
+4. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+5. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+6. mxnet.gluon.loss.L1Loss
+7. mxnet.gluon.loss.SquaredHingeLoss
+8. mxnet.gluon.loss.PoissonNLLLoss
+9. mxnet.gluon.loss.KLDivergence
+10. mxnet.gluon.loss.CosineEmbeddingLoss
+```

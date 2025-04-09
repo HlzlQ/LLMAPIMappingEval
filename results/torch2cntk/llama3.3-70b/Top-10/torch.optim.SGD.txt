@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.optim.SGD`:
+
+1. `cntk.learners.SGDLearner`
+2. `cntk.learners.MomentumSGDLearner`
+3. `cntk.learners.NesterovSGDLearner`
+4. `cntk.learners.AdamLearner`
+5. `cntk.learners.RMSPropLearner`
+6. `cntk.learners.AdaGradLearner`
+7. `cntk.learners.AdagradLearner`
+8. `cntk.learners.SGDWithMomentumLearner`
+9. `cntk.learners.FtrlLearner`
+10. `cntk.learners.AdaDeltaLearner`

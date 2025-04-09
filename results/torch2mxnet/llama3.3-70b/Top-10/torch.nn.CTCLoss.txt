@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `torch.nn.CTCLoss`:
+
+1. mxnet.ndarray.ctc_loss
+2. mxnet.gluon.loss.CTCLoss
+3. mxnet.gluon.contrib.loss.CTCLoss
+4. mxnet.ndarray_contrib.ctc_loss
+5. mxnet.gluon.nn.CTCLoss
+6. mxnet.gluon.loss.WarpCTCLoss
+7. mxnet.ndarray.WarpCTCLoss
+8. mxnet.gluon.contrib.nn.CTCLoss
+9. mxnet.ndarray_ctc_loss
+10. mxnet.gluon.loss.ConnectionistTemporalClassificationLoss

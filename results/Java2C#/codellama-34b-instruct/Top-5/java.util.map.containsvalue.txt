@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely C# APIs for the Java API `java.util.map.containsvalue`:
+
+1. `System.Collections.Generic.IDictionary<TKey, TValue>.ContainsValue(TValue value)`
+2. `System.Collections.Generic.IReadOnlyDictionary<TKey, TValue>.ContainsValue(TValue value)`
+3. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.ContainsValue(TValue value)`
+4. `System.Linq.Enumerable.Contains<TSource>(IEnumerable<TSource> source, TSource value)`
+5. `System.Collections.Specialized.NameObjectCollectionBase.ContainsValue(object value)`

@@ -1,0 +1,5 @@
+System.WeakReference.Get
+System.SoftReference.Get
+System.PhantomReference.Get
+System.FinalizationReference.Get
+System.WeakReference<T>.Get

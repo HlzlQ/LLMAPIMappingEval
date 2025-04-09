@@ -1,0 +1,2 @@
+
+Answer: relu, softmax, sigmoid, tanh, elu, selu, softplus, softsign, exponential, hard_sigmoid

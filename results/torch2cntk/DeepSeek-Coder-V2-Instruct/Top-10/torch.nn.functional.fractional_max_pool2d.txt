@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.adaptive_avg_pool2d, torch.nn.functional.adaptive_max_pool2d, torch.nn.functional.avg_pool2d, torch.nn.functional.max_pool2d, torch.nn.functional.conv2d, torch.nn.functional.interpolate, torch.nn.functional.upsample, torch.nn.functional.bilinear, torch.nn.functional.conv_transpose2d, torch.nn.functional.fractional_max_pool2d

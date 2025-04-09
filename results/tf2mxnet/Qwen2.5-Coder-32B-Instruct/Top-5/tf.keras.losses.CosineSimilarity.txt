@@ -1,0 +1,5 @@
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss  
+mxnet.ndarray.linalg.norm  
+mxnet.ndarray.dot  
+mxnet.ndarray.sum  
+mxnet.ndarray.broadcast_div

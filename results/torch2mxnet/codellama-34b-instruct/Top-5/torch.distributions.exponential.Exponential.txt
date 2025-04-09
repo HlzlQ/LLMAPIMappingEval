@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.distributions.exponential.Exponential | mxnet.ndarray.exp |
+  | torch.distributions.exponential.Exponential.sample | mxnet.ndarray.random.uniform |
+  | torch.distributions.exponential.Exponential.log_prob | mxnet.ndarray.log |
+  | torch.distributions.exponential.Exponential.cdf | mxnet.ndarray.less_equal |
+  | torch.distributions.exponential.Exponential.icdf | mxnet.ndarray.greater_equal |

@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that may have similar functionality to `torch.load`:
+
+1. `cntk.load_model`
+2. `cntk.load_checkpoint`
+3. `cntk.deserialize`
+4. `cntk.Model.load`
+5. `cntk.Function.load`
+6. `cntk.Variable.load`
+7. `cntk.Parameter.load`
+8. `cntkCheckpointDescriptor.load`
+9. `cntk.Model.load_from_file`
+10. `cntk.Function.load_from_file`

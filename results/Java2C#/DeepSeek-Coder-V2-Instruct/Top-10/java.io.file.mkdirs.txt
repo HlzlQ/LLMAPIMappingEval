@@ -1,0 +1,10 @@
+System.IO.Directory.CreateDirectory
+System.IO.DirectoryInfo.Create
+System.IO.FileSystemInfo.Attributes
+System.IO.FileSystemInfo.CreationTime
+System.IO.FileSystemInfo.Delete
+System.IO.FileSystemInfo.Exists
+System.IO.FileSystemInfo.FullName
+System.IO.FileSystemInfo.LastAccessTime
+System.IO.FileSystemInfo.LastWriteTime
+System.IO.FileSystemInfo.MoveTo

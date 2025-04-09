@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+2. NUnit.Framework.Assert.IsFalse
+3. xunit.assert.False
+4. System.Diagnostics.Debug.Assert
+5. System.Diagnostics.Trace.Assert
+6. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.Fail
+7. NUnit.Framework.Assert.Fail
+8. xunit.assert.Fail
+9. FluentAssertions.Primitives.BooleanAssertion.ShouldBeFalse
+10. Shouldly.ShouldNotBeTrue

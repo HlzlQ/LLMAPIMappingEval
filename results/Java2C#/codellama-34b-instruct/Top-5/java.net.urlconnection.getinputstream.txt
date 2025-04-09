@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Net.HttpWebRequest.GetResponseStream()
+2. System.Net.HttpListenerRequest.InputStream
+3. System.Net.FtpWebRequest.GetRequestStream()
+4. System.Net.FileWebRequest.GetRequestStream()
+5. System.Net.HttpWebRequest.EndGetRequestStream()

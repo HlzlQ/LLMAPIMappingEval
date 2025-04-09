@@ -1,0 +1,10 @@
+cntk.ops.max_pooling
+cntk.ops.pooling
+cntk.layers.MaxPooling
+cntk.layers.Pooling
+cntk.ops.argmax_over_axis
+cntk.ops.reduce_max
+cntk.ops.element_select
+cntk.ops.greater_equal
+cntk.ops.less_equal
+cntk.ops.where

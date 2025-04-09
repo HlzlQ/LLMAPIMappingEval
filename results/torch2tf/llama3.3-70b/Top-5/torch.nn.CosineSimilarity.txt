@@ -1,0 +1,5 @@
+1. tf.keras.losses.CosineSimilarity
+2. tf.linalg.normalize
+3. tf.math.cos
+4. tf.tensordot
+5. tf.reduce_sum

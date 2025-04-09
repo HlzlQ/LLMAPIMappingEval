@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that may have similar functionality to `tensorflow.compat.v1.saved_model.load`:
+
+1. mxnet.module.Module.load
+2. mxnet.model.load_checkpoint
+3. mxnet.model.load_params
+4. mxnet.gluon.nn.SymbolBlock.load_parameters
+5. mxnet.gluon.nn.HybridBlock.load_parameters
+6. mxnet.gluon.utils.load_model
+7. mxnet.ndarray.load
+8. mxnet.io.NDArrayIter.load
+9. mxnet.contrib.amp.load_checkpoint
+10. mxnet.gluon.model_zoo.model_store.load

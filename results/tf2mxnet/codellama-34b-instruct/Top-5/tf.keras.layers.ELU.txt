@@ -1,0 +1,3 @@
+  tf.keras.layers.ELU(alpha=1.0)
+
+MXNet equivalent: mxnet.gluon.nn.ELU(alpha=1.0)

@@ -1,0 +1,5 @@
+  tf.keras.initializers.RandomUniform(minval=0, maxval=None, seed=None)
+  mx.init.Uniform(scale=1.0, seed=None)
+  mx.init.Xavier(rnd_type='uniform', factor_type='avg', magnitude=3)
+  mx.init.MSRAPrelu(slope=0.25)
+  mx.init.He(scale=2.0, seed=None)

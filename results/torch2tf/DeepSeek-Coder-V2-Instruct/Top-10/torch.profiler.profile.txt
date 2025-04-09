@@ -1,0 +1,2 @@
+
+Answer: torchstat, nvidia-smi, tensorboardX, apex, torchsummary, ptflops, torchinfo, flops_profiler, modelzoo, pytorch-quantization

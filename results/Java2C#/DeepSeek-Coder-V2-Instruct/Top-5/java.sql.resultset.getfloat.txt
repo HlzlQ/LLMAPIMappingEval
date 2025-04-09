@@ -1,0 +1,5 @@
+1. GetFloat(int columnIndex)
+2. GetFloat(string columnName)
+3. GetSingle(int columnIndex)
+4. GetSingle(string columnName)
+5. ToSingle(object value)

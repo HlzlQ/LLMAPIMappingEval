@@ -1,0 +1,5 @@
+torch.nn.functional.linear  
+torch.nn.Linear  
+torch.matmul  
+torch.bmm  
+torch.mm

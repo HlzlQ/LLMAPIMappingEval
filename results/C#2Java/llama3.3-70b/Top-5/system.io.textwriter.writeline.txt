@@ -1,0 +1,5 @@
+1. java.io.PrintWriter.println
+2. java.io.BufferedWriter.write
+3. java.io.FileWriter.write
+4. java.io.OutputStreamWriter.write
+5. java.util.logging.StreamHandler.publish

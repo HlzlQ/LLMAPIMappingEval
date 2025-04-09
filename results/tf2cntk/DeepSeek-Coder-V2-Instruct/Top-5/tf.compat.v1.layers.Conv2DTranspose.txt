@@ -1,0 +1,2 @@
+
+Answer: AveragePooling, Conv2D, MaxPooling, Reshape, Transpose

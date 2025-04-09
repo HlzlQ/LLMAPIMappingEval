@@ -1,0 +1,10 @@
+java.io.BufferedReader.close  
+java.io.FileReader.close  
+java.io.InputStreamReader.close  
+java.io.LineNumberReader.close  
+java.io.PipedReader.close  
+java.io.PushbackReader.close  
+java.io.Reader.close  
+java.io.StreamTokenizer.close  
+java.nio.file.Files.newBufferedReader.close  
+java.util.Scanner.close

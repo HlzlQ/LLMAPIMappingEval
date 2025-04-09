@@ -1,0 +1,5 @@
+tfp.distributions.Bernoulli  
+tf.random.set_seed  
+tf.random.uniform  
+tf.math.greater_equal  
+tf.reduce_mean

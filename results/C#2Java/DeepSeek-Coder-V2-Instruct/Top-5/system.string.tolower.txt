@@ -1,0 +1,5 @@
+1. String.toLowerCase()
+2. java.lang.String.toLowerCase()
+3. System.String.ToLower()
+4. java.lang.String.toLowerCase(Locale locale)
+5. java.util.Locale.toString()

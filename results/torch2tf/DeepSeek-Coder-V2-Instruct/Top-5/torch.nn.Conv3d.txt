@@ -1,0 +1,7 @@
+
+
+1. tf.keras.layers.Conv3D
+2. torch.nn.ConvTranspose3d
+3. torch.nn.functional.conv3d
+4. tensorflow.python.keras.layers.convolutional.Conv3D
+5. tf.compat.v1.layers.conv3d

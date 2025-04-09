@@ -1,0 +1,1 @@
+CNTK.DefaultInitializer(glorot_normal_initializer)

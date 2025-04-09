@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.ELU`:
+
+1. `cntk.layers.ELU`
+2. `cntk.layers.LeakyReLU`
+3. `cntk.layers.PReLU`
+4. `cntk.layers.RReLU`
+5. `cntk.layers.SELU`

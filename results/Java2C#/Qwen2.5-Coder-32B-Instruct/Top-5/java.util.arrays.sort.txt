@@ -1,0 +1,5 @@
+System.Array.Sort  
+System.Collections.Generic.List<T>.Sort  
+System.Linq.Enumerable.OrderBy  
+System.Linq.Enumerable.OrderByDescending  
+Array.Sort

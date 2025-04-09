@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+2. NUnit.Framework.Assert.IsNotNull
+3. xunit.assert.NotNull
+4. System.Diagnostics.Debug.Assert
+5. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+6. NUnit.Framework.Assert.IsTrue
+7. xunit.assert.True
+8. System.Diagnostics.Debug.WriteLine
+9. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+10. NUnit.Framework.Assert.IsNotNullOrEmpty

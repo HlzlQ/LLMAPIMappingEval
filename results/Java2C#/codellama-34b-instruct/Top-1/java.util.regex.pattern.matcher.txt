@@ -1,0 +1,31 @@
+C# does not have a direct equivalent to the `java.util.regex.Pattern` class or its `matcher()` method. However, C# provides a similar functionality through the `System.Text.RegularExpressions` namespace and its `Regex` class.
+
+The closest match to the `matcher()` method in C# is the `Match()` method of the `Regex` class. This method takes a string input and returns a `Match` object that contains information about the matches found in the input string.
+
+Here's an example of how you can use the `Match()` method to perform a regular expression match in C#:
+```csharp
+using System.Text.RegularExpressions;
+
+// Define the regular expression pattern
+string pattern = @"\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b";
+
+// Create a Regex object from the pattern
+Regex regex = new Regex(pattern);
+
+// Define the input string to match against
+string input = "john.doe@example.com";
+
+// Use the Match() method to perform the regular expression match
+Match match = regex.Match(input);
+
+// Check if there was a match
+if (match.Success)
+{
+    Console.WriteLine("The email address is valid.");
+}
+else
+{
+    Console.WriteLine("The email address is not valid.");
+}
+```
+In this example, the `Regex` class is used to create a regular expression object from the pattern string. The `Match()` method is then called on the `regex` object with the input string as an argument. If there is a match, the `match.Success` property will be set to `true`, and you can use the `match` object to retrieve information about the matches found in the input string.

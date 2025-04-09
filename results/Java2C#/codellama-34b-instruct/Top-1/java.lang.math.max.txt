@@ -1,0 +1,9 @@
+C# does not have a direct equivalent to the `java.lang.Math.max()` method. However, you can use the `System.Math` class in C# to achieve similar functionality. Here are some options:
+
+1. `System.Math.Max(double, double)`: This method returns the larger of two `double` values.
+2. `System.Math.Max(float, float)`: This method returns the larger of two `float` values.
+3. `System.Math.Max(decimal, decimal)`: This method returns the larger of two `decimal` values.
+4. `System.Math.Max(int, int)`: This method returns the larger of two `int` values.
+5. `System.Math.Max(long, long)`: This method returns the larger of two `long` values.
+
+You can use any of these methods depending on the data type you are working with. For example, if you have two `double` values, you can use `System.Math.Max(double, double)`. If you have two `int` values, you can use `System.Math.Max(int, int)`.

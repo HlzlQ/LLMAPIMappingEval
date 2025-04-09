@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("cntk.initializer.glorot_uniform")
+<jupyter_output>
+cntk.initializer.glorot_uniform

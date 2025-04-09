@@ -1,0 +1,2 @@
+
+Answer: tf.initializers.Ones(), tf.keras.initializers.Ones(), tf.ones_initializer(), tf.compat.v1.keras.initializers.Ones(), tf.compat.v1.initializers.Ones()

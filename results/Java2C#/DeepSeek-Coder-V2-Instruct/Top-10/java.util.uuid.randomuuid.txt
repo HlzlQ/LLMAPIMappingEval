@@ -1,0 +1,10 @@
+System.Guid.NewGuid()
+System.Random().NextBytes(byte[])
+System.Security.Cryptography.RNGCryptoServiceProvider.GetBytes(byte[])
+System.Guid.ParseExact(string, string)
+System.Guid.TryParseExact(string, string, out Guid)
+System.Guid.ToString(string)
+System.Guid.ToByteArray()
+System.Guid.NewGuid().ToString("N")
+System.Guid.Empty
+System.Guid.Equals(object)

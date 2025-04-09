@@ -1,0 +1,10 @@
+tf.ones_initializer  
+tf.keras.initializers.Ones  
+tf.compat.v1.ones_initializer  
+tf.compat.v2.ones_initializer  
+tf.keras.layers.Dense.kernel_initializer  
+tf.keras.layers.Conv2D.kernel_initializer  
+tf.keras.layers.LSTM.kernel_initializer  
+tf.keras.layers.GRU.kernel_initializer  
+tf.keras.layers.SimpleRNN.kernel_initializer  
+tf.keras.layers.Bidirectional.layer.kernel_initializer

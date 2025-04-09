@@ -1,0 +1,4 @@
+
+MXNet.ndarray.contrib.BilinearResize2D
+<jupyter_output>
+<empty_output>

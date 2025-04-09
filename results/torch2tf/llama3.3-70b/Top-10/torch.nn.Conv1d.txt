@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.Conv1d`:
+
+1. tf.keras.layers.Conv1D
+2. tf.compat.v1.layers.Conv1D
+3. tf.nn.conv1d
+4. tf.keras.layers.SeparableConv1D
+5. tf.keras.layers.DepthwiseConv1D
+6. tf.keras.layers.Conv1DTranspose
+7. tf.nn.depthwise_conv1d
+8. tf.nn.separable_conv1d
+9. tf.keras.layers.AtrousConv1D
+10. tf.compat.v2.nn.conv1d

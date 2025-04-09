@@ -1,0 +1,10 @@
+java.io.BufferedInputStream.read
+java.nio.channels.ReadableByteChannel.read
+java.nio.file.Files.newBufferedReader
+java.nio.file.Files.newInputStream
+java.io.FileInputStream.read
+java.io.DataInputStream.read
+java.io.InputStreamReader.read
+java.util.Scanner.nextInt
+java.util.Scanner.next
+java.util.Scanner.nextLine

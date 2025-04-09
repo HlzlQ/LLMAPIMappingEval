@@ -1,0 +1,10 @@
+java.util.regex.Matcher.replaceAll
+java.lang.String.replaceAll
+java.util.regex.Pattern.matcher
+java.text.Normalizer.normalize
+java.nio.file.Files.readAllLines
+java.io.BufferedReader.readLine
+java.util.stream.Collectors.joining
+java.util.List.toString
+java.lang.StringBuilder.append
+java.lang.StringBuffer.append

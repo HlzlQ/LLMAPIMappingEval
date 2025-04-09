@@ -1,0 +1,10 @@
+tf.keras.layers.ELU  
+tf.nn.elu  
+tf.keras.activations.elu  
+tf.math.elu  
+tf.raw_ops.ELU  
+tf.raw_ops.ELUGrad  
+tf.keras.backend.elu  
+tf.compat.v1.keras.layers.ELU  
+tf.compat.v1.nn.elu  
+tf.compat.v1.keras.activations.elu

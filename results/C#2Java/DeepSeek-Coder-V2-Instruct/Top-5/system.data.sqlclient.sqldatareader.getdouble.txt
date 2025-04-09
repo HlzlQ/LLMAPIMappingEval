@@ -1,0 +1,7 @@
+1. ResultSet.getDouble(int)
+2. ResultSet.getDouble(String)
+3. PreparedStatement.getDouble(int)
+4. CallableStatement.getDouble(int)
+5. CallableStatement.getDouble(String)
+
+These APIs are the most likely ones because they correspond to the functionality of `System.Data.SqlClient.SqlDataReader.GetDouble` in C#. They allow retrieving a double value from the result set, which is similar to what `GetDouble` does in these Java APIs.

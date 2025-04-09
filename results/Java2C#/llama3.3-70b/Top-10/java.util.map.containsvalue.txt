@@ -1,0 +1,10 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.ContainsValue
+2. System.Collections.Hashtable.ContainsValue
+3. System.Collections.IDictionary.ContainsValue
+4. System.Linq.Enumerable.Any<TSource>
+5. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue
+6. System.Collections.Generic.Lookup<TKey, TElement>.Contains
+7. System.Collections.Generic.SortedDictionary<TKey, TValue>.ContainsValue
+8. System.Collections.Specialized.NameValueCollection.Contains
+9. System.Collections.Generic.Dictionary<TKey, TValue>.Values.Any
+10. System.Linq.Enumerable.Contains<TSource>

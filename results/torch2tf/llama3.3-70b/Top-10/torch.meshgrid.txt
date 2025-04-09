@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.meshgrid`:
+
+1. tf.meshgrid
+2. tf.stack
+3. tf.tile
+4. tf.repeat
+5. tf.range
+6. tf.linspace
+7. tf.reshape
+8. tf.broadcast_to
+9. tf.expand_dims
+10. tf.numpy_stack

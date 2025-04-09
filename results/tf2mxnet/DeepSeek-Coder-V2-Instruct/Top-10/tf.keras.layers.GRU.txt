@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.rnn.GRUCell
+2. mxnet.gluon.rnn.GRU
+3. mxnet.gluon.rnn.RNNCell
+4. mxnet.gluon.rnn.RNN
+5. mxnet.gluon.rnn.LSTMCell
+6. mxnet.gluon.rnn.LSTM
+7. mxnet.gluon.rnn.SimpleRNNCell
+8. mxnet.gluon.rnn.SimpleRNN
+9. mxnet.gluon.rnn.GRU
+10. mxnet.gluon.rnn.RNN

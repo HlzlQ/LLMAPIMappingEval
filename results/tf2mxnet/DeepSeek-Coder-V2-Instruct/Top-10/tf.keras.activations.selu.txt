@@ -1,0 +1,33 @@
+
+<jupyter_text>
+```python
+# List of similar MXNet activation functions
+mxnet_activations = [
+    "relu",
+    "sigmoid",
+    "tanh",
+    "softplus",
+    "softsign",
+    "elu",
+    "selu",
+    "hard_sigmoid",
+    "linear",
+    "LeakyReLU"
+]
+```
+<jupyter_code>
+# List of similar MXNet activation functions
+mxnet_activations = [
+    "relu",
+    "sigmoid",
+    "tanh",
+    "softplus",
+    "softsign",
+    "elu",
+    "selu",
+    "hard_sigmoid",
+    "linear",
+    "LeakyReLU"
+]
+<jupyter_output>
+<empty_output>

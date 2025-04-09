@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.io.stringwriter.getstringbuilder` in C#:
+
+1. java.io.StringWriter.toString()
+2. java.lang.StringBuilder.toString()
+3. java.io.StringWriter.getBuffer()
+4. java.nio.charset.CharsetDecoder.decode()
+5. java.util.stream.Collectors.joining()
+6. java.lang.String.concat()
+7. java.io.PrintWriter.print()
+8. java.lang.StringBuilder.append()
+9. java.io.StringWriter.write()
+10. java.lang.String.valueOf()

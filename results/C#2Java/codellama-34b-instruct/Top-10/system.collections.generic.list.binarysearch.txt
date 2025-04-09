@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that match the functionality of `System.Collections.Generic.List.BinarySearch` in C#:
+
+1. `java.util.Arrays.binarySearch(Object[] a, Object key)`
+2. `java.util.ArrayList.indexOf(Object o)`
+3. `java.util.LinkedList.indexOf(Object o)`
+4. `java.util.Vector.indexOf(Object o)`
+5. `java.util.Collections.binarySearch(List<?> list, Object key)`
+6. `java.util.Collections.indexedBinarySearch(List<?> list, Object key)`
+7. `java.util.Collections.reverseOrder()`
+8. `java.util.Collections.sort(List<T> list)`
+9. `java.util.Collections.swap(List<T> list, int i, int j)`
+10. `java.util.Collections.rotate(List<T> list, int distance)`

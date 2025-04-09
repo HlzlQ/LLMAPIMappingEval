@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to `torch.nn.functional.adaptive_avg_pool2d`:
+
+1. `cntk.layers.AveragePooling2D`
+2. `cntk.layers.GlobalAveragePooling2D`
+3. `cntk.layers.MaxPooling2D`
+4. `cntk.layers.GlobalMaxPooling2D`
+5. `cntk.layers.AdaptiveAvgPool2D`
+6. `cntk.layers.AdaptiveMaxPool2D`
+7. `cntk.layers.AveragePooling3D`
+8. `cntk.layers.GlobalAveragePooling3D`
+9. `cntk.layers.MaxPooling3D`
+10. `cntk.layers.GlobalMaxPooling3D`

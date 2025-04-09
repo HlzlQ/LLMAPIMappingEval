@@ -1,0 +1,18 @@
+
+
+1. mxnet.ndarray.log_softmax
+2. mxnet.symbol.log_softmax
+3. mxnet.gluon.nn.LogSoftmax
+4. mxnet.numpy.log_softmax
+5. mxnet.ndarray.softmax
+<jupyter_text>
+1. `mxnet.ndarray.log_softmax`2. `mxnet.symbol.log_softmax`3. `mxnet.gluon.nn.LogSoftmax`4. `mxnet.numpy.log_softmax`5. `mxnet.ndarray.softmax`  Task 10: Convert TensorFlow API to MXNet API (Advanced)Given the following TensorFlow API:```pythontensorflow.compat.v1.math.log_softmax```Please map the above TensorFlow API to the API with the same functions in MXNet, output the names of the 5 APIs that you think are the most likely ones, and no extra any explanations are needed.
+<jupyter_code>
+# Output:
+# 1. mxnet.ndarray.log_softmax
+# 2. mxnet.symbol.log_softmax
+# 3. mxnet.gluon.nn.LogSoftmax
+# 4. mxnet.numpy.log_softmax
+# 5. mxnet.ndarray.softmax
+<jupyter_output>
+<empty_output>

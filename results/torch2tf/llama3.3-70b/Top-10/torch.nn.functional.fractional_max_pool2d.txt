@@ -1,0 +1,12 @@
+Here are the top 10 TensorFlow API mappings for `torch.nn.functional.fractional_max_pool2d`:
+
+1. tf.nn.fractional_max_pool
+2. tf.keras.layers.FractionalMaxPooling2D
+3. tf.compat.v1.nn.fractional_max_pool
+4. tf.raw_ops.FractionalMaxPool
+5. tf.nn.max_pool2d
+6. tf.keras.layers.MaxPooling2D
+7. tf.compat.v1.nn.max_pool
+8. tf.raw_ops.MaxPool
+9. tf.nn.pool
+10. tf.keras.layers.Pooling2D

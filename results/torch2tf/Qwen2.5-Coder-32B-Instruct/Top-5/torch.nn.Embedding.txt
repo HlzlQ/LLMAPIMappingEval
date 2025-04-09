@@ -1,0 +1,5 @@
+tf.keras.layers.Embedding  
+tf.compat.v1.nn.embedding_lookup  
+tf.nn.embedding_lookup  
+tf.nn.embedding_lookup_sparse  
+tf.keras.preprocessing.sequence.pad_sequences

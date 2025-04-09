@@ -1,0 +1,2 @@
+
+CNTK has a similar API for embedding layers called `Embedding`.

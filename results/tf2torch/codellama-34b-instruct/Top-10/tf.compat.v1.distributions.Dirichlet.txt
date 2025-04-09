@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Dirichlet`:
+
+1. `torch.distributions.Dirichlet`
+2. `torch.distributions.dirichlet_like`
+3. `torch.distributions.dirichlet_multivariate`
+4. `torch.distributions.dirichlet_normal`
+5. `torch.distributions.dirichlet_uniform`
+6. `torch.distributions.dirichlet_exponential`
+7. `torch.distributions.dirichlet_gamma`
+8. `torch.distributions.dirichlet_poisson`
+9. `torch.distributions.dirichlet_bernoulli`
+10. `torch.distributions.dirichlet_categorical`

@@ -1,0 +1,5 @@
+1. ContainsKey (Dictionary)
+2. Exists (Enumerable)
+3. Contains (List)
+4. Any (Enumerable)
+5. InCollection (HashSet)

@@ -1,0 +1,13 @@
+
+```python
+import tensorflow as tf
+tf.compat.v1.saved_model.load()
+```
+Answer: ```python
+import mxnet as mx
+mx.gluon.nn.HybridSequential().load_parameters()
+mx.ndarray.save()
+mx.ndarray.load()
+mx.symbol.load()
+mx.module.Module.load()
+```

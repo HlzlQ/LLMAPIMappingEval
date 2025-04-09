@@ -1,0 +1,5 @@
+mxnet.gluon.rnn.LSTM
+mxnet.gluon.rnn.LSTMCell
+mxnet.ndarray.contrib.lstm
+mxnet.symbol.contrib.lstm
+mxnet.ndarray.contrib.lstmp_cell

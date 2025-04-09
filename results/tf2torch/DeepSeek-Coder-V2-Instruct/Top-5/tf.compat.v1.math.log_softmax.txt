@@ -1,0 +1,2 @@
+
+torch.nn.functional.log_softmax

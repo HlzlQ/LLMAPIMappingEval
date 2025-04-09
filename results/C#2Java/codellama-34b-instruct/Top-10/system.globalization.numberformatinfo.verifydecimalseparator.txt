@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.globalization.numberformatinfo.verifydecimalseparator`:
+
+1. `java.text.DecimalFormatSymbols.getDecimalSeparator()`
+2. `java.text.NumberFormat.isParseIntegerOnly()`
+3. `java.text.NumberFormat.setParseIntegerOnly(boolean)`
+4. `java.text.DecimalFormat.getDecimalSeparator()`
+5. `java.text.DecimalFormat.setDecimalSeparator(char)`
+6. `java.text.DecimalFormat.isDecimalSeparatorAlwaysShown()`
+7. `java.text.DecimalFormat.setDecimalSeparatorAlwaysShown(boolean)`
+8. `java.text.NumberFormat.getCurrencyInstance()`
+9. `java.text.NumberFormat.getIntegerInstance()`
+10. `java.text.NumberFormat.getPercentInstance()`

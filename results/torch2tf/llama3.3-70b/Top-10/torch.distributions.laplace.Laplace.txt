@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.distributions.laplace.Laplace`:
+
+1. tfp.distributions.Laplace
+2. tf.distributions.Laplace
+3. tfp.distributions.Normal
+4. tf.distributions.Normal
+5. tfp.distributions.Exponential
+6. tf.distributions.Exponential
+7. tfp.distributions.Gaussian
+8. tf.distributions.Gaussian
+9. tfp.distributions.StudentT
+10. tf.distributions.TruncatedNormal

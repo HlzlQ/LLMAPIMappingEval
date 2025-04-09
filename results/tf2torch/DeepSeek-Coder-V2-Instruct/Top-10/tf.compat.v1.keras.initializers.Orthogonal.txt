@@ -1,0 +1,6 @@
+
+```python
+```
+
+1. `tf.keras.initializers.Orthogonal`
+2. `torch.nn.init.orthogonal_`

@@ -1,0 +1,5 @@
+1. org.junit.Assert.assertNotSame
+2. junit.framework.Assert.assertNotSame
+3. org.hamcrest.MatcherAssert.assertNotSame
+4. org.testng.Assert.assertNotSame
+5. org.junit.jupiter.api.Assertions.assertNotSame

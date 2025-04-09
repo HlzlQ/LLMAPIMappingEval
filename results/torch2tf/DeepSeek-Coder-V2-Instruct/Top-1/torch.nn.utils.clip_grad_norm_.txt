@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: clip_by_global_norm
+<jupyter_output>
+<empty_output>

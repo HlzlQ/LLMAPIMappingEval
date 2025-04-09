@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.Flatten`:
+
+1. `mxnet.ndarray.flatten`
+2. `mxnet.ndarray.reshape`
+3. `mxnet.ndarray.transpose`
+4. `mxnet.ndarray.squeeze`
+5. `mxnet.ndarray.expand_dims`
+6. `mxnet.ndarray.swapaxes`
+7. `mxnet.ndarray.moveaxis`
+8. `mxnet.ndarray.rollaxis`
+9. `mxnet.ndarray.ravel`
+10. `mxnet.ndarray.reshape_like`

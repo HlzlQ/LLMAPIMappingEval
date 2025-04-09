@@ -1,0 +1,5 @@
+java.util.List.set
+java.util.ArrayList.set
+java.util.LinkedList.set
+java.util.Vector.set
+java.util.Stack.set

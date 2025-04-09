@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for zero-padding a 2D tensor:
+
+1. `tf.pad`
+2. `tf.zeros_like`
+3. `tf.ones_like`
+4. `tf.fill`
+5. `tf.constant`
+6. `tf.Variable`
+7. `tf.placeholder`
+8. `tf.zeros`
+9. `tf.ones`
+10. `tf.fill_with_value`

@@ -1,0 +1,5 @@
+torch.nn.functional.conv1d  
+torch.nn.Conv1d  
+torch.nn.functional.conv_transpose1d  
+torch.nn.ConvTranspose1d  
+torch.nn.utils.weight_norm

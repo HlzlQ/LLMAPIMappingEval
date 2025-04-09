@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.text.regularexpressions.groupcollection.getgroup`:
+
+1. `java.util.regex.Matcher.group`
+2. `java.util.regex.Pattern.matcher`
+3. `java.util.regex.Pattern.compile`
+4. `java.util.regex.Matcher.matches`
+5. `java.util.regex.Matcher.find`
+6. `java.util.regex.Matcher.start`
+7. `java.util.regex.Matcher.end`
+8. `java.util.regex.Matcher.groupCount`
+9. `java.util.regex.Pattern.quote`
+10. `java.util.regex.Pattern.matches`

@@ -1,0 +1,10 @@
+1. System.Math.Log
+2. System.Math.Log10
+3. System.Math.Exp
+4. MathNet.Numerics.Statistics.Statistic.Log
+5. MathNet.Numerics.LinearAlgebra.Double.Log
+6. Accord.Math.Log
+7. Accord.Statistics.Statistics.Log
+8. Extreme.Mathematics.Log
+9. CenterSpace.NMath.Core.Log
+10. Microsoft.ML.Math.Log

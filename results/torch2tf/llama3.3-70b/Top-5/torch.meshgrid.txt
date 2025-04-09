@@ -1,0 +1,5 @@
+1. tf.meshgrid
+2. tf.stack
+3. tf.where
+4. tf.linspace
+5. tf.arange

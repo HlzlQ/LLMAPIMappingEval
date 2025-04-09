@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# AvgPool1d in PyTorch maps to Pooling1D in CNTK
+print("Pooling1D")
+<jupyter_output>
+Pooling1D

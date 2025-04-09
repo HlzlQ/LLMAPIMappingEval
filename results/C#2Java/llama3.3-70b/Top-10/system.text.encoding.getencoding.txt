@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.text.encoding.getencoding` in C#:
+
+1. java.nio.charset.Charset.forName
+2. java.nio.charset.Charset.defaultCharset
+3. java.nio.charset.Charset.availableCharsets
+4. java.lang.String.getBytes
+5. java.lang.String.getEncoding
+6. java.io.InputStreamReader.getEncoding
+7. java.io.OutputStreamWriter.getEncoding
+8. java.nio.charset.CodingErrorAction.getEncoding
+9. javax.xml.parsers.DocumentBuilderFactory.getEncoding
+10. org.apache.commons.codec.CharEncoding.UTF_8

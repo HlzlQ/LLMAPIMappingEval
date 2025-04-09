@@ -1,0 +1,12 @@
+
+
+1. tf.keras.losses.hinge
+2. tf.keras.losses.mean_squared_error
+3. tf.keras.losses.categorical_crossentropy
+4. tf.keras.losses.sparse_categorical_crossentropy
+5. tf.keras.losses.binary_crossentropy
+6. tf.keras.losses.kullback_leibler_divergence
+7. tf.keras.losses.poisson
+8. tf.keras.losses.cosine_distance
+9. tf.keras.losses.log_cosh
+10. tf.keras.losses.huber_loss

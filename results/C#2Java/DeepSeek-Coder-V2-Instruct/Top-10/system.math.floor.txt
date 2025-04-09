@@ -1,0 +1,10 @@
+1. java.lang.Math.floor
+2. java.lang.StrictMath.floor
+3. java.math.BigDecimal.setScale
+4. java.math.BigDecimal.floor
+5. javax.swing.JSpinner.setValue
+6. javax.swing.JFormattedTextField.setValue
+7. org.apache.commons.math3.util.Precision.floor
+8. com.ibm.icu.math.BigDecimal.setScale
+9. com.ibm.icu.math.BigDecimal.floor
+10. net.objecthunter.exp4j.ExpressionBuilder.floor

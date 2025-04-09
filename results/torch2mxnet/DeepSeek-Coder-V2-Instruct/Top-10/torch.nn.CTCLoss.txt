@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `nn.CTCLoss`
+2. `loss.CTCLoss`
+3. `gluon.loss.CTCLoss`
+4. `loss.ctc_loss`
+5. `ndarray.contrib.ctc_loss`
+6. `mxnet.gluon.loss.CTCLoss`
+7. `mxnet.ndarray.contrib.ctc_loss`
+8. `mxnet.symbol.contrib.CTCLoss`
+9. `mxnet.sym.contrib.CTCLoss`
+10. `mxnet.contrib.nn.ctc_loss`

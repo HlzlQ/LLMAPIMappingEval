@@ -1,0 +1,20 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+cntk_initializers = {
+    "glorot_uniform": C.glorot_uniform(),
+    "he_normal": C.he_normal(),
+    "he_uniform": C.he_uniform(),
+    "lecun_normal": C.lecun_normal(),
+    "lecun_uniform": C.lecun_uniform(),
+    "random_normal": C.random_normal,
+    "random_uniform": C.random_uniform,
+    "truncated_normal": C.truncated_normal,
+    "variance_scaling": C.variance_scaling,
+    "zeros": C.zeros
+}
+```

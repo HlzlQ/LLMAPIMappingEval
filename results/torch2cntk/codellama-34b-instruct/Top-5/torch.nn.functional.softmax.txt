@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.softmax`:
+
+1. `cntk.ops.softmax`
+2. `cntk.layers.Softmax`
+3. `cntk.activations.softmax`
+4. `cntk.functions.softmax`
+5. `cntk.nn.softmax`

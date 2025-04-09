@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.losses.BinaryCrossentropy`:
+
+1. torch.nn.BCELoss
+2. torch.nn.functional.binary_cross_entropy
+3. torch.nn.CrossEntropyLoss
+4. torch.nn.NLLLoss
+5. torch.nn.MSELoss
+6. torch.nn.L1Loss
+7. torch.nn.SmoothL1Loss
+8. torch.nn.KLDivLoss
+9. torch.nn.PoissonNLLLoss
+10. torch.nn.HingeEmbeddingLoss

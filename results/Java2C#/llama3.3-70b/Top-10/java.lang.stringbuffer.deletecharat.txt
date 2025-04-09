@@ -1,0 +1,10 @@
+1. System.Text.StringBuilder.Remove
+2. System.Text.StringBuilder.Replace
+3. System.String.Substring
+4. System.Text.RegularExpressions.Regex.Replace
+5. System.Linq.Enumerable.SkipWhile
+6. System.Linq.Enumerable.TakeWhile
+7. System.Text.StringBuilder.Insert
+8. Microsoft.VisualBasic.Strings.Left
+9. Microsoft.VisualBasic.Strings.Right
+10. System.Text.StringBuilder.Remove

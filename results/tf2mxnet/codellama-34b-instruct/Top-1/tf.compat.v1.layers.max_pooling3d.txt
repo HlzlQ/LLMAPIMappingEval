@@ -1,0 +1,7 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.layers.max_pooling3d`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.MaxPoolingND`: This API performs max pooling on a 3D array.
+* `mxnet.ndarray.MaxPoolingNDWithArgmax`: This API performs max pooling with argmax on a 3D array.
+
+Note that the APIs in MXNet are designed to work with N-dimensional arrays, so you may need to reshape your input data to use these APIs.

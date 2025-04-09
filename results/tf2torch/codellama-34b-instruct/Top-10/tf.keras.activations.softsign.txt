@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.activations.softsign`:
+
+1. `torch.nn.Softsign`
+2. `torch.nn.functional.softsign`
+3. `torch.nn.Softmax`
+4. `torch.nn.functional.softmax`
+5. `torch.nn.Sigmoid`
+6. `torch.nn.functional.sigmoid`
+7. `torch.nn.Tanh`
+8. `torch.nn.functional.tanh`
+9. `torch.nn.ReLU`
+10. `torch.nn.functional.relu`

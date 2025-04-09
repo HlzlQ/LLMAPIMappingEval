@@ -1,0 +1,14 @@
+  Here are ten possible Java APIs that correspond to the C# `System.IO.Directory.Exists` method:
+
+1. `java.io.File.exists()`
+2. `java.nio.file.Files.exists()`
+3. `java.nio.file.Paths.exists()`
+4. `java.io.File.isDirectory()`
+5. `java.nio.file.Files.isDirectory()`
+6. `java.nio.file.Paths.isDirectory()`
+7. `java.io.File.canRead()`
+8. `java.nio.file.Files.canRead()`
+9. `java.nio.file.Paths.canRead()`
+10. `java.io.File.canWrite()`
+
+Please note that these are just a few examples, and there may be other Java APIs that can also be used to check if a directory exists.

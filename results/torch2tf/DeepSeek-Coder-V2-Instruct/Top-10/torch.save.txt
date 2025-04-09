@@ -1,0 +1,17 @@
+
+
+```python
+import torch
+model = torch.nn.Linear(10, 1)
+torch.save(model, 'model.pth')
+```
+Answer: 1. `tf.saved_model`
+2. `tf.keras.models.save_model`
+3. `tf.train.Checkpoint`
+4. `tf.saved_model.save`
+5. `torch.save`
+6. `torch.load`
+7. `torch.nn.Module.save`
+8. `tensorflow.saved_model.save`
+9. `keras.models.save_model`
+10. `tf.train.write_graph`

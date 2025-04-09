@@ -1,0 +1,2 @@
+
+Answer: GlorotUniform, Zeros, Ones, RandomUniform, RandomNormal, Orthogonal, TruncatedNormal, HeNormal, HeUniform, VarianceScaling

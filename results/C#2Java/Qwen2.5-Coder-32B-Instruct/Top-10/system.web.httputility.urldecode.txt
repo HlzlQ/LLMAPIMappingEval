@@ -1,0 +1,10 @@
+java.net.URLDecoder.decode  
+javax.servlet.http.HttpServletRequest.decodeParameter  
+org.apache.commons.codec.net.URLCodec.decode  
+com.google.common.net.UrlEscapers.urlFragmentEscaper().decode  
+org.springframework.web.util.UriUtils.decodeQuery  
+org.springframework.web.util.HtmlUtils.htmlUnescape  
+org.apache.tomcat.util.buf.UDecoder.convertPathInfo  
+java.nio.charset.StandardCharsets.UTF_8.decode  
+javax.servlet.http.Cookie.getValue  
+org.glassfish.jersey.uri.UriComponent.decode

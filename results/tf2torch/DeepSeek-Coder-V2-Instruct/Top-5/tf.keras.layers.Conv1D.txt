@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.Conv1d
+2. torch.nn.functional.conv1d
+3. tf.keras.layers.Conv1D
+4. tf.layers.Conv1D
+5. tf.compat.v1.layers.Conv1D

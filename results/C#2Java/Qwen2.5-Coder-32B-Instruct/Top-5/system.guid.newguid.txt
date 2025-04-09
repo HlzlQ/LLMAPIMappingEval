@@ -1,0 +1,5 @@
+java.util.UUID.randomUUID  
+java.security.SecureRandom.nextBytes  
+java.security.SecureRandom.nextInt  
+java.security.SecureRandom.nextLong  
+java.security.SecureRandom.nextDouble

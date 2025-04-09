@@ -1,0 +1,5 @@
+tf.math.soft_sign  
+tf.keras.activations.softsign  
+tf.nn.softsign  
+tf.raw_ops.SoftSign  
+tf.compat.v1.nn.softsign

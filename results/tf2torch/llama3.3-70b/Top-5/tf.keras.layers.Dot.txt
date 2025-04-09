@@ -1,0 +1,5 @@
+1. torch.matmul
+2. torch.tensordot
+3. torch.dot
+4. torch.einsum
+5. torch.nn.functional.cosine_similarity

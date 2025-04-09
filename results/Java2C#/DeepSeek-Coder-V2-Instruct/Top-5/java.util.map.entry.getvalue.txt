@@ -1,0 +1,5 @@
+1. Dictionary<TKey, TValue>.ValueCollection.GetEnumerator()
+2. KeyValuePair<TKey, TValue>.Value
+3. IDictionary<TKey, TValue>.Values
+4. ConcurrentDictionary<TKey, TValue>.TryGetValue(TKey key, out TValue value)
+5. SortedList<TKey, TValue>.ValueCollection.GetEnumerator()

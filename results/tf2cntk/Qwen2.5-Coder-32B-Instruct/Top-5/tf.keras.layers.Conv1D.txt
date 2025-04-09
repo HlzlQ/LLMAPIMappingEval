@@ -1,0 +1,5 @@
+cntk.layers.Convolution1D
+cntk.layers.Sequential
+cntk.layers.For
+cntk.layers.Recurrence
+cntk.layers.Function

@@ -1,0 +1,5 @@
+1. System.Math.Min
+2. Math.Min
+3. Min
+4. Double.MinValue
+5. Single.MinValue

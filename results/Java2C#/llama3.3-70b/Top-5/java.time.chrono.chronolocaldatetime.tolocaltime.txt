@@ -1,0 +1,5 @@
+1. System.DateTime.ToLocalTime
+2. System.DateTimeOffset.ToLocalTime
+3. System.TimeZoneInfo.ConvertTimeToDateTime
+4. System.TimeZoneInfo.ConvertTime
+5. System.DateTime.SpecifyKind

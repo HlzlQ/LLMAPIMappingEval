@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.load | mxnet.ndarray.load |
+  | torch.save | mxnet.ndarray.save |
+  | torch.tensor | mxnet.ndarray.array |
+  | torch.randn | mxnet.ndarray.random_normal |
+  | torch.zeros | mxnet.ndarray.zeros |
+  | torch.ones | mxnet.ndarray.ones |
+  | torch.eye | mxnet.ndarray.eye |
+  | torch.arange | mxnet.ndarray.arange |
+  | torch.linspace | mxnet.ndarray.linspace |

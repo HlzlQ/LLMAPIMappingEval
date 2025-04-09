@@ -1,0 +1,10 @@
+org.junit.jupiter.api.Assertions.assertSame
+org.testng.Assert.assertSame
+junit.framework.Assert.assertSame
+org.apache.commons.lang3.Validate.isSame
+org.mockito.Mockito.verifyZeroInteractions
+org.mockito.Mockito.verifyNoMoreInteractions
+org.mockito.Mockito.verify
+org.mockito.ArgumentMatchers.same
+org.hamcrest.MatcherAssert.assertThat
+org.easymock.EasyMock.expectSame

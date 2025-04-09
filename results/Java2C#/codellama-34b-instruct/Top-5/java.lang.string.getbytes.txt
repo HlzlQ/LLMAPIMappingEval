@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Text.Encoding.GetBytes()
+2. System.String.ToCharArray()
+3. System.String.CopyTo()
+4. System.String.Substring()
+5. System.String.Split()

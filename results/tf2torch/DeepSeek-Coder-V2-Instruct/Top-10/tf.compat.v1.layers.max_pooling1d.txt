@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.MaxPool1d
+2. torch.nn.AvgPool1d
+3. tf.layers.max_pooling1d
+4. tf.keras.layers.MaxPooling1D
+5. tf.compat.v1.layers.max_pooling1d

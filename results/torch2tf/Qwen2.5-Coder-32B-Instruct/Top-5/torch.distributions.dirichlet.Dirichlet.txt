@@ -1,0 +1,5 @@
+tfp.distributions.Dirichlet  
+tf.random.gamma  
+tf.nn.softmax  
+tf.math.log_gamma  
+tf.reduce_sum

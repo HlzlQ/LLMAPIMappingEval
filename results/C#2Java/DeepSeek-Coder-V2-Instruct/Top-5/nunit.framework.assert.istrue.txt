@@ -1,0 +1,5 @@
+1. org.junit.jupiter.api.Assertions.assertTrue
+2. org.junit.Assert.assertTrue
+3. org.testng.Assert.assertTrue
+4. ch.qos.logback.core.boolex.EvaluationException.isTrue
+5. junit.framework.Assert.assertTrue

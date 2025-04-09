@@ -1,0 +1,10 @@
+torch.nn.init.uniform_
+torch.rand
+torch.randn
+torch.full
+torch.zeros
+torch.ones
+torch.empty
+torch.randint
+torch.normal
+torch.exponential

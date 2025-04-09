@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that are similar to `tensorflow.clip_by_global_norm`:
+
+1. torch.nn.utils.clip_grad_norm_
+2. torch.nn.utils.clip_grad_value_
+3. torch.clamp
+4. torch.tensor.clamp
+5. torch.nn.functional.normalize
+6. torch.nn.utils.weight_norm
+7. torch.autograd.grad_clip
+8. torch.optim.lr_scheduler.StepLR
+9. torch.optim.Optimizer.step
+10. torch.nn.utils.parametrize.clip_grad_norm_

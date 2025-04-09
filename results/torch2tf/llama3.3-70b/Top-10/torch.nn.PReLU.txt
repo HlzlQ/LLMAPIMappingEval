@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.PReLU`:
+
+1. tf.keras.layers.PReLU
+2. tf.nn.leaky_relu
+3. tf.keras.activations.relu
+4. tf.keras.layers.LeakyReLU
+5. tf.nn.relu
+6. tf.keras.layers.ReLU
+7. tf.keras.activations.sigmoid
+8. tf.keras.layers.Sigmoid
+9. tf.keras.layers.ThresholdedReLU
+10. tf.keras.layers.ParametricReLU

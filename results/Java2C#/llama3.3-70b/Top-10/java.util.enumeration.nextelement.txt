@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator.MoveNext
+2. System.Collections.Generic.IEnumerator.MoveNext
+3. System.Collections_IEnumerator.Current
+4. System.Collections.Generic.IEnumerator.Current
+5. System.Collections.IEnumerable.GetEnumerator
+6. System.Collections.Generic.IEnumerable.GetEnumerator
+7. System.Linq.Enumerable.MoveNext
+8. System.Data.Common.DbEnumerator.MoveNext
+9. System.Runtime.InteropServices.ComTypes.IEnumVARIANT.Next
+10. System.Runtime.InteropServices.ComTypes.IEnumerator.Next

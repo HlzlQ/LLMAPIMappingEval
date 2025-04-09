@@ -1,0 +1,5 @@
+1. java.lang.Character.isWhitespace
+2. java.lang.String.trim
+3. java.util.regex.Pattern.matches
+4. java.lang.Character.isSpaceChar
+5. java.lang.String.replaceAll

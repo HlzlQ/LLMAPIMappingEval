@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the TensorFlow API for GRU layers:
+
+1. mxnet.gluon.rnn.GRU
+2. mxnet.gluon.rnn.GRUCell
+3. mxnet.gluon.rnn.MultipleGRUCells
+4. mxnet.gluon.rnn.BidirectionalGRU
+5. mxnet.gluon.rnn.GRUWithAttention
+6. mxnet.gluon.rnn.GRUWithConditionalRandomField
+7. mxnet.gluon.rnn.GRUWithLSTM
+8. mxnet.gluon.rnn.GRUWithTransformer
+9. mxnet.gluon.rnn.GRUWithConvolutionalAttention
+10. mxnet.gluon.rnn.GRUWithDilatedConvolutionalAttention

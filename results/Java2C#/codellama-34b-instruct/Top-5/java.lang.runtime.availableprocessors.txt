@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the Java API `java.lang.runtime.availableprocessors`:
+
+1. `System.Environment.ProcessorCount`
+2. `System.Runtime.InteropServices.RuntimeInformation.AvailableProcessors`
+3. `System.Diagnostics.PerformanceCounterCategory.InstanceName`
+4. `System.Management.Instrumentation.InstanceName`
+5. `System.Threading.ThreadPool.GetMaxThreads`

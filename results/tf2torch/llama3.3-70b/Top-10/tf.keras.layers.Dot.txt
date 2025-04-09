@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.keras.layers.Dot`:
+
+1. torch.matmul
+2. torch.mm
+3. torch.dot
+4. torch.tensordot
+5. torch.einsum
+6. torch.bmm
+7. torch.matmul
+8. nn.CosineSimilarity
+9. nn.functional.cosine_similarity
+10. torch.nn.functional.linear

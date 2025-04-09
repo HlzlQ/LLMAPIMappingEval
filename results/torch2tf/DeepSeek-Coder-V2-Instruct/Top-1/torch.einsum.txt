@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.linalg.einsum
+<jupyter_output>
+<empty_output>

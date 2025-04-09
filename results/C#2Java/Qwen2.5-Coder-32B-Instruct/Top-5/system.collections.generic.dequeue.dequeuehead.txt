@@ -1,0 +1,5 @@
+java.util.Deque.pollFirst  
+java.util.ArrayDeque.pollFirst  
+java.util.LinkedList.pollFirst  
+java.util.concurrent.ConcurrentLinkedDeque.pollFirst  
+java.util.concurrent.LinkedBlockingDeque.pollFirst

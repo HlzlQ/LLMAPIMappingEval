@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.relu, torch.nn.functional.threshold, torch.nn.functional.leaky_relu, torch.nn.functional.elu, torch.nn.functional.celu

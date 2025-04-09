@@ -1,0 +1,5 @@
+1. torch.nn.init.constant_
+2. torch.tensor
+3. torch.nn.Parameter
+4. torch.nn.init.zeros_
+5. torch.ones_like

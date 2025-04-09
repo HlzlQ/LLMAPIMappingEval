@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.compat.v1.pad`:
+
+1. torch.nn.functional.pad
+2. torch.nn.ZeroPad2d
+3. torch.nn.ConstantPad1d
+4. torch.nn.ReflectionPad1d
+5. torch.nn.ReplicationPad1d
+6. torch.nn.ConstantPad2d
+7. torch.nn.ReflectionPad2d
+8. torch.nn.ReplicationPad2d
+9. torch.nn.ZeroPad1d
+10. torch.tensor.pad

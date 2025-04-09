@@ -1,0 +1,5 @@
+1. System.IO.Path.GetFullPath(string path)
+2. System.IO.FileInfo.FullName
+3. System.IO.DirectoryInfo.FullName
+4. System.IO.FileSystemInfo.FullName
+5. System.IO.FileSystemInfo.GetFileSystemEntry()

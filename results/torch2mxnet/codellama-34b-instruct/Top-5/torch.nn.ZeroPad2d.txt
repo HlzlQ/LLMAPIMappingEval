@@ -1,0 +1,9 @@
+  import mxnet as mx
+
+  class ZeroPad2d(mx.gluon.nn.Block):
+      def __init__(self, padding=1, **kwargs):
+          super(ZeroPad2d, self).__init__(**kwargs)
+          self.padding = padding
+
+      def forward(self, x):
+          return mx.nd.pad(x, pad_width=self.padding, mode='constant', constant_values=0)

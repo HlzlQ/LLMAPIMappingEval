@@ -1,0 +1,5 @@
+1. java.io.BufferedReader.readLine()
+2. java.nio.file.Files.newBufferedReader(Path path)
+3. javax.swing.text.Document.getText(int start, int end)
+4. org.apache.commons.io.FileUtils.readLines(File file)
+5. java.util.Scanner.nextLine()

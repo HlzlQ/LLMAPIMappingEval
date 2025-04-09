@@ -1,0 +1,10 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+### Answer:
+```plaintext
+torch.nn.init.kaiming_uniform_
+```

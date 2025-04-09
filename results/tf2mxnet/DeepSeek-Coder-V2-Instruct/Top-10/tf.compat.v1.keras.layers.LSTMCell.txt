@@ -1,0 +1,12 @@
+
+
+1. LSTM
+2. GRU
+3. Dense
+4. Conv2D
+5. MaxPooling2D
+6. Flatten
+7. Dropout
+8. BatchNormalization
+9. Activation
+10. Input

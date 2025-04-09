@@ -1,0 +1,5 @@
+cntk.elu
+cntk.ops.elu
+cntk.layers.Elu
+cntk.functions.elu
+cntk.activations.elu

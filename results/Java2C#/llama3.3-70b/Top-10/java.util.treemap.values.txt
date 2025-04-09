@@ -1,0 +1,10 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Values
+2. System.Linq.Enumerable.Values
+3. System.Collections.Generic.SortedDictionary<TKey, TValue>.Values
+4. System.Collections.Specialized.OrderedDictionary.Values
+5. System.Collections.IDictionary.Values
+6. System.Collections.Specialized.StringDictionary.Values
+7. System.Web.SessionState.SessionStateItemCollection.Values
+8. System.Configuration.ConfigurationSettings.AppSettings.Values
+9. System.Collections.Hashtable.Values
+10. System.Dynamic.ExpandoObject.Values

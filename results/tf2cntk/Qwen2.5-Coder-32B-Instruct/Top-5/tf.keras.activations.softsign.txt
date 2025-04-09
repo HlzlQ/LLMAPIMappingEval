@@ -1,0 +1,5 @@
+cntk.ops.softmax
+cntk.ops.sigmoid
+cntk.ops.tanh
+cntk.ops.relu
+cntk.ops.linear

@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Remove(TKey key)
+2. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryRemove(TKey key, out TValue value)
+3. System.Collections.Specialized.NameObjectCollectionBase.Remove(string name)
+4. System.Web.HttpCookieCollection.Remove(string name)
+5. System.Net.CookieContainer.Delete(Uri uri, string name)
+6. System.Net.CookieContainer.Delete(string name)
+7. System.Net.Http.Headers.HttpRequestHeaders.Remove(string name)
+8. System.Net.Http.Headers.HttpResponseHeaders.Remove(string name)
+9. System.Web.HttpContext.Current.Session.Remove(string name)
+10. System.Web.HttpContext.Current.Application.Remove(string name)

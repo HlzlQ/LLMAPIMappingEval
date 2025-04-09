@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.GetRange
+System.Collections.Generic.List<T>.ToArray
+System.Array.Clone
+System.Collections.ArrayList.Clone
+System.Linq.Enumerable.ToArray

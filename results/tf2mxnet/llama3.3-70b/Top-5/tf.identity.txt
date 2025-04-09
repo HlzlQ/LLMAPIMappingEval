@@ -1,0 +1,5 @@
+1. mxnet.ndarray.identity
+2. mxnet.nd.Identity
+3. mxnet.gluon.nn.Identity
+4. mxnet.ndarray.BlockGrad
+5. mxnet.gluon.nn.Activation('identity')

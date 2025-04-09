@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `meshgrid`:
+
+1. `torch.meshgrid`
+2. `torch.tensor_meshgrid`
+3. `torch.meshgrid_like`
+4. `torch.tensor_meshgrid_like`
+5. `torch.meshgrid_nd`
+6. `torch.tensor_meshgrid_nd`
+7. `torch.meshgrid_batch`
+8. `torch.tensor_meshgrid_batch`
+9. `torch.meshgrid_channel`
+10. `torch.tensor_meshgrid_channel`

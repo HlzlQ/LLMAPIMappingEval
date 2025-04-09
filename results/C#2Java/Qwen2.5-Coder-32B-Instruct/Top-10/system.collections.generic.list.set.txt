@@ -1,0 +1,10 @@
+java.util.List.set
+java.util.ArrayList.set
+java.util.LinkedList.set
+java.util.Vector.set
+java.util.Stack.set
+java.util.AbstractList.set
+java.util.Collections.singletonList.set
+java.util.Collections.unmodifiableList.set
+java.util.Collections.checkedList.set
+java.util.Collections.synchronizedList.set

@@ -1,0 +1,1 @@
+C# does not have a direct equivalent of the `java.lang.String.toLowerCase()` method. However, you can use the `string.ToLower()` method to achieve similar functionality in C#.

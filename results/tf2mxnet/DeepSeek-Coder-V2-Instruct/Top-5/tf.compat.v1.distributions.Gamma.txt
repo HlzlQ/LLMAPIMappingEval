@@ -1,0 +1,8 @@
+
+Answer: ```
+1. mxnet.gluon.nn.Dense
+2. mxnet.ndarray.ones_like
+3. mxnet.ndarray.dot
+4. mxnet.ndarray.mean
+5. mxnet.ndarray.broadcast_to
+```

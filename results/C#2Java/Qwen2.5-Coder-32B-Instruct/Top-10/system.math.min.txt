@@ -1,0 +1,10 @@
+java.lang.Math.min
+java.util.Collections.min
+java.util.Comparator.comparingInt
+java.util.Comparator.comparingLong
+java.util.Comparator.comparingDouble
+java.util.Arrays.stream
+java.util.List.stream
+java.util.stream.IntStream.min
+java.util.stream.LongStream.min
+java.util.stream.DoubleStream.min

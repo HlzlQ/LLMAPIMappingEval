@@ -1,0 +1,2 @@
+
+Answer: pool, relu, flatten, conv, softmax

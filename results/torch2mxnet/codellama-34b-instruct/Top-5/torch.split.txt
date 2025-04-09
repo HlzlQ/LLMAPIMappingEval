@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the PyTorch `torch.split` API:
+
+1. `mxnet.ndarray.split`: This is the most direct equivalent of `torch.split`, as it splits an array into multiple sub-arrays along a specified axis.
+2. `mxnet.ndarray.chunk`: This API is similar to `torch.split`, but it returns a tuple of arrays instead of a single array with all the sub-arrays concatenated.
+3. `mxnet.ndarray.slice`: This API allows you to extract a slice from an array, which can be used to split an array into multiple sub-arrays.
+4. `mxnet.ndarray.take`: This API allows you to take elements from an array based on a specified index or condition. It can be used to split an array into multiple sub-arrays by taking elements that meet certain conditions.
+5. `mxnet.ndarray.roll`: This API allows you to roll (shift) the elements of an array along a specified axis. It can be used to split an array into multiple sub-arrays by rolling the elements along a specific axis.

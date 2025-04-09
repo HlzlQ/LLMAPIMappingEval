@@ -1,0 +1,2 @@
+
+The PyTorch API `torch.nn.init.eye` initializes a tensor with the identity matrix. The equivalent function in TensorFlow is `tf.eye`.

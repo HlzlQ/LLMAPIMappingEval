@@ -1,0 +1,11 @@
+System.Collections.Generic.IEqualityComparer`1
+System.Object.Equals(System.Object)
+System.String.Equals(System.String)
+System.Int32.Equals(System.Int32)
+System.Double.Equals(System.Double)
+System.Boolean.Equals(System.Boolean)
+System.Collections.Generic.EqualityComparer`1.Default
+System.Object.ReferenceEquals(System.Object, System.Object)
+System.String.op_Equality(System.String, System.String)
+System.Int32.op_Equality(System.Int32, System.Int32)
+System.Double.op_Equality(System.Double, System.Double)

@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of Java's `Integer.parseInt()`:
+
+1. `int.Parse(string)`
+2. `Convert.ToInt32(string)`
+3. `int.TryParse(string, out int)`
+4. `int.Parse(string, NumberStyles.Integer)`
+5. `int.Parse(string, IFormatProvider)`
+6. `int.Parse(string, NumberStyles.Integer, IFormatProvider)`
+7. `int.TryParse(string, NumberStyles.Integer, IFormatProvider, out int)`
+8. `int.Parse(string, NumberStyles.HexNumber)`
+9. `int.Parse(string, NumberStyles.OctalNumber)`
+10. `int.Parse(string, NumberStyles.BinaryNumber)`

@@ -1,0 +1,2 @@
+
+Answer: CosineDistance, CosineSimilarityLoss, CosineProximity, MarginBasedCosineSimilarity, CosineEmbeddingLoss

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.data.sqlclient.sqldatareader.nextresult`:
+
+1. java.sql.ResultSet.next()
+2. java.sql.Statement.getMoreResults()
+3. java.sql.Statement.execute()
+4. java.sql.PreparedStatement.execute()
+5. java.sql.CallableStatement.execute()
+6. java.sql.ResultSetMetaData.next()
+7. javax.sql.rowset.CachedRowSet.nextPage()
+8. javax.sql.rowset.JdbcRowSet.next()
+9. java.sql.SQLInput.readNext()
+10. org.springframework.jdbc.support.nativejdbc.NativeJdbcExtractor.getMoreResults()

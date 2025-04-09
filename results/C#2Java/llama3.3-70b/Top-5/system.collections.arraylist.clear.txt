@@ -1,0 +1,5 @@
+1. java.util.ArrayList.clear
+2. java.util.LinkedList.clear
+3. java.util.Vector.clear
+4. java.util.Stack.clear
+5. java.util.HashSet.clear

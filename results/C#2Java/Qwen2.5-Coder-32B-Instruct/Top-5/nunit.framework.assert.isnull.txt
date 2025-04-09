@@ -1,0 +1,5 @@
+org.junit.Assert.assertNull
+junit.framework.Assert.assertNull
+org.testng.Assert.assertNull
+java.util.Objects.isNull
+javax.validation.constraints.Null

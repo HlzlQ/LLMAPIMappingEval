@@ -1,0 +1,8 @@
+
+Answer: ```
+1. torch.nn.init.zeros_
+2. torch.nn.init.ones
+3. torch.nn.init.constant
+4. torch.nn.init.normal
+5. torch.nn.init.uniform
+```

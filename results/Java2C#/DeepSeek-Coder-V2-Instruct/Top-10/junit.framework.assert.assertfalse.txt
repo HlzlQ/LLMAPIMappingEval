@@ -1,0 +1,10 @@
+1. System.Diagnostics.Debug.Assert
+2. NUnit.Framework.Assert.IsFalse
+3. Xunit.Sdk.TrueException
+4. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+5. NUnitLite.Asserts.Assert.IsFalse
+6. Chutzpah.Assertions.Assert.IsFalse
+7. Moq.Language.Flow.IMockCondition`1.Returns
+8. FluentAssertions.Primitives.BooleanAssertions.BeFalse
+9. Shouldly.Should.NotBeTrue
+10. NUnit.Framework.Assert.That

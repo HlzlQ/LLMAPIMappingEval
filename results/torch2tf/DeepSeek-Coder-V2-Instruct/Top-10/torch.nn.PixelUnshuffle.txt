@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.Conv2d`
+2. `torch.nn.MaxPool2d`
+3. `torch.nn.AvgPool2d`
+4. `torch.nn.BatchNorm2d`
+5. `torch.nn.ReLU`
+6. `torch.nn.Linear`
+7. `torch.nn.Dropout`
+8. `torch.nn.Flatten`
+9. `torch.nn.Unflatten`
+10. `torch.nn.PixelUnshuffle`

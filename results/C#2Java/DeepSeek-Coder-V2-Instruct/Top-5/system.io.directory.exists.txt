@@ -1,0 +1,5 @@
+1. java.nio.file.Files.exists
+2. java.io.File.exists()
+3. javax.swing.JFileChooser.setCurrentDirectory
+4. org.apache.commons.io.FileUtils.getFile
+5. android.content.ContextWrapper.getDir

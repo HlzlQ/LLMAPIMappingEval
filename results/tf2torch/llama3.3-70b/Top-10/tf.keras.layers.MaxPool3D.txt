@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.MaxPool3D`:
+
+1. torch.nn.MaxPool3d
+2. torch.nn.functional.max_pool3d
+3. torch.nn.modules.pooling.MaxPool3d
+4. torch.nn.MaxPool3dWithIndices
+5. torch.nn.LPPool3d
+6. torch.nn.AdaptiveMaxPool3d
+7. torch.nn.AvgPool3d
+8. torch.nn.functional.avg_pool3d
+9. torch.nn.modules.pooling.AvgPool3d
+10. torch.nn.MaxUnpool3d

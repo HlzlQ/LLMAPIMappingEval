@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from the `torch.autograd.functional.hessian` API to equivalent functions in TensorFlow:
+
+1. `torch.autograd.functional.hessian` -> `tf.hessian`
+2. `torch.autograd.functional.hessian_vector_product` -> `tf.hessian_vector_product`
+3. `torch.autograd.functional.hessian_matrix_product` -> `tf.hessian_matrix_product`
+4. `torch.autograd.functional.hessian_diagonal` -> `tf.hessian_diagonal`
+5. `torch.autograd.functional.hessian_vector_jacobian` -> `tf.hessian_vector_jacobian`
+6. `torch.autograd.functional.hessian_matrix_jacobian` -> `tf.hessian_matrix_jacobian`
+7. `torch.autograd.functional.hessian_diagonal_jacobian` -> `tf.hessian_diagonal_jacobian`
+8. `torch.autograd.functional.hessian_vector_jacobian_product` -> `tf.hessian_vector_jacobian_product`
+9. `torch.autograd.functional.hessian_matrix_jacobian_product` -> `tf.hessian_matrix_jacobian_product`
+10. `torch.autograd.functional.hessian_diagonal_jacobian_product` -> `tf.hessian_diagonal_jacobian_product`

@@ -1,0 +1,5 @@
+1. java.util.Random.nextInt
+2. java.security.SecureRandom.next
+3. java.util.concurrent.ThreadLocalRandom.next
+4. java.lang.Math.random
+5. java.nio.ByteBuffer.putInt

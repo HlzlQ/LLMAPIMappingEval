@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Contains
+2. System.Linq.Enumerable.Contains
+3. System.Collections.IList.Contains
+4. System.Collections.ICollection.Contains
+5. System.Collections.Generic.ICollection<T>.Contains
+6. System.Data.DataRowCollection.Contains
+7. System.ComponentModel.BindingList<T>.Contains
+8. System.Windows.Forms.BindingSource.Contains
+9. System.Collections.ObjectModel.Collection<T>.Contains
+10. System.Collections.Specialized.NameValueCollection.Contains

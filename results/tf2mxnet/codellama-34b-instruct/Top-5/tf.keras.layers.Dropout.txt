@@ -1,0 +1,5 @@
+  * mxnet.gluon.nn.Dropout
+  * mxnet.gluon.nn.AlphaDropout
+  * mxnet.gluon.nn.SpatialDropout
+  * mxnet.gluon.nn.SpatialAlphaDropout
+  * mxnet.gluon.nn.DropConnect

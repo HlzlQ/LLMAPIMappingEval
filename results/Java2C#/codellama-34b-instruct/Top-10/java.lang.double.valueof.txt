@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java `Double` class:
+
+1. System.Double
+2. Double.Parse()
+3. Double.TryParse()
+4. Double.ToString()
+5. Double.GetHashCode()
+6. Double.Equals()
+7. Double.CompareTo()
+8. Double.IsInfinity()
+9. Double.IsNaN()
+10. Double.IsNegativeInfinity()

@@ -1,0 +1,2 @@
+
+CNTK.initializer.glorot_normal

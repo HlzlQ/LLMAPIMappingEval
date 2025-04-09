@@ -1,0 +1,10 @@
+System.Diagnostics.Process.Start
+System.Diagnostics.Process.CreateBuilder
+System.Diagnostics.Process.BeginStart
+System.Diagnostics.Process.StartWithArguments
+System.Diagnostics.Process.StartWithoutArguments
+System.Diagnostics.Process.Run
+System.Diagnostics.Process.Execute
+System.Diagnostics.Process.Launch
+System.Diagnostics.Process.Invoke
+System.Diagnostics.Process.StartAsync

@@ -1,0 +1,10 @@
+torch.nn.functional.selu  
+torch.nn.SELU  
+torch.nn.modules.activation.SELU  
+torch.nn.functional.elu  
+torch.nn.ELU  
+torch.nn.modules.activation.ELU  
+torch.nn.functional.relu  
+torch.nn.ReLU  
+torch.nn.modules.activation.ReLU  
+torch.nn.functional.leaky_relu

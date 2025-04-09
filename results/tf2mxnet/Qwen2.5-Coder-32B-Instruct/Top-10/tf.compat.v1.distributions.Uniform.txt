@@ -1,0 +1,10 @@
+mxnet.gluon.prob.Uniform
+mxnet.ndarray.random.uniform
+mxnet.symbol.random.uniform
+mxnet.numpy.random.uniform
+mxnet.random.uniform
+mxnet.random.exponential
+mxnet.random.gamma
+mxnet.random.normal
+mxnet.random.poisson
+mxnet.random.multinomial

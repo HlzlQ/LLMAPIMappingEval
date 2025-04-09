@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used as alternatives to `tensorflow.compat.v1.nn.rnn_cell.RNNCell`:
+
+1. `mxnet.rnn.RNNCell`
+2. `mxnet.gluon.rnn.RNNCell`
+3. `mxnet.contrib.rnn.RNNCell`
+4. `mxnet.rnn.LSTMCell`
+5. `mxnet.rnn.GRUCell`

@@ -1,0 +1,3 @@
+
+
+cntk_api = "CNTK.ops.cross_entropy"

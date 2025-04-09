@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.double.parse` in C#:
+
+1. java.lang.Double.parseDouble
+2. java.lang.Double.valueOf
+3. java.text.DecimalFormat.parse
+4. java.util.Scanner.nextDouble
+5. javax.measure.converter.DoubleConverter.convert

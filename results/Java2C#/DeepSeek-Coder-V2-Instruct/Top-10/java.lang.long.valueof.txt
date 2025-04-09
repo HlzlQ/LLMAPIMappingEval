@@ -1,0 +1,10 @@
+1. System.Int64.Parse
+2. System.Int64.TryParse
+3. System.Convert.ToInt64
+4. System.String.ToCharArray
+5. System.BitConverter.ToInt64
+6. System.Text.Json.JsonElement.GetInt64
+7. System.Data.SqlTypes.SqlInt64.Value
+8. System.Numerics.BigInteger.ToInt64
+9. System.Runtime.Serialization.Formatters.Binary.BinaryReader.ReadInt64
+10. System.Reflection.Emit.ILGenerator.Emit(System.Reflection.Emit.OpCodes, long)

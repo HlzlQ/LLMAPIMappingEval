@@ -1,0 +1,10 @@
+java.lang.StringBuilder.getChars
+java.lang.StringBuilder.substring
+java.lang.StringBuilder.toString
+java.nio.CharBuffer.put
+java.util.Arrays.copyOfRange
+java.text.StringCharacterIterator.setIndex
+java.lang.Character.codePointAt
+java.lang.Character.codePointBefore
+java.lang.Character.toChars
+java.lang.String.toCharArray

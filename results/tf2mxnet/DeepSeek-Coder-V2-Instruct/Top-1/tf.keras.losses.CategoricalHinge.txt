@@ -1,0 +1,2 @@
+
+MXNet_API = "gluon.loss.HingeEmbeddingLoss"

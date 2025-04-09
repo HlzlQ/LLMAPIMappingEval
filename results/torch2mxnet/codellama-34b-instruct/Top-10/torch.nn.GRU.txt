@@ -1,0 +1,13 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.GRU | mxnet.gluon.rnn.GRU |
+  | torch.nn.GRUCell | mxnet.gluon.rnn.GRUCell |
+  | torch.nn.LSTM | mxnet.gluon.rnn.LSTM |
+  | torch.nn.LSTMCell | mxnet.gluon.rnn.LSTMCell |
+  | torch.nn.RNN | mxnet.gluon.rnn.RNN |
+  | torch.nn.RNNCell | mxnet.gluon.rnn.RNNCell |
+  | torch.nn.Sequential | mxnet.gluon.nn.Sequential |
+  | torch.nn.ModuleList | mxnet.gluon.nn.ModuleList |
+  | torch.nn.ParameterList | mxnet.gluon.nn.ParameterList |
+  | torch.nn.utils.rnn.pack_padded_sequence | mxnet.gluon.rnn.pack_padded_sequence |
+  | torch.nn.utils.rnn.pad_packed_sequence | mxnet.gluon.rnn.pad_packed_sequence |

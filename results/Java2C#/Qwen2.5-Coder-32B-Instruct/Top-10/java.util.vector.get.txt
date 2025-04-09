@@ -1,0 +1,10 @@
+System.Collections.ArrayList.Item
+System.Collections.Generic.List<T>.Item
+System.Collections.ObjectModel.Collection<T>.Item
+System.Collections.Specialized.StringCollection.Item
+System.Data.DataTable.Rows
+System.Windows.Forms.BindingSource.Current
+System.Web.UI.WebControls.ListViewDataItem.DataItem
+System.Web.UI.WebControls.RepeaterItem.DataItem
+System.Web.UI.WebControls.GridViewRow.DataItem
+System.Web.UI.WebControls.DetailsViewRow.DataItem

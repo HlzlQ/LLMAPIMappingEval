@@ -1,0 +1,1 @@
+mxnet.init.Xavier(magnitude=1)

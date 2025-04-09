@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow `pad` API:
+
+1. `cntk.padding`
+2. `cntk.pad_sequence`
+3. `cntk.pad_array`
+4. `cntk.pad_tensor`
+5. `cntk.pad_data`

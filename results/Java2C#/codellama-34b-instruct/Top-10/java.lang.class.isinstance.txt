@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Class.isInstance()`:
+
+1. `System.Object.ReferenceEquals(object, object)`
+2. `System.Type.IsAssignableFrom(Type)`
+3. `System.Type.IsSubclassOf(Type)`
+4. `System.Type.IsInstanceOfType(object)`
+5. `System.RuntimeTypeHandle.GetTypeByName(string, bool, bool)`
+6. `System.Reflection.Assembly.GetType(string)`
+7. `System.Reflection.Assembly.GetTypes()`
+8. `System.Reflection.MemberInfo.DeclaringType`
+9. `System.Reflection.MethodBase.GetParameters()`
+10. `System.Reflection.PropertyInfo.GetValue(object, object[])`

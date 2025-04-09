@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for Convolutional Neural Networks (CNNs) with 3D data:
+
+1. `mxnet.gluon.nn.Conv3D`
+2. `mxnet.symbol.Convolution3D`
+3. `mxnet.ndarray.Conv3D`
+4. `mxnet.gluon.nn.Conv3DTranspose`
+5. `mxnet.symbol.Deconvolution3D`

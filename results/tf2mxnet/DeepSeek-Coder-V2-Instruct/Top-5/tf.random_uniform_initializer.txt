@@ -1,0 +1,7 @@
+
+
+1. mxnet.init.Uniform
+2. mxnet.init.Normal
+3. mxnet.init.Xavier
+4. mxnet.init.GlorotUniform
+5. mxnet.init.Orthogonal

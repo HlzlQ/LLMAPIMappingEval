@@ -1,0 +1,8 @@
+
+Answer: ```
+1. torch.nn.functional.relu
+2. torch.nn.Sigmoid
+3. torch.nn.Hardtanh
+4. torch.nn.Threshold
+5. torch.nn.ReLU6
+```

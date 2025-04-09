@@ -1,0 +1,6 @@
+
+Answer: mxnet.ndarray.Deconvolution3DTranspose
+mxnet.symbol.Deconvolution3DTranspose
+mxnet.gluon.nn.Conv3DTranspose
+mxnet.image.contrib.deconv3d
+mxnet.contrib.ndarray.op.deconv3d

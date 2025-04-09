@@ -1,0 +1,23 @@
+
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+
+# Example usage:
+# Save a model to file
+mx.model.save_checkpoint('mymodel', 0, my_network, my_optimizer)
+
+# Load a model from file
+my_network, my_optimizer = mx.model.load_checkpoint('mymodel', 0)
+```
+Answer: 1. `mx.ndarray.save`
+2. `mx.ndarray.load`
+3. `mx.model.save_checkpoint`
+4. `mx.model.load_checkpoint`
+5. `mx.symbol.save`
+6. `mx.symbol.load`
+7. `mx.kvstore.save`
+8. `mx.kvstore.load`
+9. `mx.initializer.load`
+10. `mx.initializer.save`

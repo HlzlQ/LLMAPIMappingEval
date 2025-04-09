@@ -1,0 +1,5 @@
+1. cntk.layers.Binary
+2. cntk.losses.binary_cross_entropy
+3. cntk.metrics.accuracy_binary
+4. cntk.learners.binary_classifier
+5. cntk.ops.binary

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dot`:
+
+1. `cntk.layers.dot`
+2. `cntk.layers.inner_product`
+3. `cntk.layers.matmul`
+4. `cntk.layers.batch_dot`
+5. `cntk.layers.dot_product`

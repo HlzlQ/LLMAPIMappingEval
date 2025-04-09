@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.Contains
+2. System.Linq.Enumerable.Contains
+3. System.Collections.IList.Contains
+4. System.Collections.ICollection.Contains
+5. System.Collections.Generic.ICollection<T>.Contains

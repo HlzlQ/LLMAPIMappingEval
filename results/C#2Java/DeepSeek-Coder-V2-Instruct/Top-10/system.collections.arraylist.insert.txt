@@ -1,0 +1,10 @@
+java.util.ArrayList.add
+java.util.LinkedList.add
+java.util.Vector.add
+java.util.Stack.push
+java.util.ArrayDeque.add
+java.util.PriorityQueue.offer
+java.util.TreeMap.put
+java.util.HashMap.put
+java.util.HashSet.add
+java.util.LinkedHashSet.add

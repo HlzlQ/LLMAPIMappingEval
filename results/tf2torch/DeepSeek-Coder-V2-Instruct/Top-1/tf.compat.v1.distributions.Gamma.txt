@@ -1,0 +1,2 @@
+ If there is no close API in PyTorch, please answer 'None'.
+Answer: None

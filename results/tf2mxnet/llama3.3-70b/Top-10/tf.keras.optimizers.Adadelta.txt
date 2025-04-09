@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.optimizers.Adadelta`:
+
+1. mxnet.optimizer.Adadelta
+2. mxnet.optimizer.AdaGrad
+3. mxnet.optimizer.Adam
+4. mxnet.optimizer.RMSprop
+5. mxnet.optimizer.SGD
+6. mxnet.optimizer.NAG
+7. mxnet.optimizer.Adamax
+8. mxnet.optimizer.Nadam
+9. mxnet.optimizer.SGLD
+10. mxnet.optimizer.AdaDelta

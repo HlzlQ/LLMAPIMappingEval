@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.nn.functional.tanh`:
+
+1. `tf.math.tanh`
+2. `tf.keras.layers.Activation('tanh')`
+3. `tf.keras.activations.tanh`
+4. `tf.nn.tanh`
+5. `tf.nn.activation_ops.tanh`
+6. `tf.nn.relu_tanh`
+7. `tf.nn.leaky_relu_tanh`
+8. `tf.nn.softmax_tanh`
+9. `tf.nn.sigmoid_tanh`
+10. `tf.nn.hard_tanh`

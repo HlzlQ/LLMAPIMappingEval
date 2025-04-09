@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. mxnet.ndarray.linalg_norm
+2. mxnet.ndarray.norm
+3. mxnet.ndarray.batch_dot
+4. mxnet.ndarray.linalg_trace
+5. mxnet.ndarray.linalg_det
+6. mxnet.ndarray.linalg_inv
+7. mxnet.ndarray.linalg_qr
+8. mxnet.ndarray.linalg_slogdet
+9. mxnet.ndarray.linalg_cholesky
+10. mxnet.ndarray.linalg_norm

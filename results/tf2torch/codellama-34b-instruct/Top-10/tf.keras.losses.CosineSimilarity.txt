@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.losses.CosineSimilarity`:
+
+1. `torch.nn.CosineSimilarity`
+2. `torch.nn.functional.cosine_similarity`
+3. `torch.nn.modules.loss.CosineSimilarityLoss`
+4. `torch.nn.modules.loss.CosineDistanceLoss`
+5. `torch.nn.modules.loss.CosineEmbeddingLoss`
+6. `torch.nn.modules.loss.CosineMarginLoss`
+7. `torch.nn.modules.loss.CosineSimilarityWithNegativeSampling`
+8. `torch.nn.modules.loss.CosineSimilarityWithHingeLoss`
+9. `torch.nn.modules.loss.CosineSimilarityWithSoftmaxLoss`
+10. `torch.nn.modules.loss.CosineSimilarityWithSigmoidLoss`

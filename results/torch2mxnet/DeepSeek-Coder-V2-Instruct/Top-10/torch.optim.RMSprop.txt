@@ -1,0 +1,21 @@
+
+
+```python
+# Your code here
+```
+
+### Answer:
+```python
+mxnet_optimizers = [
+    'optimizer.RMSprop',
+    'optimizer.SGD',
+    'optimizer.Adam',
+    'optimizer.Adagrad',
+    'optimizer.Adamax',
+    'optimizer.Nadam',
+    'optimizer.LBFGS',
+    'optimizer.Momentum',
+    'optimizer.AdamW',
+    'optimizer.Rmsprop'
+]
+```

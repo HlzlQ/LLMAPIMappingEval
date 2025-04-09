@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.security.cryptography.md5.initialize` in C#:
+
+1. java.security.MessageDigest.getInstance("MD5")
+2. javax.crypto.Mac.getInstance("HmacMD5")
+3. java.security.MessageDigest.update(byte[])
+4. java.security.MessageDigest.digest(byte[])
+5. javax.crypto.Cipher.getInstance("MD5")
+6. java.security.SecureRandom.getInstance("SHA1PRNG")
+7. java.security.MessageDigest.reset()
+8. javax.crypto.spec.SecretKeySpec(String, byte[])
+9. java.security.DigestInputStream.getMessageDigest()
+10. javax.crypto.Mac.update(byte[])

@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.init.normal_`:
+
+1. `mxnet.initializer.Normal`
+2. `mxnet.initializer.Gaussian`
+3. `mxnet.initializer.TruncatedNormal`
+4. `mxnet.initializer.RandomNormal`
+5. `mxnet.initializer.XavierNormal`

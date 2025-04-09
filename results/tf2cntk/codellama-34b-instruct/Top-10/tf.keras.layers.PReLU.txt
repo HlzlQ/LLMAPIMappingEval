@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.PReLU`:
+
+1. `cntk.layers.prelu`
+2. `cntk.layers.parametric_relu`
+3. `cntk.layers.prelu_layer`
+4. `cntk.layers.prelu_activation`
+5. `cntk.layers.prelu_with_alpha`
+6. `cntk.layers.prelu_with_beta`
+7. `cntk.layers.prelu_with_gamma`
+8. `cntk.layers.prelu_with_delta`
+9. `cntk.layers.prelu_with_epsilon`
+10. `cntk.layers.prelu_with_zeta`

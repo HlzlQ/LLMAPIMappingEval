@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Conv1d
+2. tf.layers.conv1d
+3. keras.layers.convolutional.Conv1D
+4. tensorflow.compat.v1.layers.conv1d
+5. mxnet.gluon.nn.Conv1D
+6. caffe2.python.layers.conv_pooling.Conv1D
+7. theano.tensor.nnet.conv.Conv1D
+8. deeplearning4j.nn.convolution.Convolution1D
+9. cntk.ops.convolution.Conv1D
+10. torchvision.models.conv1d

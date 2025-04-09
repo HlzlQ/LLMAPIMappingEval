@@ -1,0 +1,8 @@
+
+The Java API "org.testng.assertjunit.assertnull" can be mapped to the following C# APIs:
+
+* NUnit.Framework.Assert.Null
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+* xunit.assert.Null
+
+Please note that these are just a few examples, and there may be other C# APIs that provide similar functionality.

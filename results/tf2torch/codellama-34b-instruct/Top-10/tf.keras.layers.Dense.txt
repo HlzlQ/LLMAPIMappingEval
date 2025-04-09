@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dense`:
+
+1. `torch.nn.Linear`
+2. `torch.nn.Dense`
+3. `torch.nn.Flatten`
+4. `torch.nn.Sequential`
+5. `torch.nn.ModuleList`
+6. `torch.nn.ParameterList`
+7. `torch.nn.DataParallel`
+8. `torch.nn.DistributedDataParallel`
+9. `torch.nn.parallel.DistributedDataParallel`
+10. `torch.nn.parallel.DataParallel`

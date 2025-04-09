@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.util.list.remove`:
+
+1. `System.Collections.Generic.List<T>.Remove(T item)`
+2. `System.Collections.Generic.List<T>.RemoveAt(int index)`
+3. `System.Collections.Generic.List<T>.RemoveRange(int index, int count)`
+4. `System.Collections.Generic.List<T>.RemoveAll(Predicate<T> match)`
+5. `System.Collections.Generic.List<T>.RemoveLast()`
+6. `System.Collections.Generic.List<T>.RemoveFirst()`
+7. `System.Collections.Generic.List<T>.RemoveRange(int index, int count, out T item)`
+8. `System.Collections.Generic.List<T>.RemoveAt(int index, out T item)`
+9. `System.Collections.Generic.List<T>.RemoveLast(out T item)`
+10. `System.Collections.Generic.List<T>.RemoveFirst(out T item)`

@@ -1,0 +1,10 @@
+1. Deque<T>.RemoveFirst()
+2. Queue<T>.Dequeue()
+3. LinkedList<T>.RemoveFirst()
+4. Stack<T>.Pop()
+5. ConcurrentQueue<T>.TryDequeue(out T result)
+6. BlockingCollection<T>.Take()
+7. ObservableCollection<T>.RemoveAt(0)
+8. SortedSet<T>.Min
+9. PriorityQueue<T, U>.Poll()
+10. ArrayDeque<T>.RemoveFirst()

@@ -1,0 +1,5 @@
+1. Dictionary<TKey, TValue>.KeyCollection.GetEnumerator()
+2. SortedDictionary<TKey, TValue>.KeyCollection.GetEnumerator()
+3. ConcurrentDictionary<TKey, TValue>.Keys
+4. ImmutableDictionary<TKey, TValue>.Keys
+5. ReadOnlyDictionary<TKey, TValue>.Keys

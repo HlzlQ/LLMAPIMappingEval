@@ -1,0 +1,5 @@
+1. Char.IsUpper
+2. String.ToCharArray
+3. Char.GetNumericValue
+4. Char.IsDigit
+5. Char.IsLetter

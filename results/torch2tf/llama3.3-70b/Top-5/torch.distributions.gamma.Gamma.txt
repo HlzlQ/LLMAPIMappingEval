@@ -1,0 +1,5 @@
+1. tfp.distributions.Gamma
+2. tf.random.gamma
+3. tf.math.gamma
+4. tfp.distributions.InverseGamma
+5. tfp.distributions.RegionalizedGamma

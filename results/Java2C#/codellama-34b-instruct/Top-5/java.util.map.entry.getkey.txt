@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.KeyValuePair<TKey, TValue>.Key
+2. System.Collections.Specialized.NameObjectCollectionBase.Keys
+3. System.Collections.IDictionary.Item(object key)
+4. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd(TKey key, Func<TKey, TValue> valueFactory)
+5. System.Linq.Lookup<TKey, TElement>.Item(TKey key)

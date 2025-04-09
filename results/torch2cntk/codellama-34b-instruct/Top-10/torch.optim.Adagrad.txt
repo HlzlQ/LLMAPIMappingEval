@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.optim.Adagrad`:
+
+1. `cntk.learners.adagrad`
+2. `cntk.learners.adagrad_momentum`
+3. `cntk.learners.adagrad_nesterov`
+4. `cntk.learners.adagrad_rmsprop`
+5. `cntk.learners.adagrad_adam`
+6. `cntk.learners.adagrad_adamax`
+7. `cntk.learners.adagrad_nadam`
+8. `cntk.learners.adagrad_sgd`
+9. `cntk.learners.adagrad_momentum_sgd`
+10. `cntk.learners.adagrad_nesterov_sgd`

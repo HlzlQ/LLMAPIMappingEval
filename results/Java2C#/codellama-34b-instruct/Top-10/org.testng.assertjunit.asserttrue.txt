@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely C# APIs for the Java API "org.testng.assertjunit.asserttrue":
+
+1. NUnit.Framework.Assert.True
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+3. xunit.assert.True
+4. FluentAssertions.AssertionExtensions.Should().BeTrue()
+5. NSubstitute.Received.InOrder(() => {})
+6. Moq.Mock.Verify(m => m.Method(), Times.Once())
+7. NUnit.Framework.Assert.That(actual, Is.True)
+8. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull(actual)
+9. xunit.assert.NotNull(actual)
+10. FluentAssertions.AssertionExtensions.Should().NotBeNull()

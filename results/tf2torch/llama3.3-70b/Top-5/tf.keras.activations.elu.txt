@@ -1,0 +1,5 @@
+1. torch.nn.ELU
+2. torch.nn.LeakyReLU
+3. torch.nn.ReLU
+4. torch.nn.Sigmoid
+5. torch.nn.Tanh

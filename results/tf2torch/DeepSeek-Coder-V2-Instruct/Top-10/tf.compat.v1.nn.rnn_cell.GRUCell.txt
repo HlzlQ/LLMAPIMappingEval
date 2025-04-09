@@ -1,0 +1,12 @@
+
+
+1. torch.nn.GRUCell
+2. torch.nn.LSTMCell
+3. torch.nn.RNNCell
+4. torch.nn.RNN
+5. torch.nn.LSTM
+6. torch.nn.GRU
+7. torch.nn.RNNTanh
+8. torch.nn.RNNReLU
+9. torch.nn.LSTMTanh
+10. torch.nn.LSTMLinear

@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that correspond to the C# API `system.collections.generic.dictionary.containsvalue`:
+
+1. `java.util.Map.containsValue(Object value)`
+2. `java.util.HashMap.containsValue(Object value)`
+3. `java.util.Hashtable.containsValue(Object value)`
+4. `java.util.LinkedHashMap.containsValue(Object value)`
+5. `java.util.TreeMap.containsValue(Object value)`
+6. `java.util.WeakHashMap.containsValue(Object value)`
+7. `java.util.IdentityHashMap.containsValue(Object value)`
+8. `java.util.EnumMap.containsValue(Object value)`
+9. `java.util.concurrent.ConcurrentHashMap.containsValue(Object value)`
+10. `java.util.concurrent.ConcurrentSkipListMap.containsValue(Object value)`

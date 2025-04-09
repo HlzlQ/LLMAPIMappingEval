@@ -1,0 +1,10 @@
+torch.nn.Conv2d  
+torch.nn.functional.conv2d  
+torch.nn.modules.conv.Conv2d  
+torch.nn.utils.weight_norm.WeightNormConv2d  
+torch.nn.utils.spectral_norm.SpectralNormConv2d  
+torch.nn.init.kaiming_uniform_  
+torch.nn.init.xavier_uniform_  
+torch.nn.init.normal_  
+torch.nn.init.constant_  
+torch.nn.init.zeros_

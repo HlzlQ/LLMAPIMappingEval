@@ -1,0 +1,5 @@
+1. cntk.initializers.glorot_normal
+2. cntk.initializers.glorot_uniform
+3. cntk.initializers.xavier
+4. cntk.initializers.default_init
+5. cntk.initializers.normal

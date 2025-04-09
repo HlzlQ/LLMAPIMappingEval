@@ -1,0 +1,5 @@
+1. System.Text.StringBuilder.Remove
+2. System.Text.StringBuilder.Replace
+3. System.Text.StringBuilder.Insert
+4. System.Text.StringBuilder.Append
+5. System.Text.StringBuilder.Clear

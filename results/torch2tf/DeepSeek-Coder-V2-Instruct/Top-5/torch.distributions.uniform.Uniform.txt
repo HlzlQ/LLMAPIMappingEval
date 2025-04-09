@@ -1,0 +1,8 @@
+
+Answer: ```python
+1. tfp.distributions.Uniform
+2. tf.random.uniform
+3. tf.keras.layers.experimental.RandomUniform
+4. tf.random.Generator.uniform
+5. tf.distribute.Strategy.run
+```

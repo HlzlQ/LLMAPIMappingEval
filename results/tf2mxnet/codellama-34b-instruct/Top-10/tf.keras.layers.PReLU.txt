@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.PReLU`:
+
+1. `mxnet.gluon.nn.PReLU`
+2. `mxnet.ndarray.prelu`
+3. `mxnet.symbol.prelu`
+4. `mxnet.ndarray.leaky_relu`
+5. `mxnet.symbol.leaky_relu`
+6. `mxnet.gluon.nn.LeakyReLU`
+7. `mxnet.ndarray.prelu_with_alpha`
+8. `mxnet.symbol.prelu_with_alpha`
+9. `mxnet.gluon.nn.PReLUWithAlpha`
+10. `mxnet.ndarray.leaky_relu_with_alpha`

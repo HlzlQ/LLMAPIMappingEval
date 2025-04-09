@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.softsign`:
+
+1. `cntk.ops.softsign`
+2. `cntk.layers.activation.Softsign`
+3. `cntk.layers.activation.SoftSign`
+4. `cntk.layers.activation.SoftSigmoid`
+5. `cntk.layers.activation.SoftTanh`
+6. `cntk.layers.activation.SoftReLU`
+7. `cntk.layers.activation.SoftLeakyReLU`
+8. `cntk.layers.activation.SoftSwish`
+9. `cntk.layers.activation.SoftSigmoidWithCrossEntropyLoss`
+10. `cntk.layers.activation.SoftMaxWithCrossEntropyLoss`

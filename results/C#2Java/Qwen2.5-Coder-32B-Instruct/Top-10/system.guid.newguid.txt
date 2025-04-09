@@ -1,0 +1,10 @@
+java.util.UUID.randomUUID  
+java.util.UUID.fromString  
+java.util.UUID.nameUUIDFromBytes  
+java.util.UUID.version  
+java.util.UUID.variant  
+java.util.UUID.timestamp  
+java.util.UUID.clockSequence  
+java.util.UUID.node  
+java.util.UUID.compareTo  
+java.util.UUID.toString

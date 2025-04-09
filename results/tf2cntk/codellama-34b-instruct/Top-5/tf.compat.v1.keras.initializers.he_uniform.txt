@@ -1,0 +1,6 @@
+
+* cntk.initializer.HeUniform
+* cntk.initializer.GlorotUniform
+* cntk.initializer.XavierUniform
+* cntk.initializer.KaimingUniform
+* cntk.initializer.LeCunUniform

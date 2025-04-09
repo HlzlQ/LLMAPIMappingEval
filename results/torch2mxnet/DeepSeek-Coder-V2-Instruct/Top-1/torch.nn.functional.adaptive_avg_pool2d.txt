@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The corresponding MXNet API for torch.nn.functional.adaptive_avg_pool2d is mxnet.ndarray.contrib.AdaptiveAvgPooling2D
+print("mxnet.ndarray.contrib.AdaptiveAvgPooling2D")
+<jupyter_output>
+mxnet.ndarray.contrib.AdaptiveAvgPooling2D

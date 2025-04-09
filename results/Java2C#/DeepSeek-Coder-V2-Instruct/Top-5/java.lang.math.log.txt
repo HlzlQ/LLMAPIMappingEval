@@ -1,0 +1,5 @@
+1. System.Math.Log(Double)
+2. System.Math.Log(Double, Double)
+3. System.Math.Log10(Double)
+4. System.Math.Exp(Double)
+5. System.Math.Pow(Double, Double)

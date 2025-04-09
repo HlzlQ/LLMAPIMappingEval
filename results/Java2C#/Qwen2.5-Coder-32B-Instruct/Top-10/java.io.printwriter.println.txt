@@ -1,0 +1,10 @@
+System.IO.StreamWriter.WriteLine  
+System.Console.WriteLine  
+System.Diagnostics.Debug.WriteLine  
+System.Diagnostics.Trace.WriteLine  
+System.Web.HttpResponse.Write  
+System.Text.StringBuilder.AppendLine  
+System.IO.TextWriter.WriteLine  
+System.IO.File.WriteAllText  
+System.IO.File.AppendAllText  
+System.Windows.Forms.MessageBox.Show

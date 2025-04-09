@@ -1,0 +1,22 @@
+
+CNTK does not have a direct equivalent to `torch.nn.ConvTranspose3d`. However, you can achieve similar functionality by using the `convolution_transpose` function in CNTK. Here's an example:
+```csharp
+using CNTK;
+
+// Define the convolution transpose layer
+var convT = new ConvolutionTranspose(
+    numFilters: 64,
+    kernelSize: (3, 3),
+    stride: (2, 2),
+    padding: (1, 1)
+);
+
+// Create a variable for the input data
+var input = Variable.InputVariable(shape: (3, 3, 3), dataType: DataType.Float);
+
+// Apply the convolution transpose layer to the input data
+var output = convT.Forward(input);
+```
+In this example, we define a `ConvolutionTranspose` layer with 64 filters, a kernel size of (3, 3), and a stride of (2, 2). We also set the padding to (1, 1) to ensure that the output shape is the same as the input shape.
+
+We then create a variable for the input data and apply the convolution transpose layer to it using the `Forward` method. The resulting output will have the same shape as the input data, but with the filters applied in the reverse direction (i.e., from the bottom up).

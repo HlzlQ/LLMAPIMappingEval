@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.keras.initializers.RandomUniform`:
+
+1. torch.nn.init.Uniform_
+2. torch.nn.init.uniform_
+3. torch.distributions.Uniform
+4. torch.randn
+5. torch.rand
+6. torch.Tensor.uniform_
+7. torch.autograd.Variable.uniform_
+8. torch.nn.Parameter.uniform_
+9. torch.distributions.uniform.Uniform
+10. torch.nn.init.xavier_uniform_

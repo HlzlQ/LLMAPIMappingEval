@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functionality to `torch.nn.functional.pad`:
+
+1. `cntk.layers.Padding`
+2. `cntk.ops.padding`
+3. `cntk.layers.ConvolutionTranspose`
+4. `cntk.layers.Deconvolution`
+5. `cntk.layers.Upsample`
+6. `cntk.layers.Resize`
+7. `cntk.layers.Crop`
+8. `cntk.ops.slice`
+9. `cntk.layers.Transpose`
+10. `cntk.layers.Reorder`

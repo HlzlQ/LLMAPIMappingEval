@@ -1,0 +1,10 @@
+1. java.util.List.removeAll
+2. java.util.Collection.removeAll
+3. java.util.ArrayList.removeAll
+4. java.util.LinkedList.removeAll
+5. java.util.Vector.removeAll
+6. java.util.Stack.removeAll
+7. java.util.HashSet.removeAll
+8. java.util.TreeSet.removeAll
+9. java.util.AbstractCollection.removeAll
+10. java.util.AbstractList.removeAll

@@ -1,0 +1,5 @@
+System.IO.Stream.Write  
+System.IO.BinaryWriter.Write  
+System.IO.FileStream.Write  
+System.IO.MemoryStream.Write  
+System.IO.BufferedStream.Write

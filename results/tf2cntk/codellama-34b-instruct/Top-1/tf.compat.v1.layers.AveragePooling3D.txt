@@ -1,0 +1,2 @@
+
+CNTK.ops.pooling.AveragePooling3D

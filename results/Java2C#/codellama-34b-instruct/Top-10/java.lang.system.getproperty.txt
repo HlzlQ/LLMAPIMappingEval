@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.System.getProperty()`:
+
+1. `Environment.GetEnvironmentVariable()`
+2. `System.Environment.GetEnvironmentVariable()`
+3. `SystemProperties.GetProperty()`
+4. `System.getProperty()`
+5. `System.getenv()`
+6. `Environment.GetEnvironmentVariables()`
+7. `System.Environment.GetEnvironmentVariables()`
+8. `SystemProperties.GetProperties()`
+9. `System.getProperties()`
+10. `System.getenv()`

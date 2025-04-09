@@ -1,0 +1,5 @@
+System.Text.Encoding.GetEncoding  
+System.Text.Encoding.RegisterProvider  
+System.Text.Encoding.CodePagesEncodingProvider.GetEncoding  
+System.Text.Encoding.ASCII  
+System.Text.Encoding.UTF8

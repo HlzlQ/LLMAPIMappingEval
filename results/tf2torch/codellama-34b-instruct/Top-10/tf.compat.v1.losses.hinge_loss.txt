@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that can be used as alternatives to `tensorflow.compat.v1.losses.hinge_loss`:
+
+1. `torch.nn.functional.hinge_loss`
+2. `torch.nn.modules.loss.HingeLoss`
+3. `torch.nn.modules.loss.MarginRankingLoss`
+4. `torch.nn.modules.loss.MultiLabelSoftMarginLoss`
+5. `torch.nn.modules.loss.MultiLabelMarginLoss`
+6. `torch.nn.modules.loss.CrossEntropyLoss`
+7. `torch.nn.modules.loss.NLLLoss`
+8. `torch.nn.modules.loss.BCEWithLogitsLoss`
+9. `torch.nn.modules.loss.MSELoss`
+10. `torch.nn.modules.loss.L1Loss`

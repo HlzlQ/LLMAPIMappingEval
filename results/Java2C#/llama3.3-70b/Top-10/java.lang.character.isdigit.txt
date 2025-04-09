@@ -1,0 +1,10 @@
+1. System.Char.IsDigit
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.Linq.Enumerable.All
+4. System.String.IndexOfAny
+5. System.Text.Encoding.ASCII.GetNumericValue
+6. System.Globalization.CharUnicodeInfo.GetNumericType
+7. System.Convert.ToInt32
+8. System.Int32.TryParse
+9. System.Numerics.BigInteger.TryParse
+10. Microsoft.VisualBasic.Information.IsNumeric

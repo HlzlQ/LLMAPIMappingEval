@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.train.AdadeltaOptimizer`:
+
+1. `cntk.learners.adadelta`
+2. `cntk.optimizers.adadelta`
+3. `cntk.train.adadelta`
+4. `cntk.ada_delta`
+5. `cntk.optimization.adadelta`
+6. `cntk.training.adadelta`
+7. `cntk.learning_rate_schedulers.adadelta`
+8. `cntk.optimizers.adadelta_optimizer`
+9. `cntk.trainers.adadelta_trainer`
+10. `cntk.optimization.algorithms.adadelta`

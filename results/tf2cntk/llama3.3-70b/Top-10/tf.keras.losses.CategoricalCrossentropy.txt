@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.losses.CategoricalCrossentropy`:
+
+1. CNTK.CrossEntropy
+2. CNTK.SoftmaxCrossEntropy
+3. CNTK.ClassificationError
+4. CNTK.CrossEntropyWithSoftmax
+5. CNTK.Softmax
+6. CNTK.LabelSmoothingCrossEntropy
+7. CNTK.KLDivergence
+8. CNTK.BinaryCrossEntropy
+9. CNTK.SigmoidCrossEntropy
+10. CNTK.EntropyLoss

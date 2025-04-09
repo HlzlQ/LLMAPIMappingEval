@@ -1,0 +1,5 @@
+torch.eye
+torch.ones 
+torch.zeros
+torch.full 
+torch.tensor

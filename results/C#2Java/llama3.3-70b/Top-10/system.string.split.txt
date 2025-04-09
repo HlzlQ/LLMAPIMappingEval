@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.split` in C#:
+
+1. java.lang.String.split()
+2. java.util.regex.Pattern.split()
+3. java.util.regex.Matcher.split()
+4. org.apache.commons.lang3.StringUtils.split()
+5. org.apache.commons.lang3.StringUtils.splitByWholeSeparator()
+6. org.apache.commons.lang3.StringUtils.splitByWholeSeparatorPreserveAllTokens()
+7. org.springframework.util.StringUtils.split()
+8. com.google.common.base.Splitter.split()
+9. com.google.common.base.Splitter.splitToList()
+10. java.nio.charset.StandardCharsets.UTF_8.decode().split()

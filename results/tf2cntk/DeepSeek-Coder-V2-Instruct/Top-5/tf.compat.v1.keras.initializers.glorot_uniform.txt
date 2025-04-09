@@ -1,0 +1,7 @@
+
+```python
+import cntk as C
+```
+Answer: ```python
+from cntk import initializers
+```

@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# LeakyReLU in PyTorch maps to tf.nn.leaky_relu in TensorFlow
+print("tf.nn.leaky_relu")
+<jupyter_output>
+tf.nn.leaky_relu

@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.losses.CategoricalCrossentropy`:
+
+1. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+2. `mxnet.gluon.loss.CategoricalCrossEntropyLoss`
+3. `mxnet.gluon.loss.SparseCategoricalCrossEntropyLoss`
+4. `mxnet.gluon.loss.BinaryCrossEntropyLoss`
+5. `mxnet.gluon.loss.KLDivLoss`
+6. `mxnet.gluon.loss.HingeLoss`
+7. `mxnet.gluon.loss.SmoothL1Loss`
+8. `mxnet.gluon.loss.SoftmaxFocalLoss`
+9. `mxnet.gluon.loss.CrossEntropyLoss`
+10. `mxnet.gluon.loss.BinaryCrossEntropyWithLogitsLoss`

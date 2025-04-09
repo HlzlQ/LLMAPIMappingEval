@@ -1,0 +1,5 @@
+1. System.IO.Stream.Read
+2. System.IO.BinaryReader.Read
+3. System.IO.FileStream.Read
+4. System.IO.MemoryStream.Read
+5. System.Net.Sockets.NetworkStream.Read

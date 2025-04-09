@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.initializers.Orthogonal`:
+
+1. `mxnet.initializer.Orthogonal`
+2. `mxnet.init.Orthogonal`
+3. `mxnet.initializers.orthogonal`
+4. `mxnet.init.orthogonal`
+5. `mxnet.initializers.OrthogonalInitializer`
+6. `mxnet.init.OrthogonalInitializer`
+7. `mxnet.initializers.orthogonal_initializer`
+8. `mxnet.init.orthogonal_initializer`
+9. `mxnet.initializers.OrthogonalRandom`
+10. `mxnet.init.OrthogonalRandom`

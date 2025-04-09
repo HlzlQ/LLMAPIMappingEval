@@ -1,0 +1,4 @@
+
+
+1. torch.nn.Dropout
+2. torch.nn.functional.dropout

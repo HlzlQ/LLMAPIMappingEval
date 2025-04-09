@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.clip_by_global_norm`:
+
+1. `torch.nn.utils.clip_grad_norm`
+2. `torch.nn.utils.clip_grad_value`
+3. `torch.nn.utils.clip_weight_norm`
+4. `torch.nn.utils.clip_weight_value`
+5. `torch.nn.utils.clip_activation_norm`
+6. `torch.nn.utils.clip_activation_value`
+7. `torch.nn.utils.clip_output_norm`
+8. `torch.nn.utils.clip_output_value`
+9. `torch.nn.utils.clip_loss_norm`
+10. `torch.nn.utils.clip_loss_value`

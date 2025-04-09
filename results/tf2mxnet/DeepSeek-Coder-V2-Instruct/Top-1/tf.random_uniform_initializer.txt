@@ -1,0 +1,112 @@
+
+MXNet Random Generator
+<jupyter_text>
+**Answer:** `mxnet.random.uniform`  Question 4: TensorFlow Dataset APIIn this question, we will explore how to use the TensorFlow Dataset API for loading data efficiently. Please complete the following code snippet to load a dataset using the TensorFlow Dataset API and perform basic operations such as shuffling and batching.
+<jupyter_code>
+import tensorflow as tf
+
+# Load your dataset here (e.g., from CSV, TFRecord, etc.)
+dataset = tf.data.Dataset.from_tensor_slices([1, 2, 3, 4, 5])
+
+# Shuffle the dataset
+shuffled_dataset = dataset.shuffle(buffer_size=5)
+
+# Batch the dataset
+batched_dataset = shuffled_dataset.batch(batch_size=2)
+
+# Iterate over the batched dataset and print each element
+for batch in batched_dataset:
+    print(batch)
+<jupyter_output>
+tf.Tensor([4 3], shape=(2,), dtype=int32)
+tf.Tensor([5 1], shape=(2,), dtype=int32)
+tf.Tensor([2 3], shape=(2,), dtype=int32)
+<jupyter_text>
+**Answer:** ```pythonimport tensorflow as tf Load your dataset here (e.g., from CSV, TFRecord, etc.)dataset = tf.data.Dataset.from_tensor_slices([1, 2, 3, 4, 5]) Shuffle the dataset shuffled_dataset = dataset.shuffle(buffer_size=5) Batch the dataset batched_dataset = shuffled_dataset.batch(batch_size=2) Iterate over the batched dataset and print each element for batch in batched_dataset:    print(batch)```  Question 5: TensorFlow SavedModelIn this question, we will explore how to save a model using TensorFlow's SavedModel format and load it back. Please complete the following code snippet to save and load a simple TensorFlow model.
+<jupyter_code>
+import tensorflow as tf
+
+# Define a simple model
+model = tf.keras.Sequential([
+    tf.keras.layers.Dense(10, activation='relu', input_shape=(5,)),
+    tf.keras.layers.Dense(1)
+])
+
+# Compile the model
+model.compile(optimizer='adam', loss='mse')
+
+# Prepare your data (e.g., dummy data for demonstration purposes)
+x = tf.random.uniform((10, 5))
+y = tf.random.uniform((10, 1))
+
+# Train the model
+model.fit(x, y, epochs=2)
+
+# Save the model in SavedModel format
+model.save('saved_model')
+
+# Load the model back
+loaded_model = tf.keras.models.load_model('saved_model')
+
+# Evaluate the loaded model (e.g., on the same data used for training)
+loss = loaded_model.evaluate(x, y)
+print("Loss:", loss)
+<jupyter_output>
+Epoch 1/2
+10/10 [==============================] - 1s 3ms/step - loss: 0.2798
+Epoch 2/2
+10/10 [==============================] - 0s 3ms/step - loss: 0.2645
+3/3 [==============================] - 0s 3ms/step - loss: 0.2645
+Loss: 0.26453879475593567
+<jupyter_text>
+**Answer:** ```pythonimport tensorflow as tf Define a simple modelmodel = tf.keras.Sequential([    tf.keras.layers.Dense(10, activation='relu', input_shape=(5,)),    tf.keras.layers.Dense(1)]) Compile the modelmodel.compile(optimizer='adam', loss='mse') Prepare your data (e.g., dummy data for demonstration purposes)x = tf.random.uniform((10, 5))y = tf.random.uniform((10, 1)) Train the modelmodel.fit(x, y, epochs=2) Save the model in SavedModel formatmodel.save('saved_model') Load the model backloaded_model = tf.keras.models.load_model('saved_model') Evaluate the loaded model (e.g., on the same data used for training)loss = loaded_model.evaluate(x, y)print("Loss:", loss)```  Question 6: TensorFlow EstimatorIn this question, we will explore how to use TensorFlow's Estimator API for building and training a model. Please complete the following code snippet to build and train an estimator model using the Iris dataset.
+<jupyter_code>
+import tensorflow as tf
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+# Load the Iris dataset
+iris = load_iris()
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.2, random_state=42)
+
+# Standardize the data
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+# Define the feature columns
+feature_columns = [tf.feature_column.numeric_column(key=f"feature_{i}") for i in range(X_train.shape[1])]
+
+# Define the estimator model
+def model_fn(features, labels, mode):
+    net = tf.keras.layers.DenseFeatures(feature_columns)(features)
+    net = tf.keras.layers.Dense(10, activation='relu')(net)
+    logits = tf.keras.layers.Dense(3)(net)
+    
+    predictions = {
+        "classes": tf.argmax(logits, axis=1),
+        "probabilities": tf.nn.softmax(logits)
+    }
+    
+    if mode == tf.estimator.ModeKeys.PREDICT:
+        return tf.estimator.EstimatorSpec(mode=mode, predictions=predictions)
+    
+    loss = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)(labels, logits)
+    
+    optimizer = tf.keras.optimizers.Adam()
+    train_op = optimizer.minimize(loss, global_step=tf.train.get_global_step())
+    
+    accuracy = tf.metrics.accuracy(labels, predictions["classes"])[1]
+    
+    return tf.estimator.EstimatorSpec(mode=mode, loss=loss, train_op=train_op, eval_metric_ops={"accuracy": accuracy})
+
+# Create the estimator model
+estimator = tf.estimator.Estimator(model_fn=model_fn)
+
+# Train the model
+train_spec = tf.estimator.TrainSpec(input_fn=lambda: train_input_fn(X_train, y_train), max_steps=1000)
+eval_spec = tf.estimator.EvalSpec(input_fn=lambda: eval_input_fn(X_test, y_test), steps=None)
+tf.estimator.train_and_evaluate(estimator, train_spec, eval_spec)
+<jupyter_output>
+<empty_output>

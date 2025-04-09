@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.math.min` in C#:
+
+1. java.lang.Math.min
+2. java.lang.Double.MIN_VALUE
+3. java.lang.Float.MIN_VALUE
+4. java.lang.Integer.MIN_VALUE
+5. java.lang.Long.MIN_VALUE

@@ -1,0 +1,2 @@
+
+Answer: Exponential, LogNormal, Poisson, Normal, Uniform

@@ -1,0 +1,5 @@
+org.junit.jupiter.api.Assertions.assertNotSame  
+junit.framework.Assert.assertNotSame  
+org.testng.Assert.assertNotSame  
+org.apache.commons.lang3.Validate.notSame  
+org.mockito.Mockito.verifyZeroInteractions

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.distributions.bernoulli.Bernoulli`:
+
+1. `cntk.layers.Bernoulli`
+2. `cntk.distributions.Bernoulli`
+3. `cntk.ops.random.Bernoulli`
+4. `cntk.losses.BernoulliCrossEntropy`
+5. `cntk.metrics.BernoulliAccuracy`
+6. `cntk.train.distribution.Bernoulli`
+7. `cntk.layers.Binary`
+8. `cntk.ops.random.sample_bernoulli`
+9. `cntk.distributions.DiscreteUniform`
+10. `cntk.losses.SigmoidCrossEntropyWithLogits`

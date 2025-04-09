@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.functional.elu`:
+
+1. CNTK ELU
+2. cntk.layers.Elu
+3. cntk.ops.elu
+4. CNTKActivationElu
+5. cntk.functions.elu
+6. EluActivation
+7. cntk.activations.elu
+8. CntkEluLayer
+9. cntk.ops.activation_elu
+10. cntk.layers.Activation_Elu

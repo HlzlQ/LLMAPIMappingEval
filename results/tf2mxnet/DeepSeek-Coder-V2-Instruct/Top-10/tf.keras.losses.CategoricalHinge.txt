@@ -1,0 +1,2 @@
+
+Answer: Hinge, MeanSquaredError, CategoricalCrossentropy, SparseCategoricalCrossentropy, BinaryCrossentropy, KLDivergence, Poisson, CosineSimilarity, LogCosh, CategoricalHinge

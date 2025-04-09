@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to TensorFlow's `tensorflow.keras.layers.PReLU`:
+
+1. `torch.nn.PReLU`
+2. `torch.nn.LeakyReLU`
+3. `torch.nn.ParametricReLU`
+4. `torch.nn.SmoothReLU`
+5. `torch.nn.Softplus`

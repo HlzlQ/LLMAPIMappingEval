@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. MaxPooling
+2. Pooling
+3. MaxPool
+4. PoolingLayer
+5. MaxPoolingLayer

@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK API mappings:
+
+1. cntk.initializers.he_normal
+2. cntk.initializers.glorot_normal
+3. cntk.initializers.xavier
+4. cntk.layers.initializers.he_normal
+5. cntk.default_options.initializer = cntk.initializers.he_normal

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.SGD`:
+
+1. `cntk.learners.sgd`
+2. `cntk.learners.stochastic_gradient_descent`
+3. `cntk.learners.momentum_sgd`
+4. `cntk.learners.nesterov_accelerated_sgd`
+5. `cntk.learners.adagrad`
+6. `cntk.learners.rmsprop`
+7. `cntk.learners.adam`
+8. `cntk.learners.adamax`
+9. `cntk.learners.nadam`
+10. `cntk.learners.lamb`

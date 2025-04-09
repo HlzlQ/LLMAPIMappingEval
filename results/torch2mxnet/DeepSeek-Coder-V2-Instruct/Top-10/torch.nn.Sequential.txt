@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. `torch.nn.Module` -> `mxnet.gluon.Block`
+2. `torch.nn.Parameter` -> `mxnet.gluon.Parameter`
+3. `torch.nn.Sequential` -> `mxnet.gluon.nn.HybridSequential` or `mxnet.gluon.nn.Sequential`
+4. `torch.nn.Linear` -> `mxnet.gluon.nn.Dense`
+5. `torch.nn.Conv2d` -> `mxnet.gluon.nn.Conv2D`
+6. `torch.nn.ReLU` -> `mxnet.gluon.nn.Activation('relu')`
+7. `torch.nn.MaxPool2d` -> `mxnet.gluon.nn.MaxPool2D`
+8. `torch.nn.Dropout` -> `mxnet.gluon.nn.Dropout`
+9. `torch.nn.BatchNorm2d` -> `mxnet.gluon.nn.BatchNorm`
+10. `torch.nn.Flatten` -> `mxnet.ndarray.flatten` or `mxnet.gluon.nn.Flatten`

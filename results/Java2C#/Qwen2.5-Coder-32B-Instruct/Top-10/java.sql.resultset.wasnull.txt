@@ -1,0 +1,10 @@
+System.Data.SqlClient.SqlDataReader.IsDBNull  
+System.Data.OleDb.OleDbDataReader.IsDBNull  
+System.Data.OracleClient.OracleDataReader.IsDBNull  
+System.Data.SQLite.SQLiteDataReader.IsDBNull  
+Npgsql.NpgsqlDataReader.IsDBNull  
+MySql.Data.MySqlClient.MySqlDataReader.IsDBNull  
+Microsoft.Data.SqlClient.SqlDataReader.IsDBNull  
+FirebirdSql.Data.FirebirdClient.FbDataReader.IsDBNull  
+IBM.Data.DB2.DB2DataReader.IsDBNull  
+System.Data.Common.DbDataReader.IsDBNull

@@ -1,0 +1,5 @@
+java.lang.Character.toLowerCase
+java.lang.String.toLowerCase
+java.text.Normalizer.Form.NFD
+java.text.Normalizer.normalize
+java.util.Locale.getDefault

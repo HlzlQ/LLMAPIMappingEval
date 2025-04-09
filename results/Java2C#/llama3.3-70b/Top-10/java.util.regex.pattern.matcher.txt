@@ -1,0 +1,10 @@
+1. System.Text.RegularExpressions.Regex
+2. System.Text.RegularExpressions.Match
+3. System.Text.RegularExpressions.Matcher
+4. System.Text.RegularExpressions.Pattern
+5. System.Text.RegularExpressions.Group
+6. System.Text.RegularExpressions.Capture
+7. System.Text.RegularExpressions.MatchCollection
+8. System.Text.RegularExpressions.RegexOptions
+9. System.Text.RegularExpressions.StringSplitOptions
+10. System.Text.RegularExpressions.GroupCollection

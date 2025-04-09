@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `torch.nn.functional.ctc_loss`:
+
+1. mxnet.ndarray.contrib CTCLoss
+2. mxnet.gluon.loss.CTCLoss
+3. mxnet.ndarray.ctc_loss
+4. mxnet.gluon.contrib.loss.CTCLoss
+5. mxnet.ndarray.contrib.ctc_loss
+6. mxnet.gluon.nn.CTCLoss
+7. mxnet.ndarray.loss.ctc_loss
+8. mxnet.gluon.loss.ctc_loss
+9. mxnet.ndarray.contrib_CTCLoss
+10. mxnet.gluon.contrib.nn.CTCLoss

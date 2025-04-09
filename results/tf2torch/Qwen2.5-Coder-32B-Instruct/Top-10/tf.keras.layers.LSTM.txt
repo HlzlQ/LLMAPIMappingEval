@@ -1,0 +1,10 @@
+torch.nn.LSTM  
+torch.nn.RNN  
+torch.nn.GRU  
+torch.nn.LSTMCell  
+torch.nn.RNNCell  
+torch.nn.GRUCell  
+torch.nn.Embedding  
+torch.nn.Linear  
+torch.nn.Dropout  
+torch.nn.BatchNorm1d

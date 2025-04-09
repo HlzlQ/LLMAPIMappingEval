@@ -1,0 +1,10 @@
+mxnet.gluon.nn.BatchNorm
+mxnet.ndarray.batch_norm
+mxnet.symbol.BatchNorm
+mxnet.gluon.contrib.nn.GroupNorm
+mxnet.gluon.contrib.nn.InstanceNorm
+mxnet.gluon.contrib.nn.LayerNorm
+mxnet.gluon.nn.HybridSequential
+mxnet.gluon.nn.Sequential
+mxnet.gluon.nn.Dense
+mxnet.gluon.nn.Conv2D

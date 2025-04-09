@@ -1,0 +1,5 @@
+1. String.IndexOf
+2. String.LastIndexOf
+3. StringBuilder.ToString().IndexOf
+4. CharArray.IndexOf
+5. Regex.IsMatch

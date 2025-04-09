@@ -1,0 +1,10 @@
+torch.nn.functional.pad  
+torch.Tensor.new_full  
+torch.cat  
+torch.stack  
+torch.roll  
+torch.repeat_interleave  
+torch.tile  
+torch.reshape  
+torch.view  
+torch.permute

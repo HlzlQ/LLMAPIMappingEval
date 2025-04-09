@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.activations.sigmoid`:
+
+1. torch.nn.Sigmoid
+2. torch.sigmoid
+3. torch.nn.functional.sigmoid
+4. torch.relu
+5. torch.tanh
+6. torch.nn.Tanh
+7. torch.nn.ReLU
+8. torch.nn.LeakyReLU
+9. torch.nn.Softmax
+10. torch.nn.LogSigmoid

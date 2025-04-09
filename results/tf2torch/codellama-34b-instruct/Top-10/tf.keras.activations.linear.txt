@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.activations.linear`:
+
+1. `torch.nn.functional.linear`
+2. `torch.nn.Linear`
+3. `torch.nn.modules.linear`
+4. `torch.nn.modules.linear_layer`
+5. `torch.nn.modules.linear_module`
+6. `torch.nn.modules.linear_function`
+7. `torch.nn.modules.linear_activation`
+8. `torch.nn.modules.linear_loss`
+9. `torch.nn.modules.linear_optimizer`
+10. `torch.nn.modules.linear_scheduler`

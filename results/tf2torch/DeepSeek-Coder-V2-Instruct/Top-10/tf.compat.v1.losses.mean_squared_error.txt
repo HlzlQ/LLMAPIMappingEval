@@ -1,0 +1,11 @@
+
+Answer: 1. nn.MSELoss
+2. torch.nn.functional.mse_loss
+3. F.mse_loss (from `torch.nn.functional`)
+4. torch.square
+5. torch.mean
+6. torch.sum
+7. torchvision.transforms.ToTensor()
+8. numpy.mean
+9. numpy.square
+10. pandas.DataFrame.mean

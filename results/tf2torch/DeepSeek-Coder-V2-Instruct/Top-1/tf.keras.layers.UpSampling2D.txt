@@ -1,0 +1,14 @@
+
+```python
+from torch import nn
+```
+
+```python
+class UpsamplingLayer(nn.Module):
+    def __init__(self, scale_factor=2):
+        super().__init__()
+        self.scale_factor = scale_factor
+    
+    def forward(self, x):
+        return nn.functional.interpolate(x, scale_factor=self.scale_factor, mode='nearest')
+```

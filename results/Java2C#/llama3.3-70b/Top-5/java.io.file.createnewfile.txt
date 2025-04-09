@@ -1,0 +1,5 @@
+1. System.IO.File.Create
+2. System.IO.File.CreateText
+3. System.IO.Directory.CreateDirectory
+4. System.IO.File.Open
+5. System.IO.File.WriteAllText

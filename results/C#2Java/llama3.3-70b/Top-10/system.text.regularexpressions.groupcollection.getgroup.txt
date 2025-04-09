@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of the given C# API:
+
+1. java.util.regex.Matcher.group()
+2. java.util.regex.Matcher.groupCount()
+3. java.util.regex.Matcher.group(int)
+4. java.util.regex.Pattern.matcher()
+5. java.util.regex.Matcher.find()
+6. java.util.regex.Matcher.start()
+7. java.util.regex.Matcher.end()
+8. java.util.regex.Matcher.replaceAll()
+9. java.util.regex.Matcher.appendReplacement()
+10. java.util.regex.Matcher.appendTail()

@@ -1,0 +1,6 @@
+ If there is no corresponding API in CNTK, please write "No corresponding API".
+
+```python
+tensorflow.compat.v1.layers.conv3d_transpose
+```
+Answer: `CNTK.ops.ConvolutionTranspose`

@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for Convolutional Transpose operations:
+
+1. tf.nn.conv_transpose3d
+2. tf.nn.conv_transpose2d
+3. tf.nn.depthwise_conv2d_transpose
+4. tf.nn.separable_conv2d_transpose
+5. tf.nn.atrous_conv2d_transpose
+6. tf.nn.conv2d_transpose
+7. tf.nn.conv3d_transpose
+8. tf.nn.depthwise_conv3d_transpose
+9. tf.nn.separable_conv3d_transpose
+10. tf.nn.atrous_conv3d_transpose

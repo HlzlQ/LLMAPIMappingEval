@@ -1,0 +1,10 @@
+cntk.random.uniform
+cntk.layers.ParameterInit
+cntk.initializer.UniformInitializer
+cntk.layers.default_options
+cntk.layers.Sequential
+cntk.layers.Dense
+cntk.layers.Convolution2D
+cntk.layers.MaxPooling
+cntk.layers.ReLU
+cntk.layers.Dropout

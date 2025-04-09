@@ -1,0 +1,10 @@
+1. tf.math.tanh 
+2. tf.keras.activations.tanh 
+3. tf.nn.tanh 
+4. tf.tanh 
+5. tf.keras.layers.Activation 
+6. tf.keras.layers.Lambda 
+7. tf.compat.v1.math.tanh 
+8. tf.compat.v1.nn.tanh 
+9. tf.raw_ops.Tanh 
+10. tf.keras.backend.tanh

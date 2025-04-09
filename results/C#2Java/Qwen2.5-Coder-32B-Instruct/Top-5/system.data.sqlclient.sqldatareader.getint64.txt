@@ -1,0 +1,5 @@
+java.sql.ResultSet.getLong
+java.sql.ResultSet.getInt
+java.sql.ResultSet.getBigDecimal
+java.sql.ResultSet.getDouble
+java.sql.ResultSet.getFloat

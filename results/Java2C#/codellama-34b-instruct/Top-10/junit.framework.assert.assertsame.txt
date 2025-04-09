@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API "junit.framework.assert.assertSame":
+
+1. NUnit.Framework.Assert.AreSame
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+3. xunit.assert.same
+4. FluentAssertions.AssertionExtensions.ShouldBeSameAs
+5. NSubstitute.ReceivedExtensions.ReceivedCalls
+6. Moq.Mock.Verify
+7. Junit.Framework.Assert.assertSame
+8. TestNG.Assert.assertSame
+9. EasyMock.Assert.same
+10. PowerMock.Assert.same

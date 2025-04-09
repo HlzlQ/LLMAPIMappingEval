@@ -1,0 +1,5 @@
+System.Random.NextDouble  
+System.Random.Next  
+System.Random.NextBytes  
+System.Random.NextSingle  
+System.Random.NextInt64

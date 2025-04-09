@@ -1,0 +1,2 @@
+
+Answer: tf.pad, mxnet.ndarray.pad, mxnet.symbol.pad, mxnet.image.pad, mxnet.gluon.nn.pad

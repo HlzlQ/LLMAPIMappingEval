@@ -1,0 +1,14 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.ZeroPad2d | mxnet.ndarray.pad |
+  | torch.nn.ConstantPad2d | mxnet.ndarray.pad_constant |
+  | torch.nn.ReflectPad2d | mxnet.ndarray.pad_reflect |
+  | torch.nn.ReplicatePad2d | mxnet.ndarray.pad_replicate |
+  | torch.nn.CircularPad2d | mxnet.ndarray.pad_circular |
+  | torch.nn.SymmetricPad2d | mxnet.ndarray.pad_symmetric |
+  | torch.nn.ZeroPad3d | mxnet.ndarray.pad |
+  | torch.nn.ConstantPad3d | mxnet.ndarray.pad_constant |
+  | torch.nn.ReflectPad3d | mxnet.ndarray.pad_reflect |
+  | torch.nn.ReplicatePad3d | mxnet.ndarray.pad_replicate |
+  | torch.nn.CircularPad3d | mxnet.ndarray.pad_circular |
+  | torch.nn.SymmetricPad3d | mxnet.ndarray.pad_symmetric |

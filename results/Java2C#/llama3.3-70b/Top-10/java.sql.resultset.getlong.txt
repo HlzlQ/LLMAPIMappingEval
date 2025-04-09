@@ -1,0 +1,10 @@
+1. System.Data.IDataReader.GetLong
+2. System.Data.SqlClient.SqlDataReader.GetLong
+3. System.Data.OleDb.OleDbDataReader.GetLong
+4. System.Data.Common.DbDataReader.GetLong
+5. Microsoft.Data.SqlClient.SqlDataReader.GetLong
+6. Npgsql.NpgsqlDataReader.GetLong
+7. MySql.Data.MySqlClient.MySqlDataReader.GetLong
+8. Oracle.ManagedDataAccess.Client.OracleDataReader.GetLong
+9. System.Data.SQLite.SQLiteDataReader.GetLong
+10. FirebirdSql.Data.FirebirdClient.FbDataReader.GetLong

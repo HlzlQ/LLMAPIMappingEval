@@ -1,0 +1,5 @@
+java.lang.String.toUpperCase
+java.lang.String.toUpperCase(java.util.Locale)
+java.text.Normalizer.normalize
+java.text.Collator.getCollationKey
+java.text.MessageFormat.format

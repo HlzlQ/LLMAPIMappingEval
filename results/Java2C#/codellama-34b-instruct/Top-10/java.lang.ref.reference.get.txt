@@ -1,0 +1,12 @@
+Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.WeakReference.GetTarget()
+2. System.WeakReference<T>.GetTarget()
+3. System.WeakReference<T>.TryGetTarget(out T target)
+4. System.WeakReference.TryGetTarget(out object target)
+5. System.WeakReference.GetValue()
+6. System.WeakReference<T>.GetValue()
+7. System.WeakReference<T>.TryGetValue(out T value)
+8. System.WeakReference.TryGetValue(out object value)
+9. System.WeakReference.Get()
+10. System.WeakReference<T>.Get()

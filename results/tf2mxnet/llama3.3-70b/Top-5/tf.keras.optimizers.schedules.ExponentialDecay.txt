@@ -1,0 +1,5 @@
+1. mxnet.optimizer.lr_scheduler.ExponentialScheduler
+2. mxnet.optimizer.SGD
+3. mxnet.optimizer.Adam
+4. mxnet.optimizer.Nadam
+5. mxnet.lr_scheduler.MultiFactorScheduler

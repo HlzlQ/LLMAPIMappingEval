@@ -1,0 +1,7 @@
+  tf.keras.models.load_model() is not directly available in MXNet. However, there are some alternatives to load pre-trained models in MXNet:
+
+1. mxnet.mod.Module.load(): This function loads a saved model from a file.
+2. mxnet.mod.Module.load_checkpoint(): This function loads a saved checkpoint of a model from a file.
+3. mxnet.mod.Module.load_params(): This function loads the parameters of a model from a file.
+4. mxnet.mod.Module.load_optimizer(): This function loads the optimizer state of a model from a file.
+5. mxnet.mod.Module.load_state(): This function loads the entire state of a model, including its parameters and optimizer state, from a file.

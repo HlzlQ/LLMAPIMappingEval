@@ -1,0 +1,7 @@
+  Here are five C# APIs that have similar functionality to the `java.io.File.isDirectory()` method:
+
+1. `System.IO.Directory.Exists(string path)`: This method checks if a directory exists at the specified path and returns true or false.
+2. `System.IO.File.GetAttributes(string path)`: This method retrieves the file attributes for the file or directory at the specified path, including whether it is a directory.
+3. `System.IO.DirectoryInfo.Exists`: This property checks if a directory exists at the specified path and returns true or false.
+4. `System.IO.FileInfo.Attributes`: This property retrieves the file attributes for the file or directory at the specified path, including whether it is a directory.
+5. `System.IO.Path.IsDirectory(string path)`: This method checks if the specified path is a directory and returns true or false.

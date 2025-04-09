@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.ops.batch_normalization
+2. cntk.layers.BatchNormalization
+3. cntk.contrib.layers.BatchNormalization
+4. cntk.initializer.batch_norm_scale_offset
+5. cntk.train.batch_normalization
+6. cntk.learners.batch_normalization
+7. cntk.ops.normalize_variance
+8. cntk.layers.NormalizeVariance
+9. cntk.contrib.layers.NormalizeVariance
+10. cntk.initializer.normalize_variance

@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from PyTorch's `torch.is_tensor` to TensorFlow APIs:
+
+1. `tf.is_tensor`
+2. `tf.convert_to_tensor`
+3. `tf.cast`
+4. `tf.dtypes.as_tensor`
+5. `tf.dtypes.as_dtype`
+6. `tf.math.is_finite`
+7. `tf.math.is_inf`
+8. `tf.math.is_nan`
+9. `tf.math.is_normal`
+10. `tf.math.is_subnormal`

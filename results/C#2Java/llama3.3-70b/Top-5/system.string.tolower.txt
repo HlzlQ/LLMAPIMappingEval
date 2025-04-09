@@ -1,0 +1,5 @@
+1. java.lang.String.toLowerCase()
+2. java.lang.String.toLowerCase(Locale locale)
+3. java.text.Normalizer.normalize()
+4. java.util.Locale.getDefault()
+5. java.nio.charset.Charset.forName()

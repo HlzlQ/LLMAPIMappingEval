@@ -1,0 +1,5 @@
+1. cntk.learners.rmsprop
+2. cntk.learners.adagrad
+3. cntk.learners.momentum_sgd
+4. cntk.learners.nesterov
+5. cntk.learners.adam

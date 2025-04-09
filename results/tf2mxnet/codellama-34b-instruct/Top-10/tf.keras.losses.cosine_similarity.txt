@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.losses.cosine_similarity`:
+
+1. `mxnet.gluon.loss.CosineSimilarity`
+2. `mxnet.ndarray.cosine_similarity`
+3. `mxnet.symbol.CosineSimilarity`
+4. `mxnet.ndarray.linalg.cosine_similarity`
+5. `mxnet.gluon.loss.CosineDistance`
+6. `mxnet.ndarray.linalg.cosine_distance`
+7. `mxnet.symbol.CosineDistance`
+8. `mxnet.ndarray.linalg.cosine_distance_matrix`
+9. `mxnet.gluon.loss.CosineSimilarityMatrix`
+10. `mxnet.ndarray.linalg.cosine_similarity_matrix`

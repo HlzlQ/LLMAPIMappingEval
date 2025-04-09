@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.String.Format()
+2. System.String.Concat()
+3. System.String.Join()
+4. System.String.Replace()
+5. System.String.Split()
+6. System.String.Substring()
+7. System.String.ToLower()
+8. System.String.ToUpper()
+9. System.String.Trim()
+10. System.String.TrimStart()

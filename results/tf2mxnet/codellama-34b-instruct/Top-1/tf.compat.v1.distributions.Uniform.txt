@@ -1,0 +1,10 @@
+
+MXNet does not have an exact equivalent of TensorFlow's `Uniform` distribution class. However, you can use the `mxnet.ndarray.random.uniform` function to generate random values from a uniform distribution. Here's an example:
+```python
+import mxnet as mx
+
+# Generate 10 random values from a uniform distribution between 0 and 1
+values = mx.ndarray.random.uniform(low=0, high=1, size=(10))
+print(values)
+```
+This will output an array of 10 random values between 0 and 1. You can adjust the `low` and `high` parameters to change the range of the distribution.

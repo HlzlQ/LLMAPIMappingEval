@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.util.ArrayList.get`:
+
+1. `System.Collections.Generic.List<T>.get`
+2. `System.Collections.ArrayList.get`
+3. `System.Collections.Specialized.NameObjectCollectionBase.get`
+4. `System.Collections.Specialized.StringCollection.get`
+5. `System.Collections.Specialized.StringDictionary.get`
+6. `System.Collections.Generic.IList<T>.get`
+7. `System.Collections.Generic.IReadOnlyList<T>.get`
+8. `System.Collections.ObjectModel.Collection<T>.get`
+9. `System.Collections.ObjectModel.ReadOnlyCollection<T>.get`
+10. `System.Collections.Concurrent.ConcurrentBag<T>.get`

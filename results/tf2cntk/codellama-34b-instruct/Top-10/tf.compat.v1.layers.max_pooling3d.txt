@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for max pooling in 3D data:
+
+1. `cntk.layers.MaxPooling3D`
+2. `cntk.layers.max_pooling3d`
+3. `cntk.layers.MaxPooling3DWithPadding`
+4. `cntk.layers.max_pooling3d_with_padding`
+5. `cntk.layers.MaxPooling3DWithStride`
+6. `cntk.layers.max_pooling3d_with_stride`
+7. `cntk.layers.MaxPooling3DWithKernelSize`
+8. `cntk.layers.max_pooling3d_with_kernel_size`
+9. `cntk.layers.MaxPooling3DWithStrideAndPadding`
+10. `cntk.layers.max_pooling3d_with_stride_and_padding`

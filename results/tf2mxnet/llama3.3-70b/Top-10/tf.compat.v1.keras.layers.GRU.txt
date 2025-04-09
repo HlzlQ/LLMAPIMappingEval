@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.compat.v1.keras.layers.GRU`:
+
+1. mxnet.ndarray.GRU
+2. mxnet.gluon.rnn.GRU
+3. mxnet.gluon.nn.GRU
+4. mxnet.gluon.contrib.rnn.GRU
+5. mxnet.ndarray.rnn.GRU
+6. mxnet.gluon.rnn.GRUCell
+7. mxnet.gluon.nn.GRUCell
+8. mxnet.gluon.contrib.rnn.GRUCell
+9. mxnet.ndarray.rnn.GRUCell
+10. mxnet.gluon.rnn.GRUHybrid

@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `tensorflow.compat.v1.nn.rnn_cell.LSTMCell`:
+
+1. `mxnet.gluon.rnn.LSTMCell`
+2. `mxnet.gluon.rnn.LSTM`
+3. `mxnet.gluon.rnn.RNNCell`
+4. `mxnet.gluon.rnn.RNN`
+5. `mxnet.ndarray.LSTMCell`
+6. `mxnet.ndarray.LSTM`
+7. `mxnet.ndarray.RNNCell`
+8. `mxnet.ndarray.RNN`
+9. `mxnet.symbol.LSTMCell`
+10. `mxnet.symbol.LSTM`

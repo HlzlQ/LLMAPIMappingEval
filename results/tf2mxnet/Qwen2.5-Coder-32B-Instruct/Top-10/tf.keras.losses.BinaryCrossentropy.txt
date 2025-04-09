@@ -1,0 +1,10 @@
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss  
+mxnet.metric.BinaryAccuracy  
+mxnet.metric.LogLoss  
+mxnet.ndarray.sigmoid_cross_entropy  
+mxnet.autograd.Function  
+mxnet.gluon.nn.Activation  
+mxnet.gluon.Block  
+mxnet.gluon.Trainer  
+mxnet.gluon.ParameterDict  
+mxnet.gluon.loss.L2Loss

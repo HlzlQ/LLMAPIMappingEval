@@ -1,0 +1,10 @@
+torch.eye  
+torch.diag_embed  
+torch.full  
+torch.ones  
+torch.zeros  
+torch.tensor  
+torch.as_tensor  
+torch.from_numpy  
+torch.rand  
+torch.randn

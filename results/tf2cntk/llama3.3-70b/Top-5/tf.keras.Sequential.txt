@@ -1,0 +1,5 @@
+1. cntk.layers.Sequential
+2. cntk.layers.Dense
+3. cntk.layers.Convolution2D
+4. cntk.layers.Recurrence
+5. cntk.layers.For

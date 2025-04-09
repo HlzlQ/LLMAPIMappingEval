@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. torch.nn.functional.softmax
+2. torch.split
+3. torch.cat
+4. torch.stack
+5. torch.unsqueeze
+6. torch.squeeze
+7. torch.transpose
+8. torch.reshape
+9. torch.permute
+10. torch.argmax

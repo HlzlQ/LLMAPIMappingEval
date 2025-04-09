@@ -1,0 +1,1 @@
+  cntk.initializer.he_uniform

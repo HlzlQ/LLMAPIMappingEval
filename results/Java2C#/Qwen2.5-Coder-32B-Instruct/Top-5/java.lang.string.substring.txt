@@ -1,0 +1,5 @@
+System.String.Substring  
+System.String.Remove  
+System.String.Insert  
+System.String.Replace  
+System.String.Split

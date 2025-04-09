@@ -1,0 +1,10 @@
+cntk.ops.softmax
+cntk.ops.log
+cntk.ops.element_times
+cntk.ops.reduce_log_sum_exp
+cntk.ops.exp
+cntk.ops.minus
+cntk.ops.reshape
+cntk.ops.combine
+cntk.ops.alias
+cntk.ops.sequence.last

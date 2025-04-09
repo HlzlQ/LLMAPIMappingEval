@@ -1,0 +1,2 @@
+
+Answer: torch.unique, tf.unique, tf.segment_mean, tf.segment_sum, tf.scatter_nd

@@ -1,0 +1,5 @@
+java.lang.Class.isInstance
+java.lang.Object.getClass
+java.lang.reflect.Type
+java.lang.Class.cast
+java.lang.Class.asSubclass

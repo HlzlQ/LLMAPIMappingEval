@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.ReLU`:
+
+1. torch.nn.ReLU
+2. torch.relu
+3. torch.nn.functional.relu
+4. torch.nn.LeakyReLU
+5. torch.nn.PReLU
+6. torch.nn.RReLU
+7. torch.nn.Hardtanh
+8. torch.nn.Softplus
+9. torch.nn.Tanh
+10. torch.sigmoid

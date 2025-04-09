@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.functional.pad
+2. torchvision.transforms.Pad
+3. numpy.pad
+4. PIL.Image.expand
+5. tensorflow.keras.layers.ZeroPadding2D

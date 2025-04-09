@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that could be used for max pooling in a 1D convolutional neural network:
+
+* `cntk.layers.MaxPool1D`
+* `cntk.layers.MaxPooling1D`
+* `cntk.layers.MaxPoolingWithPadding1D`
+* `cntk.layers.MaxPoolingWithPaddingAndStride1D`
+* `cntk.layers.MaxPoolingWithPaddingAndStrideAndDilation1D`

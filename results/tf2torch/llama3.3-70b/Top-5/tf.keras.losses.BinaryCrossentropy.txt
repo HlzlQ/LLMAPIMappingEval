@@ -1,0 +1,5 @@
+1. torch.nn.BCELoss
+2. torch.nn.BCEWithLogitsLoss
+3. torch.nn.MSELoss
+4. torch.nn.CrossEntropyLoss
+5. torch.nn.NLLLoss

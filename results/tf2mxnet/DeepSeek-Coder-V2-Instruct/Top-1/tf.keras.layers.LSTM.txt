@@ -1,0 +1,2 @@
+
+MXNet_API = "mxnet.gluon.rnn.LSTM"

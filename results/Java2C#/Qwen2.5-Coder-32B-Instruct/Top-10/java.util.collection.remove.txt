@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Remove  
+System.Collections.ArrayList.Remove  
+System.Collections.Generic.HashSet<T>.Remove  
+System.Collections.Generic.LinkedList<T>.Remove  
+System.Collections.Generic.Queue<T>.Dequeue  
+System.Collections.Generic.Stack<T>.Pop  
+System.Collections.Hashtable.Remove  
+System.Collections.Specialized.NameValueCollection.Remove  
+System.Collections.Specialized.StringCollection.Remove  
+System.Collections.Specialized.StringDictionary.Remove

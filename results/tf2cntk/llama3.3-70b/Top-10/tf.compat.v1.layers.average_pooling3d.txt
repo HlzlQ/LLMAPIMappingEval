@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.layers.average_pooling3d`:
+
+1. `CNTK.layers.AveragePooling`
+2. `CNTK.layers.Pooling`
+3. `CNTK.layers.ConvolutionalLayer`
+4. `CNTK.layers.SubsamplingLayer`
+5. `CNTK.layers.AvgPool`
+6. `CNTK.layers.PoolingLayer`
+7. `CNTK.layers.Downsample`
+8. `CNTK.layers.AveragePooling3D`
+9. `CNTK.layers.Pooling3D`
+10. `CNTK.layers.SubsamplingLayer3D`

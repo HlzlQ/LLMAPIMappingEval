@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.compat.v1.nn.conv3d_transpose`:
+
+1. mxnet.ndarray.Conv3DTranspose
+2. mxnet.gluon.nn.Conv3DTranspose
+3. mxnet.symbol.Conv3DTranspose
+4. mxnet.ndarray.Deconv3D
+5. mxnet.gluon.nn.Deconv3D
+6. mxnet.symbol.Deconv3D
+7. mxnet.ndarray.TransposeConv3D
+8. mxnet.gluon.nn.TransposeConv3D
+9. mxnet.symbol.TransposeConv3D
+10. mxnet.gluon.contrib.nn.Conv3DTranspose

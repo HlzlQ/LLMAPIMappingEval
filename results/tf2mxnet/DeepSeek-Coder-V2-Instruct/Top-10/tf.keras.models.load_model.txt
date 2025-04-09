@@ -1,0 +1,34 @@
+
+```python
+import mxnet as mx
+from mxnet import gluon
+from mxnet.gluon import nn
+from mxnet.contrib import text
+
+# Example usage for each API
+model = mx.gluon.nn.Sequential()
+model.add(mx.gluon.nn.Dense(10))
+model.initialize()
+
+dataset = mx.gluon.data.DataLoader(mx.gluon.data.ArrayDataset(data, label), batch_size=32)
+
+trainer = gluon.Trainer(model.collect_params(), 'sgd')
+
+for epoch in range(10):
+    for data, label in dataset:
+        with mx.autograd.record():
+            output = model(data)
+            loss = mx.gluon.loss.L2Loss()(output, label)
+            loss.backward()
+        trainer.step(batch_size=32)
+```
+Answer: 1. `mx.gluon.nn.Sequential`
+2. `model.add`
+3. `model.initialize`
+4. `mx.gluon.data.DataLoader`
+5. `gluon.Trainer`
+6. `mx.autograd.record`
+7. `loss.backward`
+8. `trainer.step`
+9. `mx.gluon.loss.L2Loss`
+10. `model(data)`

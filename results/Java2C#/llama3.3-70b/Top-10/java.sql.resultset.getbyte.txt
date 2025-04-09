@@ -1,0 +1,10 @@
+1. System.Data.SqlClient.SqlDataReader.GetByte
+2. System.Data.Common.DbDataReader.GetByte
+3. Microsoft.Data.SqlClient.SqlDataReader.GetByte
+4. System.Data.Odbc.OdbcDataReader.GetByte
+5. System.Data.OleDb.OleDbDataReader.GetByte
+6. Npgsql.NpgsqlDataReader.GetByte
+7. MySql.Data.MySqlClient.MySqlDataReader.GetByte
+8. Oracle.ManagedDataAccess.Client.OracleDataReader.GetByte
+9. System.Data.SQLite.SQLiteDataReader.GetByte
+10. FirebirdSql.Data.FirebirdClient.FbDataReader.GetByte

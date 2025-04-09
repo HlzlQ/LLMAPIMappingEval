@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.distributions.exponential.Exponential`
+2. `mxnet.ndarray.random_exponential`
+3. `mxnet.ndarray.exponential`
+4. `mxnet.ndarray.sample_exponential`
+5. `mxnet.ndarray.pdf`
+6. `mxnet.ndarray.log_prob`
+7. `mxnet.ndarray.cdf`
+8. `mxnet.ndarray.icdf`
+9. `mxnet.ndarray.mean`
+10. `mxnet.ndarray.var`

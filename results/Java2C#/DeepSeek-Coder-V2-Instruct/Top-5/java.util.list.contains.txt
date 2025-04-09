@@ -1,0 +1,5 @@
+1. System.Linq.Enumerable.Contains
+2. List<T>.Contains
+3. Array.Exists
+4. HashSet<T>.Contains
+5. Dictionary<TKey, TValue>.ContainsKey

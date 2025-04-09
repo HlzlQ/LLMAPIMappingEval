@@ -1,0 +1,10 @@
+mx.nd.eye
+mx.sym.eye
+mx.ndarray.eye
+mx.symbol.eye
+mxnet.ndarray.eye
+mxnet.symbol.eye
+mx.nd.sparse.eye
+mx.sym.sparse.eye
+mx.ndarray.sparse.eye
+mx.symbol.sparse.eye

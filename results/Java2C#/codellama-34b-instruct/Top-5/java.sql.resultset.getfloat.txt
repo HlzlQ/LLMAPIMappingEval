@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Data.SqlClient.SqlDataReader.GetFloat`
+2. `System.Data.OleDb.OleDbDataReader.GetFloat`
+3. `System.Data.Odbc.OdbcDataReader.GetFloat`
+4. `System.Data.Common.DbDataReader.GetFloat`
+5. `Microsoft.Data.SqlClient.SqlDataReader.GetFloat`

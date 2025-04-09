@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Text.StringBuilder.Remove(int startIndex, int length)`
+2. `System.Text.StringBuilder.Delete(int startIndex, int length)`
+3. `System.Text.StringBuilder.Replace(string oldValue, string newValue, int startIndex, int count)`
+4. `System.Text.StringBuilder.Remove(char value, int startIndex, int count)`
+5. `System.Text.StringBuilder.DeleteCharAt(int index)`

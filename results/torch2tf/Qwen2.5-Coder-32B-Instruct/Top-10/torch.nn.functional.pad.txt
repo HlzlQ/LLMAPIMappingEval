@@ -1,0 +1,10 @@
+tf.pad  
+tf.raw_ops.Pad  
+tf.keras.layers.ZeroPadding2D  
+tf.keras.layers.ZeroPadding3D  
+tf.nn.convolution  
+tf.nn.depthwise_conv2d  
+tf.nn.separable_conv2d  
+tf.nn.atrous_conv2d  
+tf.nn.pool  
+tf.nn.max_pool_with_argmax

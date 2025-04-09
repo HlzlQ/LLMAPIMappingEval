@@ -1,0 +1,5 @@
+1. System.IO.BinaryWriter.Write
+2. System.IO.Stream.Write
+3. System.IO.FileStream.Write
+4. System.Net.Sockets.NetworkStream.Write
+5. System.Security.Cryptography.CryptoStream.Write

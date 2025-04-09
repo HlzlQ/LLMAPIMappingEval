@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.Identity`:
+
+1. mx.gluon.nn.Identity
+2. mx.nd.Identity
+3. mx.gluon.nn.PassThrough
+4. mx.gluon.nn.NoOp
+5. mx.ndarray.Identity
+6. mx.symbol.Identity
+7. mx.gluon.nn.Null
+8. mx.gluon.nn.Empty
+9. mx.gluon.nn.Zero
+10. mx.gluon.nn.Pass

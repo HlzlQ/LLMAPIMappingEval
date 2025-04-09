@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.init.zeros_`:
+
+1. mxnet.ndarray.zeros
+2. mxnet.initializer.Zero
+3. mxnet.gluon.nn.Dense(in_units=0)
+4. mxnet.nd.zeros_like
+5. mxnet.gluon.Parameter(initializer='zeros')
+6. mxnet.ndarray.full(0)
+7. mxnet.initializer.Constant(value=0)
+8. mxnet.gluon.nn.Embedding(input_dim=0)
+9. mxnet.ndarray.zeros_shape
+10. mxnet.gluon.parameter.Parameter(shape=(0,), init=mxnet.init.Zero)

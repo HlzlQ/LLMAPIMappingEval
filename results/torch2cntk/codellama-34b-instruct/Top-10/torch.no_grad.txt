@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.no_grad`:
+
+1. `cntk.no_grad()`
+2. `cntk.disable_gradients()`
+3. `cntk.set_gradients(False)`
+4. `cntk.gradient_mode(False)`
+5. `cntk.trainable_parameters(False)`
+6. `cntk.freeze_parameters()`
+7. `cntk.disable_parameter_updates()`
+8. `cntk.set_parameter_update_rule(None)`
+9. `cntk.gradient_clipping(0)`
+10. `cntk.gradient_normalization(False)`

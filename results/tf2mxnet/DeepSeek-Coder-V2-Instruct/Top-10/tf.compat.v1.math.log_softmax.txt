@@ -1,0 +1,6 @@
+
+
+1. mxnet.ndarray.log_softmax
+2. mxnet.symbol.log_softmax
+3. mxnet.gluon.nn.LogSoftmax
+4. None (No direct equivalent in MXNet)

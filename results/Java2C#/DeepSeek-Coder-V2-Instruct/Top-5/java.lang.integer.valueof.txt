@@ -1,0 +1,5 @@
+1. Int32.Parse
+2. Convert.ToInt32
+3. int.TryParse
+4. Parse(string)
+5. ToInt32

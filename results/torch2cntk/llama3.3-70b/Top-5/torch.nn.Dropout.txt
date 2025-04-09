@@ -1,0 +1,5 @@
+1. cntk.dropout
+2. cntk.layers.Dropout
+3. cntk.ops.dropout
+4. cntk.layers.DropOut 
+5. cntk.dropout_layer

@@ -1,0 +1,11 @@
+
+```python
+import torch
+```
+
+The five most likely PyTorch APIs for mapping from TensorFlow's `AveragePooling3D` would be:
+1. `torch.nn.AvgPool3d`
+2. `torch.nn.functional.avg_pool3d`
+3. `torch.nn.AdaptiveAvgPool3d` (if there is a direct equivalent in PyTorch)
+4. `torch.nn.MaxPool3d` (if the functionality includes both average and max pooling, though this seems unlikely based on the question's context)
+5. `torch.nn.functional.max_pool3d` (ditto for functional form)

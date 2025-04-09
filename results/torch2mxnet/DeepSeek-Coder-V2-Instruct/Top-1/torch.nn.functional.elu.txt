@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("mxnet.ndarray.LeakyReLU")
+<jupyter_output>
+mxnet.ndarray.LeakyReLU

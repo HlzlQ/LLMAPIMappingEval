@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for Kaiming uniform initialization:
+
+1. `tf.keras.initializers.KaimingUniform()`
+2. `tf.keras.initializers.HeUniform()`
+3. `tf.keras.initializers.GlorotUniform()`
+4. `tf.keras.initializers.VarianceScaling(scale=1, mode='fan_in', distribution='uniform')`
+5. `tf.keras.initializers.TruncatedNormal(mean=0, stddev=1)`
+6. `tf.keras.initializers.RandomUniform(minval=-1, maxval=1)`
+7. `tf.keras.initializers.Orthogonal(gain=1)`
+8. `tf.keras.initializers.Identity()`
+9. `tf.keras.initializers.Constant(value=0)`
+10. `tf.keras.initializers.Zeros()`

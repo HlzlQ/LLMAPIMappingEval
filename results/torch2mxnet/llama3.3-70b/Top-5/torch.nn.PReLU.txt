@@ -1,0 +1,5 @@
+1. mx gluon.nn.PReLU
+2. mxnet.gluon.nn.LeakyReLU
+3. mxnet.ndarray.LRN
+4. mxnet.gluon.nn.ELU
+5. mxnet.gluon.nn.SELU

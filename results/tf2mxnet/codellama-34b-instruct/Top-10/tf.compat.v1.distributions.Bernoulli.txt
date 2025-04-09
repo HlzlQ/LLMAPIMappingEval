@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that are similar to the TensorFlow API for Bernoulli distribution:
+
+1. mxnet.distributions.Bernoulli
+2. mxnet.distributions.bernoulli_distribution
+3. mxnet.distributions.Binomial
+4. mxnet.distributions.binomial_distribution
+5. mxnet.distributions.Geometric
+6. mxnet.distributions.geometric_distribution
+7. mxnet.distributions.Hypergeometric
+8. mxnet.distributions.hypergeometric_distribution
+9. mxnet.distributions.NegativeBinomial
+10. mxnet.distributions.negative_binomial_distribution

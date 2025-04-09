@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.net.URLDecoder`:
+
+1. `System.Web.HttpUtility.UrlDecode`
+2. `System.Net.WebUtility.UrlDecode`
+3. `System.Uri.UnescapeDataString`
+4. `System.Text.Encoding.UTF8.GetString`
+5. `System.Convert.FromBase64String`
+6. `System.Security.Cryptography.FromBase64Transform.TransformFinalBlock`
+7. `System.Net.HttpWebRequest.UrlDecode`
+8. `System.Net.HttpListenerRequest.UrlDecode`
+9. `System.Net.FtpWebRequest.UrlDecode`
+10. `System.Net.FileWebRequest.UrlDecode`

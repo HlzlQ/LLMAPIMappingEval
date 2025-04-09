@@ -1,0 +1,5 @@
+cntk.ops.element_times
+cntk.ops.reciprocal
+cntk.ops.sigmoid
+cntk.ops.tanh
+cntk.ops.sign

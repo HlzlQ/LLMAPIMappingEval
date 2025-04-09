@@ -1,0 +1,1 @@
+JUnit 5: org.junit.jupiter.api.Assertions.assertSame

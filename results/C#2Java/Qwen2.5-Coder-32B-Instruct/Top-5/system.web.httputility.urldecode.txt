@@ -1,0 +1,5 @@
+java.net.URLDecoder.decode  
+javax.servlet.http.HttpServletRequest.decodeParameter  
+org.apache.commons.codec.net.URLCodec.decode  
+com.google.common.net.UrlEscapers.urlFragmentEscaper().decode  
+io.netty.handler.codec.http.QueryStringDecoder.decodeComponent

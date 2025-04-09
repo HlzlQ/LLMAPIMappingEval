@@ -1,0 +1,5 @@
+1. IndexOf
+2. LastIndexOf
+3. Contains
+4. StartsWith
+5. EndsWith

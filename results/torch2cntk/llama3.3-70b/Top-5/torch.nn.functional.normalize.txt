@@ -1,0 +1,5 @@
+1. cntk.layers.Normalize
+2. cntk.ops.linalg.normalize
+3. cntk.layers.BatchNormalization
+4. cntk.layers.LayerNormalization
+5. cntk.ops.divide_by_l2_norm

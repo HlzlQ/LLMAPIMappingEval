@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `tensorflow.compat.v1.math.log_softmax`:
+
+1. `cntk.ops.log_softmax`
+2. `cntk.ops.softmax` with the `log` argument set to `True`
+3. `cntk.ops.softmax_cross_entropy_with_logits`
+4. `cntk.ops.sparse_softmax_cross_entropy_with_logits`
+5. `cntk.ops.softmax_cross_entropy`
+6. `cntk.ops.sparse_softmax_cross_entropy`
+7. `cntk.ops.softmax_with_logits`
+8. `cntk.ops.sparse_softmax_with_logits`
+9. `cntk.ops.softmax_with_logits_and_cross_entropy`
+10. `cntk.ops.sparse_softmax_with_logits_and_cross_entropy`

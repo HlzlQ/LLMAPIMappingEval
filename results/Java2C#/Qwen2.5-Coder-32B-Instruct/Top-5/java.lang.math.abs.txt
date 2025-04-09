@@ -1,0 +1,5 @@
+System.Math.Abs  
+Math.Abs  
+System.Double.Abs  
+System.Single.Abs  
+System.Int32.Abs

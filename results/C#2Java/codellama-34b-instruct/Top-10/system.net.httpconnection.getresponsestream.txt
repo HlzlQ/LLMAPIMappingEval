@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.net.httpconnection.getresponsestream`:
+
+1. `java.net.HttpURLConnection.getInputStream()`
+2. `javax.net.ssl.HttpsURLConnection.getInputStream()`
+3. `org.apache.http.client.methods.CloseableHttpResponse.getEntity().getContent()`
+4. `org.apache.http.impl.client.CloseableHttpClient.execute(HttpGet).getEntity().getContent()`
+5. `com.squareup.okhttp.internal.http.HttpURLConnectionImpl.getInputStream()`
+6. `com.android.okhttp.internal.http.HttpURLConnectionImpl.getInputStream()`
+7. `org.springframework.http.client.support.HttpRequestWrapper.getBody()`
+8. `org.springframework.web.client.RestTemplate.getForObject(String, Class)`
+9. `org.springframework.web.client.RestTemplate.exchange(String, HttpMethod, HttpEntity, Class)`
+10. `com.google.api.client.http.HttpResponse.getContent()`

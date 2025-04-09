@@ -1,0 +1,5 @@
+  dropout: mxnet.ndarray.dropout
+  dropout_mask: mxnet.ndarray.dropout_mask
+  dropout_backward: mxnet.ndarray.dropout_backward
+  dropout_p: mxnet.ndarray.dropout_p
+  dropout_training: mxnet.ndarray.dropout_training

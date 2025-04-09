@@ -1,0 +1,7 @@
+1. List<T>.Add(T item)
+2. ArrayList<T>.Add(T item)
+3. LinkedList<T>.AddLast(T item)
+4. Queue<T>.Enqueue(T item)
+5. Stack<T>.Push(T item)
+
+These mappings are based on the functionality of adding an element to a collection in Java and C#. The List interface in Java has multiple implementations, such as ArrayList and LinkedList, which have different ways to add elements. Similarly, C# provides several collection types with similar functionalities: List<T>, ArrayList<T>, Queue<T>, and Stack<T>.

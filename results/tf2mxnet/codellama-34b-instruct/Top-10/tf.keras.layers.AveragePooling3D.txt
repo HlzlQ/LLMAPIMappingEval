@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.AveragePooling3D`:
+
+1. `mxnet.ndarray.pooling.avg_pool3d`
+2. `mxnet.ndarray.pooling.average_pooling3d`
+3. `mxnet.ndarray.pooling.mean_pool3d`
+4. `mxnet.ndarray.pooling.mean_pooling3d`
+5. `mxnet.ndarray.pooling.avg_pooling3d`
+6. `mxnet.ndarray.pooling.average_pool3d`
+7. `mxnet.ndarray.pooling.mean_pool3d`
+8. `mxnet.ndarray.pooling.mean_pooling3d`
+9. `mxnet.ndarray.pooling.avg_pool3d`
+10. `mxnet.ndarray.pooling.average_pooling3d`

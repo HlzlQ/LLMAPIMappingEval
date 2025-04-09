@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.LSTMCell | mxnet.rnn.LSTMCell |
+  | input_size | input_dim |
+  | hidden_size | num_hidden |
+  | num_layers | num_layers |
+  | bias | no_bias |
+  | batch_first | layout |
+  | dropout | dropout |
+  | bidirectional | bidirectional |
+  | return_sequences | return_sequences |
+  | return_state | return_state |

@@ -1,0 +1,10 @@
+1. tf.keras.layers.GRU
+2. tf.compat.v1.nn.rnn_cell.GRUCell
+3. tf.nn.rnn_cell.GRUCell
+4. tf.keras.layers.LSTM
+5. tf.keras.layers.SimpleRNN
+6. tf.keras.layers.Bidirectional
+7. tf.keras.layers.RNN
+8. tf.keras.layers.StackedRNNCells
+9. tf.nn.dynamic_rnn
+10. tf.nn.bidirectional_dynamic_rnn

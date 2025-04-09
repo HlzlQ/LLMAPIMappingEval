@@ -1,0 +1,17 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+```
+
+```python
+# Output:
+# 1. cntk.train.optimizers.RMSPropOptimizer
+# 2. cntk.train.adam_sgd.AdamSgdOptimizer
+# 3. cntk.train.momentum_sgd.MomentumSGDOptimizer
+# 4. cntk.train.adagrad.AdagradOptimizer
+# 5. cntk.train.nesterov.NesterovAcceleratedGradientDescent
+```

@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.meshgrid`:
+
+1. mxnet.nd.meshgrid
+2. mxnet.numpy.meshgrid
+3. mxnet.ndarray.meshgrid
+4. mxnet.gluon.utils.meshgrid
+5. mxnet.contrib.ndarray.meshgrid
+6. mxnet.ndarray.GridGenerator
+7. mxnet.gluon.nn.Meshgrid
+8. mxnet.ndarray.meshgrid_like
+9. mxnet.numpy.lib.stride_tricks.meshgrid
+10. mxnet.ndarray.mgrid

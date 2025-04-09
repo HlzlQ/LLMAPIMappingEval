@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for Convolutional Neural Networks (CNNs) with similar functionality to TensorFlow's `tensorflow.keras.layers.Conv1D`:
+
+1. `mxnet.gluon.nn.Conv1D`
+2. `mxnet.gluon.nn.Convolution1D`
+3. `mxnet.gluon.nn.Conv1DTranspose`
+4. `mxnet.gluon.nn.Convolution1DTranspose`
+5. `mxnet.gluon.nn.Conv1DWithBias`
+6. `mxnet.gluon.nn.Convolution1DWithBias`
+7. `mxnet.gluon.nn.Conv1DWithoutBias`
+8. `mxnet.gluon.nn.Convolution1DWithoutBias`
+9. `mxnet.gluon.nn.Conv1DWithBatchNorm`
+10. `mxnet.gluon.nn.Convolution1DWithBatchNorm`

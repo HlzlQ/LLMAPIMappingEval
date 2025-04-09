@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.split`:
+
+1. mxnet.ndarray.split
+2. mxnet.gluon.utils.split_data
+3. mxnet.ndarray.array_split
+4. mxnet.gluon.nn.Split
+5. mxnet.ndarray.split_axis
+6. mxnet.gluon.utils.split_dataset
+7. mxnet.ndarray.chunk
+8. mxnet.gluon.nn.SequenceSplit
+9. mxnet.ndarray.split_v2
+10. mxnet.gluon.utils.batchify

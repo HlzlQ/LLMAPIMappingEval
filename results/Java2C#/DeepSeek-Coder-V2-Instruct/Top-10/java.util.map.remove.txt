@@ -1,0 +1,10 @@
+1. Dictionary<TKey, TValue>.Remove
+2. ConcurrentDictionary<TKey, TValue>.TryRemove
+3. SortedDictionary<TKey, TValue>.Remove
+4. HashSet<T>.Remove
+5. LinkedList<T>.Remove
+6. Queue<T>.Dequeue
+7. Stack<T>.Pop
+8. ObservableCollection<T>.RemoveAt
+9. List<T>.RemoveAt
+10. Array.Clear

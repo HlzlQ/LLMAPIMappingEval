@@ -1,0 +1,2 @@
+
+MXNet equivalent: mxnet.ndarray.mean_squared_error

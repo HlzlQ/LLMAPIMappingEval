@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from the PyTorch `torch.autograd.grad` API to equivalent CNTK APIs:
+
+1. `torch.autograd.grad(outputs, inputs)` -> `cntk.gradients(outputs, inputs)`
+2. `torch.autograd.grad(outputs, inputs, retain_graph=True)` -> `cntk.gradients(outputs, inputs, retain_graph=True)`
+3. `torch.autograd.grad(outputs, inputs, create_graph=True)` -> `cntk.gradients(outputs, inputs, create_graph=True)`
+4. `torch.autograd.grad(outputs, inputs, grad_outputs=None)` -> `cntk.gradients(outputs, inputs, grad_outputs=None)`
+5. `torch.autograd.grad(outputs, inputs, grad_inputs=None)` -> `cntk.gradients(outputs, inputs, grad_inputs=None)`
+6. `torch.autograd.grad(outputs, inputs, retain_graph=True, create_graph=True)` -> `cntk.gradients(outputs, inputs, retain_graph=True, create_graph=True)`
+7. `torch.autograd.grad(outputs, inputs, grad_outputs=None, grad_inputs=None)` -> `cntk.gradients(outputs, inputs, grad_outputs=None, grad_inputs=None)`
+8. `torch.autograd.grad(outputs, inputs, retain_graph=True, create_graph=True, grad_outputs=None)` -> `cntk.gradients(outputs, inputs, retain_graph=True, create_graph=True, grad_outputs=None)`
+9. `torch.autograd.grad(outputs, inputs, retain_graph=True, create_graph=True, grad_inputs=None)` -> `cntk.gradients(outputs, inputs, retain_graph=True, create_graph=True, grad_inputs=None)`
+10. `torch.autograd.grad(outputs, inputs, retain_graph=True, create_graph=True, grad_outputs=None, grad_inputs=None)` -> `cntk.gradients(outputs, inputs, retain_graph=True, create_graph=True, grad_outputs=None, grad_inputs=None)`

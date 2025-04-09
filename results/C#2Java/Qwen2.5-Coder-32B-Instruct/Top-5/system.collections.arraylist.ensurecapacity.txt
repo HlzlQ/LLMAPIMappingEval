@@ -1,0 +1,5 @@
+java.util.ArrayList.ensureCapacity
+java.util.Vector.ensureCapacity
+java.util.LinkedList.ensureCapacity
+java.util.ArrayDeque.ensureCapacity
+java.util.PriorityQueue.ensureCapacity

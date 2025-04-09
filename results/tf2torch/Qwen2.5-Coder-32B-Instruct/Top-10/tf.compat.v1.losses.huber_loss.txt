@@ -1,0 +1,10 @@
+torch.nn.functional.smooth_l1_loss  
+torch.nn.SmoothL1Loss  
+torch.nn.MSELoss  
+torch.nn.L1Loss  
+torch.nn.HuberLoss  
+torch.nn.functional.huber_loss  
+torch.nn.functional.l1_loss  
+torch.nn.functional.mse_loss  
+torch.nn.functional.cosine_embedding_loss  
+torch.nn.functional.margin_ranking_loss

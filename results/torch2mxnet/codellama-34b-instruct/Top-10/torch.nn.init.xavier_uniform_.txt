@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for Xavier initialization:
+
+1. `mxnet.init.xavier_uniform`
+2. `mxnet.init.xavier_normal`
+3. `mxnet.init.xavier_uniform_`
+4. `mxnet.init.xavier_normal_`
+5. `mxnet.init.xavier_uniform_like`
+6. `mxnet.init.xavier_normal_like`
+7. `mxnet.init.xavier_uniform_like_`
+8. `mxnet.init.xavier_normal_like_`
+9. `mxnet.init.xavier_uniform_like_`
+10. `mxnet.init.xavier_normal_like_`

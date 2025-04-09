@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.Conv3DTranspose`:
+
+1. torch.nn.ConvTranspose3d
+2. torch.nn.modules.conv.ConvTranspose3d
+3. torch.nn.functional.conv_transpose3d
+4. torch.nn.Upsample
+5. torch.nn.functional.interpolate
+6. torch.nn.TransposeConv3d
+7. torch.nn.Deconv3d
+8. torch.nn.Conv3dTranspose
+9. torch.nn.functional.deconv3d
+10. torch.nn.modules.conv.TransposeConv3d

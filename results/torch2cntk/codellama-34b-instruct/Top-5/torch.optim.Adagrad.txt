@@ -1,0 +1,3 @@
+
+* `torch.optim.Adagrad` is a PyTorch implementation of the Adagrad optimization algorithm.
+* In CNTK, the equivalent API for Adagrad is `cntk.learners.adagrad`.

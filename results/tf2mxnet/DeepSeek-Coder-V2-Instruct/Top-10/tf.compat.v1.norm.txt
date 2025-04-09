@@ -1,0 +1,12 @@
+
+
+1. l2_normalize
+2. normalize
+3. batch_normalization
+4. layer_norm
+5. local_response_normalization
+6. cross_entropy
+7. softmax
+8. sigmoid
+9. relu
+10. dropout

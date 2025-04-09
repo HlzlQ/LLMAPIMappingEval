@@ -1,0 +1,5 @@
+torch.distributions.Bernoulli
+torch.nn.functional.binary_cross_entropy
+torch.nn.BCELoss
+torch.nn.BCEWithLogitsLoss
+torch.sigmoid

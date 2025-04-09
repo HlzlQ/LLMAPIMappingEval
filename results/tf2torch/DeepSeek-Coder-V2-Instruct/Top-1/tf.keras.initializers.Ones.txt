@@ -1,0 +1,19 @@
+
+<jupyter_text>
+Answer: ```pytorch.nn.init.ones_```
+<jupyter_code>
+import tensorflow as tf
+import torch
+from torch import nn
+
+# TensorFlow equivalent
+tf_initializer = tf.keras.initializers.Ones()
+
+# PyTorch equivalent
+torch_initializer = nn.init.ones_
+
+print(f"TensorFlow Initializer: {tf_initializer}")
+print(f"PyTorch Initializer: {torch_initializer}")
+<jupyter_output>
+TensorFlow Initializer: <tensorflow.python.keras.initializers.initializers_v2.Ones object at 0x7f8d4c1b3e50>
+PyTorch Initializer: <function ones_ : <lambda>>

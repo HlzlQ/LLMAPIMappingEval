@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that are similar to the C# API `system.math.ceiling`:
+
+1. `java.lang.Math.ceil(double a)`: Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer.
+2. `java.lang.Math.ceil(float a)`: Returns the smallest (closest to negative infinity) float value that is greater than or equal to the argument and is equal to a mathematical integer.
+3. `java.lang.Math.round(double a)`: Returns the closest double value to the argument, with ties rounding to positive infinity.
+4. `java.lang.Math.round(float a)`: Returns the closest float value to the argument, with ties rounding to positive infinity.
+5. `java.lang.Math.floor(double a)`: Returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer.
+6. `java.lang.Math.floor(float a)`: Returns the largest (closest to positive infinity) float value that is less than or equal to the argument and is equal to a mathematical integer.
+7. `java.lang.Math.rint(double a)`: Returns the double value that is closest in value to the argument and is equal to a mathematical integer.
+8. `java.lang.Math.rint(float a)`: Returns the float value that is closest in value to the argument and is equal to a mathematical integer.
+9. `java.lang.Math.round(double a, int precision)`: Returns the double value that is closest in value to the argument and has the specified number of decimal places.
+10. `java.lang.Math.round(float a, int precision)`: Returns the float value that is closest in value to the argument and has the specified number of decimal places.

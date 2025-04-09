@@ -1,0 +1,10 @@
+System.Globalization.NumberFormatInfo.NumberDecimalSeparator
+System.Globalization.CultureInfo.NumberFormat.NumberDecimalSeparator
+System.Globalization.RegionInfo.NumberFormat.NumberDecimalSeparator
+System.IFormatProvider.GetFormat(System.Type).NumberDecimalSeparator
+System.Globalization.NumberFormatInfo.CurrencyDecimalSeparator
+System.Globalization.NumberFormatInfo.PercentDecimalSeparator
+System.Globalization.NumberFormatInfo.PerMilleDecimalSeparator
+System.Globalization.NumberFormatInfo.NegativeSign
+System.Globalization.NumberFormatInfo.PositiveSign
+System.Globalization.NumberStyles.AllowDecimalPoint

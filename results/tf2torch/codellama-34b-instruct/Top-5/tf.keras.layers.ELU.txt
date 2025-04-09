@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to TensorFlow's `ELU` layer:
+
+1. `nn.ELU()`
+2. `nn.LeakyReLU()`
+3. `nn.PReLU()`
+4. `nn.RReLU()`
+5. `nn.SELU()`

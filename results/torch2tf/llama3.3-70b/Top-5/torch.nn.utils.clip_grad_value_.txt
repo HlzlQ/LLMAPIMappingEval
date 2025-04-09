@@ -1,0 +1,5 @@
+1. tf.clip_by_value
+2. tf.clip_by_norm
+3. tf.clip_by_global_norm
+4. tf.keras.optimizers.Adam.clip_value
+5. tf.keras.optimizers.Optimizer.clip_gradients

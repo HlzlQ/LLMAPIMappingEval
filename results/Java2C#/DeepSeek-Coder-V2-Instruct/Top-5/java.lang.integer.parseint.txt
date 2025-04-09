@@ -1,0 +1,5 @@
+1. System.Int32.Parse(System.String)
+2. System.Convert.ToInt32(System.String)
+3. System.Int32.TryParse(System.String, out int)
+4. System.Int32.FromString(System.String) (assuming a custom method or extension method exists in C# equivalent to Java's Integer.parseInt)
+5. System.Int32.ParseExact(System.String, System.Globalization.NumberStyles)

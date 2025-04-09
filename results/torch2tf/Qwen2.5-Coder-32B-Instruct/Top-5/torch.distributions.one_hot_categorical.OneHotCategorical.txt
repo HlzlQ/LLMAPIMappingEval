@@ -1,0 +1,5 @@
+tfp.distributions.Categorical
+tf.nn.softmax
+tf.one_hot
+tf.random.categorical
+tf.math.log_softmax

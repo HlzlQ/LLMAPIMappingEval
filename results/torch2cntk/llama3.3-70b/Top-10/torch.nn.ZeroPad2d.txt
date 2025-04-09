@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functionality to `torch.nn.ZeroPad2d`:
+
+1. `CNTK.layers.Convolution`
+2. `CNTK.layers.Padding`
+3. `CNTK.layers.ZeroPadding`
+4. `CNTK.ops.pad`
+5. `CNTK.layers.ConvolutionTranspose`
+6. `CNTK.layers.Deconvolution`
+7. `CNTK.layers.TransposeConvolution`
+8. `CNTK.layers.UpsamplingLayer`
+9. `CNTK.layers.SpatialTransformer`
+10. `CNTK.layers.SubsamplingLayer`

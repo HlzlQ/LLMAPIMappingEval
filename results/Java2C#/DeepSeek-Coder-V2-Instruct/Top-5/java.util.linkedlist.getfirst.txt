@@ -1,0 +1,5 @@
+1. FirstOrDefault()
+2. ElementAt(0)
+3. Peek()
+4. First()
+5. GetFirst()

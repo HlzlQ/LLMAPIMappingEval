@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# CrossEntropyLoss in MXNet equivalent is SoftmaxCrossEntropyLoss
+print("SoftmaxCrossEntropyLoss")
+<jupyter_output>
+SoftmaxCrossEntropyLoss

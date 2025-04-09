@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely C# APIs for Java's `Character.toUpperCase()`:
+
+1. `Char.ToUpper()`
+2. `Char.ToUpperInvariant()`
+3. `String.ToUpper()`
+4. `String.ToUpperInvariant()`
+5. `TextInfo.ToUpper()`

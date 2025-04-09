@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.util.Vector.set`:
+
+1. `System.Collections.Generic.List<T>.this[int index]`
+2. `System.Collections.ArrayList.Set(int index, object value)`
+3. `System.Collections.Specialized.NameObjectCollectionBase.Set(int index, object value)`
+4. `System.Collections.Specialized.StringCollection.Set(int index, string value)`
+5. `System.Collections.Generic.IList<T>.this[int index]`
+6. `System.Collections.Generic.IReadOnlyList<T>.this[int index]`
+7. `System.Collections.ObjectModel.Collection<T>.SetItem(int index, T item)`
+8. `System.Collections.ObjectModel.ObservableCollection<T>.SetItem(int index, T item)`
+9. `System.Collections.ObjectModel.ReadOnlyCollection<T>.this[int index]`
+10. `System.Collections.ObjectModel.ReadOnlyObservableCollection<T>.this[int index]`

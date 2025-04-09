@@ -1,0 +1,5 @@
+tf.keras.layers.Flatten  
+tf.reshape  
+tf.squeeze  
+tf.layers.flatten  
+tf.contrib.layers.flatten

@@ -1,0 +1,7 @@
+1. System.Numerics.Vector.Add(System.Numerics.Vector<T>, System.Numerics.Vector<T>)
+2. System.Numerics.Vector<T>.Add(System.Numerics.Vector<T>)
+3. System.Numerics.Vector<T>.op_Addition(System.Numerics.Vector<T>, System.Numerics.Vector<T>)
+4. System.Numerics.Vector<T>.ElementwiseAdd(System.Numerics.Vector<T>)
+5. System.Numerics.Vector<T>.this[int]
+
+These APIs are designed to perform element-wise addition on vectors in a manner similar to the Java API `java.util.vector.addelement`.

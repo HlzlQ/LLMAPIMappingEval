@@ -1,0 +1,2 @@
+
+The PyTorch API `torch.nn.init.kaiming_normal` initializes a tensor with the Kaiming normal initialization method. The equivalent TensorFlow API for this is `tf.keras.initializers.he_normal`.

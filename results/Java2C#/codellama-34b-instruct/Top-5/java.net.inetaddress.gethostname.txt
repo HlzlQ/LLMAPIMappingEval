@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Net.Dns.GetHostName()
+2. System.Net.NetworkInformation.IPGlobalProperties.GetHostName()
+3. System.Net.NetworkInformation.IPGlobalProperties.GetIPAddresses()
+4. System.Net.NetworkInformation.IPGlobalProperties.GetUnicastAddresses()
+5. System.Net.Dns.GetHostEntry(string hostNameOrAddress)

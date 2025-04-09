@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.BCELoss
+2. torch.nn.BCEWithLogitsLoss
+3. torch.nn.functional.binary_cross_entropy
+4. torch.nn.functional.binary_cross_entropy_with_logits
+5. tensorflow.keras.losses.BinaryCrossentropy

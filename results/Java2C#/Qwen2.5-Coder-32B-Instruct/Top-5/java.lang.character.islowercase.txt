@@ -1,0 +1,5 @@
+System.Char.IsLower  
+System.Text.RegularExpressions.Regex.IsMatch  
+Microsoft.VisualBasic.Strings.LCase  
+System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToLower  
+System.Linq.Enumerable.Any

@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `torch.nn.functional.fractional_max_pool2d`:
+
+1. `CNTK.MaxPooling`
+2. `CNTK.FractionalMaxPooling`
+3. `CNTK.Pooling`
+4. `CNTK.MaxUnpooling`
+5. `CNTK.FractionalMaxUnpooling`
+6. `CNTK.Subsampling`
+7. `CNTK.MaxSubsampling`
+8. `CNTK.FractionalSubsampling`
+9. `CNTK.SpatialMaxPooling`
+10. `CNTK.SpatialFractionalMaxPooling`

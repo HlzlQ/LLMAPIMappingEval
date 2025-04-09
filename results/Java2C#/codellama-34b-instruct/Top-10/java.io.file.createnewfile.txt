@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.File.Create()
+2. System.IO.FileStream.Create()
+3. System.IO.FileInfo.Create()
+4. System.IO.FileSystem.CreateFile()
+5. System.IO.FileSystem.CreateNewFile()
+6. System.IO.FileSystem.CreateTextFile()
+7. System.IO.FileSystem.CreateBinaryFile()
+8. System.IO.FileSystem.CreateFileEx()
+9. System.IO.FileSystem.CreateFileTransacted()
+10. System.IO.FileSystem.CreateFileTransactedEx()

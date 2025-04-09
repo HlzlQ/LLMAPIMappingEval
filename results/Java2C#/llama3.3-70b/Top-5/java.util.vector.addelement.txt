@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.Add
+2. System.Collections.ArrayList.Add
+3. System.Collections.ObjectModel.Collection<T>.Add
+4. System.Collections.Specialized.StringCollection.Add
+5. System.Collections.Generic.SortedSet<T>.Add

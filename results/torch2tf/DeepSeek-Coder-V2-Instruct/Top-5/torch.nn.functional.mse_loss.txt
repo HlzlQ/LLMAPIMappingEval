@@ -1,0 +1,6 @@
+
+Answer: 1. tf.keras.losses.MeanSquaredError
+2. tf.reduce_mean(tf.square(y_true - y_pred))
+3. tf.keras.losses.MeanAbsoluteError
+4. tf.keras.losses.Huber
+5. tf.keras.losses.CategoricalCrossentropy

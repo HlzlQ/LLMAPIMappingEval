@@ -1,0 +1,10 @@
+1. java.util.regex.Matcher.replaceAll
+2. java.lang.String.replace
+3. java.lang.String.replaceFirst
+4. java.util.regex.Pattern.matcher
+5. java.util.regex.Pattern.compile
+6. java.util.regex.Pattern.matches
+7. java.util.regex.Pattern.split
+8. java.util.regex.Matcher.find
+9. java.util.regex.Matcher.start
+10. java.util.regex.Matcher.end

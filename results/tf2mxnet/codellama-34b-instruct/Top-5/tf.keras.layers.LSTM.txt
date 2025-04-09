@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the given TensorFlow API:
+
+1. mxnet.gluon.rnn.LSTM
+2. mxnet.ndarray.lstm
+3. mxnet.symbol.lstm
+4. mxnet.initializers.lstm
+5. mxnet.optimizers.lstm

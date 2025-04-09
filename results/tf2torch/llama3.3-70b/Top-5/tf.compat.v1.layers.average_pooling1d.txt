@@ -1,0 +1,7 @@
+Here are the 5 PyTorch API names:
+
+1. torch.nn.AvgPool1d
+2. torch.nn.functional.avg_pool1d
+3. torch.nn.AdaptiveAvgPool1d
+4. torch.nn.functional.adaptive_avg_pool1d
+5. torch.tensor.mean

@@ -1,0 +1,8 @@
+C# does not have a direct equivalent to the Java API "java.util.collections.binarysearch". However, there are several APIs in C# that provide similar functionality for searching and sorting collections. Here are some of them:
+
+1. System.Collections.Generic.List<T>.BinarySearch(T item) - This method searches for an element in a sorted list and returns the index of the found element or a negative value if the element is not found.
+2. System.Linq.Enumerable.BinarySearch(IEnumerable<T> source, T value) - This extension method searches for an element in a sequence and returns the index of the found element or a negative value if the element is not found.
+3. System.Collections.Generic.SortedList<TKey, TValue>.IndexOfKey(TKey key) - This method searches for an element in a sorted list by its key and returns the index of the found element or a negative value if the element is not found.
+4. System.Collections.Generic.SortedSet<T>.BinarySearch(T item) - This method searches for an element in a sorted set and returns the index of the found element or a negative value if the element is not found.
+
+It's worth noting that C# also has other APIs for searching and sorting collections, such as Array.BinarySearch(), List<T>.FindIndex(), and SortedList<TKey, TValue>.FindIndex().

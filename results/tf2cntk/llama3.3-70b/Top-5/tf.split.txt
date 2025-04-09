@@ -1,0 +1,5 @@
+1. cntk.slice
+2. cntk.splice
+3. cntk.reshape
+4. cntk.split
+5. cntk.sequence.slice

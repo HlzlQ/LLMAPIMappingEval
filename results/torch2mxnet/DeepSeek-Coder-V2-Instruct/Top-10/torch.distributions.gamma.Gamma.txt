@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.distributions.gamma.Gamma` -> `mxnet.gluon.loss.Loss`
+2. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.random_gamma`
+3. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.gamma`
+4. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.mean`
+5. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.var`
+6. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.std`
+7. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.shape`
+8. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.dtype`
+9. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.size`
+10. `torch.distributions.gamma.Gamma` -> `mxnet.ndarray.sum`

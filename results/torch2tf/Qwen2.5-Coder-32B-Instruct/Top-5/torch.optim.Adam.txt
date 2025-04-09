@@ -1,0 +1,5 @@
+tf.keras.optimizers.Adam  
+tf.train.AdamOptimizer  
+tf.compat.v1.train.AdamOptimizer  
+tf.optimizers.Adam  
+tf.keras.optimizers.get('adam')

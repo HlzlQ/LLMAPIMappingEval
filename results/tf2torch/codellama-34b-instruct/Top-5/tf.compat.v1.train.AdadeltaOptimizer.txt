@@ -1,0 +1,6 @@
+
+* `torch.optim.Adadelta`
+* `torch.optim.AdadeltaOptimizer`
+* `torch.optim.AdadeltaLRScheduler`
+* `torch.optim.AdadeltaMomentum`
+* `torch.optim.AdadeltaNesterov`

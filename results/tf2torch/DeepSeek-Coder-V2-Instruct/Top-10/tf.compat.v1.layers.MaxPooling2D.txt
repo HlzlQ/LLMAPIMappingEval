@@ -1,0 +1,11 @@
+
+1. nn.MaxPool2d
+2. F.max_pool2d
+3. tf.keras.layers.MaxPooling2D
+4. torch.nn.functional.max_pool2d
+5. keras.layers.MaxPooling2D
+6. tensorflow.compat.v1.layers.MaxPooling2D
+7. tf.layers.MaxPooling2D
+8. torchvision.ops.MaxPool2d
+9. tf.keras.layers.MaxPooling2D
+10. keras.layers.MaxPooling2D

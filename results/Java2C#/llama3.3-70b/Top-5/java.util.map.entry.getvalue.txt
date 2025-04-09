@@ -1,0 +1,5 @@
+1. System.Collections.Generic.KeyValuePair<TKey, TValue>.Value
+2. System.Collections.DictionaryEntry.Value
+3. System.Linq.IGrouping<TKey, TElement>.Key
+4. System.Collections.IDictionaryEnumerator.Entry
+5. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue

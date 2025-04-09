@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.io.ports.serialstream.write`:
+
+1. java.io.OutputStream.write
+2. java.io.PrintWriter.println
+3. java.io.FileWriter.write
+4. java.io.BufferedOutputStream.write
+5. javax.comm.SerialPort.getOutputStream().write
+6. gnu.io.SerialPort.getOutputStream().write
+7. java.io.DataOutputStream.writeBytes
+8. java.io.FilterOutputStream.write
+9. java.nio.channels.FileChannel.write
+10. java.io.PrintStream.print

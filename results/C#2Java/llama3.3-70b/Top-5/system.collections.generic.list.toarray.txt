@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `System.Collections.Generic.List.ToArray` in C#:
+
+1. java.util.ArrayList.toArray
+2. java.util.Collection.toArray
+3. java.util.List.toArray
+4. java.util.Vector.toArray
+5. java.util.Arrays.asList().toArray

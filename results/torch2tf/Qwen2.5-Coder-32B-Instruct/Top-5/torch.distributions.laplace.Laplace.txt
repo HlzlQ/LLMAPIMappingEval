@@ -1,0 +1,5 @@
+tfp.distributions.Laplace  
+tf.random.laplace  
+tf.math.exp  
+tf.math.log  
+tf.reduce_mean

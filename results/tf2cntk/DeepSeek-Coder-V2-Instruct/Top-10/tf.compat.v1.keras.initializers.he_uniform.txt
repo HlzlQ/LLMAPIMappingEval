@@ -1,0 +1,2 @@
+
+Answer: glorot_uniform, he_normal, lecun_normal, lecun_uniform, random_normal, random_uniform, truncated_normal, variance_scaling, orthogonal, identity

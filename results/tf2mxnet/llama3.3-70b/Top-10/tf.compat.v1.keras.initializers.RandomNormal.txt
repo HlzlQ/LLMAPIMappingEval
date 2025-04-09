@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.compat.v1.keras.initializers.RandomNormal`:
+
+1. mxnet.ndarray.random.normal
+2. mxnet.init.Normal
+3. mxnet.gluon.nn.Dense(weight_initializer=mxnet.init.Normal)
+4. mxnet.gluon.nn.Conv2D(weight_initializer=mxnet.init.Normal)
+5. mxnet.gluon.rnn.LSTM(weight_initializer=mxnet.init.Normal)
+6. mxnet.ndarray.random.uniform
+7. mxnet.init.XavierNormal
+8. mxnet.gluon.nn.Embedding(weight_initializer=mxnet.init.Normal)
+9. mxnet.gluon.nn.Conv1D(weight_initializer=mxnet.init.Normal)
+10. mxnet.init.MXNetRandomNormal

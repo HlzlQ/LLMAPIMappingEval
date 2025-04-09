@@ -1,0 +1,10 @@
+1. System.Char.IsDigit
+2. System.String.IsNullOrWhiteSpace
+3. System.Int32.TryParse
+4. System.Double.TryParse
+5. System.Single.TryParse
+6. System.Decimal.TryParse
+7. System.Boolean.TryParse
+8. System.DateTime.TryParse
+9. System.Guid.TryParse
+10. System.TimeSpan.TryParse

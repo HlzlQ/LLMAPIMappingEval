@@ -1,0 +1,5 @@
+1. Dequeue
+2. Take
+3. Poll
+4. Remove
+5. Deque

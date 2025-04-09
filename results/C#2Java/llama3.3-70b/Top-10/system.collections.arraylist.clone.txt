@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.arraylist.clone` in C#:
+
+1. java.util.ArrayList.clone()
+2. java.util.List.copyOf()
+3. java.util.Collections.unmodifiableList()
+4. java.util.Arrays.asList().clone()
+5. java.util.Vector.clone()
+6. java.util.LinkedList.clone()
+7. org.apache.commons.collections4.ListUtils.clone()
+8. com.google.common.collect.ImmutableList.copyOf()
+9. java.util.concurrent.CopyOnWriteArrayList.clone()
+10. org.eclipse.collections.api.list.MutableList.clone()

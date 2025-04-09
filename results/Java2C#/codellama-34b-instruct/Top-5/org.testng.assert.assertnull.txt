@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the Java API `org.testng.assert.AssertNull`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull`
+2. `NUnit.Framework.Assert.Null`
+3. `xunit.Assert.Null`
+4. `FluentAssertions.AssertionExtensions.ShouldBeNull`
+5. `NSubstitute.ReceivedExtensions.ReceivedNull`

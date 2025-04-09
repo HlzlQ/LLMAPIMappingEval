@@ -1,0 +1,10 @@
+java.nio.file.Files.readAllBytes
+java.io.BufferedReader.readLine
+java.io.FileInputStream.read
+java.nio.file.Files.newInputStream
+java.io.FileReader.read
+java.nio.file.Files.read
+java.io.RandomAccessFile.read
+java.nio.MappedByteBuffer.get
+java.nio.channels.FileChannel.read
+java.io.BufferedInputStream.read

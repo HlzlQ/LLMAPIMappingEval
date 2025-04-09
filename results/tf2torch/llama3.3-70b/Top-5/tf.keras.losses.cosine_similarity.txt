@@ -1,0 +1,5 @@
+1. torch.nn.CosineSimilarity
+2. torch.nn.functional.cosine_similarity
+3. torch.cosine_embedding_loss
+4. torch.nn.MSELoss
+5. torch.nn.functional.pairwise_distance

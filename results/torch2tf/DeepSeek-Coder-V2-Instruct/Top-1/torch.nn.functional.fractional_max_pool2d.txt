@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.nn.fractional_max_pool
+<jupyter_output>
+<empty_output>

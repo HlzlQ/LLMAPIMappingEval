@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that correspond to the PyTorch API `torch.distributions.exponential.Exponential`:
+
+1. `mxnet.ndarray.random.exponential`
+2. `mxnet.ndarray.random.exponential_like`
+3. `mxnet.ndarray.random.exponential_with_loc`
+4. `mxnet.ndarray.random.exponential_with_scale`
+5. `mxnet.ndarray.random.exponential_with_loc_and_scale`
+6. `mxnet.ndarray.random.exponential_with_shape`
+7. `mxnet.ndarray.random.exponential_with_shape_like`
+8. `mxnet.ndarray.random.exponential_with_loc_and_scale_like`
+9. `mxnet.ndarray.random.exponential_with_shape_and_scale`
+10. `mxnet.ndarray.random.exponential_with_shape_and_loc`

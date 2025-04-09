@@ -1,0 +1,10 @@
+java.lang.System.getenv  
+java.lang.System.getProperty  
+java.util.Properties.getProperty  
+java.util.Map.get  
+java.nio.file.Files.readAttributes  
+java.nio.file.attribute.BasicFileAttributes.environmentVariables  
+java.io.File.listRoots  
+java.net.URLClassLoader.getResourceAsStream  
+java.security.AccessController.doPrivileged  
+java.lang.Runtime.exec

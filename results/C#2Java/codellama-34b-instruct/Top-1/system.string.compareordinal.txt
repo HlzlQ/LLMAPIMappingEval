@@ -1,0 +1,11 @@
+Java does not have an exact equivalent of the `System.String.CompareOrdinal` method from C#. However, you can use the `compareTo` method in Java's `String` class to achieve similar functionality.
+
+Here is an example:
+```
+String str1 = "Hello";
+String str2 = "World";
+int result = str1.compareTo(str2);
+```
+The `compareTo` method returns an integer value that indicates the relationship between the two strings. A negative value means that the first string is less than the second string, a positive value means that the first string is greater than the second string, and a zero value means that the strings are equal.
+
+Note that the `compareTo` method in Java's `String` class is case-sensitive, so "Hello" and "hello" would be considered different strings. If you want to perform a case-insensitive comparison, you can use the `equalsIgnoreCase` method instead.

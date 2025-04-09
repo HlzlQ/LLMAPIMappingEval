@@ -1,0 +1,5 @@
+java.io.BufferedReader.readLine  
+java.io.InputStreamReader.readLine  
+java.util.Scanner.nextLine  
+java.nio.file.Files.readAllLines  
+java.lang.String.split

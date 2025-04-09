@@ -1,0 +1,5 @@
+1. ArrayList.ensureCapacity(int minCapacity)
+2. Vector.ensureCapacity(int minCapacity)
+3. Collections.ensureCapacity(List list, int capacity)
+4. Arrays.asList().ensureCapacity(int newSize)
+5. Array.setLength(int newLength)

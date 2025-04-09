@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.tanh`:
+
+1. CNTK.tanh
+2. CNTK.Activation.tanh
+3. CNTK.ops.tanh
+4. CNTK.Functions.tanh
+5. CNTK.Core.tanh
+6. CNTK.Network.tanh
+7. CNTK.Layers.tanh
+8. CNTK.Blocks.tanh
+9. CNTK.Activations.Tanh
+10. CNTK.Math.tanh

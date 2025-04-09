@@ -1,0 +1,10 @@
+torch.distributions.categorical.Categorical
+torch.multinomial
+torch.nn.functional.softmax
+torch.argmax
+torch.log_softmax
+torch.nn.CrossEntropyLoss
+torch.nn.functional.cross_entropy
+torch.distributions.utils.probs_to_logits
+torch.distributions.utils.logits_to_probs
+torch.nn.Softmax

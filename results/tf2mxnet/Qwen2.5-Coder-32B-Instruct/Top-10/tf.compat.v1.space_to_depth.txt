@@ -1,0 +1,10 @@
+mxnet.ndarray.reshape
+mxnet.ndarray.transpose
+mxnet.ndarray.tile
+mxnet.ndarray.repeat
+mxnet.ndarray.expand_dims
+mxnet.ndarray.squeeze
+mxnet.ndarray.split
+mxnet.ndarray.concat
+mxnet.ndarray.stack
+mxnet.ndarray.unstack

@@ -1,0 +1,10 @@
+System.Collections.Generic.List`1[T].set_Item
+System.Collections.ArrayList.set_Item
+System.Collections.Specialized.StringCollection.set_Item
+System.Collections.ObjectModel.Collection`1[T].set_Item
+System.Windows.Forms.BindingSource.set_Item
+System.Data.DataTable.set_Item
+System.Web.UI.WebControls.ListViewDataItem.set_Item
+System.Web.UI.WebControls.RepeaterItem.set_Item
+System.Web.UI.WebControls.GridViewRow.set_Item
+System.Web.UI.WebControls.DetailsViewRow.set_Item

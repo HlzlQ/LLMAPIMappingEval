@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.metrics.CosineSimilarity`:
+
+1. torch.nn.CosineSimilarity
+2. torch.cosine_similarity
+3. torch.nn.functional.cosine_similarity
+4. torchmetrics.CosineSimilarity
+5. pytorch_cos_sim
+6. CosineEmbeddingLoss
+7. torch.nn.CosineEmbeddingLoss
+8. torchmetrics.functional.cosine_similarity
+9. torch.nn.functional.cosine_embedding_loss
+10. F.cosine_similarity

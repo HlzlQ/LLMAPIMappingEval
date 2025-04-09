@@ -1,0 +1,5 @@
+System.WeakReference.Target
+System.Runtime.InteropServices.GCHandle.Target
+System.Reflection.FieldInfo.GetValue
+System.Reflection.PropertyInfo.GetValue
+System.Delegate.DynamicInvoke

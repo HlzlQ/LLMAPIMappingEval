@@ -1,0 +1,5 @@
+1. System.Text.StringBuilder.ToString()
+2. System.StringWriter.GetStringBuilder()
+3. System.IO.StringWriter.GetBuffer()
+4. System.IO.StringReader.ReadToEnd()
+5. System.IO.StringReader.ReadLine()

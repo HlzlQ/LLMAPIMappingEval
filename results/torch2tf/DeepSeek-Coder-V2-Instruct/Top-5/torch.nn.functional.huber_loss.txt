@@ -1,0 +1,6 @@
+
+Answer: 1. tf.keras.losses.Huber
+2. tf.keras.losses.huber_loss
+3. tf.losses.huber_loss
+4. tf.keras.losses.mean_squared_error
+5. tf.keras.losses.MSE

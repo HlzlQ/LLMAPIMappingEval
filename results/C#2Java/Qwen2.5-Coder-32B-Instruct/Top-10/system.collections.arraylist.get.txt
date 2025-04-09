@@ -1,0 +1,10 @@
+java.util.ArrayList.get
+java.util.List.get
+java.util.AbstractList.get
+java.util.Vector.get
+java.util.Stack.get
+java.util.LinkedList.get
+java.util.AbstractSequentialList.get
+java.util.ArrayList$SubList.get
+java.util.Collections.singletonList.get
+java.util.Arrays.asList.get

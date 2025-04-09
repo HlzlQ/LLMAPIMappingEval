@@ -1,0 +1,4 @@
+  LeakyReLU:
+
+* PyTorch: torch.nn.LeakyReLU
+* CNTK: cntk.layers.LeakyReLU

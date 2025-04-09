@@ -1,0 +1,10 @@
+torch.nn.functional.cosine_similarity  
+torch.nn.CosineEmbeddingLoss  
+torch.nn.functional.pairwise_distance  
+torch.nn.PairwiseDistance  
+torch.nn.functional.normalize  
+torch.nn.utils.rnn.pad_sequence  
+torch.nn.functional.linear  
+torch.nn.Linear  
+torch.nn.functional.relu  
+torch.nn.ReLU

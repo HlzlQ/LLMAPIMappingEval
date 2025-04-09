@@ -1,0 +1,1 @@
+CNTK gluon.contrib.init.kaiming_uniform_

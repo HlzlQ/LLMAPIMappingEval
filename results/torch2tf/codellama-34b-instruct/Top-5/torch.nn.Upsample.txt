@@ -1,0 +1,5 @@
+  tf.keras.layers.UpSampling2D
+  tf.keras.layers.UpSampling3D
+  tf.keras.layers.UpSampling1D
+  tf.keras.layers.UpSampling2DV2
+  tf.keras.layers.UpSampling3DV2

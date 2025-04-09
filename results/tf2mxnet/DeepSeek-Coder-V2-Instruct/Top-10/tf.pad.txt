@@ -1,0 +1,12 @@
+
+
+1. tf.pad
+2. mxnet.ndarray.pad
+3. tf.image.resize_images
+4. mxnet.ndarray.reshape
+5. tf.layers.conv2d
+6. mxnet.symbol.FullyConnected
+7. tf.train.GradientDescentOptimizer
+8. mxnet.optimizer.SGD
+9. tf.nn.relu
+10. mxnet.ndarray.Activation

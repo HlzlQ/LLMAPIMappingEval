@@ -1,0 +1,26 @@
+
+MXNet does not have an exact equivalent of `tf.norm` from TensorFlow. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.norm`: This API calculates the norm of a tensor along a specified axis. It takes two arguments: the first is the tensor to be normalized, and the second is the axis along which the norm is calculated. The return value is a tensor with the same shape as the input tensor, but with the values normalized along the specified axis.
+* `mxnet.ndarray.linalg.norm`: This API calculates the matrix or vector norm of a tensor. It takes two arguments: the first is the tensor to be normalized, and the second is the type of norm to calculate (either "fro" for Frobenius norm or "nuc" for nuclear norm). The return value is a scalar representing the norm of the input tensor.
+
+For example, if you want to calculate the L2 norm of a tensor along the first axis, you can use `mxnet.ndarray.norm` like this:
+```
+import mxnet as mx
+
+# Create a random tensor with shape (3, 4)
+data = mx.nd.random.normal(0, 1, shape=(3, 4))
+
+# Calculate the L2 norm along the first axis
+norm_data = mx.nd.norm(data, axis=0)
+```
+Alternatively, you can use `mxnet.ndarray.linalg.norm` to calculate the matrix or vector norm of a tensor:
+```
+import mxnet as mx
+
+# Create a random tensor with shape (3, 4)
+data = mx.nd.random.normal(0, 1, shape=(3, 4))
+
+# Calculate the Frobenius norm of the tensor
+fro_norm = mx.nd.linalg.norm(data, ord="fro")
+```

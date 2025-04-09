@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.CosineSimilarity`:
+
+1. `cntk.cosine_similarity`
+2. `cntk.nn.cosine_similarity`
+3. `cntk.nn.CosineSimilarity`
+4. `cntk.nn.cosine_distance`
+5. `cntk.nn.CosineDistance`
+6. `cntk.nn.pairwise_cosine_similarity`
+7. `cntk.nn.PairwiseCosineSimilarity`
+8. `cntk.nn.pairwise_cosine_distance`
+9. `cntk.nn.PairwiseCosineDistance`
+10. `cntk.nn.cosine_similarity_loss`

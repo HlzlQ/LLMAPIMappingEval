@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.linalg.diag_part_initializer
+<jupyter_output>
+<empty_output>

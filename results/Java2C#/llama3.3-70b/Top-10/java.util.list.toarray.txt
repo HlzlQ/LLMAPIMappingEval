@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.ToArray
+2. System.Linq.Enumerable.ToArray
+3. System.Collections.ArrayList.ToArray
+4. System.Collections.ObjectModel.Collection<T>.ToArray
+5. System.Data.DataTable.Rows.ToArray
+6. System.Data.DataRowCollection.ToArray
+7. System.ComponentModel.BindingList<T>.ToArray
+8. System.Windows.Forms.DataGridViewSelectedRowCollection.ToArray
+9. System.Windows.Controls.ItemCollection.ToArray
+10. System.Collections.Specialized.StringCollection.ToArray

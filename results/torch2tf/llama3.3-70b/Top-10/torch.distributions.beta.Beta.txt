@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent TensorFlow APIs for `torch.distributions.beta.Beta`:
+
+1. tfp.distributions.Beta
+2. tf.distributions.Beta
+3. tfp.distributions.TransformedDistribution
+4. tfp.distributions.JointDistributionNamed
+5. tfp.distributions.Distribution
+6. tfp.distributions.BatchReshape
+7. tfp.distributions.Independent
+8. tfp.distributions.MixtureSameFamily
+9. tfp.distributions.SigmoidBetaTransform
+10. tfp.distributions.TransformFiLM

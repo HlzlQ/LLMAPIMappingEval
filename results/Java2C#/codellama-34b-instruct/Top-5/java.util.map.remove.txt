@@ -1,0 +1,5 @@
+System.Collections.Generic.IDictionary<TKey, TValue>.Remove(TKey key)
+System.Collections.Generic.IDictionary<TKey, TValue>.TryGetValue(TKey key, out TValue value)
+System.Collections.Generic.IDictionary<TKey, TValue>.ContainsKey(TKey key)
+System.Collections.Generic.IDictionary<TKey, TValue>.Keys
+System.Collections.Generic.IDictionary<TKey, TValue>.Values

@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.activations.hard_sigmoid`:
+
+1. `mxnet.ndarray.Activation.hard_sigmoid`
+2. `mxnet.gluon.nn.Activation.hard_sigmoid`
+3. `mxnet.symbol.Activation.hard_sigmoid`
+4. `mxnet.ndarray.activations.hard_sigmoid`
+5. `mxnet.gluon.nn.activations.hard_sigmoid`
+6. `mxnet.symbol.activations.hard_sigmoid`
+7. `mxnet.ndarray.Activation.hard_sigmoid_elementwise`
+8. `mxnet.gluon.nn.Activation.hard_sigmoid_elementwise`
+9. `mxnet.symbol.Activation.hard_sigmoid_elementwise`
+10. `mxnet.ndarray.activations.hard_sigmoid_elementwise`

@@ -1,0 +1,8 @@
+C# does not have a direct equivalent to the `java.util.Arrays.sort()` method. However, you can use the `System.Linq` namespace to sort arrays in C#. Here's an example:
+```csharp
+using System.Linq;
+
+int[] numbers = { 3, 1, 2, 5, 4 };
+numbers = numbers.OrderBy(x => x).ToArray();
+```
+This will sort the `numbers` array in ascending order and store it back into the same variable.

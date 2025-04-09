@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.distributions.gamma.Gamma`:
+
+1. `tf.random.gamma`
+2. `tf.distributions.Gamma`
+3. `tf.distributions.gamma_distribution`
+4. `tf.distributions.gamma_distribution_with_parameters`
+5. `tf.distributions.gamma_distribution_with_shape`
+6. `tf.distributions.gamma_distribution_with_rate`
+7. `tf.distributions.gamma_distribution_with_scale`
+8. `tf.distributions.gamma_distribution_with_shape_and_rate`
+9. `tf.distributions.gamma_distribution_with_shape_and_scale`
+10. `tf.distributions.gamma_distribution_with_rate_and_scale`

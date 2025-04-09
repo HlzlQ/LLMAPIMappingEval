@@ -1,0 +1,10 @@
+System.Collections.Generic.Dictionary.Add  
+System.Collections.Generic.IDictionary.Add  
+System.Collections.Hashtable.Add  
+System.Collections.Specialized.NameValueCollection.Add  
+System.Web.HttpRuntime.Cache.Insert  
+System.Web.Caching.Cache.Add  
+System.Data.Common.DbConnectionStringBuilder.Add  
+System.Configuration.AppSettingsSection.Settings.Add  
+System.Resources.ResourceManager.ApplyResources  
+System.Windows.Forms.ControlBindingsCollection.Add

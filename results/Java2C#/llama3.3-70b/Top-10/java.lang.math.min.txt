@@ -1,0 +1,10 @@
+1. System.Math.Min
+2. Math.Min
+3. System.Math.Max
+4. System.Math.Abs
+5. System.Math.Ceiling
+6. System.Math.Floor
+7. System.Math.Round
+8. System.Math.Truncate
+9. System.Math.Sign
+10. System.Math.Clamp

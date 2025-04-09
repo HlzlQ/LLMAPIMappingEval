@@ -1,0 +1,5 @@
+1. tf.keras.layers.Embedding
+2. tf.nn.embedding_lookup
+3. tf.raw_ops.EmbeddingLookup
+4. tf.keras.layers.StringLookup
+5. tf.lookup.StaticHashTable

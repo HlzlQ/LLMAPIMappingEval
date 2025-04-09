@@ -1,0 +1,5 @@
+1. char.IsWhiteSpace
+2. string.IsNullOrWhiteSpace
+3. Regex.IsMatch(string input, @"^\s+$")
+4. System.Text.RegularExpressions.Regex.IsMatch(string input, @"\s")
+5. System.String.IsNullOrWhitespace

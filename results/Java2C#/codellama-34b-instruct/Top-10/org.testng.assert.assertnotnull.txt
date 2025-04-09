@@ -1,0 +1,7 @@
+
+* NUnit.Framework.Assert.NotNull
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+* Xunit.Assert.NotNull
+* FluentAssertions.AssertionExtensions.NotBeNull
+* NSubstitute.Received.NotNull
+* Moq.Mock.VerifySet

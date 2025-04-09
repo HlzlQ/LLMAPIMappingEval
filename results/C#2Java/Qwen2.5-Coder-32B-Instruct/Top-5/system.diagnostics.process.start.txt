@@ -1,0 +1,5 @@
+java.lang.Runtime.exec  
+java.lang.ProcessBuilder.start  
+java.awt.Desktop.getDesktop.open  
+java.awt.Desktop.getDesktop.browse  
+javax.swing.SwingUtilities.invokeLater

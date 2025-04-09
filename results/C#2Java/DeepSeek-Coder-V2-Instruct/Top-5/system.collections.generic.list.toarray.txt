@@ -1,0 +1,5 @@
+1. java.util.List.toArray()
+2. java.util.List.toArray(T[] a)
+3. java.util.Arrays.asList(T... a)
+4. java.util.Arrays.copyOf(T[] original, int newLength)
+5. java.util.Arrays.copyOfRange(T[] original, int from, int to)

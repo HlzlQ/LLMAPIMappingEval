@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.Dropout`:
+
+1. `cntk.dropout`
+2. `cntk.layers.Dropout`
+3. `cntk.ops.dropout`
+4. `cntk.training.dropout`
+5. `cntk.layers.RegularizationDropout`
+6. **`cntk.dropout**_layer`
+7. `cntk.blocks.Dropout`
+8. `cntk.layers.DropoutLayer`
+9. `cntk.regularizers.DropoutRegularizer`
+10. `cntk.layers.DropoutWithNoise`

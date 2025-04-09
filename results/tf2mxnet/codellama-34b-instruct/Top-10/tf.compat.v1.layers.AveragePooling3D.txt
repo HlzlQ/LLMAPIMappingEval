@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for Average Pooling 3D:
+
+1. `mxnet.ndarray.Pooling`
+2. `mxnet.ndarray.pooling_3d`
+3. `mxnet.ndarray.avg_pooling_3d`
+4. `mxnet.ndarray.AveragePooling3D`
+5. `mxnet.ndarray.MaxPooling3D`
+6. `mxnet.ndarray.max_pooling_3d`
+7. `mxnet.ndarray.avg_pooling_3d_with_padding`
+8. `mxnet.ndarray.AveragePooling3DWithPadding`
+9. `mxnet.ndarray.MaxPooling3DWithPadding`
+10. `mxnet.ndarray.max_pooling_3d_with_padding`

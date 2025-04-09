@@ -1,0 +1,10 @@
+System.Object.IsInstanceOfType  
+System.Type.IsAssignableFrom  
+System.Runtime.InteropServices.Marshal.IsComObject  
+System.Reflection.Assembly.IsDefined  
+System.Security.Cryptography.CryptoConfig.MapNameToOID  
+System.Text.Encoding.IsSingleByte  
+System.Web.UI.WebControls.ListItemCollection.IsReadOnly  
+System.Windows.Forms.Control.IsHandleCreated  
+System.Xml.Serialization.XmlSerializer.IsPrimitive  
+System.Data.Common.DbProviderFactories.IsFactoryAvailable

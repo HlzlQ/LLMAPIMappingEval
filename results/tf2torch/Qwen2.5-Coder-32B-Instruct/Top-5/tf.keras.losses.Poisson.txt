@@ -1,0 +1,5 @@
+torch.nn.PoissonNLLLoss  
+torch.nn.functional.poisson_nll_loss  
+torch.distributions.Poisson  
+torch.nn.BCEWithLogitsLoss  
+torch.nn.CrossEntropyLoss

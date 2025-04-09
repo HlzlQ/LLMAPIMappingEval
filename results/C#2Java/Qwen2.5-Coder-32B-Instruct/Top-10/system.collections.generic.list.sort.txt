@@ -1,0 +1,10 @@
+java.util.Collections.sort
+java.util.List.sort
+java.util.Arrays.sort
+java.util.Comparator.comparing
+java.util.Comparator.naturalOrder
+java.util.Comparator.reverseOrder
+java.util.stream.Collectors.toList
+java.util.stream.Stream.sorted
+java.lang.reflect.Array.sort
+java.util.PriorityQueue.poll

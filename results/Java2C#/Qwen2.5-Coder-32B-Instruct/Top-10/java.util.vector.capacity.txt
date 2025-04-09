@@ -1,0 +1,10 @@
+System.Collections.ArrayList.Capacity  
+System.Collections.Generic.List`1.Capacity  
+System.Collections.Concurrent.ConcurrentBag`1.Count  
+System.Collections.Concurrent.ConcurrentQueue`1.Count  
+System.Collections.Concurrent.ConcurrentStack`1.Count  
+System.Collections.ObjectModel.Collection`1.Count  
+System.Collections.Specialized.StringCollection.Count  
+System.Collections.Hashtable.Count  
+System.Data.DataTable.Rows.Count  
+System.Windows.Forms.BindingSource.Count

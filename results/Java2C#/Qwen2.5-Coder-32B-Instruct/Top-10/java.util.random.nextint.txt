@@ -1,0 +1,10 @@
+System.Random.Next
+System.Security.Cryptography.RandomNumberGenerator.GetInt32
+System.Random.NextBytes
+System.Random.NextDouble
+System.Random.NextInt64
+System.Security.Cryptography.RandomNumberGenerator.GetBytes
+System.Security.Cryptography.RandomNumberGenerator.GetNonZeroBytes
+System.Security.Cryptography.RandomNumberGenerator.GetUInt32
+System.Security.Cryptography.RandomNumberGenerator.GetUInt64
+System.Security.Cryptography.RandomNumberGenerator.GetInt64

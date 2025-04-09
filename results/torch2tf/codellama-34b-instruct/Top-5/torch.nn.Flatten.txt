@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used as alternatives to `torch.nn.Flatten`:
+
+1. `tf.keras.layers.Flatten`
+2. `tf.keras.layers.Reshape`
+3. `tf.keras.layers.Permute`
+4. `tf.keras.layers.Lambda`
+5. `tf.keras.layers.Dense`

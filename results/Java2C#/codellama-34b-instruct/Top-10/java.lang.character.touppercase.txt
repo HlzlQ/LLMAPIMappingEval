@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Char.ToUpper()
+2. System.String.ToUpper()
+3. System.Text.RegularExpressions.Regex.Replace(string input, string pattern, string replacement)
+4. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(string str)
+5. System.Globalization.CultureInfo.InvariantCulture.TextInfo.ToUpper(string str)
+6. System.StringComparer.OrdinalIgnoreCase.Equals(string x, string y)
+7. System.StringComparer.CurrentCultureIgnoreCase.Equals(string x, string y)
+8. System.StringComparer.InvariantCultureIgnoreCase.Equals(string x, string y)
+9. System.Text.RegularExpressions.RegexOptions.IgnoreCase
+10. System.Globalization.CompareInfo.IndexOf(string source, string value, CompareOptions options)

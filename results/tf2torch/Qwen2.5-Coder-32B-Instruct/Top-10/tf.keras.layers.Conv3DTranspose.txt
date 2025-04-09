@@ -1,0 +1,10 @@
+torch.nn.ConvTranspose3d  
+torch.nn.functional.conv_transpose3d  
+torch.nn.Upsample  
+torch.nn.functional.interpolate  
+torch.nn.PixelShuffle  
+torch.nn.functional.pixel_shuffle  
+torch.nn.MaxUnpool3d  
+torch.nn.functional.max_unpool3d  
+torch.nn.AvgPool3d  
+torch.nn.functional.avg_pool3d

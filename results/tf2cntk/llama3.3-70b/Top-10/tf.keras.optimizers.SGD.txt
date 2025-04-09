@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.optimizers.SGD`:
+
+1. CNTK.sgd
+2. CNTK.momentum_sgd
+3. CNTK.adagrad
+4. CNTK.adam
+5. CNTK.rmsprop
+6. CNTK.nesterov
+7. CNTK.momentum_as_time_constant_sgd
+8. CNTK.learning_rate_schedule
+9. CNTK.learner
+10. CNTK.stochastic_gradient_descent

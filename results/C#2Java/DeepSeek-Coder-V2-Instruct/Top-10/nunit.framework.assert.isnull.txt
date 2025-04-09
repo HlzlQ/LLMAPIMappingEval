@@ -1,0 +1,10 @@
+1. org.junit.jupiter.api.Assertions.assertNull
+2. org.junit.Assert.assertNull
+3. ch.qos.logback.core.util.Assert
+4. com.microsoft.sqlserver.jdbc.SQLServerException.isNullException
+5. org.testng.Assert.assertNull
+6. junit.framework.Assert.assertNull
+7. org.apache.commons.lang3.Validate.notNull
+8. org.springframework.util.Assert.isNull
+9. com.google.common.base.Preconditions.checkNotNull
+10. net.sf.json.JSONObject.isNull

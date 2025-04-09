@@ -1,0 +1,7 @@
+  torch.meshgrid is a PyTorch API for creating a mesh grid from two or more tensors. The equivalent API in MXNet is:
+
+* mxnet.ndarray.meshgrid
+* mxnet.ndarray.broadcast_to
+* mxnet.ndarray.expand_dims
+* mxnet.ndarray.tile
+* mxnet.ndarray.repeat

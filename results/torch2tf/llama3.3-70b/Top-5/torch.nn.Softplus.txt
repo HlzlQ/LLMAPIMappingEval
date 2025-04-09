@@ -1,0 +1,5 @@
+1. tf.nn.softplus
+2. tf.keras.activations.softplus
+3. tf.math.softplus
+4. tf.keras.layers.Softplus
+5. tf.compat.v1.nn.softplus

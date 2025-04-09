@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for average pooling:
+
+1. `mxnet.ndarray.Pooling`
+2. `mxnet.ndarray.pooling_1d`
+3. `mxnet.ndarray.pooling_2d`
+4. `mxnet.ndarray.pooling_3d`
+5. `mxnet.ndarray.pooling_nd`

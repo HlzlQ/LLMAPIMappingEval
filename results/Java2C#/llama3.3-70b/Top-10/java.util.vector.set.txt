@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Set
+2. System.Collections.ArrayList.Set
+3. System.Collections.ObjectModel.Collection<T>.Set
+4. System.Linq.Enumerable.Set
+5. System.Data.DataSet
+6. System.Collections.Specialized.StringCollection.Set
+7. System.Windows.Forms.ListBox.ObjectCollection.Set
+8. System.Web.UI.WebControls.ListItemCollection.Set
+9. System.ComponentModel.BindingList<T>.Set
+10. System.Collections.Generic.SortedSet<T>

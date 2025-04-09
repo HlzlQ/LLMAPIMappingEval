@@ -1,0 +1,9 @@
+
+```python
+import torch
+```
+
+The most likely PyTorch API for `tensorflow.keras.activations.softplus` is:
+```python
+torch.nn.functional.softplus
+```

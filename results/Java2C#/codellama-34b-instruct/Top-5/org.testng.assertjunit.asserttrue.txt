@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the Java API `org.testng.assertjunit.asserttrue`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue`
+2. `NUnit.Framework.Assert.That`
+3. `xunit.assert.True`
+4. `FluentAssertions.AssertionExtensions.ShouldBeTrue`
+5. `NSubstitute.ReceivedExtensions.Received`

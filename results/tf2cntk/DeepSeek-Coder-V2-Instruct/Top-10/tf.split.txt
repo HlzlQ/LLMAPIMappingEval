@@ -1,0 +1,17 @@
+
+<jupyter_code>
+# Your answer here (provide the names of the 10 APIs)
+cntk_split_apis = [
+    "Split",
+    "Slice",
+    "StridedSlice",
+    "Scatter",
+    "Gather",
+    "SequenceAt",
+    "BatchNormalization",
+    "Reshape",
+    "Transpose",
+    "Flatten"
+]
+<jupyter_output>
+<empty_output>

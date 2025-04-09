@@ -1,0 +1,10 @@
+torch.nn.init.zeros_
+torch.zeros
+torch.full
+torch.empty
+torch.rand
+torch.randn
+torch.ones
+torch.eye
+torch.linspace
+torch.logspace

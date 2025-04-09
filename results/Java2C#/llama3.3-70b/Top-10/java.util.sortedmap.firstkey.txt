@@ -1,0 +1,10 @@
+1. System.Collections.Generic.SortedDictionary<TKey, TValue>.Keys.GetEnumerator().Current
+2. System.Linq.Enumerable.First<TSource>(IEnumerable<TSource>, Func<TSource, Boolean>)
+3. System.Collections.Generic.SortedSet<T>.Min
+4. System.Collections.Generic.SortedList<TKey, TValue>.Keys[0]
+5. System.Linq.Enumerable.Min<TSource>(IEnumerable<TSource>)
+6. System.Collections.Generic.Dictionary<TKey, TValue>.Keys.OrderBy(k => k).First()
+7. System.Collections.Generic.SortedDictionary<TKey, TValue>.ElementAt(0).Key
+8. System.Linq.Enumerable.First<TSource>(IEnumerable<TSource>)
+9. System.Collections.Generic.SortedList<TKey, TValue>.GetKey(0)
+10. System.Collections.Generic.Dictionary<TKey, TValue>.OrderBy(k => k).Select(p => p.Key).First()

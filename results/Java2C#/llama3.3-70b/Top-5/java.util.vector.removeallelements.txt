@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.RemoveAll
+2. System.Linq.Enumerable.Remove
+3. System.Collections.Generic.Dictionary<TKey,TValue>.Clear
+4. System.Collections.ObjectModel.Collection<T>.Clear
+5. System.Collections.Generic.HashSet<T>.Clear

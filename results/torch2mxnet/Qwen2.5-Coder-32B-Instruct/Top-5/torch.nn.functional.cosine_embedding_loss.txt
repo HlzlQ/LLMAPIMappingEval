@@ -1,0 +1,5 @@
+mxnet.gluon.loss.CosineEmbeddingLoss  
+mxnet.ndarray.linalg.norm  
+mxnet.ndarray.dot  
+mxnet.ndarray.maximum  
+mxnet.ndarray.mean

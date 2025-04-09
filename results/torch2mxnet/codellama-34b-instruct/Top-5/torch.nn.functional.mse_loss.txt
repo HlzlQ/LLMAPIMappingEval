@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.functional.mse_loss | mxnet.ndarray.mean_squared_error |
+  | torch.nn.functional.cross_entropy | mxnet.ndarray.softmax_cross_entropy |
+  | torch.nn.functional.nll_loss | mxnet.ndarray.negative_log_likelihood |
+  | torch.nn.functional.poisson_nll_loss | mxnet.ndarray.poisson_nll_loss |
+  | torch.nn.functional.kl_div_loss | mxnet.ndarray.kl_divergence |

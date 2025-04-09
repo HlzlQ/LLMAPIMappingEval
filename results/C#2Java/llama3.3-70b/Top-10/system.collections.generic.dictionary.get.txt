@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.generic.dictionary.get` in C#:
+
+1. java.util.HashMap.get
+2. java.util.Hashtable.get
+3. java.util.TreeMap.get
+4. java.util.concurrent.ConcurrentHashMap.get
+5. java.util.LinkedHashMap.get
+6. java.util.IdentityHashMap.get
+7. java.util.EnumMap.get
+8. java.util.WeakHashMap.get
+9. java.util.AbstractMap.get
+10. java.util.concurrent.ConcurrentSkipListMap.get

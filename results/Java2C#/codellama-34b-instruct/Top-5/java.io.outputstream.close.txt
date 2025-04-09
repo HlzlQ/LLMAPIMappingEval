@@ -1,0 +1,5 @@
+System.IO.StreamWriter.Close()
+System.IO.StreamReader.Close()
+System.IO.FileStream.Close()
+System.IO.BinaryWriter.Close()
+System.IO.BinaryReader.Close()

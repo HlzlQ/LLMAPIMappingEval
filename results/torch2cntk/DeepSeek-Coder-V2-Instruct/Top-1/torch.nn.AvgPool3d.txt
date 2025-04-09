@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("AveragePooling3D")
+<jupyter_output>
+AveragePooling3D

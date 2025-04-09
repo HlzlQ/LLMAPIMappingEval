@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for depth-to-space conversion:
+
+1. `torch.nn.functional.depth_to_space`
+2. `torch.nn.modules.depth_to_space`
+3. `torch.nn.layers.depth_to_space`
+4. `torch.nn.utils.depth_to_space`
+5. `torch.nn.functional.upsample_bilinear`

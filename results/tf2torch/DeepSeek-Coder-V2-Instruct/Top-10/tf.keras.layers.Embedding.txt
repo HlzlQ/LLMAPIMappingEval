@@ -1,0 +1,4 @@
+
+Answer: 1. torch.nn.Embedding
+2. torch.nn.functional.embedding
+3. tf.keras.layers.Embedding

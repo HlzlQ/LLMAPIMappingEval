@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.IO.Path.GetFullPath` method:
+
+1. `java.nio.file.Paths.get()`
+2. `java.io.File.getCanonicalPath()`
+3. `java.io.File.toURI()`
+4. `java.io.File.toURL()`
+5. `java.net.URLDecoder.decode()`
+6. `java.nio.file.Files.readAttributes()`
+7. `java.nio.file.Paths.get()`
+8. `java.nio.file.Paths.resolve()`
+9. `java.io.File.createTempFile()`
+10. `java.io.File.createNewFile()`

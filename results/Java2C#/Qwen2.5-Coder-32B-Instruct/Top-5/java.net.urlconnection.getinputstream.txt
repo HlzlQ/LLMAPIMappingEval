@@ -1,0 +1,5 @@
+System.Net.HttpWebRequest.GetResponseStream  
+System.Net.WebClient.OpenRead  
+System.Net.Http.HttpClient.GetStreamAsync  
+System.Net.Http.HttpClient.GetAsync  
+System.Net.FtpWebRequest.GetResponseStream

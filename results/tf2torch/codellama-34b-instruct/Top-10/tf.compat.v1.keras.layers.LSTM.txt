@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.keras.layers.LSTM`:
+
+1. `torch.nn.LSTM`
+2. `torch.nn.RNN`
+3. `torch.nn.GRU`
+4. `torch.nn.LSTMCell`
+5. `torch.nn.RNNCell`
+6. `torch.nn.GRUCell`
+7. `torch.nn.LSTMLayer`
+8. `torch.nn.RNNLayer`
+9. `torch.nn.GRULayer`
+10. `torch.nn.Sequential`

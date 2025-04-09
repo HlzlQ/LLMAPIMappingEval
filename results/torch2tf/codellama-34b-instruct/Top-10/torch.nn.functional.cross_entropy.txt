@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for cross-entropy loss calculation:
+
+1. `tf.nn.sparse_softmax_cross_entropy_with_logits`
+2. `tf.nn.softmax_cross_entropy_with_logits`
+3. `tf.nn.sigmoid_cross_entropy_with_logits`
+4. `tf.nn.softmax_cross_entropy`
+5. `tf.nn.sparse_softmax_cross_entropy`
+6. `tf.nn.sigmoid_cross_entropy`
+7. `tf.nn.softmax_cross_entropy_with_logits_v2`
+8. `tf.nn.sparse_softmax_cross_entropy_with_logits_v2`
+9. `tf.nn.sigmoid_cross_entropy_with_logits_v2`
+10. `tf.nn.softmax_cross_entropy_with_logits_v3`

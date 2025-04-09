@@ -1,0 +1,10 @@
+java.util.ArrayList.clear
+java.util.LinkedList.clear
+java.util.Vector.clear
+java.util.Stack.clear
+java.util.PriorityQueue.clear
+java.util.concurrent.CopyOnWriteArrayList.clear
+java.util.concurrent.ConcurrentLinkedDeque.clear
+java.util.ArrayDeque.clear
+java.util.concurrent.LinkedBlockingQueue.clear
+java.util.concurrent.LinkedBlockingDeque.clear

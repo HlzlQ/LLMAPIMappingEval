@@ -1,0 +1,5 @@
+1. tf.compat.v1.layers.batch_normalization
+2. tf.nn.batch_normalization
+3. tf.keras.layers.BatchNormalization
+4. tf.raw_ops.BatchNormWithGlobalNormalization
+5. tf.layers.BatchNormalization

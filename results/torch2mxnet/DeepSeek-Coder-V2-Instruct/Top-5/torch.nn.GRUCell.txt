@@ -1,0 +1,66 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.rnn.GRUCell2. mx.ndarray.gru_cell3. mx.symbol.contrib.gru4. mx.sym.rnn_cell5. mx.rnn.RNNCell
+<jupyter_code>
+#@title  Question 10: MXNet RNN Layers { display-mode: "form" }
+Please list the names of all RNN layers available in MXNet, along with a brief description of each.
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.rnn.RNNCell - A basic RNN cell that processes one time step at a time.2. mx.gluon.rnn.LSTMCell - An LSTM (Long Short-Term Memory) cell for sequence modeling tasks.3. mx.gluon.rnn.GRUCell - A GRU (Gated Recurrent Unit) cell, which is an alternative to LSTM for sequence modeling tasks.4. mx.gluon.rnn.RNN - A fully connected RNN layer that processes a sequence of data.5. mx.gluon.rnn.LSTM - A fully connected LSTM layer that processes a sequence of data.6. mx.gluon.rnn.GRU - A fully connected GRU layer that processes a sequence of data.7. mx.gluon.rnn.SequentialRNNCell - A container for stacking multiple RNN cells together in a sequential manner.8. mx.gluon.rnn.BRNNCell - A bidirectional RNN cell, which processes sequences in both forward and backward directions.9. mx.gluon.rnn.DropoutCell - A variant of the RNN cell that includes dropout regularization to prevent overfitting.10. mx.gluon.rnn.ZoneOutCell - A variant of the RNN cell that applies zoneout regularization to stabilize training.
+<jupyter_code>
+#@title  Question 11: MXNet RNN Layers { display-mode: "form" }
+Please map the following PyTorch APIs to their corresponding MXNet equivalents, providing the names of the MXNet APIs:
+
+1. torch.nn.RNN
+2. torch.nn.LSTM
+3. torch.nn.GRU
+4. torch.nn.RNNCell
+5. torch.nn.LSTMCell
+6. torch.nn.GRUCell
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.rnn.RNN2. mx.gluon.rnn.LSTM3. mx.gluon.rnn.GRU4. mx.gluon.rnn.RNNCell5. mx.gluon.rnn.LSTMCell6. mx.gluon.rnn.GRUCell
+<jupyter_code>
+#@title  Question 12: MXNet RNN Layers { display-mode: "form" }
+Please list the names of all RNN layers available in MXNet, along with a brief description of each.
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.rnn.RNNCell - A basic RNN cell that processes one time step at a time.2. mx.gluon.rnn.LSTMCell - An LSTM (Long Short-Term Memory) cell for sequence modeling tasks.3. mx.gluon.rnn.GRUCell - A GRU (Gated Recurrent Unit) cell, which is an alternative to LSTM for sequence modeling tasks.4. mx.gluon.rnn.RNN - A fully connected RNN layer that processes a sequence of data.5. mx.gluon.rnn.LSTM - A fully connected LSTM layer that processes a sequence of data.6. mx.gluon.rnn.GRU - A fully connected GRU layer that processes a sequence of data.7. mx.gluon.rnn.SequentialRNNCell - A container for stacking multiple RNN cells together in a sequential manner.8. mx.gluon.rnn.BRNNCell - A bidirectional RNN cell, which processes sequences in both forward and backward directions.9. mx.gluon.rnn.DropoutCell - A variant of the RNN cell that includes dropout regularization to prevent overfitting.10. mx.gluon.rnn.ZoneOutCell - A variant of the RNN cell that applies zoneout regularization to stabilize training.
+<jupyter_code>
+#@title  Question 13: MXNet RNN Layers { display-mode: "form" }
+Please map the following PyTorch APIs to their corresponding MXNet equivalents, providing the names of the MXNet APIs:
+
+1. torch.nn.RNN
+2. torch.nn.LSTM
+3. torch.nn.GRU
+4. torch.nn.RNNCell
+5. torch.nn.LSTMCell
+6. torch.nn.GRUCell
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.rnn.RNN2. mx.gluon.rnn.LSTM3. mx.gluon.rnn.GRU4. mx.gluon.rnn.RNNCell5. mx.gluon.rnn.LSTMCell6. mx.gluon.rnn.GRUCell
+<jupyter_code>
+#@title  Question 14: MXNet RNN Layers { display-mode: "form" }
+Please list the names of all RNN layers available in MXNet, along with a brief description of each.
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.rnn.RNNCell - A basic RNN cell that processes one time step at a time.2. mx.gluon.rnn.LSTMCell - An LSTM (Long Short-Term Memory) cell for sequence modeling tasks.3. mx.gluon.rnn.GRUCell - A GRU (Gated Recurrent Unit) cell, which is an alternative to LSTM for sequence modeling tasks.4. mx.gluon.rnn.RNN - A fully connected RNN layer that processes a sequence of data.5. mx.gluon.rnn.LSTM - A fully connected LSTM layer that processes a sequence of data.6. mx.gluon.rnn.GRU - A fully connected GRU layer that processes a sequence of data.7. mx.gluon.rnn.SequentialRNNCell - A container for stacking multiple RNN cells together in a sequential manner.8. mx.gluon.rnn.BRNNCell - A bidirectional RNN cell, which processes sequences in both forward and backward directions.9. mx.gluon.rnn.DropoutCell - A variant of the RNN cell that includes dropout regularization to prevent overfitting.10. mx.gluon.rnn.ZoneOutCell - A variant of the RNN cell that applies zoneout regularization to stabilize training.
+<jupyter_code>
+#@title  Question 15: MXNet RNN Layers { display-mode: "form" }
+Please map the following PyTorch APIs to their corresponding MXNet equivalents, providing the names of the MXNet APIs:
+
+1. torch.nn.RNN
+2. torch.nn.LSTM
+3. torch.nn.GRU
+4. torch.nn.RNNCell
+5. torch.nn.LSTMCell
+6. torch.nn.GRUCell
+<jupyter_output>
+<empty_output>

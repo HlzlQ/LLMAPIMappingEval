@@ -1,0 +1,5 @@
+  * mxnet.ndarray.cosine_similarity
+  * mxnet.gluon.loss.CosineSimilarityLoss
+  * mxnet.gluon.loss.CosineEmbeddingLoss
+  * mxnet.gluon.loss.HingeLoss
+  * mxnet.gluon.loss.SmoothL1Loss

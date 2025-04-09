@@ -1,0 +1,5 @@
+System.Math.Min  
+Math.Min  
+System.Double.MinValue  
+System.Single.MinValue  
+System.Int32.MinValue

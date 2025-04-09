@@ -1,0 +1,5 @@
+System.Reflection.ConstructorInfo.Invoke
+System.Activator.CreateInstance
+System.Runtime.Serialization.FormatterServices.GetUninitializedObject
+System.Reflection.Emit.DynamicMethod.CreateDelegate
+System.Type.AssemblyQualifiedName

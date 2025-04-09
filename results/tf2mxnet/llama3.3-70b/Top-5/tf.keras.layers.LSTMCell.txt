@@ -1,0 +1,5 @@
+1. mxnet.ndarray LSTM
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.gluon.rnn.LSTM
+4. mxnet.gluon.contrib.rnn.LSTMPCell
+5. mxnet.gluon.rnn.HybridLSTMCell

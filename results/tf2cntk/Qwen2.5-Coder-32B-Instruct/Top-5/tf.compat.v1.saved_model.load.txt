@@ -1,0 +1,5 @@
+cntk.load_model  
+cntk.Function.load  
+cntk.io.ModelFormat.load  
+cntk.io.Snapshot.load  
+cntk.io.restore_from_checkpoint

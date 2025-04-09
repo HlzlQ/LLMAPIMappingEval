@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Conv3DTranspose`:
+
+1. `cntk.layers.ConvolutionTranspose3D`
+2. `cntk.layers.Deconvolution3D`
+3. `cntk.layers.UpSampling3D`
+4. `cntk.layers.Unpooling3D`
+5. `cntk.layers.ConvTranspose3D`

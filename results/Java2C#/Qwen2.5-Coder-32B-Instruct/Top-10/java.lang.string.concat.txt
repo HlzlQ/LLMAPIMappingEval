@@ -1,0 +1,10 @@
+System.String.Concat
+System.String.Concat(System.Object[])
+System.String.Concat(System.String[])
+System.String.Concat(System.Collections.Generic.IEnumerable`1<System.String>)
+System.String.Concat(System.String, System.String)
+System.String.Concat(System.String, System.String, System.String)
+System.String.Concat(System.String, System.String, System.String, System.String)
+System.Text.StringBuilder.Append
+System.Text.StringBuilder.AppendFormat
+System.Text.StringBuilder.AppendLine

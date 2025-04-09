@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for initializing weights with a uniform distribution:
+
+1. `cntk.initializers.uniform`
+2. `cntk.initializers.he_uniform`
+3. `cntk.initializers.glorot_uniform`
+4. `cntk.initializers.kaiming_uniform`
+5. `cntk.initializers.xavier_uniform`

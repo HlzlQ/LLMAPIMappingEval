@@ -1,0 +1,5 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+2. NUnit.Framework.Assert.AreEqual
+3. System.Diagnostics.Debug.Assert
+4. xunit.assert.Equal
+5. FluentAssertions.Primitives.NumericAssertions.BeEqualTo

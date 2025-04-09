@@ -1,0 +1,5 @@
+1. cntk.times
+2. cntk.reduce_sum
+3. cntk.element_times
+4. cntk.transpose_times
+5. cntk.times_transpose

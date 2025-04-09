@@ -1,0 +1,5 @@
+java.nio.file.Files.exists  
+java.io.File.exists  
+java.nio.file.Paths.get.toFile.exists  
+java.nio.file.Path.toFile.exists  
+java.nio.file.Files.notExists (for negation)

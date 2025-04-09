@@ -1,0 +1,5 @@
+1. tfp.distributions.Bernoulli
+2. tf.keras.layers.Bernoulli
+3. tf.random.stateless_binomial
+4. tfp.distributions.Binomial
+5. tf.math.binomial

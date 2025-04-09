@@ -1,0 +1,5 @@
+1. Character.isDigit()
+2. String.matches()
+3. Pattern.matches()
+4. java.lang.Character.isLetterOrDigit()
+5. String.contains()

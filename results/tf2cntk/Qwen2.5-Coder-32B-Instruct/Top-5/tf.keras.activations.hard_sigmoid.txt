@@ -1,0 +1,5 @@
+cntk.ops.hard_sigmoid
+cntk.activations.hard_sigmoid
+cntk.layers.HardSigmoid
+cntk.functions.hard_sigmoid
+cntk.models.hard_sigmoid

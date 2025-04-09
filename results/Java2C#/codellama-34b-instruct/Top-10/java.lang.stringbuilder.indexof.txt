@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.lang.StringBuilder.indexOf`:
+
+1. `System.Text.StringBuilder.IndexOf`
+2. `System.String.IndexOf`
+3. `System.String.LastIndexOf`
+4. `System.String.Contains`
+5. `System.String.StartsWith`
+6. `System.String.EndsWith`
+7. `System.Text.RegularExpressions.Regex.IsMatch`
+8. `System.Text.RegularExpressions.Regex.Matches`
+9. `System.Text.RegularExpressions.Regex.Replace`
+10. `System.Text.RegularExpressions.Regex.Split`

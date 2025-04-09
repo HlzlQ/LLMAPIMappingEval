@@ -1,0 +1,5 @@
+torch.clamp  
+torch.nn.functional.relu6  
+torch.nn.functional.hardtanh  
+torch.nn.functional.threshold  
+torch.nn.functional.elu

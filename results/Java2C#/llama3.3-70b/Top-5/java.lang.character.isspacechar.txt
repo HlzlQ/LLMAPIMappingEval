@@ -1,0 +1,5 @@
+1. System.Char.IsWhiteSpace
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.Char.IsControl
+4. System.Text.RegularExpressions.Regex.Replace
+5. System.String.Trim

@@ -1,0 +1,5 @@
+ndarray.split
+ndarray.SliceChannel
+ndarray.SliceLike
+ndarray.SliceAxis
+ndarray.SplitAndLoad

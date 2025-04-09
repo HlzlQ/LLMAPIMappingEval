@@ -1,0 +1,10 @@
+1. System.Collections.Generic.KeyValuePair<TKey, TValue>.Value
+2. System.Collections.DictionaryEntry.Value
+3. System.Collections.Hashtable.Item
+4. System.Collections.IDictionary.Item
+5. System.Linq.IGrouping<TKey, TElement>.Key
+6. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue
+7. System.Collections.Generic.Dictionary<TKey, TValue>.Item
+8. System.Collections.Specialized.NameValueCollection.Get
+9. System.Collections.Generic.Lookup<TKey, TElement>.Item
+10. System.Collections.Generic.SortedDictionary<TKey, TValue>.Item

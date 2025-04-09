@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.init.constant_`:
+
+1. tf.initializers.Constant
+2. tf.keras.initializers.Constant
+3. tf.compat.v1.initializers.constant
+4. tf.constant_initializer
+5. tf.keras.layers.InitializerConstant
+6. tf.initializers.constant
+7. tf.Variable.assign
+8. tf.assign
+9. tf.keras.backend.constant
+10. tf.fill

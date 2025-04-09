@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.AvgPool1d
+2. torch.nn.functional.avg_pool1d
+3. torch.nn.AdaptiveAvgPool1d
+4. tensorflow.keras.layers.AveragePooling1D
+5. tensorflow.keras.layers.GlobalAveragePooling1D

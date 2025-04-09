@@ -1,0 +1,12 @@
+Based on the PyTorch API `torch.split`, here are 10 possible equivalent MXNet APIs:
+
+1. mx.nd.split
+2. mx.ndarray.split
+3. mx gluon.utils.split_data
+4. mxnet.ndarray.Split
+5. mx.gluon.utils.split_dataset
+6. mx.ndarray.array_split
+7. mxnet.gluon.utils.split_batch
+8. mx.ndarray.chunk
+9. mx.gluon.utils.batchify
+10. mxnet.ndarray.split_axis

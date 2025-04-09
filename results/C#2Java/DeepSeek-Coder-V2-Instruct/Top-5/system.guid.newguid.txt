@@ -1,0 +1,5 @@
+1. java.util.UUID.randomUUID()
+2. javax.crypto.KeyGenerator.generateKey()
+3. java.security.SecureRandom.nextBytes(byte[])
+4. java.nio.ByteBuffer.allocateDirect(int)
+5. java.util.concurrent.atomic.AtomicLong.getAndIncrement()

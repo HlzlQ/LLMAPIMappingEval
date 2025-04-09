@@ -1,0 +1,10 @@
+System.Collections.Generic.List.AddRange  
+System.Collections.ArrayList.AddRange  
+System.Collections.Generic.Collection.AddRange  
+System.Collections.Generic.LinkedList.AddRange  
+System.Collections.Generic.HashSet.UnionWith  
+System.Collections.Generic.SortedSet.UnionWith  
+System.Collections.Generic.Queue.EnqueueRange  
+System.Collections.Generic.Stack.PushRange  
+System.Collections.Concurrent.ConcurrentBag.AddMany  
+System.Collections.Concurrent.ConcurrentQueue.EnqueueMany

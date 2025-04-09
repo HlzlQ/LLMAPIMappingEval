@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that can be used for max pooling in 1D:
+
+1. torch.nn.MaxPool1d
+2. torch.nn.functional.max_pool1d
+3. torch.nn.modules.pooling.MaxPool1d
+4. torch.nn.modules.pooling.MaxPool1dWithIndices
+5. torch.nn.modules.pooling.MaxPool1dWithPadding
+6. torch.nn.modules.pooling.MaxPool1dWithStride
+7. torch.nn.modules.pooling.MaxPool1dWithDilation
+8. torch.nn.modules.pooling.MaxPool1dWithKernelSize
+9. torch.nn.modules.pooling.MaxPool1dWithPaddingAndStride
+10. torch.nn.modules.pooling.MaxPool1dWithPaddingAndDilation

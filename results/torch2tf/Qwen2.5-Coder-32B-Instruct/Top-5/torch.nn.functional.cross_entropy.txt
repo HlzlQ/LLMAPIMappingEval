@@ -1,0 +1,5 @@
+tf.keras.losses.CategoricalCrossentropy  
+tf.keras.losses.SparseCategoricalCrossentropy  
+tf.nn.softmax_cross_entropy_with_logits  
+tf.nn.sparse_softmax_cross_entropy_with_logits  
+tf.compat.v1.nn.softmax_cross_entropy_with_logits_v2

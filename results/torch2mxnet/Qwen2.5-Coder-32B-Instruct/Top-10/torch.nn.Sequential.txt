@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Sequential
+mxnet.gluon.nn.HybridSequential
+mxnet.ndarray.concat
+mxnet.ndarray.split
+mxnet.ndarray.stack
+mxnet.ndarray.reshape
+mxnet.ndarray.transpose
+mxnet.ndarray.slice_axis
+mxnet.ndarray.expand_dims
+mxnet.ndarray.flatten

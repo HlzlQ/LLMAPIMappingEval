@@ -1,0 +1,17 @@
+
+CNTK does not have a direct equivalent of `torch.nn.PixelUnshuffle`. However, you can achieve a similar effect by using the `CNTK.layers.ConvolutionTranspose` layer with a stride of 2 and a kernel size of 3x3. This will perform a transposed convolution operation that effectively reduces the spatial dimensions of the input tensor by half.
+
+Here's an example code snippet:
+```csharp
+using CNTK;
+
+// Define the input shape
+var inputShape = new int[] { 1, 3, 256, 256 }; // (batch size, channels, height, width)
+
+// Create a convolution transpose layer with stride 2 and kernel size 3x3
+var convTransposeLayer = CNTK.layers.ConvolutionTranspose(inputShape, numFilters: 1, kernelSize: new int[] { 3, 3 }, strides: new int[] { 2, 2 });
+
+// Define the output shape
+var outputShape = convTransposeLayer.OutputShape; // (batch size, channels, height, width)
+```
+Note that the `ConvolutionTranspose` layer in CNTK does not have a built-in `PixelUnshuffle` function like PyTorch's `nn.PixelUnshuffle`. However, you can achieve a similar effect by using the `ConvolutionTranspose` layer with a stride of 2 and a kernel size of 3x3, which will reduce the spatial dimensions of the input tensor by half.

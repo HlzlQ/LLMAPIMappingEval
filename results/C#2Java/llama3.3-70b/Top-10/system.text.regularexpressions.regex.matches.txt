@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.text.regularexpressions.regex.matches` in C#:
+
+1. java.util.regex.Matcher.matches
+2. java.util.regex.Pattern.matches
+3. java.util.regex.Matcher.find
+4. java.util.regex.Matcher.lookingAt
+5. java.util.regex.Matcher.matches(String, CharSequence)
+6. java.util.regex.Pattern.compile
+7. java.util.regex.Matcher.replaceAll
+8. java.util.regex.Matcher.replaceFirst
+9. java.lang.String.matches
+10. java.util.regex.Pattern.quote

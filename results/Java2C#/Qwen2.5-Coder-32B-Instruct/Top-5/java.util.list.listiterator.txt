@@ -1,0 +1,5 @@
+System.Collections.Generic.IList<T>
+System.Collections.Generic.List<T>.Enumerator
+System.Collections.Generic.List<T>.Get Enumerator()
+System.Collections.Generic.List<T>.InsertRange()
+System.Collections.Generic.List<T>.RemoveRange()

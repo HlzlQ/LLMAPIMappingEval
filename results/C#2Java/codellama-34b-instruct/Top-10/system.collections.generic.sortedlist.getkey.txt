@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.util.SortedMap.getKey()
+2. java.util.TreeMap.getKey()
+3. java.util.NavigableMap.getKey()
+4. java.util.concurrent.ConcurrentSkipListMap.getKey()
+5. com.google.common.collect.ImmutableSortedMap.getKey()
+6. org.apache.commons.collections4.map.TreeMap.getKey()
+7. org.eclipse.collections.impl.map.sorted.mutable.TreeSortedMap.getKey()
+8. io.vavr.collection.TreeMap.getKey()
+9. scala.collection.immutable.TreeMap.getKey()
+10. clojure.lang.PersistentTreeMap.getKey()

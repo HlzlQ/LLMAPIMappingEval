@@ -1,0 +1,23 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+```python
+# Torch version check
+import torch
+torch.__version__
+```
+
+```python
+# TensorFlow API mapping to PyTorch equivalent
+tensorflow_to_pytorch = {
+    "tf.keras.initializers.Ones": "torch.nn.init.ones_"
+}
+
+# Example usage:
+tensorflow_api = "tf.keras.initializers.Ones"
+pytorch_equivalent = tensorflow_to_pytorch.get(tensorflow_api, "Not found")
+print(f"TensorFlow API '{tensorflow_api}' maps to PyTorch equivalent as '{pytorch_equivalent}'")
+```

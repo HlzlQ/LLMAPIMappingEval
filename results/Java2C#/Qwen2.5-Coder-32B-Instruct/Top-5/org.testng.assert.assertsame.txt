@@ -1,0 +1,5 @@
+System.Diagnostics.Debug.Assert.AreSame  
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame  
+NUnit.Framework.Assert.AreSame  
+Xunit.Assert.Same  
+FluentAssertions.AssertionsExtensions.BeSameAs

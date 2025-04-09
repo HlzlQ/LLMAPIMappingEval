@@ -1,0 +1,5 @@
+java.lang.Double.parseDouble  
+java.lang.Double.valueOf  
+java.text.NumberFormat.parse  
+java.math.BigDecimal.valueOf  
+java.math.BigInteger.valueOf

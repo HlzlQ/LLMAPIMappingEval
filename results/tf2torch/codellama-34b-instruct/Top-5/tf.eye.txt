@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.eye`:
+
+1. `torch.eye` - Creates a 2D tensor with ones on the diagonal and zeros elsewhere.
+2. `torch.diag` - Creates a 2D tensor with the input tensor's diagonal elements.
+3. `torch.ones_like` - Creates a tensor of all ones with the same shape as the input tensor.
+4. `torch.zeros_like` - Creates a tensor of all zeros with the same shape as the input tensor.
+5. `torch.eye_like` - Creates a 2D tensor with the same shape as the input tensor, with ones on the diagonal and zeros elsewhere.

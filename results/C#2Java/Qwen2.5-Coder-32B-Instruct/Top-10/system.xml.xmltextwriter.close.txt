@@ -1,0 +1,10 @@
+javax.xml.stream.XMLStreamWriter.close
+org.w3c.dom.ls.LSSerializer.close
+com.sun.org.apache.xerces.internal.jaxp.transform.TransformerImpl.close
+javax.xml.transform.stream.StreamResult.close
+java.io.OutputStreamWriter.close
+java.io.BufferedWriter.close
+java.io.FileWriter.close
+java.nio.channels.WritableByteChannel.close
+java.nio.file.Files.newBufferedWriter.close
+java.util.zip.ZipOutputStream.close

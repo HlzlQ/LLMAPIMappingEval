@@ -1,0 +1,10 @@
+java.util.Collections.binarySearch
+java.util.List.binarySearch (Note: This is not a direct method but Collections.binarySearch is used with List)
+java.util.Arrays.binarySearch
+java.util.concurrent.CopyOnWriteArrayList.binarySearch (Note: Not directly available, Collections.binarySearch can be used)
+java.util.LinkedList.binarySearch (Note: Not directly available, Collections.binarySearch can be used)
+java.util.ArrayList.binarySearch (Note: Not directly available, Collections.binarySearch can be used)
+java.util.Vector.binarySearch (Note: Not directly available, Collections.binarySearch can be used)
+java.util.Stack.binarySearch (Note: Not directly available, Collections.binarySearch can be used)
+java.util.PriorityQueue.binarySearch (Note: Not directly available, Collections.binarySearch can be used)
+java.util.concurrent.ConcurrentSkipListSet.binarySearch (Note: Not directly available, Collections.binarySearch can be used)

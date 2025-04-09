@@ -1,0 +1,10 @@
+cntk.layers.recurrent.LSTM
+cntk.layers.recurrent.lstm
+cntk.layers.sequence.past_value
+cntk.layers.sequence.future_value
+cntk.layers.sequence.first
+cntk.layers.sequence.last
+cntk.layers.sequence.reduce_sum
+cntk.layers.sequence.reduce_mean
+cntk.layers.sequence.scan
+cntk.layers.sequence.unroll_from_sequence_shape

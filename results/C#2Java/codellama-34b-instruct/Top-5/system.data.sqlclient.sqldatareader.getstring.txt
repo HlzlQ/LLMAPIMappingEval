@@ -1,0 +1,8 @@
+  The C# API "system.data.sqlclient.sqldatareader.getstring" can be mapped to the following Java APIs:
+
+1. java.sql.ResultSet.getString(int columnIndex)
+2. java.sql.ResultSet.getString(String columnLabel)
+3. java.sql.CallableStatement.getString(int parameterIndex)
+4. java.sql.CallableStatement.getString(String parameterName)
+5. java.sql.PreparedStatement.getString(int parameterIndex)
+6. java.sql.PreparedStatement.getString(String parameterName)

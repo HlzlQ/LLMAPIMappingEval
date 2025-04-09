@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.save`:
+
+1. tf.io.write_file
+2. tf.train.Checkpoint
+3. tf.saved_model.save
+4. tf.keras.models.save_model
+5. tf.data.experimental.save
+6. tf.io.serialize_tensor
+7. tf.io.write_graph
+8. tf.compat.v1.train.Saver
+9. tf.checkpoint.save
+10. tf.saved_model.export

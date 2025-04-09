@@ -1,0 +1,5 @@
+tf.image.resize
+tf.keras.layers.UpSampling2D
+tf.nn.resize_images
+tf.nn.resize_bilinear
+tf.nn.resize_nearest_neighbor

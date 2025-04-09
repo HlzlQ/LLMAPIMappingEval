@@ -1,0 +1,10 @@
+java.lang.String.startsWith
+java.nio.file.Path.startsWith
+java.nio.file.Paths.get.startsWith
+java.net.URI.getPath.startsWith
+java.net.URL.getFile.startsWith
+java.io.File.getPath.startsWith
+java.util.zip.ZipEntry.getName.startsWith
+java.util.jar.JarEntry.getName.startsWith
+java.awt.image.BufferedImage.toString.startsWith
+java.applet.Applet.getCodeBase.toString.startsWith

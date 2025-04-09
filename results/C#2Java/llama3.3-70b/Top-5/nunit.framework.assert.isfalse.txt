@@ -1,0 +1,5 @@
+1. org.junit.Assert.assertFalse
+2. junit.framework.Assert.assertFalse
+3. org.hamcrest.MatcherAssert.assertThat
+4. org.junit.jupiter.api.Assertions.assertFalse
+5. org.testng.Assert.assertFalse

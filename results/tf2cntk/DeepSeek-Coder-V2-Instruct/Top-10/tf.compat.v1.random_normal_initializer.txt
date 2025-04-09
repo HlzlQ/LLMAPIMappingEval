@@ -1,0 +1,11 @@
+
+Answer: 1. random_normal_initializer
+2. truncated_normal_initializer
+3. orthogonal_initializer
+4. glorot_uniform_initializer
+5. glorot_normal_initializer
+6. he_uniform_initializer
+7. he_normal_initializer
+8. variance_scaling_initializer
+9. lecun_uniform_initializer
+10. lecun_normal_initializer

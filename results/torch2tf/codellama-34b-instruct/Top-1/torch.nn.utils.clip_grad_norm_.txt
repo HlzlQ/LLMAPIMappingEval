@@ -1,0 +1,2 @@
+
+The equivalent function in TensorFlow for `torch.nn.utils.clip_grad_norm` is `tf.clip_by_global_norm`.

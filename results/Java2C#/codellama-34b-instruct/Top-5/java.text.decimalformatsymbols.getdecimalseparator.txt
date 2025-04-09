@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Globalization.NumberFormatInfo.CurrencyDecimalSeparator`
+2. `System.Globalization.NumberFormatInfo.PercentDecimalSeparator`
+3. `System.Globalization.NumberFormatInfo.PerMilleDecimalSeparator`
+4. `System.Globalization.NumberFormatInfo.NumberDecimalSeparator`
+5. `System.Globalization.NumberFormatInfo.CurrencyGroupSeparator`

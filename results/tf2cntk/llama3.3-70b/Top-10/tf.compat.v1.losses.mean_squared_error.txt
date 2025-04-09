@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.losses.mean_squared_error`:
+
+1. `cntk.losses.mean_squared_error`
+2. `cntk.metrics.mean_squared_error`
+3. `cntk.objective_functions.mean_squared_error`
+4. `cntk.training.loss_functions.mean_squared_error`
+5. `cntk.learners.mean_squared_error`
+6. `cntk.criteria.mean_squared_error`
+7. `cntk.errors.mean_squared_error`
+8. `cntk.metrics.root_mean_squared_error`
+9. `cntk.objective_functions.quadratic_loss`
+10. `cntk.losses.l2_distance`

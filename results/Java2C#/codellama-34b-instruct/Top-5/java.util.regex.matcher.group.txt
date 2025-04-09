@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Text.RegularExpressions.Match.Groups`
+2. `System.Text.RegularExpressions.GroupCollection`
+3. `System.Text.RegularExpressions.CaptureCollection`
+4. `System.Text.RegularExpressions.Group`
+5. `System.Text.RegularExpressions.Match.GetGroupNames()`

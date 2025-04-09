@@ -1,0 +1,10 @@
+torch.bmm  
+torch.matmul  
+torch.dot  
+torch.einsum  
+torch.nn.functional.linear  
+torch.nn.functional.conv1d  
+torch.nn.functional.conv2d  
+torch.nn.functional.conv3d  
+torch.nn.functional.bilinear  
+torch.tensordot

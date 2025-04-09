@@ -1,0 +1,5 @@
+java.lang.Math.log
+java.lang.Math.log10
+java.lang.Math.log1p
+java.lang.Math.exp
+java.lang.Math.expm1

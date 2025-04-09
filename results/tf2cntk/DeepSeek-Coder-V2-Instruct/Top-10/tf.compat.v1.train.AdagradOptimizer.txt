@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.learners.adam_learner
+2. cntk.learners.momentum_sgd_learner
+3. cntk.learners.adagrad_learner
+4. cntk.trainer.create_trainer
+5. cntk.initializer.uniform
+6. cntk.initializer.glorot_uniform
+7. cntk.initializer.he_normal
+8. cntk.ops.placeholder
+9. cntk.ops.times
+10. cntk.ops.plus

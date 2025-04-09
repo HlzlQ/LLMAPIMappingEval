@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings:
+
+1. mxnet.initializer.Constant
+2. mxnet.nd.constant
+3. mxnet.gluon.nn.Constant
+4. mxnet.gluon.Parameter
+5. mxnet.initializer.Zero

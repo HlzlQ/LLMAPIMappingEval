@@ -1,0 +1,13 @@
+
+"""
+
+1. softmax_cross_entropy_with_logits
+2. sparse_categorical_crossentropy
+3. categorical_crossentropy
+4. binary_crossentropy
+5. sigmoid_cross_entropy_with_logits
+6. kullback_leibler_divergence
+7. poisson
+8. cosine_proximity
+9. hinge
+10. squared_hinge

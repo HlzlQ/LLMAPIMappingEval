@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Character.isLowerCase()`:
+
+1. `char.IsLower()`
+2. `Char.IsLower()`
+3. `System.Char.IsLower()`
+4. `Microsoft.VisualBasic.Strings.StrConv()`
+5. `System.Globalization.CultureInfo.TextInfo.ToLower()`
+6. `System.String.ToLower()`
+7. `System.String.ToLowerInvariant()`
+8. `System.Char.ToLower()`
+9. `System.Char.ToLowerInvariant()`
+10. `Microsoft.VisualBasic.Strings.LCase()`

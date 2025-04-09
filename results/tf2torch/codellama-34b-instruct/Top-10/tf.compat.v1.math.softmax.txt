@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.math.softmax`:
+
+1. `torch.nn.functional.softmax`
+2. `torch.nn.Softmax`
+3. `torch.nn.SoftmaxCrossEntropyLoss`
+4. `torch.nn.SoftmaxCrossEntropyWithLogits`
+5. `torch.nn.SoftmaxCrossEntropyWithLogitsLoss`
+6. `torch.nn.functional.softmax_cross_entropy`
+7. `torch.nn.functional.softmax_cross_entropy_with_logits`
+8. `torch.nn.functional.softmax_cross_entropy_with_logits_loss`
+9. `torch.nn.functional.softmax_with_logits`
+10. `torch.nn.functional.softmax_with_logits_loss`

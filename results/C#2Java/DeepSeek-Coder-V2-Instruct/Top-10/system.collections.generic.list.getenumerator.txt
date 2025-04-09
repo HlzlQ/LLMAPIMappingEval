@@ -1,0 +1,11 @@
+java.util.ListIterator
+java.util.Enumeration
+java.util.Iterator
+java.util.Spliterator
+java.util.stream.StreamSupport
+java.util.stream.Stream
+java.util.stream.StreamSupport$StreamBuilderImpl
+java.util.stream.Collectors
+java.util.Optional
+java.util.function.Consumer
+java.util.function.Predicate

@@ -1,0 +1,7 @@
+
+
+1. mxnet.ndarray.zeros_like
+2. mxnet.init.Zero
+3. mxnet.initializer.ZeroInitializer
+4. mxnet.gluon.initializer.ZeroInitializer
+5. mxnet.initializer.InitDesc

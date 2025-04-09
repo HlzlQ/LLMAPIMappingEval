@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent CNTK APIs for `tensorflow.keras.initializers.RandomNormal`:
+
+1. CNTK.DefaultInitializer
+2. CNTK.GlorotInitializer
+3. CNTK.HeInitializer
+4. CNTK.NormalInitializer
+5. CNTK.RandomNormalInitializer
+6. CNTK.XavierInitializer
+7. CNTK.RandomUniformInitializer
+8. CNTK.TruncatedNormalInitializer
+9. CNTK.ScaledRandomNormalInitializer
+10. CNTK.GaussianInitializer

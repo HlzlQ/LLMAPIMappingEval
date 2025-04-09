@@ -1,0 +1,5 @@
+cntk.relu  
+cntk.ops.relu  
+cntk.layers.ReLU  
+cntk.functions.relu  
+cntk.activations.relu

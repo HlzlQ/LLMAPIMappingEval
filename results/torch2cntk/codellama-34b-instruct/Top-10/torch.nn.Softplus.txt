@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.Softplus`:
+
+1. `cntk.layers.Softplus`
+2. `cntk.layers.Activation(cntk.ops.softplus)`
+3. `cntk.layers.Softmax(cntk.ops.softplus, axis=0)`
+4. `cntk.layers.Softmax(cntk.ops.softplus, axis=1)`
+5. `cntk.layers.Softmax(cntk.ops.softplus, axis=2)`
+6. `cntk.layers.Softmax(cntk.ops.softplus, axis=3)`
+7. `cntk.layers.Softmax(cntk.ops.softplus, axis=4)`
+8. `cntk.layers.Softmax(cntk.ops.softplus, axis=5)`
+9. `cntk.layers.Softmax(cntk.ops.softplus, axis=6)`
+10. `cntk.layers.Softmax(cntk.ops.softplus, axis=7)`

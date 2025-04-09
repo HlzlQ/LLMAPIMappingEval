@@ -1,0 +1,10 @@
+mxnet.gluon.nn.AvgPool1D  
+mxnet.ndarray.Pooling  
+mxnet.symbol.Pooling  
+mxnet.gluon.contrib.nn.GlobalAvgPool1D  
+mxnet.gluon.nn.GlobalAvgPool1D  
+mxnet.ndarray.avg_pool1d  
+mxnet.symbol.avg_pool1d  
+mxnet.ndarray.contrib.AdaptiveAvgPooling1D  
+mxnet.symbol.contrib.AdaptiveAvgPooling1D  
+mxnet.gluon.nn.HybridSequential.add(mxnet.gluon.nn.AvgPool1D)

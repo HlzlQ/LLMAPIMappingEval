@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Diagnostics.Process.Start()
+2. System.Diagnostics.ProcessStartInfo.Start()
+3. System.Diagnostics.Process.BeginOutputReadLine()
+4. System.Diagnostics.Process.BeginErrorReadLine()
+5. System.Diagnostics.Process.StandardInput
+6. System.Diagnostics.Process.StandardOutput
+7. System.Diagnostics.Process.StandardError
+8. System.Diagnostics.Process.ExitCode
+9. System.Diagnostics.Process.HasExited
+10. System.Diagnostics.Process.Kill()

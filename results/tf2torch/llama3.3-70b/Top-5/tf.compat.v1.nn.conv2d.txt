@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that match the functionality of `tensorflow.compat.v1.nn.conv2d`:
+
+1. torch.nn.functional.conv2d
+2. torch.nn.Conv2d
+3. torch.nn.functional.conv2d_transpose
+4. torch.nn.ConvTranspose2d
+5. torch.tensor.conv2d

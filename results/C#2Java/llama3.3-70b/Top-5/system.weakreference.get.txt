@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.weakreference.get` in C#:
+
+1. java.lang.ref.WeakReference.get()
+2. java.lang.ref.SoftReference.get()
+3. java.lang.ref.PhantomReference.get()
+4. java.util.concurrent.ConcurrentHashMap.get()
+5. java.lang.System.identityHashCode()

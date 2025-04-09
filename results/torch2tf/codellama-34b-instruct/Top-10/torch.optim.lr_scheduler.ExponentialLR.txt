@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for exponential learning rate scheduling:
+
+1. `tf.keras.optimizers.schedulers.ExponentialDecay`
+2. `tf.train.exponential_decay_learning_rate`
+3. `tf.keras.optimizers.schedulers.ExponentialScheduler`
+4. `tf.train.exponential_schedule`
+5. `tf.keras.optimizers.schedulers.ExponentialLR`
+6. `tf.train.exponential_lr`
+7. `tf.keras.optimizers.schedulers.ExponentialDecayLR`
+8. `tf.train.exponential_decay_lr`
+9. `tf.keras.optimizers.schedulers.ExponentialSchedule`
+10. `tf.train.exponential_schedule`

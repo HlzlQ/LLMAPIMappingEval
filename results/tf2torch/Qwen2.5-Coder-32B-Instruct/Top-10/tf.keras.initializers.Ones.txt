@@ -1,0 +1,10 @@
+torch.ones  
+torch.nn.init.ones_  
+torch.full  
+torch.Tensor.fill_  
+torch.nn.Parameter  
+torch.eye  
+torch.rand  
+torch.randn  
+torch.empty  
+torch.zeros

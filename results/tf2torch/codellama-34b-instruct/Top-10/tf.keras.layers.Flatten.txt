@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Flatten`:
+
+1. `torch.nn.Flatten`
+2. `torch.nn.Sequential(torch.nn.Flatten())`
+3. `torch.nn.ModuleList([torch.nn.Flatten()])`
+4. `torch.nn.ModuleDict({'flatten': torch.nn.Flatten()})`
+5. `torch.nn.DataParallel(torch.nn.Flatten())`
+6. `torch.nn.DistributedDataParallel(torch.nn.Flatten())`
+7. `torch.nn.parallel.DistributedDataParallel(torch.nn.Flatten())`
+8. `torch.nn.parallel.DataParallel(torch.nn.Flatten())`
+9. `torch.nn.ModuleList([torch.nn.Sequential(torch.nn.Flatten())])`
+10. `torch.nn.ModuleDict({'flatten': torch.nn.Sequential(torch.nn.Flatten())})`

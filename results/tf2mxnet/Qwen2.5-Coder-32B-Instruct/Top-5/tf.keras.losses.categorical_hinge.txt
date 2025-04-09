@@ -1,0 +1,5 @@
+mxnet.gluon.loss.HingeLoss
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+mxnet.gluon.loss.CategoricalHingeLoss
+mxnet.ndarray.contrib.hinge_loss
+mxnet.ndarray.softmax_cross_entropy

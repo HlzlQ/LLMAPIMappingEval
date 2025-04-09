@@ -1,0 +1,5 @@
+1. System.Collections.IEnumerator.MoveNext()
+2. System.Collections.IEnumerable.GetEnumerator()
+3. System.Collections.Generic.IEnumerable`1.GetEnumerator()
+4. System.Collections.IEnumerator.Current
+5. System.Collections.Generic.IEnumerator`1.Current

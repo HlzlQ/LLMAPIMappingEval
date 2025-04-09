@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.activations.linear`:
+
+1. `cntk.layers.Activation(cntk.ops.linear)`
+2. `cntk.layers.Dense(cntk.ops.linear)`
+3. `cntk.layers.Linear(cntk.ops.linear)`
+4. `cntk.layers.FullyConnected(cntk.ops.linear)`
+5. `cntk.layers.Convolutional(cntk.ops.linear)`
+6. `cntk.layers.Deconvolutional(cntk.ops.linear)`
+7. `cntk.layers.Recurrent(cntk.ops.linear)`
+8. `cntk.layers.LSTM(cntk.ops.linear)`
+9. `cntk.layers.GRU(cntk.ops.linear)`
+10. `cntk.layers.RNN(cntk.ops.linear)`

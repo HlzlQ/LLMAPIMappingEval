@@ -1,0 +1,5 @@
+1. java.lang.Math.max(int a, int b)
+2. java.lang.Math.max(long a, long b)
+3. java.lang.Math.max(float a, float b)
+4. java.lang.Math.max(double a, double b)
+5. java.util.Arrays.max(int[] a)

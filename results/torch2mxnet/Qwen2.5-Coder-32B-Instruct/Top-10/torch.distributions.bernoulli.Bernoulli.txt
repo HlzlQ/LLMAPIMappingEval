@@ -1,0 +1,10 @@
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss  
+mxnet.ndarray.sigmoid  
+mxnet.ndarray.random.uniform  
+mxnet.ndarray.round  
+mxnet.ndarray.cast  
+mxnet.ndarray.equal  
+mxnet.ndarray.sum  
+mxnet.ndarray.mean  
+mxnet.ndarray.argmax  
+mxnet.ndarray.argmin

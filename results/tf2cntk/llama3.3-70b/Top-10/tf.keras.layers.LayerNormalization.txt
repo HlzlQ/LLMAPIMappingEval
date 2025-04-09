@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functions to `tensorflow.keras.layers.LayerNormalization`:
+
+1. `CNTK.LayerNormalization`
+2. `CNTK.NormalizeLayer`
+3. `CNTK.BatchNormalization`
+4. `CNTK.InstanceNormalization`
+5. `CNTK.GroupNormalization`
+6. `CNTK.LayerNorm`
+7. `CNTK.Normalize`
+8. `CNTK.Standardize`
+9. `CNTK.Scale`
+10. `CNTK.BatchNormalizer`

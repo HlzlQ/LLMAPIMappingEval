@@ -1,0 +1,5 @@
+1. cntk.layers.LeakyReLU
+2. cntk.layers.ParametricReLULike 
+3. cntk.layers.PReLU
+4. cntk.ops.prelu
+5. cntk.layers.param_relu

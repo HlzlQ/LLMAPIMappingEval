@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs that correspond to the C# `System.Int32.Parse` method:
+
+1. `Integer.parseInt(String s)`
+2. `Integer.valueOf(String s)`
+3. `Integer.parseUnsignedInt(String s)`
+4. `Integer.parseUnsignedLong(String s)`
+5. `Integer.parseLong(String s)`
+6. `Integer.parseDouble(String s)`
+7. `Integer.parseFloat(String s)`
+8. `Integer.parseInt(String s, int radix)`
+9. `Integer.valueOf(String s, int radix)`
+10. `Integer.parseUnsignedInt(String s, int radix)`

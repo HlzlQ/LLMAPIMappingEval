@@ -1,0 +1,1 @@
+System.IO.Stream.Read in C# is equivalent to java.io.InputStream.read() in Java.

@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Identity | mxnet.gluon.nn.Identity |
+  | torch.nn.Linear | mxnet.gluon.nn.Dense |
+  | torch.nn.Conv2d | mxnet.gluon.nn.Conv2D |
+  | torch.nn.MaxPool2d | mxnet.gluon.nn.MaxPool2D |
+  | torch.nn.AvgPool2d | mxnet.gluon.nn.AvgPool2D |
+  | torch.nn.ReLU | mxnet.gluon.nn.Activation(activation='relu') |
+  | torch.nn.Sigmoid | mxnet.gluon.nn.Activation(activation='sigmoid') |
+  | torch.nn.Tanh | mxnet.gluon.nn.Activation(activation='tanh') |
+  | torch.nn.Softmax | mxnet.gluon.nn.SoftmaxOutput |
+  | torch.nn.Dropout | mxnet.gluon.nn.Dropout |

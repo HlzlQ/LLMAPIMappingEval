@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Beta`:
+
+1. torch.distributions.Beta
+2. torch.distributions.transformed_distribution.TransformedDistribution
+3. torch.distributions.constraints.Constraint
+4. torch.distributions.uniform.Uniform
+5. torch.distributions.normal.Normal
+6. torch.distributions.gamma.Gamma
+7. torch.distributions.dirichlet.Dirichlet
+8. torch.distributions.log_normal.LogNormal
+9. torch.distributions.chi2.Chi2
+10. torch.distributions.studentT.StudentT

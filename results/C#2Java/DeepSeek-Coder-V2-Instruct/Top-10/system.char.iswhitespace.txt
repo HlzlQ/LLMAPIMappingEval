@@ -1,0 +1,16 @@
+```json
+{
+  "APIs": [
+    "Character.isWhitespace(char)",
+    "String.trim()",
+    "String.isEmpty()",
+    "String.contains(CharSequence)",
+    "String.startsWith(String)",
+    "String.endsWith(String)",
+    "String.substring(int, int)",
+    "String.replace(char, char)",
+    "String.indexOf(int)",
+    "String.length()"
+  ]
+}
+```

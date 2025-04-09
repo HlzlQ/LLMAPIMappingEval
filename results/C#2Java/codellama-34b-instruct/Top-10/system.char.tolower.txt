@@ -1,0 +1,12 @@
+  Here are ten Java APIs that correspond to the C# APIs you provided:
+
+1. System.Char.ToLower(char c) -> Character.toLowerCase(c)
+2. System.Char.ToUpper(char c) -> Character.toUpperCase(c)
+3. System.Char.IsLetter(char c) -> Character.isLetter(c)
+4. System.Char.IsDigit(char c) -> Character.isDigit(c)
+5. System.Char.IsWhiteSpace(char c) -> Character.isWhitespace(c)
+6. System.Char.IsPunctuation(char c) -> Character.isPunctuation(c)
+7. System.Char.IsSymbol(char c) -> Character.isSymbol(c)
+8. System.Char.IsControl(char c) -> Character.isISOControl(c)
+9. System.Char.IsHighSurrogate(char c) -> Character.isHighSurrogate(c)
+10. System.Char.IsLowSurrogate(char c) -> Character.isLowSurrogate(c)

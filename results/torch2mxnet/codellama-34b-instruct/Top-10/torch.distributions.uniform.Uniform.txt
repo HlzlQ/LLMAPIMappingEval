@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.distributions.uniform.Uniform`:
+
+1. `mxnet.random.uniform`
+2. `mxnet.random.uniform_like`
+3. `mxnet.random.uniform_array`
+4. `mxnet.random.uniform_tensor`
+5. `mxnet.random.uniform_vector`
+6. `mxnet.random.uniform_matrix`
+7. `mxnet.random.uniform_distribution`
+8. `mxnet.random.uniform_sampler`
+9. `mxnet.random.uniform_sample`
+10. `mxnet.random.uniform_sample_like`

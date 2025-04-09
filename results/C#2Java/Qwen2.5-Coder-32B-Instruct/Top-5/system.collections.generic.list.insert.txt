@@ -1,0 +1,5 @@
+java.util.List.add
+java.util.ArrayList.add
+java.util.LinkedList.add
+java.util.Vector.add
+java.util.AbstractList.add

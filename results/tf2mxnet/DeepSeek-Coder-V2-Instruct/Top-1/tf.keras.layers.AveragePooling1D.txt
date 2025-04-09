@@ -1,0 +1,2 @@
+
+MXNet APIName: mxnet.gluon.nn.AvgPool1D

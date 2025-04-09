@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.PoissonNLLLoss | mxnet.gluon.loss.PoissonNLLLoss |
+  | torch.nn.functional.poisson_nll_loss | mxnet.ndarray.poisson_nll_loss |
+  | torch.nn.functional.cross_entropy | mxnet.gluon.loss.SoftmaxCrossEntropyLoss |
+  | torch.nn.functional.binary_cross_entropy | mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss |
+  | torch.nn.functional.kl_div | mxnet.ndarray.kl_div |
+  | torch.nn.functional.binary_cross_entropy_with_logits | mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss |
+  | torch.nn.functional.poisson_nll_loss_with_logits | mxnet.ndarray.poisson_nll_loss_with_logits |
+  | torch.nn.functional.cross_entropy_with_logits | mxnet.gluon.loss.SoftmaxCrossEntropyLoss |
+  | torch.nn.functional.kl_div_with_logits | mxnet.ndarray.kl_div_with_logits |

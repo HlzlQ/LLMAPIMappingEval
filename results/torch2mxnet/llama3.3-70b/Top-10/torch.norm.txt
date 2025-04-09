@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.norm`:
+
+1. mx.nd.norm
+2. mx.gluon.utils.normalize
+3. mx.ndarray.L2Normalization
+4. mx.symbol.L2Normalization
+5. mx.gluon.nn.L2Normalization
+6. mx.ndarray.Normalize
+7. mx.symbol.Normalize
+8. mx.gluon.nn.BatchNorm
+9. mx.ndarray.BatchNorm
+10. mx.symbol.BatchNorm

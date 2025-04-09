@@ -1,0 +1,5 @@
+1. mxnet.initializer.Xavier
+2. mxnet.nd.random.uniform
+3. mxnet.initializer.Normal
+4. mxnet.initializer.MXNetRandom
+5. mxnet.initializer.XavierRndType

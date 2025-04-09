@@ -1,0 +1,3 @@
+
+
+MXNet APIName: mxnet.ndarray.Deconvolution

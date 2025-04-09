@@ -1,0 +1,21 @@
+
+MXNet does not have a direct equivalent of `AveragePooling1D` from TensorFlow. However, you can achieve similar functionality using the `pooling` layer with the `avg` pooling type. Here's an example:
+```python
+import mxnet as mx
+
+# Create a pooling layer with avg pooling type and kernel size of 2
+pool = mx.gluon.nn.Pooling(kernel_size=2, pool_type='avg')
+
+# Input data
+data = mx.nd.array([[1, 2, 3], [4, 5, 6]])
+
+# Apply the pooling layer to the input data
+output = pool(data)
+```
+In this example, the `pooling` layer is created with a kernel size of 2 and an average pooling type. The `avg` pooling type means that the output values are computed by taking the average of the input values in each window. The `kernel_size` parameter specifies the size of the window.
+
+The resulting output will be a tensor with shape `(2, 3)` and values:
+```python
+[[1.5, 2.5, 3.5], [4.5, 5.5, 6.5]]
+```
+Note that the output values are computed by taking the average of the input values in each window, which is equivalent to the `AveragePooling1D` layer from TensorFlow.

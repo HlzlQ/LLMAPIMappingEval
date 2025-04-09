@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.beans.propertydescriptor.getreadmethod`:
+
+1. `System.ComponentModel.PropertyDescriptor.GetValue`
+2. `System.ComponentModel.PropertyDescriptor.GetReadMethod`
+3. `System.Reflection.PropertyInfo.GetGetMethod`
+4. `System.Reflection.PropertyInfo.GetMethod`
+5. `System.Reflection.MemberInfo.GetCustomAttributes`
+6. `System.Reflection.MemberInfo.GetCustomAttribute`
+7. `System.ComponentModel.TypeDescriptor.GetProperties`
+8. `System.ComponentModel.TypeDescriptor.GetPropertyOwner`
+9. `System.ComponentModel.TypeDescriptor.GetPropertyValue`
+10. `System.ComponentModel.TypeDescriptor.GetPropertyValues`

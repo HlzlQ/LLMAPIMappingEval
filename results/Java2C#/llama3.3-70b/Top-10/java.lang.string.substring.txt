@@ -1,0 +1,10 @@
+1. System.String.Substring
+2. System.Text.RegularExpressions.Regex.Substring
+3. System.Linq.Enumerable.Substring
+4. Microsoft.VisualBasic.Strings.Mid
+5. System.Data.SqlClient.SqlString.Substring
+6. System.Xml.Linq.XText.Substring
+7. System.Web.HttpUtility.HtmlSubstring
+8. System.IO.Path.GetFileNameWithoutExtension.Substring
+9. System.Globalization.TextInfo.Substring
+10. System.Text.Encoding.GetString.Substring

@@ -1,0 +1,2 @@
+
+In CNTK, the equivalent API for `tensorflow.compat.v1.saved_model.load` is `cntk.ops.functions.load_model`.

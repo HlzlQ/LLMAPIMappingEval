@@ -1,0 +1,2 @@
+
+Answer: mxnet.gluon.loss.PoissonNLLLoss, mxnet.ndarray.negative_log_likelihood, mxnet.ndarray.mean_squared_error, mxnet.ndarray.softmax_cross_entropy, mxnet.ndarray.sigmoid_binary_cross_entropy

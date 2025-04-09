@@ -1,0 +1,6 @@
+C# does not have a direct equivalent of the `java.lang.String.getChars()` method. However, you can use the `System.Text.Encoding` class to convert a string to an array of characters in C#. Here's an example:
+```csharp
+string str = "Hello, World!";
+char[] chars = System.Text.Encoding.UTF8.GetChars(str);
+```
+This will create a `char[]` array containing the characters of the string `str`.

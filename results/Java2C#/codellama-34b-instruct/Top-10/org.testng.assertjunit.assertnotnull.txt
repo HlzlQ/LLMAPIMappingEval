@@ -1,0 +1,11 @@
+
+* NUnit.Framework.Assert.NotNull
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+* Xunit.Assert.NotNull
+* FluentAssertions.AssertionExtensions.NotBeNull
+* Shouldly.ShouldBeTestExtensions.ShouldNotBeNull
+* NUnit.Framework.Assert.That
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+* Xunit.Assert.True
+* FluentAssertions.AssertionExtensions.BeTrue
+* Shouldly.ShouldBeTestExtensions.ShouldBeTrue

@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the Java API `java.lang.string.intern`:
+
+1. `System.String.Intern`
+2. `System.Runtime.CompilerServices.IsInterned`
+3. `System.Collections.Generic.InternPool<T>.Intern`
+4. `System.Text.StringBuilder.ToString`
+5. `System.IO.StreamReader.ReadToEnd`
+6. `System.Net.WebUtility.HtmlDecode`
+7. `System.Net.WebUtility.UrlDecode`
+8. `System.Net.WebUtility.HtmlEncode`
+9. `System.Net.WebUtility.UrlEncode`
+10. `System.Text.RegularExpressions.Regex.Replace`

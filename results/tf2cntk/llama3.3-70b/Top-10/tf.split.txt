@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that are similar to `tf.split`:
+
+1. `cntk.slice`
+2. `cntk.splice`
+3. `cntk.reshape`
+4. `cntk.transpose`
+5. `cntk.gather`
+6. `cntk.scatter`
+7. `cntk.slice_like`
+8. `cntk.strided_slice`
+9. `cntk.split_axis`
+10. `cntk.unstack`

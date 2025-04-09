@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.MaxPool2d
+2. torch.nn.AvgPool2d
+3. torch.nn.functional.max_pool2d
+4. tensorflow.keras.layers.MaxPooling2D
+5. tensorflow.compat.v1.layers.max_pooling2d

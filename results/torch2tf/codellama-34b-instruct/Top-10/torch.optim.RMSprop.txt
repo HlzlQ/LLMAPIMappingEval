@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.optim.RMSprop`:
+
+1. `tf.train.RMSPropOptimizer`
+2. `tf.keras.optimizers.RMSprop`
+3. `tf.compat.v1.train.RMSPropOptimizer`
+4. `tf.estimator.RMSProp`
+5. `tf.keras.optimizers.Adam` with `amsgrad=True`
+6. `tf.keras.optimizers.Nadam`
+7. `tf.keras.optimizers.SGD` with `momentum=0.9` and `nesterov=True`
+8. `tf.keras.optimizers.Adagrad`
+9. `tf.keras.optimizers.Adadelta`
+10. `tf.keras.optimizers.Adamax`

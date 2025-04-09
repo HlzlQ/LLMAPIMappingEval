@@ -1,0 +1,5 @@
+cntk.relu
+cntk.leaky_relu
+cntk.activation_functions.leaky_relu
+cntk.layers.LeakyReLU
+cntk.ops.leaky_relu

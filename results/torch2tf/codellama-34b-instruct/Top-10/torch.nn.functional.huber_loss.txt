@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for Huber loss:
+
+1. `tf.keras.losses.Huber`
+2. `tf.keras.losses.huber_loss`
+3. `tf.keras.losses.mean_squared_error`
+4. `tf.keras.losses.mean_absolute_error`
+5. `tf.keras.losses.mean_squared_logarithmic_error`
+6. `tf.keras.losses.mean_absolute_percentage_error`
+7. `tf.keras.losses.mean_squared_hinge`
+8. `tf.keras.losses.mean_absolute_hinge`
+9. `tf.keras.losses.mean_squared_logarithmic_hinge`
+10. `tf.keras.losses.mean_absolute_logarithmic_hinge`

@@ -1,0 +1,4 @@
+
+MXNet equivalent of `tensorflow.keras.optimizers.Adam`:
+
+* `mxnet.optimizer.Adam`

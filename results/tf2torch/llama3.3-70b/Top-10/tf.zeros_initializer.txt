@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.zeros_initializer`:
+
+1. torch.nn.init.zeros_
+2. torch.zeros
+3. torch.nn.Parameter(torch.zeros)
+4. torch.tensor(0)
+5. torch.full
+6. torch.nn.init.constant_
+7. torch.nn.init.zeros_like
+8. torch.autograd.Variable(torch.zeros)
+9. torch.nn.Module.register_parameter
+10. torch.nn.init.kaiming_uniform_

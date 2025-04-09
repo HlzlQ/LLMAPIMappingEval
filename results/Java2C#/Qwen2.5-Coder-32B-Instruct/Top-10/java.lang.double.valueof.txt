@@ -1,0 +1,10 @@
+System.Double.Parse  
+System.Convert.ToDouble  
+double.TryParse  
+Convert.ChangeType  
+decimal.ToDouble  
+float.ToDouble  
+int.ToDouble  
+long.ToDouble  
+short.ToDouble  
+byte.ToDouble

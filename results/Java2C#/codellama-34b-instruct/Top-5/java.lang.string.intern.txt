@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.String.Intern(string)
+2. System.Runtime.CompilerServices.IsInterned(string)
+3. System.Collections.Generic.InternPool<T>.Intern(T)
+4. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd(TKey, Func<TKey, TValue>)
+5. System.Collections.Specialized.NameObjectCollectionBase.Get(int)

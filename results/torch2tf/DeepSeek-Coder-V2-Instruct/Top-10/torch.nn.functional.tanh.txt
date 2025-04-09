@@ -1,0 +1,4 @@
+
+Answer: 1. tf.math.tanh
+2. tf.nn.tanh
+3. None (or equivalent)

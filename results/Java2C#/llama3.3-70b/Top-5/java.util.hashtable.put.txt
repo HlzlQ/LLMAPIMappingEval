@@ -1,0 +1,5 @@
+1. System.Collections.Hashtable.Add
+2. System.Collections.Hashtable.Insert
+3. System.Collections.Generic.Dictionary<TKey, TValue>.Add
+4. System.Collections.Specialized.NameValueCollection.Add
+5. System.Collections.Generic.Dictionary<TKey, TValue>.TryAdd

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.save`:
+
+1. `cntk.save`
+2. `cntk.model.save`
+3. `cntk.train.save`
+4. `cntk.utils.save`
+5. `cntk.io.save`
+6. `cntk.data.save`
+7. `cntk.models.save`
+8. `cntk.trainer.save`
+9. `cntk.optimizer.save`
+10. `cntk.scheduler.save`

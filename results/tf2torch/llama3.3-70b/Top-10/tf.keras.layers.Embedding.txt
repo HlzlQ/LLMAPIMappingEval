@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.layers.Embedding`:
+
+1. torch.nn.Embedding
+2. torch.nn.functional.embedding
+3. torch.tensor.embedding
+4. torch.nn.Module.embedding
+5. torch.autograd.Variable.embedding
+6. torch.nn.utils.rnn.pack_sequence.embedding
+7. torch.nn.utils.rnn.pad_sequence.embedding
+8. torch.nn.init.embedding_
+9. torch.nn.parameter.embedding
+10. torch.nn.functional.embed

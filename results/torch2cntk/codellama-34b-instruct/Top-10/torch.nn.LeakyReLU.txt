@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.LeakyReLU`:
+
+1. `cntk.layers.LeakyReLU`
+2. `cntk.layers.activation.LeakyReLU`
+3. `cntk.layers.activation.LeakyRectifiedLinearUnit`
+4. `cntk.layers.activation.LeakyReLUWithNegativeSlope`
+5. `cntk.layers.activation.LeakyReLUWithPositiveSlope`
+6. `cntk.layers.activation.LeakyReLUWithSigmoid`
+7. `cntk.layers.activation.LeakyReLUWithTanh`
+8. `cntk.layers.activation.LeakyReLUWithSoftmax`
+9. `cntk.layers.activation.LeakyReLUWithLogSoftmax`
+10. `cntk.layers.activation.LeakyReLUWithSwish`

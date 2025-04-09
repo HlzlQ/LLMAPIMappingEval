@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `System.Diagnostics.Process.GetCurrentProcess` in C#:
+
+1. java.lang.management.ManagementFactory.getRuntimeMXBean()
+2. java.lang.ProcessHandle.current()
+3. java.lang.Runtime.getRuntime()
+4. java.lang.System.getProperty("pid")
+5. java.lang.ProcessBuilder.start()

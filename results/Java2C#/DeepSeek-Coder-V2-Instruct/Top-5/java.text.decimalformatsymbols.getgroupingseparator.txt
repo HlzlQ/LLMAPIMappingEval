@@ -1,0 +1,5 @@
+1. System.Globalization.NumberFormatInfo.NumberGroupSeparator
+2. System.Globalization.NumberFormatInfo.CurrencyGroupSeparator
+3. System.Globalization.NumberFormatInfo.PercentGroupSeparator
+4. System.Globalization.NumberFormatInfo.DigitSubstitution
+5. System.Globalization.NumberFormatInfo.NegativeSign

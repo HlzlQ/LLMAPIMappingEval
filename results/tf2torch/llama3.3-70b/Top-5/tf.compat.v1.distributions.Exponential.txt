@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings:
+
+1. torch.distributions.Exponential
+2. torch.distributions.ChangedExponential
+3. torch.distributions.RelaxedExponential
+4. torch.distributions.Laplace
+5. torch.distributions.Gamma

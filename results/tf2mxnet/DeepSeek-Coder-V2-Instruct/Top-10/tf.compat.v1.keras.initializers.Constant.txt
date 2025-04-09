@@ -1,0 +1,16 @@
+
+```python
+import tensorflow as tf
+tf_constant = tf.keras.initializers.Constant(value=1.0)
+```
+
+Answer: 1. `mxnet.initializer.Constant`
+2. `mxnet.ndarray.full_like`
+3. `mxnet.symbol.ones_like`
+4. `mxnet.gluon.parameter.Parameter`
+5. `mxnet.init.One`
+6. `mxnet.random.uniform`
+7. `mxnet.ndarray.zeros_like`
+8. `mxnet.sym.ones`
+9. `mxnet.symbol.Variable`
+10. `mxnet.gluon.nn.Parameter`

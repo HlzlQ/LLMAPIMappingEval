@@ -1,0 +1,10 @@
+1. Int32.Parse
+2. Convert.ToInt32
+3. ParseInt32
+4. Integer.TryParse
+5. String.ToInteger
+6. NumberUtils.toInt
+7. parseInt
+8. ToInt32
+9. int.Parse
+10. Convert.ToInt32Exact

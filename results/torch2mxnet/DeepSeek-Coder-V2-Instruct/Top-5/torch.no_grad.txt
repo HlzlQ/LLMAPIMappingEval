@@ -1,0 +1,7 @@
+
+
+1. `torch.no_grad()` -> `mxnet.autograd.pause()`
+2. `torch.Tensor` -> `mxnet.ndarray.NDArray`
+3. `torch.nn.Module` -> `mxnet.gluon.Block`
+4. `torch.optim` -> `mxnet.optimizer`
+5. `torch.autograd.grad()` -> `mxnet.autograd.grad()`

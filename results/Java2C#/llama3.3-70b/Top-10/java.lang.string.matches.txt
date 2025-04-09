@@ -1,0 +1,10 @@
+1. System.Text.RegularExpressions.Regex.IsMatch
+2. System.Text.RegularExpressions.Regex.Matches
+3. System.Text.RegularExpressions.Match
+4. Microsoft.VisualBasic.Strings.LikeOperator
+5. System.Text.RegularExpressions.Pattern.IsMatch
+6. System.Text.RegularExpressions.Pattern.Matches
+7. System.Text.RegularExpressions.Matcher
+8. System.Text.RegularExpressions.GroupCollection
+9. System.Text.RegularExpressions.CaptureCollection
+10. System.Text.RegularExpressions.MatchCollection

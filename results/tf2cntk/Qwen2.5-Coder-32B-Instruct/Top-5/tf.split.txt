@@ -1,0 +1,5 @@
+cntk.ops.slice
+cntk.ops.splice
+cntk.ops.reshape
+cntk.ops.axis_slice
+cntk.ops.sequence.last_outputs

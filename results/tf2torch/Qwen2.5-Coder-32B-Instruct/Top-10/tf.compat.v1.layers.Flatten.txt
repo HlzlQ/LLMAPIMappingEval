@@ -1,0 +1,10 @@
+torch.flatten  
+torch.nn.Flatten  
+torch.Tensor.view  
+torch.Tensor.reshape  
+torch.Tensor.contiguous  
+torch.Tensor.squeeze  
+torch.Tensor.unsqueeze  
+torch.Tensor.permute  
+torch.Tensor.transpose  
+torch.Tensor.chunk

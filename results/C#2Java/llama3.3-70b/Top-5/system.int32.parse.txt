@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.int32.parse` in C#:
+
+1. java.lang.Integer.parseInt
+2. java.lang.Short.parseShort
+3. java.lang.Byte.parseByte
+4. java.lang.Long.parseLong
+5. java.util.Scanner.nextInt

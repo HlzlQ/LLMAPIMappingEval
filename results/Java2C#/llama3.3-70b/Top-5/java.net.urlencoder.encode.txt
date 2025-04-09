@@ -1,0 +1,5 @@
+1. System.Web.HttpUtility.UrlEncode
+2. System.Net.WebUtility.UrlEncode
+3. System.Uri.EscapeDataString
+4. System.Net.Http.Formatting.UrlEncodedFormatter
+5. Microsoft.AspNetCore.WebUtilities.QueryHelpers.AddQueryString

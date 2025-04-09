@@ -1,0 +1,22 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Embedding | mxnet.ndarray.Embedding |
+  | torch.nn.EmbeddingBag | mxnet.ndarray.EmbeddingBag |
+  | torch.nn.functional.embedding | mxnet.ndarray.functional.embedding |
+  | torch.nn.functional.embedding_bag | mxnet.ndarray.functional.embedding_bag |
+  | torch.nn.init.normal_ | mxnet.initializer.Normal |
+  | torch.nn.init.uniform_ | mxnet.initializer.Uniform |
+  | torch.nn.init.constant_ | mxnet.initializer.Constant |
+  | torch.nn.init.eye_ | mxnet.initializer.Eye |
+  | torch.nn.init.dirac_ | mxnet.initializer.Dirac |
+  | torch.nn.init.kaiming_uniform_ | mxnet.initializer.KaimingUniform |
+  | torch.nn.init.kaiming_normal_ | mxnet.initializer.KaimingNormal |
+  | torch.nn.init.orthogonal_ | mxnet.initializer.Orthogonal |
+  | torch.nn.init.sparse_ | mxnet.initializer.Sparse |
+  | torch.nn.init.variance_scaling_ | mxnet.initializer.VarianceScaling |
+  | torch.nn.init.glorot_normal_ | mxnet.initializer.GlorotNormal |
+  | torch.nn.init.glorot_uniform_ | mxnet.initializer.GlorotUniform |
+  | torch.nn.init.he_normal_ | mxnet.initializer.HeNormal |
+  | torch.nn.init.he_uniform_ | mxnet.initializer.HeUniform |
+  | torch.nn.init.lecun_normal_ | mxnet.initializer.LeCunNormal |
+  | torch.nn.init.lecun_uniform_ | mxnet.initializer.LeCunUniform |

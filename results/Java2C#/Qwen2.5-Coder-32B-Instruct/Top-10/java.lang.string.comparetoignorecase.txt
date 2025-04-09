@@ -1,0 +1,10 @@
+System.String.CompareTo
+System.String.Compare
+System.String.Equals
+System.String.Equals(System.String, System.StringComparison)
+System.String.Equals(System.String, System.String, System.StringComparison)
+System.String.CompareOrdinal
+System.String.Compare(System.String, System.String, System.Boolean)
+System.String.Compare(System.String, System.String, System.StringComparison)
+System.String.Compare(System.String, Int32, System.String, Int32, Int32, System.StringComparison)
+System.Globalization.CultureInfo.CompareInfo.Compare

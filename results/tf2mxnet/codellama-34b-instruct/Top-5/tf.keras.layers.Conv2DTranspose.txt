@@ -1,0 +1,7 @@
+  tf.keras.layers.Conv2DTranspose is a TensorFlow API for transposed convolutional layers. The equivalent MXNet API with the same functionality is:
+
+1. mxnet.gluon.nn.Conv2DTranspose
+2. mxnet.gluon.nn.Deconvolution
+3. mxnet.gluon.nn.UpSampling
+4. mxnet.gluon.nn.PixelShuffle
+5. mxnet.gluon.nn.SubpixelConv2D

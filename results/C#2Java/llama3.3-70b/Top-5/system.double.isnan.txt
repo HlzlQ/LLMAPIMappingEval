@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.double.isnan` in C#:
+
+1. java.lang.Double.isNaN()
+2. java.lang.Float.isNaN()
+3. java.lang.Math.NaN
+4. java.lang.Double.parseDouble()
+5. java.lang.Double.valueOf()

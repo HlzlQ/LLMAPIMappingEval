@@ -1,0 +1,5 @@
+java.sql.ResultSet.getBoolean
+java.sql.CallableStatement.getBoolean
+java.sql.PreparedStatement.getBoolean
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement

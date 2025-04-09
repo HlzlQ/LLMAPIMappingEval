@@ -1,0 +1,3 @@
+  tf.keras.layers.Conv3DTranspose is a TensorFlow API for creating a 3D transposed convolutional layer. The equivalent MXNet API is:
+
+* mxnet.gluon.nn.Conv3DTranspose

@@ -1,0 +1,5 @@
+1. mx gluon.nn.ELU
+2. mx.nd.LeakyReLUV1
+3. mx.gluon.contrib.nn.ELU
+4. mx.sym.LeakyReLUV1
+5. mx.gluon.nn.LeakyReLU

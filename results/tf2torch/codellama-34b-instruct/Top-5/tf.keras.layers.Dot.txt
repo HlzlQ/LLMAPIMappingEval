@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.layers.Dot`:
+
+1. `torch.nn.Linear`
+2. `torch.nn.functional.linear`
+3. `torch.nn.functional.dot`
+4. `torch.nn.functional.matmul`
+5. `torch.nn.functional.einsum`

@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.Convolution2D
+2. cntk.ops.convolution
+3. cntk.ops.convolution_transpose
+4. cntk.ops.pooling
+5. cntk.ops.max_pooling
+6. cntk.ops.average_pooling
+7. cntk.ops.global_max_pooling
+8. cntk.ops.global_average_pooling
+9. cntk.ops.batch_normalization
+10. cntk.ops.relu

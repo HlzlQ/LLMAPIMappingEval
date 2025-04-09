@@ -1,0 +1,7 @@
+  The following are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.PixelUnshuffle`:
+
+1. `mxnet.ndarray.pixel_unshuffle`
+2. `mxnet.ndarray.unshuffle`
+3. `mxnet.ndarray.pixel_unfold`
+4. `mxnet.ndarray.unfold`
+5. `mxnet.ndarray.pixel_reshape`

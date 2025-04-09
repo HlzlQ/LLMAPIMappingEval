@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Linear
+2. torch.nn.Conv1d
+3. torch.nn.Conv2d
+4. torch.nn.Conv3d
+5. torch.nn.BatchNorm1d
+6. torch.nn.BatchNorm2d
+7. torch.nn.BatchNorm3d
+8. torch.nn.Dropout
+9. torch.nn.Flatten
+10. torch.nn.ReLU

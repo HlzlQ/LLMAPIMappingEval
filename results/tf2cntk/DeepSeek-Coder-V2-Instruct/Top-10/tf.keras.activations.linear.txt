@@ -1,0 +1,16 @@
+
+"""
+
+# Answer:
+"""
+1. tensorflow.keras.activations.relu
+2. tensorflow.keras.activations.sigmoid
+3. tensorflow.keras.activations.tanh
+4. tensorflow.keras.activations.softmax
+5. tensorflow.keras.layers.Dense
+6. tensorflow.keras.models.Sequential
+7. tensorflow.keras.optimizers.Adam
+8. tensorflow.keras.losses.SparseCategoricalCrossentropy
+9. tensorflow.keras.metrics.Accuracy
+10. tensorflow.keras.callbacks.ModelCheckpoint
+"""

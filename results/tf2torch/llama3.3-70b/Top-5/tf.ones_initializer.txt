@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that match the functionality of `tensorflow.ones_initializer`:
+
+1. torch.ones
+2. torch.nn.init.ones_
+3. torch.nn.Parameter(torch.ones)
+4. torch.tensor([1])
+5. torch.nn.init.constant_

@@ -1,0 +1,5 @@
+java.lang.String.indexOf
+java.lang.String.lastIndexOf
+java.lang.String.indexOf(int)
+java.lang.String.lastIndexOf(int)
+java.lang.String.indexOf(java.lang.String)

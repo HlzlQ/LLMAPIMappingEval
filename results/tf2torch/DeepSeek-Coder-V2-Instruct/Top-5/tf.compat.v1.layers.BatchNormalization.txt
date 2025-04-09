@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.BatchNorm1d
+2. torch.nn.BatchNorm2d
+3. torch.nn.BatchNorm3d
+4. torch.nn.InstanceNorm1d
+5. torch.nn.InstanceNorm2d

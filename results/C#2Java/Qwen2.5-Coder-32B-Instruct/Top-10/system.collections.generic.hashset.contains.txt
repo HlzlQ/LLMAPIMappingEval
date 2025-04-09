@@ -1,0 +1,10 @@
+java.util.HashSet.contains
+java.util.LinkedHashSet.contains
+java.util.concurrent.ConcurrentHashMap.containsKey
+java.util.HashMap.containsKey
+java.util.Hashtable.containsKey
+java.util.IdentityHashMap.containsKey
+java.util.Properties.containsKey
+java.util.TreeMap.containsKey
+java.util.WeakHashMap.containsKey
+java.util.Collections.newSetFromMap.contains

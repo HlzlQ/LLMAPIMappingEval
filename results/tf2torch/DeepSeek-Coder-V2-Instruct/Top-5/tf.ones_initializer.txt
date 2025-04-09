@@ -1,0 +1,7 @@
+
+
+1. tf.zeros_initializer
+2. tf.ones_initializer
+3. tf.random_normal_initializer
+4. tf.constant_initializer
+5. tf.initializers.variance_scaling

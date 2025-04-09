@@ -1,0 +1,10 @@
+1. System.IO.File.Create
+2. System.IO.File.Open
+3. System.IO.File.WriteAllText
+4. System.IO.StreamWriter
+5. System.IO.File.AppendAllText
+6. System.IO.File.WriteAllBytes
+7. System.IO.File.CreateText
+8. System.IO.File.OpenWrite
+9. System.IO.File.OpenText
+10. System.IO.File.AppendAllLines

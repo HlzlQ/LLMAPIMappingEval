@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.norm`:
+
+1. `mxnet.ndarray.norm`
+2. `mxnet.numpy.linalg.norm`
+3. `mxnet.numpy.linalg.vector_norm`
+4. `mxnet.numpy.linalg.matrix_norm`
+5. `mxnet.numpy.linalg.tensor_norm`
+6. `mxnet.numpy.linalg.norm_frobenius`
+7. `mxnet.numpy.linalg.norm_nuclear`
+8. `mxnet.numpy.linalg.norm_spectral`
+9. `mxnet.numpy.linalg.norm_max`
+10. `mxnet.numpy.linalg.norm_min`

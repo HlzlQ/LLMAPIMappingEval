@@ -1,0 +1,10 @@
+1. String.CompareToIgnoreCase
+2. String.Equals
+3. String.IndexOf
+4. String.LastIndexOf
+5. String.StartsWith
+6. String.EndsWith
+7. String.Contains
+8. String.Replace
+9. String.Substring
+10. String.Trim

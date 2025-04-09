@@ -1,0 +1,11 @@
+
+MXNet does not have a direct equivalent of the `Softmax` layer in TensorFlow. However, you can achieve similar functionality using the `softmax` activation function in MXNet's `Activation` layer. Here is an example:
+```
+import mxnet as mx
+
+# Create a model with a softmax activation function
+model = mx.gluon.nn.Sequential()
+with model.name_scope():
+    model.add(mx.gluon.nn.Dense(10, activation='softmax'))
+```
+In this example, the `Dense` layer is used to create a fully connected neural network with 10 output units, and the `activation` argument is set to `'softmax'` to apply the softmax activation function to the output of the layer. This will result in a probability distribution over the 10 classes.

@@ -1,0 +1,5 @@
+1. System.Double.Parse
+2. System.Double.TryParse
+3. System.Convert.ToDouble
+4. System.Single.Parse
+5. System.Decimal.Parse

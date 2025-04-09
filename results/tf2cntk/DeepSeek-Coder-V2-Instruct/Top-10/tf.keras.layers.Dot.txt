@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.ops.element_times
+2. cntk.ops.reduce_sum
+3. cntk.ops.plus
+4. cntk.ops.minus
+5. cntk.ops.times
+6. cntk.ops.divide
+7. cntk.ops.pow
+8. cntk.ops.sqrt
+9. cntk.ops.log
+10. cntk.ops.exp

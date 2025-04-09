@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for fractional max pooling:
+
+1. `tf.nn.fractional_max_pool2d`
+2. `tf.nn.fractional_max_pool3d`
+3. `tf.nn.fractional_max_pool`
+4. `tf.nn.max_pool2d`
+5. `tf.nn.max_pool3d`
+6. `tf.nn.max_pool`
+7. `tf.nn.fractional_avg_pool2d`
+8. `tf.nn.fractional_avg_pool3d`
+9. `tf.nn.fractional_avg_pool`
+10. `tf.nn.avg_pool2d`

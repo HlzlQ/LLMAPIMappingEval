@@ -1,0 +1,5 @@
+System.Int32.Parse  
+System.Convert.ToInt32  
+int.Parse  
+Convert.ToInt32  
+Int32.Parse

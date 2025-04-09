@@ -1,0 +1,5 @@
+1. **IsNull**: Represents a method used to check if the current field value is null.
+2. **GetInt32**: Retrieves the value of the designated column in the current row as an integer (int).
+3. **GetString**: Retrieves the value of the designated column in the current row as a string.
+4. **Next**: Moves the cursor forward one row from its current position, or to the end if it is already there.
+5. **Close**: Closes the ResultSet object and releases any resources that it might be holding.

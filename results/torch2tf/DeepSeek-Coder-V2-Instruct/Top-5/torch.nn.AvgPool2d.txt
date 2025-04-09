@@ -1,0 +1,2 @@
+
+Answer: tf.keras.layers.AveragePooling2D

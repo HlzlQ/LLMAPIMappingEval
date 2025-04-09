@@ -1,0 +1,5 @@
+1. Char.IsLower(char)
+2. String.IsNullOrWhiteSpace(string)
+3. String.IsNullOrEmpty(string)
+4. Regex.IsMatch(string, @"^[a-z]+$")
+5. char.IsLetter(char)

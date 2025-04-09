@@ -1,0 +1,5 @@
+System.String.ToCharArray  
+System.String.CopyTo  
+System.Text.Encoding.GetBytes  
+System.Buffer.BlockCopy  
+System.Runtime.InteropServices.Marshal.Copy

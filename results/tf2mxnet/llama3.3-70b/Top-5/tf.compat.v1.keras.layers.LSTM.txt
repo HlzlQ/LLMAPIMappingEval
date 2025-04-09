@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.keras.layers.LSTM`:
+
+1. mxnet.gluon.rnn.LSTM
+2. mxnet.ndarray LSTM
+3. mxnet.gluon.nn.LSTM
+4. mxnet.contrib.rnn.LSTM
+5. mxnet.gluon.rnn.LSTMBasicCell

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.init.kaiming_uniform`:
+
+1. `cntk.initializer.kaiming_uniform`
+2. `cntk.initializer.he_uniform`
+3. `cntk.initializer.glorot_uniform`
+4. `cntk.initializer.xavier_uniform`
+5. `cntk.initializer.msra_uniform`

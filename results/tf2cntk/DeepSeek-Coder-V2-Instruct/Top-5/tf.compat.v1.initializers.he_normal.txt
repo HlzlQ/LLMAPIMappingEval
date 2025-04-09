@@ -1,0 +1,17 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+```
+
+```python
+# Output:
+# GlorotUniform
+# HeNormal
+# XavierUniform
+# ConstantInitializer
+# NormalInitializer
+```

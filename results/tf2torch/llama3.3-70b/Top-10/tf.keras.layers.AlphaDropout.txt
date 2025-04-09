@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.AlphaDropout`:
+
+1. torch.nn.AlphaDropout
+2. torch.nn.Dropout
+3. torch.nn.FeatureDropout
+4. torch.nn.Dropout2d
+5. torch.nn.Dropout3d
+6. torch.nn.RNNBase.dropout
+7. torch.nn.LSTM.dropout
+8. torch.nn.GRU.dropout
+9. torch.nn.RNN.dropout
+10. torch.nn.Module.dropout

@@ -1,0 +1,7 @@
+  Here are five C# APIs that have similar functionality to the Java API `java.lang.Character.isUpperCase()`:
+
+1. `char.IsUpper()`: This method returns a boolean value indicating whether the specified character is an uppercase letter.
+2. `Char.IsLetter()`: This method returns a boolean value indicating whether the specified character is a letter (either uppercase or lowercase).
+3. `Char.IsLetterOrDigit()`: This method returns a boolean value indicating whether the specified character is a letter or a digit.
+4. `Char.ToUpper()`: This method converts the specified character to its uppercase equivalent and returns the result as a new character.
+5. `Char.ToLower()`: This method converts the specified character to its lowercase equivalent and returns the result as a new character.

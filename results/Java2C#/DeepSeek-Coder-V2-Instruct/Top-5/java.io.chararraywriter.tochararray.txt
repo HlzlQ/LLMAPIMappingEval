@@ -1,0 +1,5 @@
+1. CharArrayWriter.ToCharArray()
+2. StringWriter.ToString()
+3. MemoryStream.ToArray()
+4. StreamReader.ReadToEnd()
+5. StringBuilder.ToString()

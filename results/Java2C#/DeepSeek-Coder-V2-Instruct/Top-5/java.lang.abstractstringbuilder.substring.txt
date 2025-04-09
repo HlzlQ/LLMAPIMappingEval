@@ -1,0 +1,5 @@
+1. Substring(int startIndex)
+2. Substring(int startIndex, int length)
+3. ToString()
+4. Append(string value)
+5. Insert(int index, string value)

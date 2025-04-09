@@ -1,0 +1,5 @@
+mxnet.init.Constant
+mxnet.init.One
+mxnet.initializer.Constant
+mxnet.initializer.One
+mxnet.ndarray.ones

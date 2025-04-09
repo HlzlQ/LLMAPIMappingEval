@@ -1,0 +1,5 @@
+1. Char.IsDigit
+2. Int32.TryParse
+3. Regex.IsMatch
+4. IsNumeric
+5. Double.TryParse

@@ -1,0 +1,5 @@
+1. dropout
+2. DropOut
+3. cntk.dropout
+4. CNTKLib.Dropout
+5. drop_path

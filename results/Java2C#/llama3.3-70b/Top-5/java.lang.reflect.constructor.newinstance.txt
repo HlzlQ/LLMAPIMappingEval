@@ -1,0 +1,5 @@
+1. System.Activator.CreateInstance
+2. System.Reflection.Assembly.CreateInstance
+3. System.RuntimeType.CreateInstanceImpl
+4. System.AppDomain.CreateInstance
+5. System.Reflection.Emit.ConstructorInfo.Invoke

@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs for the C# `System.Math.Floor` method:
+
+1. `java.lang.Math.floor(double)`
+2. `java.lang.StrictMath.floor(double)`
+3. `java.math.BigDecimal.floor()`
+4. `java.math.RoundingMode.FLOOR`
+5. `java.math.MathContext.floor()`
+6. `java.util.function.Function.floor()`
+7. `java.lang.Double.floor(double)`
+8. `java.lang.Float.floor(float)`
+9. `java.lang.Integer.floor(int)`
+10. `java.lang.Long.floor(long)`

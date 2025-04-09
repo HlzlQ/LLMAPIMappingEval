@@ -1,0 +1,5 @@
+1. torch.save
+2. torch.nn.Module.state_dict
+3. torch.nn.Module.load_state_dict
+4. torch.save(model.state_dict(), PATH)
+5. torch.load(PATH)

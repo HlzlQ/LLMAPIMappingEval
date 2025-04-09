@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.losses.CategoricalHinge`:
+
+1. `torch.nn.functional.cross_entropy`
+2. `torch.nn.functional.binary_cross_entropy`
+3. `torch.nn.functional.hinge_embedding_loss`
+4. `torch.nn.functional.margin_ranking_loss`
+5. `torch.nn.functional.multi_label_soft_margin_loss`
+6. `torch.nn.functional.sigmoid_cross_entropy`
+7. `torch.nn.functional.softmax_cross_entropy`
+8. `torch.nn.functional.softmax_hinge_embedding_loss`
+9. `torch.nn.functional.softmax_margin_ranking_loss`
+10. `torch.nn.functional.softmax_multi_label_soft_margin_loss`

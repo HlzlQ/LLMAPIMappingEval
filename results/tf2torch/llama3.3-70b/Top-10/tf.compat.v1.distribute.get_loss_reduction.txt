@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that may have similar functions:
+
+1. torch.distributed.ReduceOp
+2. torch.nn.DataParallel
+3. torch.nn.parallel.DistributedDataParallel
+4. torch.optim.lr_scheduler.ReduceLROnPlateau
+5. torch.cuda.amp.GradScaler
+6. torch.autograd.detect_anomaly
+7. torch.utils.data.distributed.DistributedSampler
+8. torch.nn.Module.loss_reduction
+9. torch.optim.Optimizer.step
+10. torch.distributed.all_reduce

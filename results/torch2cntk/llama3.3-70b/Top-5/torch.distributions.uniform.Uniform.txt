@@ -1,0 +1,5 @@
+1. cntk.layers.uniform
+2. cntk.distributions.uniform_distribution
+3. cntk.random.uniform
+4. cntk.ops.uniform
+5. cntk.initializers.uniform_initializer

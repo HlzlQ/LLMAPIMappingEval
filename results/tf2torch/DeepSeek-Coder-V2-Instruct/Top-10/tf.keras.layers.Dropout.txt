@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Dropout
+2. torch.nn.BatchNorm1d
+3. torch.nn.Linear
+4. torch.nn.Conv1d
+5. torch.nn.MaxPooling1d
+6. torch.nn.ReLU
+7. torch.nn.Sigmoid
+8. torch.nn.Tanh
+9. torch.nn.Flatten
+10. torch.nn.Dropout2d

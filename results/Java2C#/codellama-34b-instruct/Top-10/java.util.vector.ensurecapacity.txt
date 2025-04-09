@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.vector.ensurecapacity`:
+
+1. `System.Collections.Generic.List<T>.EnsureCapacity`
+2. `System.Collections.ArrayList.EnsureCapacity`
+3. `System.Collections.Specialized.NameValueCollection.EnsureCapacity`
+4. `System.Collections.Hashtable.EnsureCapacity`
+5. `System.Collections.SortedList.EnsureCapacity`
+6. `System.Collections.Generic.LinkedList<T>.EnsureCapacity`
+7. `System.Collections.Generic.Stack<T>.EnsureCapacity`
+8. `System.Collections.Generic.Queue<T>.EnsureCapacity`
+9. `System.Collections.Concurrent.ConcurrentBag<T>.EnsureCapacity`
+10. `System.Collections.Concurrent.ConcurrentQueue<T>.EnsureCapacity`

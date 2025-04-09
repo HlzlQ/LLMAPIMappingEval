@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+Answer: ```python
+TensorFlow: tf.keras.initializers.Constant
+PyTorch: torch.nn.init.constant_
+```

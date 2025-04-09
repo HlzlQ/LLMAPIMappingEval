@@ -1,0 +1,2 @@
+
+Answer: torch.linalg.vector_norm, torch.linalg.matrix_norm, tf.norm, tf.sqrt, tf.reduce_sum

@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Collections.Generic.List<T>.ElementAt(int index)`
+2. `System.Collections.Generic.IList<T>.ElementAt(int index)`
+3. `System.Collections.Generic.IEnumerable<T>.ElementAt(int index)`
+4. `System.Linq.Enumerable.ElementAt<T>(this IEnumerable<T> source, int index)`
+5. `System.Linq.Queryable.ElementAt<T>(this IQueryable<T> source, int index)`

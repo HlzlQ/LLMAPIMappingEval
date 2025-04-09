@@ -1,0 +1,5 @@
+NUnit.Framework.Assert.AreEqual  
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual  
+Xunit.Assert.Equal  
+FluentAssertions.Assertions.Should().Be  
+NSubstitute.Received.InOrderExtensions.ReceivedWithAnyArgs().Equals

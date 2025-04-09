@@ -1,0 +1,5 @@
+1. java.lang.Math.floor
+2. java.lang.StrictMath.floor
+3. java.math.BigDecimal.setScale
+4. java.math.BigDecimal.floor
+5. javax.swing.JSpinner.setValue

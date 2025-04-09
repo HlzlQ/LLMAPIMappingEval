@@ -1,0 +1,2 @@
+
+Answer: tensorflow.truncated_normal_initializer, tensorflow.zeros_initializer, tensorflow.ones_initializer, tensorflow.constant_initializer, tensorflow.random_normal_initializer, tensorflow.glorot_uniform_initializer, tensorflow.glorot_normal_initializer, tensorflow.he_uniform_initializer, tensorflow.he_normal_initializer, tensorflow.random_uniform_initializer

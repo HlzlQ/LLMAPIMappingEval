@@ -1,0 +1,11 @@
+
+Answer: 1. tf.distributions.Normal
+2. tf.compat.v1.distributions.Normal
+3. tf.normal
+4. tf.random_normal
+5. tf.keras.layers.GaussianNoise
+6. tf.keras.layers.GaussianDropout
+7. tf.nn.sampled_softmax_loss
+8. tf.contrib.distributions.Normal
+9. tf.compat.v2.distributions.Normal
+10. tf.random_normal_initializer

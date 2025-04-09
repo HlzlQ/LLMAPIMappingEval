@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.no_grad`:
+
+1. `mx.autograd.train_mode`
+2. `mx.autograd.predict_mode`
+3. `mx.context.set_train`
+4. `mx.context.set_predict`
+5. `mx.nd.stop_gradient`
+6. `mx.sym.stop_gradient`
+7. `mx.autograd.record`
+8. `mx.autograd.pause`
+9. `mx.autograd.resume`
+10. `mx.autograd.set_training`

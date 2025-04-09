@@ -1,0 +1,10 @@
+System.IO.StreamReader.Read
+System.IO.StreamReader.ReadAsync
+System.IO.StreamReader.ReadToEnd
+System.IO.StreamReader.ReadToEndAsync
+System.IO.StreamReader.ReadLine
+System.IO.StreamReader.ReadLineAsync
+System.IO.StreamReader.Peek
+System.IO.StreamReader.PeekAsync
+System.IO.StreamReader.ReadBlock
+System.IO.StreamReader.ReadBlockAsync

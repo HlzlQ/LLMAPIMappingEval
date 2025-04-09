@@ -1,0 +1,10 @@
+System.Console.WriteLine  
+System.IO.StreamWriter.WriteLine  
+System.Diagnostics.Debug.WriteLine  
+System.Diagnostics.Trace.WriteLine  
+System.Text.StringBuilder.AppendLine  
+System.Web.HttpResponse.Write  
+System.Windows.Forms.MessageBox.Show  
+System.ServiceModel.Channels.Message.ToString  
+System.Xml.XmlTextWriter.WriteString  
+System.Data.SqlClient.SqlCommand.CommandText

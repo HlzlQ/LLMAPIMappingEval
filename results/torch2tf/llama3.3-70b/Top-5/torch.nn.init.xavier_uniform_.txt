@@ -1,0 +1,5 @@
+1. tf.keras.initializers.GlorotUniform
+2. tf.keras.initializers.VarianceScaling
+3. tf.keras.initializers.glorot_normal
+4. tf.keras.initializers.glorot_uniform
+5. tf.initializers.GlorotUniform_initializer

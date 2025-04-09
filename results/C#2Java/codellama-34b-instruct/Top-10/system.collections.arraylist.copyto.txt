@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that match the functionality of `system.collections.arraylist.copyto` in C#:
+
+1. `java.util.ArrayList.addAll(Collection<? extends E> c)`
+2. `java.util.ArrayList.addAll(int index, Collection<? extends E> c)`
+3. `java.util.ArrayList.addAll(E... elements)`
+4. `java.util.ArrayList.addAll(int index, E... elements)`
+5. `java.util.ArrayList.addElement(E element)`
+6. `java.util.ArrayList.addElements(Collection<? extends E> c)`
+7. `java.util.ArrayList.addElements(E... elements)`
+8. `java.util.ArrayList.addIfAbsent(E element)`
+9. `java.util.ArrayList.addIfAbsentAll(Collection<? extends E> c)`
+10. `java.util.ArrayList.addIfAbsentAll(E... elements)`

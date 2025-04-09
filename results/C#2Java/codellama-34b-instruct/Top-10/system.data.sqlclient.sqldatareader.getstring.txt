@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.sql.ResultSet.getString()
+2. java.sql.SQLDataReader.getString()
+3. oracle.jdbc.driver.OracleResultSet.getString()
+4. com.microsoft.sqlserver.jdbc.SQLServerResultSet.getString()
+5. org.postgresql.jdbc.PgResultSet.getString()
+6. com.ibm.db2.jcc.DB2ResultSet.getString()
+7. com.mysql.cj.jdbc.resultset.ResultSetImpl.getString()
+8. org.apache.derby.client.am.ResultSet.getString()
+9. org.hsqldb.jdbc.JDBCResultSet.getString()
+10. org.sqlite.jdbc4.JDBC4ResultSet.getString()

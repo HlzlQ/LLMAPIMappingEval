@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.Softplus`:
+
+1. `cntk.layers.Softplus`
+2. `cntk.activations.softplus`
+3. `cntk.layers.Activation(cntk.activations.softplus)`
+4. `cntk.layers.Dense(cntk.activations.softplus)`
+5. `cntk.layers.Conv2D(cntk.activations.softplus)`

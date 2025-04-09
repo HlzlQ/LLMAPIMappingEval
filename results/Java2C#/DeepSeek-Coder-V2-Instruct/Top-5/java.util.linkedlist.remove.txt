@@ -1,0 +1,5 @@
+1. Remove(LinkedList<T>.Node node)
+2. RemoveFirst()
+3. RemoveLast()
+4. Remove(Object o)
+5. RemoveAt(int index)

@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.optim.Adadelta`:
+
+1. tf.keras.optimizers.Adadelta
+2. tf.train.AdadeltaOptimizer
+3. tf.optimizers.Adadelta
+4. tf.keras.optimizers.Adagrad
+5. tf.train.RMSPropOptimizer
+6. tf.optimizers.RMSprop
+7. tf.keras.optimizers.Adam
+8. tf.train.AdamOptimizer
+9. tf.optimizers.Adamax
+10. tf.train.MomentumOptimizer

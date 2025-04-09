@@ -1,0 +1,10 @@
+java.lang.Integer.parseInt
+java.lang.Long.parseLong
+java.math.BigInteger.valueOf
+java.math.BigDecimal.valueOf
+java.nio.ByteBuffer.getInt
+java.nio.ShortBuffer.getShort
+java.nio.IntBuffer.getInt
+java.nio.LongBuffer.getLong
+java.util.Scanner.nextInt
+java.text.NumberFormat.parse

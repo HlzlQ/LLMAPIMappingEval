@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.ConvTranspose3d
+2. torch.nn.functional.conv_transpose3d
+3. torch.nn.Upsample
+4. torch.nn.PixelShuffle
+5. torch.nn.Conv3d

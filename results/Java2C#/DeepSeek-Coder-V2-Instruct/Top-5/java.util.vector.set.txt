@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.Set(Int32, T)
+2. System.Array.SetValue(Object, Int32)
+3. System.Collections.ArrayList.Set(Int32, Object)
+4. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryUpdate(TKey, TValue, TValue)
+5. System.Collections.Immutable.ImmutableArray<T>.Item[Int32]

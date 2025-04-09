@@ -1,0 +1,10 @@
+cntk.layers.Dense
+cntk.ops.relu
+cntk.layers.Activation
+cntk.layers.Sequential
+cntk.layers.For
+cntk.layers.Recurrence
+cntk.layers.Dropout
+cntk.layers.BatchNormalization
+cntk.layers.Convolution2D
+cntk.layers.MaxPooling2D

@@ -1,0 +1,5 @@
+1. tf.nn.selu
+2. tf.keras.activations.selu
+3. tf.keras.layers.Activation('selu')
+4. tf.math селу (not available)
+5. tf.keras.layers.SELU

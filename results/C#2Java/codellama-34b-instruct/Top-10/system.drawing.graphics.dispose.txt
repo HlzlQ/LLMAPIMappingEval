@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the given C# API:
+
+1. `java.awt.Graphics2D.dispose()`
+2. `java.awt.Graphics.dispose()`
+3. `javax.swing.JComponent.dispose()`
+4. `java.awt.Image.dispose()`
+5. `java.awt.image.BufferedImage.dispose()`
+6. `java.awt.geom.AffineTransform.dispose()`
+7. `java.awt.font.FontRenderContext.dispose()`
+8. `java.awt.color.ColorSpace.dispose()`
+9. `java.awt.image.renderable.RenderableImage.dispose()`
+10. `java.awt.print.PrintGraphics.dispose()`

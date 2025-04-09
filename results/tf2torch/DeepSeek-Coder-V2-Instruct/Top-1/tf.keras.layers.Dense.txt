@@ -1,0 +1,45 @@
+
+<jupyter_text>
+Answer: ```pytorch.nn.Linear```  Task 2: Implementing a Simple Neural Network in TensorFlow/Keras
+<jupyter_code>
+import tensorflow as tf
+from tensorflow.keras import layers, models
+
+# Define the model architecture
+model = models.Sequential([
+    layers.Dense(64, activation='relu', input_shape=(784,)),
+    layers.Dense(10, activation='softmax')
+])
+
+# Compile the model
+model.compile(optimizer='adam',
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Task 3: Implementing a Simple Neural Network in PyTorch
+<jupyter_code>
+import torch
+from torch import nn, optim
+
+# Define the model architecture
+class SimpleNN(nn.Module):
+    def __init__(self):
+        super(SimpleNN, self).__init__()
+        self.fc1 = nn.Linear(784, 64)
+        self.fc2 = nn.Linear(64, 10)
+    
+    def forward(self, x):
+        x = torch.relu(self.fc1(x))
+        x = torch.softmax(self.fc2(x), dim=1)
+        return x
+
+# Instantiate the model
+model = SimpleNN()
+
+# Define the loss function and optimizer
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
+<jupyter_output>
+<empty_output>

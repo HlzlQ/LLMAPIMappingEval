@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.StreamWriter.Write(string)
+2. System.IO.TextWriter.Write(char[])
+3. System.IO.TextWriter.Write(string)
+4. System.IO.BinaryWriter.Write(byte[])
+5. System.IO.BinaryWriter.Write(int)
+6. System.IO.BinaryWriter.Write(long)
+7. System.IO.BinaryWriter.Write(float)
+8. System.IO.BinaryWriter.Write(double)
+9. System.IO.BinaryWriter.Write(string)
+10. System.IO.BinaryWriter.Write(char[])

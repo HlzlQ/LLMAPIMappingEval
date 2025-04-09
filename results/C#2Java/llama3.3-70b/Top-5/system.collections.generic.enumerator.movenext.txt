@@ -1,0 +1,5 @@
+1. java.util.Iterator.hasNext
+2. java.util.Iterator.next
+3. java.util.Enumeration.hasMoreElements
+4. java.util.Enumeration.nextElement
+5. java.util.ListIterator.next

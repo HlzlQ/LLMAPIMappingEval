@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that could be used for flattening a tensor:
+
+1. `cntk.layers.Flatten()`
+2. `cntk.layers.Reshape(shape=(-1,))`
+3. `cntk.layers.Flatten(axis=-1)`
+4. `cntk.layers.Flatten(axis=0)`
+5. `cntk.layers.Flatten(axis=1)`

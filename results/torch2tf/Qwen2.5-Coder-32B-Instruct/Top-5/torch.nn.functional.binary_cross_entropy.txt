@@ -1,0 +1,5 @@
+tf.keras.losses.BinaryCrossentropy  
+tf.nn.sigmoid_cross_entropy_with_logits  
+tf.compat.v1.nn.sigmoid_cross_entropy_with_logits  
+tf.math.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits)  
+tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits)

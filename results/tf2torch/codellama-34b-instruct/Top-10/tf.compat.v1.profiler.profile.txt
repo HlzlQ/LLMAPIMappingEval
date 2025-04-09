@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.compat.v1.profiler.profile`:
+
+1. `torch.autograd.profiler.profile`
+2. `torch.profiler.profile`
+3. `torch.profiler.start_profile`
+4. `torch.profiler.stop_profile`
+5. `torch.profiler.get_profile`
+6. `torch.profiler.save_profile`
+7. `torch.profiler.load_profile`
+8. `torch.profiler.clear_profile`
+9. `torch.profiler.reset_profile`
+10. `torch.profiler.set_profile_mode`

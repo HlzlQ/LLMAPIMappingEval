@@ -1,0 +1,18 @@
+C# does not have an exact equivalent to the Java API "java.beans.propertydescriptor.getwritemethod". However, C# provides a similar functionality through the "PropertyDescriptor" class in the "System.ComponentModel" namespace. The method you are looking for is called "GetSetMethod" and it returns the set accessor method for the property.
+
+Here's an example of how to use the "GetSetMethod" method in C#:
+```csharp
+using System;
+using System.ComponentModel;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        PropertyDescriptor pd = TypeDescriptor.GetProperties(typeof(MyClass))["MyProperty"];
+        MethodInfo setMethod = pd.GetSetMethod();
+        Console.WriteLine(setMethod);
+    }
+}
+```
+In this example, we first get the "PropertyDescriptor" for the property "MyProperty" of type "MyClass". Then we use the "GetSetMethod" method to get the set accessor method for that property. Finally, we print the name of the set accessor method to the console.

@@ -1,0 +1,10 @@
+java.net.URLEncoder.encode
+org.apache.commons.codec.net.URLCodec.encode
+com.google.common.net.UrlEscapers.urlEncode
+org.springframework.web.util.UriUtils.encode
+javax.servlet.http.HttpUtils.urlEncode
+java.net.URI.create
+java.net.URI.toASCIIString
+java.nio.file.Path.toString
+java.nio.file.Paths.get
+java.lang.String.getBytes

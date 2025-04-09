@@ -1,0 +1,5 @@
+1. cntk.layers.initializers.he_normal
+2. cntk.initializers.he_normal
+3. cntk.default_options(initializer=cntk.initializers.he_normal)
+4. cntk.layers.For-he-normal-initializer
+5. cntk.initializers.HeNormalInitializer

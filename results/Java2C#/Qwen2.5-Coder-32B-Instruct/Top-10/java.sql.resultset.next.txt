@@ -1,0 +1,10 @@
+System.Data.IDataReader.Read  
+System.Data.SqlClient.SqlDataReader.Read  
+System.Data.OleDb.OleDbDataReader.Read  
+System.Data.OracleClient.OracleDataReader.Read  
+System.Data.SQLite.SQLiteDataReader.Read  
+Npgsql.NpgsqlDataReader.Read  
+MySql.Data.MySqlClient.MySqlDataReader.Read  
+Microsoft.Data.SqlClient.SqlDataReader.Read  
+System.Data.Common.DbDataReader.Read  
+System.Data.IDataRecord.Read

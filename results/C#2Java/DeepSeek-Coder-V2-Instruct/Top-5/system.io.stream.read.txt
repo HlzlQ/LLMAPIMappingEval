@@ -1,0 +1,5 @@
+1. java.io.InputStream.read()
+2. java.nio.channels.ReadableByteChannel.read(ByteBuffer)
+3. javax.servlet.ServletInputStream.readLine()
+4. org.apache.commons.io.input.TeeInputStream.read()
+5. java.util.Scanner.next()

@@ -1,0 +1,5 @@
+System.Collections.ArrayList.Item
+System.Collections.Generic.List<T>.Item
+System.Collections.ObjectModel.Collection<T>.Item
+System.Collections.Specialized.StringCollection.Item
+System.Data.DataTable.Rows

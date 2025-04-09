@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.Sigmoid
+2. torch.sigmoid
+3. tf.keras.activations.sigmoid
+4. tensorflow.compat.v1.keras.activations.sigmoid
+5. tensorflow.keras.activations.sigmoid

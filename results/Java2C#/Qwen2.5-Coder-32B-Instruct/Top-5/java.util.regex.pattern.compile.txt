@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Regex.Compile
+System.Text.RegularExpressions.Regex.Create
+System.Text.RegularExpressions.Regex.Parse
+System.Text.RegularExpressions.Regex.New
+System.Text.RegularExpressions.Regex.Build

@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.math.softmax`:
+
+1. torch.nn.functional.softmax
+2. torch.softmax
+3. torch.nn.Softmax
+4. torch.tensor.softmax
+5. torch.autograd.Variable.softmax
+6. torch.Tensor.softmax
+7. torch.nn.modules.activation.Softmax
+8. torch.nn.functional.log_softmax
+9. torch.log_softmax
+10. torch.nn.LogSoftmax

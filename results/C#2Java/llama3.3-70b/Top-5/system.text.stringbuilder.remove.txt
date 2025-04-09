@@ -1,0 +1,5 @@
+1. java.lang.StringBuilder.delete
+2. java.lang.StringBuilder.deleteCharAt
+3. java.lang.StringBuilder.replace
+4. java.util.regex.Matcher.replaceAll
+5. org.apache.commons.lang3.StringUtils.remove

@@ -1,0 +1,5 @@
+1. CNTK.relu
+2. CNTK.leaky_relu
+3. CNTK.param_relu
+4. CNTK.elu
+5. CNTK.tanh

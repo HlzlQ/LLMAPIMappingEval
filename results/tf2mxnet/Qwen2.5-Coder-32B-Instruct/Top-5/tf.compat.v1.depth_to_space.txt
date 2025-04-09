@@ -1,0 +1,5 @@
+mx.nd.DepthToSpace
+mx.symbol.DepthToSpace
+mx.gluon.nn.DepthToSpace
+mx.ndarray.DepthToSpace
+mx.sym.DepthToSpace

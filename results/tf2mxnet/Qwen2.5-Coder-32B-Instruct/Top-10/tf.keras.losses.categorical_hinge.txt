@@ -1,0 +1,10 @@
+mxnet.gluon.loss.HingeLoss
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+mxnet.gluon.loss.L2Loss
+mxnet.gluon.loss.LogisticLoss
+mxnet.gluon.loss.KLDivLoss
+mxnet.gluon.loss.CosineEmbeddingLoss
+mxnet.gluon.loss.TripletLoss
+mxnet.gluon.loss.HuberLoss
+mxnet.gluon.loss.PoissonNLLLoss
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss

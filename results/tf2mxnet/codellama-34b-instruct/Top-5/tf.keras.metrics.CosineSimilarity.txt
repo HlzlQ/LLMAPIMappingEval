@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.metrics.CosineSimilarity`:
+
+1. `mxnet.metric.CosineSimilarity`
+2. `mxnet.metric.cosine_similarity`
+3. `mxnet.metric.CosineDistance`
+4. `mxnet.metric.cosine_distance`
+5. `mxnet.metric.PairwiseCosineSimilarity`

@@ -1,0 +1,7 @@
+C# does not have a direct equivalent to the Java `Hashtable` class. However, you can use the `Dictionary<TKey, TValue>` class in C# to achieve similar functionality. The `put()` method in Java is used to add or update an entry in the `Hashtable`, and the equivalent method in C# for `Dictionary<TKey, TValue>` is `Add()`.
+
+So, the C# code for adding a new key-value pair to a dictionary would be:
+```
+dictionary.Add(key, value);
+```
+Note that the `Add()` method returns a boolean value indicating whether the entry was added successfully or not. If the key already exists in the dictionary, it will return false and the existing value will be replaced with the new one.

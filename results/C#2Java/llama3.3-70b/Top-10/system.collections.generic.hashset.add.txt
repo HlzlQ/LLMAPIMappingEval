@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.generic.hashset.add`:
+
+1. java.util.HashSet.add
+2. java.util.Set.add
+3. java.util.AbstractSet.add
+4. java.util.Collections.singleton
+5. java.util LinkedHashSet.add
+6. java.util.TreeSet.add
+7. java.util.concurrent.CopyOnWriteArraySet.add
+8. java.util.EnumSet.add
+9. java.util.concurrent.ConcurrentSkipListSet.add
+10. com.google.common.collect.Sets.newHashSet

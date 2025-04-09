@@ -1,0 +1,19 @@
+
+
+```python
+import mxnet as mx
+from mxnet import gluon
+
+# Example usage:
+# optimizer = mx.optimizer.Adam()
+```
+Answer: 1. `mx.optimizer.Adam`
+2. `mx.optimizer.SGD`
+3. `mx.optimizer.NAG`
+4. `mx.optimizer.RMSProp`
+5. `mx.optimizer.Adagrad`
+6. `mx.initializer.Uniform`
+7. `mx.initializer.Normal`
+8. `mx.initializer.Constant`
+9. `mx.initializer.Xavier`
+10. `mx.initializer.Orthogonal`

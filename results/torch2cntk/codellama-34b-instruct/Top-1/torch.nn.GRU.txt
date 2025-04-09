@@ -1,0 +1,2 @@
+
+CNTK's equivalent of torch.nn.GRU is cntk.layers.Recurrent.

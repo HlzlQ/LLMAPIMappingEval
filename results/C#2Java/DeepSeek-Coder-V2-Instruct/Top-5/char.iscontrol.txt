@@ -1,0 +1,5 @@
+1. Character.isISOControl()
+2. String.isBlank()
+3. CharSequence.isEmpty()
+4. Character.isWhitespace()
+5. Character.isDefined()

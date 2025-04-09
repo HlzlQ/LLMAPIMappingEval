@@ -1,0 +1,13 @@
+  SELU (Self-Normalizing Exponential Linear Unit) is a type of activation function used in deep neural networks. It is similar to the ReLU (Rectified Linear Unit) but has some key differences:
+
+* SELU is defined as: f(x) = scale \* g(x) where g(x) = x if x > 0 and g(x) = alpha \* (exp(x) - 1) if x <= 0.
+* The "scale" parameter controls the range of the output values, while the "alpha" parameter controls the rate at which the output saturates.
+* SELU is computationally efficient and is less prone to dying neurons compared to ReLU.
+
+Here are five MXNet APIs that can be used as an alternative to PyTorch's torch.nn.functional.selu:
+
+1. mxnet.ndarray.SELU - This API applies the SELU activation function element-wise to a tensor.
+2. mxnet.gluon.nn.SELU - This API is similar to PyTorch's torch.nn.functional.selu and applies the SELU activation function to an input tensor.
+3. mxnet.ndarray.leaky_relu - This API applies the Leaky ReLU activation function element-wise to a tensor, which is similar to SELU but with a different alpha value.
+4. mxnet.gluon.nn.LeakyReLU - This API is similar to PyTorch's torch.nn.functional.leaky_relu and applies the Leaky ReLU activation function to an input tensor.
+5. mxnet.ndarray.prelu - This API applies the Parametric ReLU (PReLU) activation function element-wise to a tensor, which is similar to SELU but with a learnable alpha value.

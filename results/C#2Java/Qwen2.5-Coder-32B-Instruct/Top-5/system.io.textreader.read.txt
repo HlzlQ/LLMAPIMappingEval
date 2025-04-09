@@ -1,0 +1,5 @@
+java.io.BufferedReader.readLine  
+java.io.InputStreamReader.readLine  
+java.io.LineNumberReader.readLine  
+java.io.StreamTokenizer.nextToken  
+java.util.Scanner.nextLine

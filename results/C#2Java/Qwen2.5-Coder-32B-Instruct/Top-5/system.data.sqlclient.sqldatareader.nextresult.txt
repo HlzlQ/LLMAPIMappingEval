@@ -1,0 +1,5 @@
+java.sql.ResultSet.next
+java.sql.Statement.getMoreResults
+java.sql.Statement.execute
+java.sql.PreparedStatement.execute
+java.sql.CallableStatement.execute

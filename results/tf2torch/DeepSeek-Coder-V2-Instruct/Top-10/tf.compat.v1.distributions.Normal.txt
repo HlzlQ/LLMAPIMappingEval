@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.Normal
+2. torch.nn.functional.normal_
+3. torch.distributions.Normal.sample
+4. torch.distributions.Normal.log_prob
+5. torch.distributions.Normal.mean
+6. torch.distributions.Normal.variance
+7. torch.distributions.Normal.cdf
+8. torch.distributions.Normal.icdf
+9. torch.distributions.Normal.entropy
+10. torch.distributions.Normal.kl_divergence

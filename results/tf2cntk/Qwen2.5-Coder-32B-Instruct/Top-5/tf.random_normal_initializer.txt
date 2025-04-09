@@ -1,0 +1,5 @@
+cntk.glorot_uniform_initializer  
+cntk.he_normal_initializer  
+cntk.normal_initializer  
+cntk.uniform_initializer  
+cntk.xavier_normal_initializer

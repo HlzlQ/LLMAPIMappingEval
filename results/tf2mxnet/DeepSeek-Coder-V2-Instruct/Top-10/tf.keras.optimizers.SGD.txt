@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.optimizer.SGD
+2. mxnet.optimizer.Adam
+3. mxnet.optimizer.RMSProp
+4. mxnet.optimizer.Adagrad
+5. mxnet.optimizer.Nesterov
+6. mxnet.optimizer.Adamax
+7. mxnet.optimizer.AdamW
+8. mxnet.optimizer.LBFGS
+9. mxnet.optimizer.Signum
+10. mxnet.optimizer.Adadelta

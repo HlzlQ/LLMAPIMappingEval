@@ -1,0 +1,2 @@
+
+CNTK has a similar API for batch normalization called `batch_normalization`.

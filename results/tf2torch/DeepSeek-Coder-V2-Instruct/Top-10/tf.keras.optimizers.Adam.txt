@@ -1,0 +1,11 @@
+
+Answer: 1. torch.optim.Adam
+2. torch.optim.SGD
+3. torch.nn.functional.cross_entropy
+4. torch.nn.CrossEntropyLoss
+5. torch.nn.MSELoss
+6. torch.nn.BCEWithLogitsLoss
+7. torch.nn.L1Loss
+8. torch.nn.SmoothL1Loss
+9. torch.nn.HuberLoss
+10. torch.optim.lr_scheduler.StepLR

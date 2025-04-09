@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `torch.nn.MaxPool2d` API:
+
+1. `cntk.layers.MaxPooling2D`
+2. `cntk.layers.MaxUnpooling2D`
+3. `cntk.layers.AveragePooling2D`
+4. `cntk.layers.GlobalMaxPooling2D`
+5. `cntk.layers.GlobalAveragePooling2D`

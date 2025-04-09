@@ -1,0 +1,12 @@
+
+
+1. nn.AvgPool2d
+2. nn.AdaptiveAvgPool2d
+3. functional.avg_pool2d
+4. functional.adaptive_avg_pool2d
+5. torch.nn.functional.avg_pool2d
+6. torch.nn.functional.adaptive_avg_pool2d
+7. tf.compat.v1.layers.average_pooling2d
+8. tf.compat.v1.layers.max_pooling2d
+9. tf.compat.v1.nn.avg_pool
+10. tf.compat.v1.nn.max_pool

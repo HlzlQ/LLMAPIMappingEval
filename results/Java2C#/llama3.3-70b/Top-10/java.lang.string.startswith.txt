@@ -1,0 +1,10 @@
+1. System.String.StartsWith
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.IndexOf
+4. System.Linq.Enumerable.StartsWith
+5. Microsoft.VisualBasic.Strings.InStr
+6. System.Text.RegularExpressions.Regex.Match
+7. System.String.Substring
+8. System.Text.RegularExpressions.Pattern.IsMatch
+9. System.Linq.Enumerable.Contains
+10. System.Text.RegularExpressions.Matcher.Find

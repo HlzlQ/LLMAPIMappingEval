@@ -1,0 +1,5 @@
+java.lang.System.arraycopy
+java.nio.charset.StandardCharsets.UTF_8.encode
+java.nio.ByteBuffer.put
+java.util.Arrays.copyOf
+java.lang.String.getBytes

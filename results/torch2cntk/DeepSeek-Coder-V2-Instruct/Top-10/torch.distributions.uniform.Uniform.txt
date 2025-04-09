@@ -1,0 +1,2 @@
+
+Answer: Uniform, Normal, Bernoulli, Categorical, Exponential, Poisson, LogNormal, Gamma, Beta, Chi2

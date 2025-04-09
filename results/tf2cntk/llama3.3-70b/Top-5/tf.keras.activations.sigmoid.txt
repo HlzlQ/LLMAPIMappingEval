@@ -1,0 +1,5 @@
+1. CNTK.sigmoid
+2. CNTK.relu
+3. CNTK.tanh
+4. CNTK.hard_sigmoid
+5. CNTK.softmax

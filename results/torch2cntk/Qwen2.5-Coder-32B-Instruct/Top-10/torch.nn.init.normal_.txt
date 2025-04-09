@@ -1,0 +1,10 @@
+cntk.glorot_normal_initializer  
+cntk.he_normal_initializer  
+cntk.normal_initializer  
+cntk.uniform_initializer  
+cntk.xavier_normal_initializer  
+cntk.random_normal_initializer  
+cntk.kaiming_normal_initializer  
+cntk.variance_scaling_initializer  
+cntk.orthogonal_initializer  
+cntk.sparse_initializer

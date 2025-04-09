@@ -1,0 +1,2 @@
+
+Answer: tf.initializers.RandomUniform, torch.nn.init.uniform_, torch.rand, numpy.random.uniform, random.uniform

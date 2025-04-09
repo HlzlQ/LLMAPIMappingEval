@@ -1,0 +1,12 @@
+
+
+1. mxnet.symbol.flatten
+2. mxnet.ndarray.reshape
+3. mxnet.symbol.Reshape
+4. mxnet.ndarray.reshape_like
+5. mxnet.symbol.broadcast_to
+6. mxnet.ndarray.expand_dims
+7. mxnet.symbol.transpose
+8. mxnet.ndarray.swapaxes
+9. mxnet.symbol.concat
+10. mxnet.ndarray.stack

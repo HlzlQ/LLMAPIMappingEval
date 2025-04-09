@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.GetRange
+2. System.Linq.Enumerable.Take
+3. System.Linq.Enumerable.Skip
+4. System.Collections.Generic.IList<T>.GetRange
+5. System.Collections.ObjectModel.Collection<T>.GetRange
+6. System.Collections.Generic.List<T>.GetEnumerator
+7. System.Linq.Enumerable.Range
+8. System.Collections.Generic.IEnumerable<T>.Take
+9. System.Collections.Generic.IEnumerable<T>.Skip
+10. System.Linq.Enumerable.TakeWhile

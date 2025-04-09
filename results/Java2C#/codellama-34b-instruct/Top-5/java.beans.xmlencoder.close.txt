@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Xml.Serialization.XmlSerializer.Close()
+2. System.IO.StreamWriter.Close()
+3. System.Data.SqlClient.SqlConnection.Close()
+4. System.Net.HttpWebRequest.Close()
+5. System.Net.HttpListenerResponse.Close()

@@ -1,0 +1,5 @@
+1. System.Type.IsInstanceOfType
+2. System.Object.GetType
+3. System.Type.IsSubclassOf
+4. System.Type.IsAssignableFrom
+5. System.Object.GetType:IsInstanceOfType

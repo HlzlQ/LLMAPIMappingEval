@@ -1,0 +1,5 @@
+1. System.IO.Stream.Close()
+2. System.Data.IDbConnection.Close()
+3. System.Net.Sockets.NetworkStream.Close()
+4. System.Threading.Tasks.Task.Wait()
+5. System.Windows.Forms.Control.Close()

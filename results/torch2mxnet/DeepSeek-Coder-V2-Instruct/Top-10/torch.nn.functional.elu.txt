@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. torch.nn.functional.relu
+2. mxnet.ndarray.relu
+3. torch.nn.functional.leaky_relu
+4. mxnet.ndarray.LeakyReLU
+5. torch.nn.functional.prelu
+6. mxnet.ndarray.Prelu
+7. torch.nn.functional.elu
+8. mxnet.ndarray.elu
+9. torch.nn.functional.selu
+10. mxnet.ndarray.selu

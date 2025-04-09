@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `torch.nn.RNN` API:
+
+1. `cntk.layers.RecurrentLayer`
+2. `cntk.layers.LSTM`
+3. `cntk.layers.GRU`
+4. `cntk.layers.RNN`
+5. `cntk.layers.SequentialRNN`

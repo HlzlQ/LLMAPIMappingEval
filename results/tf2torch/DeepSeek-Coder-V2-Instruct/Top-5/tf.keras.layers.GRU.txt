@@ -1,0 +1,2 @@
+
+Answer: LSTM, Dense, Conv1D, Embedding, GRU

@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent activation function to `tensorflow.keras.activations.linear` is `mxnet.ndarray.Activation.linear`.

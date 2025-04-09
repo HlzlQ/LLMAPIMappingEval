@@ -1,0 +1,3 @@
+
+
+cntk_equivalent = "CNTK.ops.relu"

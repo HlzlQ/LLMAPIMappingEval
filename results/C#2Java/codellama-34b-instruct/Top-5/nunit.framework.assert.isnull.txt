@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. org.junit.Assert.assertNull
+2. org.testng.Assert.assertNull
+3. org.easymock.EasyMock.expectLastCall().andReturn(null)
+4. org.mockito.Mockito.when(mock.method()).thenReturn(null)
+5. org.powermock.api.easymock.PowerMock.replay(mock)

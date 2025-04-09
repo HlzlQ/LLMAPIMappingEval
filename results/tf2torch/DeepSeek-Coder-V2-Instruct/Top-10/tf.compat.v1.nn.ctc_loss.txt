@@ -1,0 +1,4 @@
+
+
+1. nn.CTCLoss
+2. torch.nn.functional.ctc_loss

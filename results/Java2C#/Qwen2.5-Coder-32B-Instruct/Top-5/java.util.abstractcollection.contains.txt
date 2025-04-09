@@ -1,0 +1,5 @@
+System.Collections.Generic.ICollection<T>.Contains  
+System.Collections.ArrayList.Contains  
+System.Collections.Hashtable.Contains  
+System.Collections.SortedList.Contains  
+System.Collections.Specialized.NameValueCollection.GetValues

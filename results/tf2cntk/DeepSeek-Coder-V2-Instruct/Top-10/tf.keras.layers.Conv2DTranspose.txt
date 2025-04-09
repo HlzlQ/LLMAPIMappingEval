@@ -1,0 +1,11 @@
+
+Answer: 1. `tf.keras.layers.Conv2D` -> `CNTK.layers.Convolution2D`
+2. `tf.keras.layers.MaxPooling2D` -> `CNTK.layers.MaxPooling`
+3. `tf.keras.layers.Flatten` -> `CNTK.layers.Flatten`
+4. `tf.keras.layers.Dense` -> `CNTK.layers.Dense`
+5. `tf.keras.layers.Dropout` -> `CNTK.layers.Dropout`
+6. `tf.keras.layers.BatchNormalization` -> `CNTK.layers.BatchNormalization`
+7. `tf.keras.layers.Activation` -> `CNTK.layers.Activation`
+8. `tf.keras.layers.Input` -> `CNTK.layers.Input`
+9. `tf.keras.models.Model` -> `CNTK.models.Function`
+10. `tf.keras.layers.Conv2DTranspose` -> `CNTK.layers.ConvolutionalTransposed2D`

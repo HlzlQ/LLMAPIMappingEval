@@ -1,0 +1,5 @@
+torch.nn.functional.cosine_similarity  
+torch.nn.CosineEmbeddingLoss  
+torch.nn.MultiMarginLoss  
+torch.nn.TripletMarginLoss  
+torch.nn.TripletMarginWithDistanceLoss

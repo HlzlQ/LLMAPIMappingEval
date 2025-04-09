@@ -1,0 +1,5 @@
+
+
+1. tf.compat.v1.nn.rnn_cell.LSTMCell
+2. tf.keras.layers.LSTMCell
+3. torch.nn.LSTM

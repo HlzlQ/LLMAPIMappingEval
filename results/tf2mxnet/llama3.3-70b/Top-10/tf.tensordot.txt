@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.tensordot`:
+
+1. mxnet.ndarray.dot
+2. mxnet.ndarray.batch_dot
+3. mxnet.ndarray.sum
+4. mxnet.ndarray.mean
+5. mxnet.ndarray.reduce_sum
+6. mxnet.ndarray.reduce_mean
+7. mxnet.ndarray.linalg_gemm
+8. mxnet.ndarray.linalg_gemm2
+9. mxnet.ndarray.batch_dot_v2
+10. mxnet.gluon.nn.DotProductScorer

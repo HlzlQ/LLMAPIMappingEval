@@ -1,0 +1,4 @@
+
+CNTK's Max Pooling API:
+
+* `cntk.layers.MaxPooling2D`

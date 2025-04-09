@@ -1,0 +1,5 @@
+java.util.List.toArray()
+java.util.ArrayList.toArray()
+java.util.LinkedList.toArray()
+java.util.Vector.toArray()
+java.util.Stack.toArray()

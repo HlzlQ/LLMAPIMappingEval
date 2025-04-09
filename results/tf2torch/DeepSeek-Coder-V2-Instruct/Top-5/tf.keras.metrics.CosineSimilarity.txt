@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.functional.cosine_similarity
+2. torch.nn.CosineEmbeddingLoss
+3. torch.nn.CosineSimilarity
+4. torch.nn.CosineAnnealingLR
+5. torch.nn.CosineAnnealingWarmRestarts

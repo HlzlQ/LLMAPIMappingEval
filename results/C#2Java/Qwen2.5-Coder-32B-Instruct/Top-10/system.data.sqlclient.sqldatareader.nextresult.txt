@@ -1,0 +1,10 @@
+java.sql.ResultSet.next
+java.sql.Statement.getMoreResults
+java.sql.PreparedStatement.execute
+java.sql.CallableStatement.execute
+java.sql.Connection.createStatement
+java.sql.DriverManager.getConnection
+java.sql.DatabaseMetaData.getTables
+java.sql.DatabaseMetaData.getColumns
+java.sql.DatabaseMetaData.getPrimaryKeys
+java.sql.DatabaseMetaData.getIndexInfo

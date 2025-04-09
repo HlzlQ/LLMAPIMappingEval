@@ -1,0 +1,5 @@
+1. pooling_function
+2. max_pooling
+3. CNTK.max_pooling
+4. pooling_layer
+5. MaxPooling3D

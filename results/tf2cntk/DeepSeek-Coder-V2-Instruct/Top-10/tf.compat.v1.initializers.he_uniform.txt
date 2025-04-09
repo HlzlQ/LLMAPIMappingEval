@@ -1,0 +1,22 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+```
+
+```python
+# Output:
+# he_normal
+# glorot_uniform
+# glorot_normal
+# lecun_uniform
+# lecun_normal
+# he_uniform
+# xavier_uniform
+# xavier_normal
+# kaiming_uniform
+# kaiming_normal
+```

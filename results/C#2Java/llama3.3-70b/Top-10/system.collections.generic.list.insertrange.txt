@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.List.InsertRange` in C#:
+
+1. java.util.ArrayList.addAll
+2. java.util.LinkedList.addAll
+3. java.util.Vector.addAll
+4. java.util.Stack.addAll
+5. java.util.AbstractList.addAll
+6. java.util.List.addAll
+7. java.util.Collection.addAll
+8. java.util.ArrayList.add
+9. java.util.ArrayList.insert
+10. org.apache.commons.collections4.ListUtils.addAll

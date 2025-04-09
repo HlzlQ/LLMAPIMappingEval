@@ -1,0 +1,7 @@
+
+MXNet does not have a direct equivalent of `torch.nn.Conv3d`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.convolution`: This API performs 1D, 2D, or 3D convolution on an input array. You can specify the number of dimensions and the kernel size using the `dim` and `kernel_size` parameters respectively.
+* `mxnet.ndarray.conv3d`: This API is a convenience function for performing 3D convolution on an input array. It takes the same arguments as `mxnet.ndarray.convolution`, but with the `dim` parameter set to 3 by default.
+
+So, if you want to perform 3D convolution in MXNet, you can use either `mxnet.ndarray.convolution` or `mxnet.ndarray.conv3d`.

@@ -1,0 +1,5 @@
+1. System.Double.IsNaN
+2. System.Single.IsNaN
+3. System.Math.NaN
+4. Double.IsNaN
+5. Single.IsNaN

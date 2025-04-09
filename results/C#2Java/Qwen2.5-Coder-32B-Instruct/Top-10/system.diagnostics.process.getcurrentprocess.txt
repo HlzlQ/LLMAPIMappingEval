@@ -1,0 +1,10 @@
+java.lang.management.ManagementFactory.getRuntimeMXBean  
+java.lang.Runtime.getRuntime  
+java.lang.ProcessHandle.current  
+java.lang.Thread.currentThread  
+java.lang.management.ManagementFactory.getThreadMXBean  
+java.lang.management.ManagementFactory.getClassLoadingMXBean  
+java.lang.management.ManagementFactory.getMemoryMXBean  
+java.lang.management.ManagementFactory.getOperatingSystemMXBean  
+java.lang.management.ManagementFactory.getCompilationMXBean  
+java.lang.management.ManagementFactory.getGarbageCollectorMXBeans

@@ -1,0 +1,5 @@
+org.junit.jupiter.api.Assertions.assertNotNull  
+org.testng.Assert.assertNotNull  
+junit.framework.Assert.assertNotNull  
+junit.framework.TestCase.assertNotNull  
+com.google.common.truth.Truth.assertThat

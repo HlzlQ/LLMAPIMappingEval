@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Dropout
+mxnet.ndarray.Dropout
+mxnet.symbol.Dropout
+mxnet.gluon.Block.dropout
+mxnet.gluon.HybridBlock.dropout

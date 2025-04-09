@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.learners.adam
+2. cntk.optimizers.adam
+3. cntk.train.adam_learner
+4. cntk.train.sgd_learner
+5. cntk.train.rmsprop_learner
+6. cntk.train.momentum_sgd_learner
+7. cntk.train.adagrad_learner
+8. cntk.train.nesterov_accelerated_gradient_learner
+9. cntk.train.adamax_learner
+10. cntk.train.ftrl_learner

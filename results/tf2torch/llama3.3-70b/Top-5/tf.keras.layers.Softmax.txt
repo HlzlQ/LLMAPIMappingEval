@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.keras.layers.Softmax`:
+
+1. torch.nn.Softmax
+2. torch.nn.functional.softmax
+3. torch.softmax
+4. torch.nn.LogSoftmax
+5. torch.nn.functional.log_softmax

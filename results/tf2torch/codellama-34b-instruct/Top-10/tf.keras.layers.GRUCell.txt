@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.layers.GRUCell`:
+
+1. `torch.nn.GRU`
+2. `torch.nn.RNN`
+3. `torch.nn.LSTM`
+4. `torch.nn.GRUCell`
+5. `torch.nn.RNNCell`
+6. `torch.nn.LSTMCell`
+7. `torch.nn.GRUModule`
+8. `torch.nn.RNNModule`
+9. `torch.nn.LSTMModule`
+10. `torch.nn.GRUBlock`

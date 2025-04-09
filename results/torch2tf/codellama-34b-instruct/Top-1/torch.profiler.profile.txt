@@ -1,0 +1,4 @@
+
+Here's a mapping of the PyTorch API to the TensorFlow API:
+
+* `torch.profiler.profile` -> `tf.profiler.profile`

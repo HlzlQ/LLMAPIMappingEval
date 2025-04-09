@@ -1,0 +1,5 @@
+tf.random.gamma
+tfp.distributions.Gamma
+tf.math.exp
+tf.math.log
+tf.reduce_sum

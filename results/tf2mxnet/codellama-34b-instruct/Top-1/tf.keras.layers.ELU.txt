@@ -1,0 +1,8 @@
+
+MXNet does not have an exact equivalent of the `ELU` activation function from TensorFlow. However, you can use the following activation functions in MXNet to achieve a similar effect:
+
+* `relu`: This is the most commonly used activation function in deep learning and is similar to the `ELU` function. It maps all negative values to 0 and all positive values to the same value.
+* `leaky_relu`: This is a variation of the `relu` function that allows for a small amount of leakage, which can help to avoid the dying neurons problem.
+* `parametric_relu`: This is a more advanced version of the `relu` function that allows you to learn the slope of the activation function during training.
+
+It's worth noting that MXNet also has a built-in `elu` function, but it's not as widely used as the other activation functions mentioned above.

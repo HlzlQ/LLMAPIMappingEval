@@ -1,0 +1,10 @@
+1. Dictionary<TKey, TValue>.ContainsValue
+2. ConcurrentDictionary<TKey, TValue>.ContainsValue
+3. SortedList<TKey, TValue>.ContainsValue
+4. Hashtable.Contains
+5. HashSet<TValue>.Contains
+6. List<T>.Contains
+7. Queue<T>.Contains
+8. Stack<T>.Contains
+9. LinkedList<T>.Contains
+10. ObservableCollection<T>.Contains

@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Enum.Name
+2. System.Type.Name
+3. System.Reflection.MemberInfo.Name
+4. System.Reflection.MethodBase.Name
+5. System.Reflection.FieldInfo.Name

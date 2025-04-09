@@ -1,0 +1,7 @@
+  tf.einsum is a TensorFlow API for performing einsum operations on tensors. The equivalent API in MXNet is:
+
+* mxnet.ndarray.einsum
+* mxnet.ndarray.einsum_like
+* mxnet.ndarray.einsum_like_with_shape
+* mxnet.ndarray.einsum_with_shape
+* mxnet.ndarray.einsum_with_shape_like

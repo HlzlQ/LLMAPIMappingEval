@@ -1,0 +1,10 @@
+cntk.layers.ConvolutionalTranspose
+cntk.layers.Upsampling
+cntk.layers.Deconvolution
+cntk.layers.TransposeConvolution
+cntk.layers.Convolution3DTranspose
+cntk.layers.Deconvolution3D
+cntk.layers.Upsample3D
+cntk.layers.TransposeConvolution3D
+cntk.layers.ConvolutionTranspose3D
+cntk.layers.DeconvolutionalTranspose

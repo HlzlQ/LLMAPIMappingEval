@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.no_gradient`:
+
+1. `cntk.no_gradients`
+2. `cntk.no_grad`
+3. `cntk.disable_gradients`
+4. `cntk.freeze_gradients`
+5. `cntk.zero_gradients`

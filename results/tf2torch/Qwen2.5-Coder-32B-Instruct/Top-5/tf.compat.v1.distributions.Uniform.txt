@@ -1,0 +1,5 @@
+torch.distributions.uniform.Uniform  
+torch.rand  
+torch.randint  
+torch.randn  
+torch.randperm

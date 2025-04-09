@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functionality to `torch.nn.init.kaiming_normal_`:
+
+1. `cntk.initializers.glorot_normal`
+2. `cntk.initializers.glorot_uniform`
+3. `cntk.initializers.he_normal`
+4. `cntk.initializers.he_uniform`
+5. `cntk.initializers.normal`
+6. `cntk.initializers.uniform`
+7. `cntk.initializers.xavier`
+8. `cntk.initializers.kaiming`
+9. `cntk.initializers.msra`
+10. `cntk.initializers.default`

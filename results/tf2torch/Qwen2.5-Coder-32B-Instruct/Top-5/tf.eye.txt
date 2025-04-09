@@ -1,0 +1,5 @@
+torch.eye  
+torch.diag_embed  
+torch.full  
+torch.ones  
+torch.zeros

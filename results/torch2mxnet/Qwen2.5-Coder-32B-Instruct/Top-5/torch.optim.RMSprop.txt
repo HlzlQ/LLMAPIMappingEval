@@ -1,0 +1,5 @@
+mxnet.optimizer.RMSProp  
+mxnet.gluon.Trainer  
+mxnet.ndarray.sqrt  
+mxnet.ndarray.square  
+mxnet.ndarray.mean

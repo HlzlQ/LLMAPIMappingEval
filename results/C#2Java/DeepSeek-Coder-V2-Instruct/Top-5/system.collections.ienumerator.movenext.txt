@@ -1,0 +1,5 @@
+1. java.util.Iterator.next()
+2. java.util.Enumeration.nextElement()
+3. java.util.ListIterator.next()
+4. java.util.LinkedList.listIterator().next()
+5. java.util.ArrayList.iterator().next()

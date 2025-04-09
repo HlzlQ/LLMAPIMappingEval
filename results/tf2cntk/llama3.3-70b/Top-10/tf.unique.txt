@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that are similar to `tensorflow.unique`:
+
+1. `cntk.unique`
+2. `cntk.gather`
+3. `cntk.scatter`
+4. `cntk.one_hot`
+5. `cntk.embedding`
+6. `cntk.slice`
+7. `cntk.indexing`
+8. `cntk.where`
+9. `cntk.gather_nd`
+10. `cntk.scatter_nd`

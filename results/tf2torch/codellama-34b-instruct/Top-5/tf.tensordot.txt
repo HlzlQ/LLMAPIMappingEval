@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to TensorFlow's `tensorflow.tensordot`:
+
+1. `torch.dot` - Computes the dot product of two tensors.
+2. `torch.matmul` - Computes the matrix product of two tensors.
+3. `torch.einsum` - Evaluates the Einstein summation convention on the operands.
+4. `torch.tensordot` - Computes the tensor dot product of two tensors.
+5. `torch.inner` - Computes the inner product of two tensors.

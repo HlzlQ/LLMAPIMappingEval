@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame
+2. NUnit.Framework.Assert.AreNotSame
+3. xunit.assert.ReferenceEqual
+4. FluentAssertions.ObjectExtensions.NotBeSameAs
+5. Shouldly.ShouldNotBeSameAs
+6. System.Diagnostics.Debug.Assert.AreNotSame
+7. MbUnit.Framework.Assert.AreNotSame
+8. Gallio.Framework.Assertions.Assert.AreNotSame
+9. CsUnit.Framework.Assert.AreNotSame
+10. NSubstitute.Assert.AreNotSame

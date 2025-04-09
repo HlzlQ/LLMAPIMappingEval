@@ -1,0 +1,5 @@
+1. cntk.gradient
+2. cntk.training_session
+3. cntk.ops.grad
+4. cntk.layers.Parameter.grad
+5. cntk.loss.grad

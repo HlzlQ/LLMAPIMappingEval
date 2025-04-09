@@ -1,0 +1,10 @@
+mxnet.gluon.loss.HingeLoss
+mxnet.ndarray.contrib.hinge_loss
+mxnet.symbol.contrib.hinge_loss
+mxnet.gluon.nn.HingeEmbeddingLoss
+mxnet.ndarray.loss.hinge_embedding_loss
+mxnet.symbol.loss.hinge_embedding_loss
+mxnet.gluon.loss.SoftMarginLoss
+mxnet.ndarray.loss.soft_margin_loss
+mxnet.symbol.loss.soft_margin_loss
+mxnet.gluon.nn.SoftMarginLoss

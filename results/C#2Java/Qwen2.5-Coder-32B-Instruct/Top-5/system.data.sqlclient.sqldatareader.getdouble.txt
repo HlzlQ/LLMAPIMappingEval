@@ -1,0 +1,5 @@
+java.sql.ResultSet.getDouble
+java.sql.CallableStatement.getDouble
+java.sql.PreparedStatement.getDouble
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement

@@ -1,0 +1,10 @@
+1. System.Data.SqlClient.SqlDataReader.GetFloat
+2. System.Data.OleDb.OleDbDataReader.GetFloat
+3. System.Data.Common.DbDataReader.GetFloat
+4. Microsoft.Data.SqlClient.SqlDataReader.GetFloat
+5. Npgsql.NpgsqlDataReader.GetFloat
+6. MySql.Data.MySqlClient.MySqlDataReader.GetFloat
+7. Oracle.ManagedDataAccess.Client.OracleDataReader.GetFloat
+8. System.Data.SQLite.SQLiteDataReader.GetFloat
+9. FirebirdSql.Data.FirebirdClient.FbDataReader.GetFloat
+10. DevArt.Data.PostgreSql.PgSqlCommand.GetFloat

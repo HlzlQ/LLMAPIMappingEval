@@ -1,0 +1,12 @@
+  Sure, here are ten possible C# APIs that correspond to the Java `java.lang.system.arraycopy` API:
+
+1. `System.Array.Copy(Array, Array, Int32)`
+2. `System.Array.CopyTo(Array, Int32)`
+3. `System.Array.Copy(Array, Int32, Array, Int32, Int32)`
+4. `System.Array.BlockCopy(Array, Int32, Array, Int32, Int32)`
+5. `System.Buffer.BlockCopy(Array, Int32, Array, Int32, Int32)`
+6. `System.Runtime.InteropServices.Marshal.Copy(IntPtr, Array, Int32, Int32)`
+7. `System.Runtime.InteropServices.Marshal.CopyToManaged(Array, Int32, IntPtr, Int32)`
+8. `System.Runtime.InteropServices.Marshal.CopyToUnmanaged(IntPtr, Array, Int32, Int32)`
+9. `System.Runtime.InteropServices.Marshal.CopyToNative(Array, Int32, IntPtr, Int32)`
+10. `System.Runtime.InteropServices.Marshal.CopyFromManaged(Array, Int32, IntPtr, Int32)`

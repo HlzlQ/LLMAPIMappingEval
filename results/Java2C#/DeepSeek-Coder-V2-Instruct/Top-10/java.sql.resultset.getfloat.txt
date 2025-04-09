@@ -1,0 +1,10 @@
+1. GetFloat
+2. GetSingle
+3. ToSingle
+4. ConvertToSingle
+5. FloatValue
+6. SingleValue
+7. AsSingle
+8. ToSingleOrDefault
+9. TryGetSingle
+10. GetSingleOrNull

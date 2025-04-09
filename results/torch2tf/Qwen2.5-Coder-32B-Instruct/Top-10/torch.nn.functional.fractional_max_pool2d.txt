@@ -1,0 +1,10 @@
+tf.nn.max_pool_with_argmax
+tf.nn.fractional_max_pool
+tf.nn.pool
+tf.nn.avg_pool
+tf.nn.max_pool
+tf.nn.atrous_conv2d
+tf.nn.conv2d
+tf.nn.depthwise_conv2d
+tf.nn.separable_conv2d
+tf.nn.local_response_normalization

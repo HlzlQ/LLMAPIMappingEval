@@ -1,0 +1,10 @@
+java.lang.ref.WeakReference
+java.lang.ref.ReferenceQueue
+java.lang.ref.SoftReference
+java.lang.ref.PhantomReference
+java.lang.ref.Cleaner
+java.lang.ref.Finalizer
+java.lang.ref.Reference
+java.lang.ref.WeakHashMap
+java.lang.ref.FinalizationRegistry
+java.lang.ref.Cleanable

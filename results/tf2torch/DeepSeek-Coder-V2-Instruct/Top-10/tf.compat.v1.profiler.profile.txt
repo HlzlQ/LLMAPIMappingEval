@@ -1,0 +1,13 @@
+
+
+1. torch.cuda.synchronize
+2. torch.nn.functional.conv2d
+3. torch.profiler.profile
+4. torch.Tensor.backward
+5. torch.optimizer.step
+6. torch.nn.Module.parameters
+7. torch.Tensor.detach
+8. torch.nn.Module.eval
+9. torch.Tensor.numpy
+10. torch.nn.Module.train
+```

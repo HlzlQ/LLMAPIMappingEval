@@ -1,0 +1,5 @@
+1. cntk.layers.Gaussian
+2. cntk.distributions.Normal
+3. cntk.random.normal
+4. cntk.ops.normal
+5. cntk.layers.NormalDistribution

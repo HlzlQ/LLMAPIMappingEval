@@ -1,0 +1,5 @@
+1. torch.nn.ZeroPad2d
+2. torch.nn.ReflectionPad2d
+3. torch.nn.ReplicationPad2d
+4. torch.nn.ConstantPad2d
+5. torch.nn.Functional.pad

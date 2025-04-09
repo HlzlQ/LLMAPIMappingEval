@@ -1,0 +1,8 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.ELU | mxnet.ndarray.elu |
+  | torch.nn.functional.elu | mxnet.ndarray.elu |
+  | torch.nn.ELU6 | mxnet.ndarray.elu6 |
+  | torch.nn.functional.elu6 | mxnet.ndarray.elu6 |
+  | torch.nn.SELU | mxnet.ndarray.selu |
+  | torch.nn.functional.selu | mxnet.ndarray.selu |

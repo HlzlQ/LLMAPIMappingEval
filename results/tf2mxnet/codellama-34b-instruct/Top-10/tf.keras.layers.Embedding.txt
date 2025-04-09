@@ -1,0 +1,10 @@
+  embeddings.Embedding
+  embedding_ops.embedding_lookup
+  embedding_ops.embedding_lookup_sparse
+  embedding_ops.safe_embedding_lookup_sparse
+  embedding_ops.scattered_embedding_lookup
+  embedding_ops.scattered_embedding_lookup_sparse
+  embedding_ops.gather_embedding
+  embedding_ops.gather_nd_embedding
+  embedding_ops.gather_nd_embedding_sparse
+  embedding_ops.scatter_nd_embedding

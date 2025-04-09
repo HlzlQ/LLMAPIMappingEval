@@ -1,0 +1,12 @@
+
+```python
+import tensorflow as tf
+tf.compat.v1.random_uniform_initializer
+```
+
+### Answer:
+1. `tf.initializers.RandomUniform`
+2. `mxnet.init.Uniform`
+3. `mxnet.init.Normal`
+4. `mxnet.init.Constant`
+5. `mxnet.init.Xavier`

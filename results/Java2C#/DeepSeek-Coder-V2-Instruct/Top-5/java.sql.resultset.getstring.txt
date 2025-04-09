@@ -1,0 +1,5 @@
+1. GetString() - System.Data.SqlClient.SqlDataReader.GetString()
+2. ResultSet.getString() - System.Data.SqlClient.SqlDataReader.GetString()
+3. ExecuteQuery() - System.Data.SqlClient.SqlCommand.ExecuteReader()
+4. Connection.CreateCommand() - System.Data.SqlClient.SqlConnection.CreateCommand()
+5. Open() - System.Data.SqlClient.SqlConnection.Open()

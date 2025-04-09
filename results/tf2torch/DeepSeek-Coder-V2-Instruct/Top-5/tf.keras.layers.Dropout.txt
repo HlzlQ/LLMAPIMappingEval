@@ -1,0 +1,8 @@
+
+Answer: ```python
+1. torch.nn.Dropout
+2. torch.nn.BatchNorm1d
+3. torch.nn.Linear
+4. torch.nn.ReLU
+5. torch.nn.MaxPooling2D
+```

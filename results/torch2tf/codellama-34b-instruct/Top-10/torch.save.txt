@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from PyTorch's `torch.save` function to TensorFlow's API:
+
+1. `tf.saved_model.save`
+2. `tf.keras.models.save_model`
+3. `tf.train.Saver.save`
+4. `tf.train.Checkpoint.save`
+5. `tf.train.export_meta_graph`
+6. `tf.saved_model.export_meta_graph`
+7. `tf.keras.models.export_model`
+8. `tf.train.export_model`
+9. `tf.train.Checkpoint.export_model`
+10. `tf.saved_model.export_model`

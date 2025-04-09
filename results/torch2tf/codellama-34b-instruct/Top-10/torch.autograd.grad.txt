@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from the `torch.autograd.grad` API to equivalent TensorFlow APIs:
+
+1. `torch.autograd.grad(outputs, inputs)` -> `tf.gradients(ys, xs)`
+2. `torch.autograd.grad(outputs, inputs, retain_graph=True)` -> `tf.gradients(ys, xs, retain_graph=True)`
+3. `torch.autograd.grad(outputs, inputs, create_graph=True)` -> `tf.gradients(ys, xs, create_graph=True)`
+4. `torch.autograd.grad(outputs, inputs, grad_outputs=None)` -> `tf.gradients(ys, xs, grad_outputs=None)`
+5. `torch.autograd.grad(outputs, inputs, grad_inputs=None)` -> `tf.gradients(ys, xs, grad_inputs=None)`
+6. `torch.autograd.grad(outputs, inputs, retain_variables=True)` -> `tf.gradients(ys, xs, retain_variables=True)`
+7. `torch.autograd.grad(outputs, inputs, create_variables=True)` -> `tf.gradients(ys, xs, create_variables=True)`
+8. `torch.autograd.grad(outputs, inputs, grad_outputs=None, retain_graph=True)` -> `tf.gradients(ys, xs, grad_outputs=None, retain_graph=True)`
+9. `torch.autograd.grad(outputs, inputs, grad_inputs=None, create_graph=True)` -> `tf.gradients(ys, xs, grad_inputs=None, create_graph=True)`
+10. `torch.autograd.grad(outputs, inputs, retain_variables=True, create_variables=True)` -> `tf.gradients(ys, xs, retain_variables=True, create_variables=True)`

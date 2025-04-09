@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.einsum`:
+
+1. mxnet.nd.einsum
+2. mxnet.ndarray.einsum
+3. mxnet gluon.utils.einsum
+4. mxnet.symbol.einsum
+5. mxnet.ndarray.linalg.einsum
+6. mxnet.gluon.nn.functional.einsum
+7. mxnet.ndarray.contrib.einsum
+8. mxnet.symbol.contrib.einsum
+9. mxnet.ndarray.linalg.contrib.einsum
+10. mxnet.gluon.utils.einsum

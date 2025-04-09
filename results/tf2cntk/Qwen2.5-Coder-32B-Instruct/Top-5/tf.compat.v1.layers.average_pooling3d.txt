@@ -1,0 +1,5 @@
+cntk.ops.pooling
+cntk.layers.pooling
+cntk.layers.average_pooling
+cntk.layers.reduction
+cntk.ops.reduce_mean

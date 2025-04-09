@@ -1,0 +1,17 @@
+
+
+```python
+import torch
+```
+
+### Answer:
+1. `torch.norm`
+2. `torch.nn.functional.normalize`
+3. `torch.linalg.norm`
+4. `torch.dist`
+5. `torch.cdist`
+6. `torch.nn.functional.pairwise_distance`
+7. `torch.nn.functional.cosine_similarity`
+8. `torch.nn.functional.pdist`
+9. `torch.nn.functional.kl_div`
+10. `torch.nn.functional.mse_loss`

@@ -1,0 +1,11 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.layers.MaxPooling3D`. However, you can use the `mxnet.ndarray.max_pooling` function to perform 3D max pooling on a tensor. Here's an example:
+```python
+import mxnet as mx
+
+# Create a random 5D tensor
+data = mx.nd.random.normal(shape=(1, 2, 3, 4, 5))
+
+# Perform 3D max pooling with a window size of (2, 2, 2) and stride of (1, 1, 1)
+pool = mx.ndarray.max_pooling(data, kernel_size=(2, 2, 2), strides=(1, 1, 1))
+```

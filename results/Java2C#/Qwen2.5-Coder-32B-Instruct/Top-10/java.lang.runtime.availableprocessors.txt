@@ -1,0 +1,10 @@
+System.Environment.ProcessorCount  
+System.Threading.Thread.CurrentThread.ManagedThreadId  
+System.Diagnostics.Process.GetCurrentProcess().ProcessorAffinity  
+System.Runtime.InteropServices.Marshal.SizeOf<T>()  
+System.Runtime.InteropServices.Marshal.AllocHGlobal()  
+System.Runtime.InteropServices.Marshal.FreeHGlobal()  
+System.Runtime.InteropServices.Marshal.Copy()  
+System.Runtime.InteropServices.Marshal.PtrToStringUni()  
+System.Runtime.InteropServices.Marshal.StringToHGlobalUni()  
+System.Runtime.InteropServices.Marshal.GetLastWin32Error()

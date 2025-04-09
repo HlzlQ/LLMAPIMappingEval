@@ -1,0 +1,5 @@
+mxnet.init.Orthogonal
+mxnet.gluon.nn.initializer.Orthogonal
+mxnet.ndarray.random.orthogonal
+mxnet.symbol.random.orthogonal
+mxnet.init.Xavier # Closest alternative for orthogonal initialization in some contexts

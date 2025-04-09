@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used as alternatives to `tensorflow.compat.v1.random_normal_initializer`:
+
+1. `cntk.initializer.RandomNormalInitializer`
+2. `cntk.initializer.TruncatedNormalInitializer`
+3. `cntk.initializer.UniformInitializer`
+4. `cntk.initializer.GlorotNormalInitializer`
+5. `cntk.initializer.HeNormalInitializer`

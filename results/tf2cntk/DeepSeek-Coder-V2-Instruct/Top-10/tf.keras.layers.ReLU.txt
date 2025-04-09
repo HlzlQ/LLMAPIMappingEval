@@ -1,0 +1,11 @@
+
+Answer: 1. tensorflow.keras.activations.relu
+2. tensorflow.keras.layers.Dense
+3. tensorflow.keras.models.Sequential
+4. tensorflow.keras.optimizers.Adam
+5. tensorflow.keras.losses.SparseCategoricalCrossentropy
+6. tensorflow.keras.metrics.Accuracy
+7. tensorflow.keras.callbacks.EarlyStopping
+8. tensorflow.keras.preprocessing.image_dataset_from_directory
+9. tensorflow.keras.layers.Conv2D
+10. tensorflow.keras.layers.MaxPooling2D

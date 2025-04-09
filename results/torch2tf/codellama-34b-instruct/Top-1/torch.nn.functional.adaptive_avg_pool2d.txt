@@ -1,0 +1,2 @@
+
+tf.nn.adaptive_avg_pool2d

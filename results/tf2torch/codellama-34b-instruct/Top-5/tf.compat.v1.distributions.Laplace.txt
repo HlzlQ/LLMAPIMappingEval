@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.compat.v1.distributions.Laplace`:
+
+1. `torch.distributions.Laplace`
+2. `torch.distributions.laplace.Laplace`
+3. `torch.distributions.laplace.LaplaceWithPrior`
+4. `torch.distributions.laplace.LaplaceWithMean`
+5. `torch.distributions.laplace.LaplaceWithScale`

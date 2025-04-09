@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.compat.v1.math.softmax`:
+
+1. `cntk.ops.softmax`
+2. `cntk.ops.softmax_cross_entropy_with_logits`
+3. `cntk.ops.softmax_cross_entropy`
+4. `cntk.ops.softmax_with_logits`
+5. `cntk.ops.softmax_with_logits_v2`
+6. `cntk.ops.softmax_with_logits_v3`
+7. `cntk.ops.softmax_with_logits_v4`
+8. `cntk.ops.softmax_with_logits_v5`
+9. `cntk.ops.softmax_with_logits_v6`
+10. `cntk.ops.softmax_with_logits_v7`

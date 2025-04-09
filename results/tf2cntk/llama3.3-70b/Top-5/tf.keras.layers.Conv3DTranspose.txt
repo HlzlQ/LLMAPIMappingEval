@@ -1,0 +1,5 @@
+1. ConvolutionTransposed
+2. Deconvolution
+3. Conv3DTransposeLike
+4. TransposedConvolution
+5. ConvolutionTranspose

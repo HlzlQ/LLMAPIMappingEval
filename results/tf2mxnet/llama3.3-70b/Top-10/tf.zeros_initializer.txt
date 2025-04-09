@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.zeros_initializer`:
+
+1. mxnet.initializer.Zero
+2. mxnet.nd.zeros
+3. mxnet.gluon.nn.Dense(initializer='zeros')
+4. mxnet.gluon.nn.Conv2D(initializer='zeros')
+5. mxnet.initializer.Constant(value=0)
+6. mxnet.gluon.ParameterInitializer('zeros')
+7. mxnet.ndarray.zeros_like
+8. mxnet.gluon.nn.Embedding(initializer='zeros')
+9. mxnet.initializer.Zeros
+10. mxnet.gluon.parameter.Parameter(initializer='zeros')

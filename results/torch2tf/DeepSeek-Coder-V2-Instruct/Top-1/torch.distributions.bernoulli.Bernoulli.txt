@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tensorflow_probability.substrates.jax.distributions.Bernoulli
+<jupyter_output>
+<empty_output>

@@ -1,0 +1,2 @@
+
+Answer: torch.nn.CosineSimilarity -> cntk.ops.cosine_similarity

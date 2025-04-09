@@ -1,0 +1,5 @@
+1. String.Intern() (C#)
+2. System.String.Intern(System.String) (C#)
+3. System.String.IsInterned(System.String) (C#)
+4. System.String.Equals(System.String, System.String) (C#)
+5. System.String.GetHashCode() (C#)

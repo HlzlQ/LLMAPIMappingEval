@@ -1,0 +1,16 @@
+
+CNTK does not have an exact equivalent of TensorFlow's `tf.compat.v1.distributions.Normal` API. However, CNTK provides a similar distribution class called `cntk.distributions.normal`. The main difference is that the `cntk.distributions.normal` class takes a `loc` and `scale` parameter instead of a `mean` and `stddev` parameter like TensorFlow's `tf.compat.v1.distributions.Normal` API.
+
+Therefore, to map the TensorFlow API to CNTK, you can use the following code:
+```csharp
+using CNTK;
+
+// Create a normal distribution with mean 0 and standard deviation 1
+var dist = new Normal(0, 1);
+
+// Sample from the distribution
+var sample = dist.Sample();
+
+// Get the log probability of a value
+var logProb = dist.LogProb(sample);
+```

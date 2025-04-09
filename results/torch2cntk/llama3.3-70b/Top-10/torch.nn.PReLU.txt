@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.PReLU`:
+
+1. CNTK.LeakyReLUBatchNormalization
+2. CNTK.ParametricReLULayer
+3. CNTK.LeakyReLU
+4. CNTK.PReluLayer
+5. CNTK.ParametricActivation
+6. CNTK.LRNLayer
+7. CNTK.ReLU
+8. CNTK.Sigmoid
+9. CNTK.Tanh
+10. CNTK.PReluActivation

@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that correspond to `torch.nn.init.eye_`:
+
+1. `tf.keras.initializers.Eye`
+2. `tf.keras.initializers.Identity`
+3. `tf.keras.initializers.Ones`
+4. `tf.keras.initializers.Zeros`
+5. `tf.keras.initializers.Constant`
+6. `tf.keras.initializers.RandomNormal`
+7. `tf.keras.initializers.RandomUniform`
+8. `tf.keras.initializers.TruncatedNormal`
+9. `tf.keras.initializers.VarianceScaling`
+10. `tf.keras.initializers.Orthogonal`

@@ -1,0 +1,10 @@
+cntk.layers.max_pooling
+cntk.ops.max_pooling
+cntk.layers.pooling
+cntk.ops.pooling
+cntk.layers.reduce_max
+cntk.ops.reduce_max
+cntk.layers.windowed_convolution
+cntk.ops.windowed_convolution
+cntk.layers.convolution_transpose
+cntk.ops.convolution_transpose

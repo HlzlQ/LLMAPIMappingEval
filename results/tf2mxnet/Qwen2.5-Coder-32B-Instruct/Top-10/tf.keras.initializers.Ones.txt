@@ -1,0 +1,10 @@
+mxnet.init.Constant  
+mxnet.init.One  
+mxnet.initializer.Constant  
+mxnet.initializer.One  
+mxnet.gluon.nn.initializer.Constant  
+mxnet.gluon.nn.initializer.One  
+mxnet.ndarray.ones_initializer  
+mxnet.symbol.contrib.ones_initializer  
+mxnet.ndarray.random.uniform  
+mxnet.symbol.random.uniform

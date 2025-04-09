@@ -1,0 +1,5 @@
+cntk.ops.tanh  
+cntk.activations.tanh  
+cntk.functions.tanh  
+cntk.layers.Tanh  
+cntk.models.Tanh

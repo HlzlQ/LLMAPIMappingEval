@@ -1,0 +1,7 @@
+
+
+1. torch.nn.functional.relu
+2. torch.nn.Linear
+3. torch.nn.Dropout
+4. torch.nn.BatchNorm1d
+5. torch.nn.ReLU

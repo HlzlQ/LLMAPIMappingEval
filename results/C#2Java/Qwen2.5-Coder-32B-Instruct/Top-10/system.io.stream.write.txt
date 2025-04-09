@@ -1,0 +1,10 @@
+java.io.OutputStream.write
+java.nio.channels.WritableByteChannel.write
+java.io.DataOutputStream.write
+java.io.BufferedOutputStream.write
+java.io.FileOutputStream.write
+java.net.SocketOutputStream.write
+java.security.DigestOutputStream.write
+java.util.zip.DeflaterOutputStream.write
+java.util.zip.GZIPOutputStream.write
+java.io.FilterOutputStream.write

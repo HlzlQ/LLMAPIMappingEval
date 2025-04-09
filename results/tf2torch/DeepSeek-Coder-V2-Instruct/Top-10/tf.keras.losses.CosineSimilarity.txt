@@ -1,0 +1,11 @@
+
+Answer: 1. MSELoss
+2. CrossEntropyLoss
+3. L1Loss
+4. BCEWithLogitsLoss
+5. NLLLoss
+6. SmoothL1Loss
+7. PoissonNLLLoss
+8. CosineEmbeddingLoss
+9. Hinge
+10. TripletMarginLoss

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.indexof` in C#:
+
+1. java.lang.String.indexOf()
+2. java.lang.String.lastIndexOf()
+3. java.lang.String.indexOf(int)
+4. java.lang.String.indexOf(String)
+5. java.lang.String.lastIndexOf(int)
+6. java.lang.String.lastIndexOf(String)
+7. java.util.regex.Matcher.indexOf()
+8. org.apache.commons.lang3.StringUtils.indexOf()
+9. org.apache.commons.lang3.StringUtils.lastIndexOf()
+10. java.nio.charset.CharsetDecoder.indexOf()

@@ -1,0 +1,7 @@
+
+
+1. tf.GradientTape()
+2. tape.watch()
+3. tape.gradient()
+4. tf.Variable()
+5. tf.constant()

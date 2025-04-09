@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings:
+
+1. mxnet.initializer.Zero
+2. mxnet.nd.zeros
+3. mxnet.gluon.nn.Dense(inits=mxnet.init.Zero)
+4. mxnet.gluon.Parameter(inits=mxnet.init.Zero)
+5. mxnet.init.Zero

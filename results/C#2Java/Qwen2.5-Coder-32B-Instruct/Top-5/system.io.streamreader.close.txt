@@ -1,0 +1,5 @@
+java.io.BufferedReader.close  
+java.io.FileReader.close  
+java.io.InputStreamReader.close  
+java.io.LineNumberReader.close  
+java.io.StreamTokenizer.close

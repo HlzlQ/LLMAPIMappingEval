@@ -1,0 +1,5 @@
+System.Random.Next
+System.Security.Cryptography.RandomNumberGenerator.GetInt32
+System.Random.Shared.Next
+System.Random.Default.Next
+System.RandomNumberGenerator.GetInt32

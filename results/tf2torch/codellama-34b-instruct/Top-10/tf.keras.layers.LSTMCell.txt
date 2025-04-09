@@ -1,0 +1,12 @@
+  Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.LSTMCell`:
+
+1. `nn.LSTMCell`
+2. `nn.RNNCell`
+3. `nn.GRUCell`
+4. `nn.LSTM`
+5. `nn.RNN`
+6. `nn.GRU`
+7. `nn.SequentialRNN`
+8. `nn.BidirectionalRNN`
+9. `nn.StackedRNN`
+10. `nn.MultiHeadAttention`

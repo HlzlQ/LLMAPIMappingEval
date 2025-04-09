@@ -1,0 +1,8 @@
+
+The Java API `org.testng.assert.assertNotSame` can be mapped to the following C# APIs:
+
+* `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame`
+* `NUnit.Framework.Assert.AreNotSame`
+* `Xunit.Assert.NotSame`
+
+All of these APIs are used to assert that two objects are not the same instance, and they have similar functionality to the Java API. However, the exact mapping may depend on the specific testing framework being used in the C# project.

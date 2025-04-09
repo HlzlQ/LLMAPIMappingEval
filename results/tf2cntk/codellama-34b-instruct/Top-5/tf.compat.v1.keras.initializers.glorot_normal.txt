@@ -1,0 +1,6 @@
+
+* `cntk.initializer.glorot_normal`
+* `cntk.initializer.he_normal`
+* `cntk.initializer.kaiming_normal`
+* `cntk.initializer.msra_normal`
+* `cntk.initializer.xavier_normal`

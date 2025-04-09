@@ -1,0 +1,19 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:BatchNormalization, BatchNorm, SpatialBatchNormalization, LearnableParameters, ScaleAndOffset, MomentumSaver, InferenceMode, Epsilon, AveragedStatistics, DropoutMask
+<jupyter_code>
+# Please write your code to verify the answer here.
+import torch
+import cntk as ckt
+
+# Assuming BatchNorm in PyTorch is equivalent to SpatialBatchNormalization in CNTK
+def pytorch_to_cntk(input_tensor, gamma, beta, mean, variance):
+    return ckt.ops.batch_normalization(input_tensor, 
+                                       scale=gamma, 
+                                       bias=beta, 
+                                       running_mean=mean, 
+                                       running_variance=variance)
+<jupyter_output>
+<empty_output>

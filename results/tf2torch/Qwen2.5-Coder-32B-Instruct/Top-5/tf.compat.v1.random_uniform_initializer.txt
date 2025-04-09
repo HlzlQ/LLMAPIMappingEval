@@ -1,0 +1,5 @@
+torch.nn.init.uniform_
+torch.rand
+torch.FloatTensor.uniform_
+torch.DoubleTensor.uniform_
+torch.cuda.FloatTensor.uniform_

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the `torch.unique` PyTorch API:
+
+1. `cntk.unique`
+2. `cntk.unique_dims`
+3. `cntk.unique_elements`
+4. `cntk.unique_values`
+5. `cntk.unique_indices`
+6. `cntk.unique_counts`
+7. `cntk.unique_labels`
+8. `cntk.unique_mask`
+9. `cntk.unique_axis`
+10. `cntk.unique_reduce`

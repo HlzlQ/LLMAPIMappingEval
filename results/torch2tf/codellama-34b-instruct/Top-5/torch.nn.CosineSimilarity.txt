@@ -1,0 +1,5 @@
+  tf.keras.layers.CosineSimilarity
+  tf.keras.losses.CosineSimilarity
+  tf.keras.metrics.CosineSimilarity
+  tf.keras.optimizers.CosineSimilarity
+  tf.keras.regularizers.CosineSimilarity

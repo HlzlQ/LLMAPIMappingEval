@@ -1,0 +1,22 @@
+
+
+```python
+import mxnet as mx
+from mxnet import gluon
+from mxnet.gluon import nn
+import numpy as np
+import tensorflow as tf
+tf.compat.v1.enable_eager_execution()
+```
+
+### Answer:
+1. `tf.compat.v1.distributions.Gamma` -> `mx.ndarray.gamma`
+2. `tf.compat.v1.distributions.Normal` -> `mx.ndarray.normal`
+3. `tf.compat.v1.distributions.Bernoulli` -> `mx.ndarray.sample_bernoulli`
+4. `tf.compat.v1.distributions.Categorical` -> `mx.ndarray.sample_categorical`
+5. `tf.compat.v1.distributions.MultivariateNormalDiag` -> `mx.ndarray.normal`
+6. `tf.compat.v1.distributions.Exponential` -> `mx.ndarray.exponential`
+7. `tf.compat.v1.distributions.Poisson` -> `mx.ndarray.poisson`
+8. `tf.compat.v1.distributions.Logistic` -> `mx.ndarray.sample_logistic`
+9. `tf.compat.v1.distributions.Uniform` -> `mx.ndarray.uniform`
+10. `tf.compat.v1.distributions.Chi2` -> `mx.ndarray.gamma`

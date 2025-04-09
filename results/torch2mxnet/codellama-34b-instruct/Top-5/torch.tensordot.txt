@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.tensordot | mxnet.ndarray.tensordot |
+  | torch.dot | mxnet.ndarray.dot |
+  | torch.matmul | mxnet.ndarray.matmul |
+  | torch.mm | mxnet.ndarray.mm |
+  | torch.bmm | mxnet.ndarray.bmm |

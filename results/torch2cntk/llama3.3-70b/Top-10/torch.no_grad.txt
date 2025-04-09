@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that may have similar functionality to `torch.no_grad`:
+
+1. `cntk.disable_gradient_checking`
+2. `cntk.enable_fast_mode`
+3. `cntk.set_gradient_aggregation`
+4. `cntk.get_gradient_aggregation`
+5. `cntk.disable_forward_propagation`
+6. `cntk.enable_evaluation_mode`
+7. `cntk.set_training_mode`
+8. `cntk.get_training_mode`
+9. `cntk.disable_backward_computation`
+10. `cntk.eval_mode`

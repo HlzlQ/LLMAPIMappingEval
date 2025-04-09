@@ -1,0 +1,4 @@
+
+PyTorch equivalent of `tensorflow.keras.losses.Poisson`:
+
+* `torch.nn.functional.poisson_nll_loss`

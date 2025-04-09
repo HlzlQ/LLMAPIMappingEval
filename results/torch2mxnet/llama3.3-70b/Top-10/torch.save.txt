@@ -1,0 +1,12 @@
+Based on the `torch.save` function, here are the top 10 MXNet API mappings:
+
+1. mx.nd.save
+2. mx.model.save_checkpoint
+3. mx.module.save_checkpoint
+4. mx.gluon.utils.save_parameters
+5. mx.gluon.Parameter.save
+6. mxnet.ndarray.save
+7. mxnet.model.save
+8. mxnet.module.save
+9. mx.gluon.Block.save_parameters
+10. mx.gluon.ParameterDict.save

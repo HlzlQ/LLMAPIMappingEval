@@ -1,0 +1,11 @@
+
+CNTK does not have a direct equivalent of `torch.nn.functional.selu`. However, you can achieve similar functionality using the `cntk.ops.clipped_relu` function with the appropriate parameters.
+
+Here's an example:
+```python
+import cntk as C
+
+# Define a clipped ReLU activation function with alpha = 1.67326324235437728515625 and beta = 0.01
+clipped_relu = C.ops.clipped_relu(alpha=1.67326324235437728515625, beta=0.01)
+```
+This will create a clipped ReLU activation function with the same parameters as `torch.nn.functional.selu`. You can then use this function in your CNTK model instead of `torch.nn.functional.selu`.

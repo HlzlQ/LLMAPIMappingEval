@@ -1,0 +1,7 @@
+  The C# API "system.data.sqlclient.sqldatareader.getbytes" can be mapped to the following Java APIs:
+
+1. java.sql.ResultSet.getBytes(int columnIndex)
+2. java.sql.ResultSet.getBytes(String columnLabel)
+3. java.sql.Blob.getBytes(long pos, int length)
+4. java.sql.Clob.getBytes(long pos, int length)
+5. java.sql.NClob.getBytes(long pos, int length)

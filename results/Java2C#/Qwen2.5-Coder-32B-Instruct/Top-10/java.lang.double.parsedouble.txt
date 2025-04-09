@@ -1,0 +1,10 @@
+System.Double.Parse
+System.Convert.ToDouble
+double.TryParse
+Convert.ToDouble
+Double.Parse
+Single.Parse
+float.Parse
+Decimal.Parse
+Int32.Parse
+UInt32.Parse

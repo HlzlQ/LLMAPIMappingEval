@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `tensorflow.keras.layers.RNN`:
+
+1. `mxnet.gluon.rnn.RNN`
+2. `mxnet.gluon.rnn.LSTM`
+3. `mxnet.gluon.rnn.GRU`
+4. `mxnet.gluon.rnn.SimpleRNN`
+5. `mxnet.gluon.rnn.Bidirectional`
+6. `mxnet.gluon.rnn.SequentialRNN`
+7. `mxnet.gluon.rnn.StackedRNN`
+8. `mxnet.gluon.rnn.ConvLSTM2D`
+9. `mxnet.gluon.rnn.ConvGRU`
+10. `mxnet.gluon.rnn.ConvSimpleRNN`

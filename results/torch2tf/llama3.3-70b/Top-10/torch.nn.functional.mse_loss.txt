@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.mse_loss`:
+
+1. tf.keras.losses.MeanSquaredError
+2. tf.reduce_mean
+3. tf.square
+4. tf.losses.mean_squared_error
+5. tf.metrics.mean_squared_error
+6. tf.keras.metrics.MeanSquaredError
+7. tf.math.reduce_mean
+8. tf.math.squared_difference
+9. tf.compat.v1.losses.mean_squared_error
+10. tf.keras.losses.MSE

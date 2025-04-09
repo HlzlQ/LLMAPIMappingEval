@@ -1,0 +1,5 @@
+1. java.util.ArrayList.iterator()
+2. java.util.LinkedList.listIterator()
+3. java.util.Vector.elements()
+4. java.util.Collections.list().iterator()
+5. java.util.AbstractList.listIterator()

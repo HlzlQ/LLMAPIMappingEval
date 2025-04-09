@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.Conv3D`:
+
+1. `CNTK.Convolution`
+2. `CNTK.Convolution3D`
+3. `CNTK.SpatialConvolution`
+4. `CNTK.ConvolutionLayer`
+5. `CNTK.Conv3DLayer`
+6. `CNTK.ConvolutionalLayer`
+7. `CNTK.SpatialConvolutionLayer`
+8. `CNTK.ConvolutionOperator`
+9. `CNTK.Conv3DOperator`
+10. `CNTK.SpatialConvolutionOperator`

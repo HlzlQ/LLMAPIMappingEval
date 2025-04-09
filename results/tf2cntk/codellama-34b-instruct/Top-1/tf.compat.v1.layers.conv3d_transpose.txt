@@ -1,0 +1,30 @@
+
+CNTK does not have an exact equivalent of `tensorflow.compat.v1.layers.conv3d_transpose`. However, you can use the following CNTK APIs to achieve a similar functionality:
+
+* `cntk.ops.convolution_transpose`: This API performs a 3D convolution transpose operation on an input tensor. It takes the input tensor, filter weights, and bias as arguments and returns the output tensor.
+* `cntk.ops.conv_transpose_with_output_shape`: This API is similar to `cntk.ops.convolution_transpose`, but it also allows you to specify the output shape of the transposed convolution operation.
+
+Here's an example code snippet that demonstrates how to use these APIs:
+```python
+import cntk as C
+
+# Input tensor with shape (1, 32, 32, 32)
+input_tensor = C.input_variable((1, 32, 32, 32))
+
+# Filter weights with shape (3, 3, 3, 64)
+filter_weights = C.parameter((3, 3, 3, 64), init=C.glorot_uniform())
+
+# Bias tensor with shape (1, 1, 1, 64)
+bias = C.parameter((1, 1, 1, 64), init=C.zeros())
+
+# Perform transposed convolution operation on input tensor
+output_tensor = C.ops.convolution_transpose(input_tensor, filter_weights, bias, strides=(2, 2, 2))
+
+# Reshape output tensor to (1, 64, 32, 32)
+output_tensor = C.reshape(output_tensor, (1, 64, 32, 32))
+```
+In this example, we first define the input tensor with shape `(1, 32, 32, 32)`. We then create filter weights and bias tensors with shapes `(3, 3, 3, 64)` and `(1, 1, 1, 64)`, respectively.
+
+Next, we perform a transposed convolution operation on the input tensor using `C.ops.convolution_transpose`. We specify the filter weights, bias, and strides as arguments. The output tensor has shape `(1, 64, 32, 32)`.
+
+Finally, we reshape the output tensor to `(1, 64, 32, 32)` using `C.reshape`. This is necessary because the transposed convolution operation changes the spatial dimensions of the input tensor, and we need to restore them to their original shape.

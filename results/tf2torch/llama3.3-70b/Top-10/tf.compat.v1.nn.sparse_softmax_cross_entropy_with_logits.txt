@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.nn.sparse_softmax_cross_entropy_with_logits`:
+
+1. torch.nn.functional.cross_entropy
+2. torch.nn.CrossEntropyLoss
+3. torch.nn.NLLLoss
+4. torch.nn.functional.nll_loss
+5. torch.nn.functional.log_softmax
+6. torch.nn.Softmax
+7. torch.nn.LogSoftmax
+8. torch.nn.functional.softmax
+9. torch.nn.functional.log_softmax_with_logits
+10. torch.nn.CrossEntropyLossWithLogits

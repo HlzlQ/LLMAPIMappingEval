@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings:
+
+1. mxnet.initializer.One
+2. mxnet.nd.ones
+3. mxnet gluon.nn.Dense(weights_initializer='ones')
+4. mxnet.gluon.Parameter(initializer='ones')
+5. mxnet.initializer.Constant(value=1.0)

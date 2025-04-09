@@ -1,0 +1,5 @@
+1. torch.nn.MaxPool2d
+2. torch.nn.functional.max_pool2d
+3. torch.nn.AdaptiveMaxPool2d
+4. torch.nn.functional.adaptive_max_pool2d
+5. torch.nn.MaxUnpool2d

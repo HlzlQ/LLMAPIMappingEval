@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.StreamWriter.ToCharArray()
+2. System.Text.StringBuilder.ToCharArray()
+3. System.Collections.Generic.List<char>.ToArray()
+4. System.Linq.Enumerable.ToArray<char>()
+5. System.Text.RegularExpressions.Regex.Matches(string).ToArray()
+6. System.IO.File.ReadAllLines(string).ToCharArray()
+7. System.IO.File.ReadAllText(string).ToCharArray()
+8. System.IO.StreamReader.ReadToEnd().ToCharArray()
+9. System.IO.BinaryReader.ReadChars(int).ToArray()
+10. System.IO.Compression.DeflateStream.Read(byte[], int, int).ToCharArray()

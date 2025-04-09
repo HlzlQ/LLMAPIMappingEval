@@ -1,0 +1,10 @@
+tf.keras.layers.Dense  
+tf.compat.v1.layers.dense  
+tf.nn.linear  
+tf.matmul  
+tf.add  
+tf.linalg.matmul  
+tf.tensordot  
+tf.einsum  
+tf.keras.backend.dot  
+tf.keras.backend.bias_add

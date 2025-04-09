@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.text.stringbuilder.copyto` in C#:
+
+1. java.lang.StringBuilder.getChars
+2. java.lang.StringBuilder.substring
+3. java.lang.StringBuilder.replace
+4. java.lang.StringBuffer.getChars
+5. java.nio.CharBuffer.put
+6. java.lang.AbstractStringBuilder.getChars
+7. java.lang.StringBuilder.indexOf
+8. java.lang.String.copyValueOf
+9. java.nio.charset.CharsetDecoder.decode
+10. java.lang.String.getChars

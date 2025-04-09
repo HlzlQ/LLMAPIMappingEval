@@ -1,0 +1,10 @@
+java.util.List.add
+java.util.LinkedList.add
+java.util.ArrayList.add
+java.util.Vector.add
+java.util.Stack.push
+java.util.Deque.addFirst
+java.util.Queue.offer
+java.util.PriorityQueue.add
+java.util.ArrayDeque.add
+java.util.LinkedList.addLast

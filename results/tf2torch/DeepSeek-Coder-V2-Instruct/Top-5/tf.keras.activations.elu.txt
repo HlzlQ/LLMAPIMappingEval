@@ -1,0 +1,2 @@
+
+Answer: relu, sigmoid, softmax, tanh, elu

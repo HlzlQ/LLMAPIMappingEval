@@ -1,0 +1,8 @@
+System.String.Split() in C# can be mapped to the following methods in Java:
+
+* `java.lang.String.split(String regex)`
+* `java.lang.String.split(String regex, int limit)`
+* `java.lang.String.split(String regex, String[] results)`
+* `java.lang.String.split(String regex, int limit, String[] results)`
+
+The most likely one is `java.lang.String.split(String regex)`.

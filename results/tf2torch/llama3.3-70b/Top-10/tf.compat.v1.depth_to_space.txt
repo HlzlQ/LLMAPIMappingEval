@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.depth_to_space`:
+
+1. torch.nn.PixelShuffle
+2. torch.nn.functional.pixel_shuffle
+3. torch.tensor.view
+4. torch.reshape
+5. torch.transpose
+6. torch.permute
+7. torch.flatten
+8. torch.nn.Upsample
+9. torch.nn.functional.interpolate
+10. torch.tensor.reshape

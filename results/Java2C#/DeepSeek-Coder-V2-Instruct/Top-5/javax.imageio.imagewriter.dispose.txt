@@ -1,0 +1,5 @@
+1. System.IDisposable.Dispose()
+2. System.ComponentModel.ISupportInitialize.EndInit()
+3. System.IO.Stream.Close()
+4. System.Resources.ResourceManager.ReleaseAllResources()
+5. System.Drawing.Image.Dispose()

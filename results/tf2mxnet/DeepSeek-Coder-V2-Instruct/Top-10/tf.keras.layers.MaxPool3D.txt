@@ -1,0 +1,5 @@
+
+Answer: 1. mxnet.ndarray.max_pool3d
+2. mxnet.symbol.max_pool3d
+3. mxnet.gluon.nn.MaxPool3D
+4. mxnet.image.contrib.MaxPool3D

@@ -1,0 +1,10 @@
+System.String.GetNumericValue
+System.String.IndexOf
+System.String.LastIndexOf
+System.String.Substring
+System.String.ToCharArray
+System.Char.ConvertFromUtf32
+System.Text.Encoding.UTF8.GetString
+System.Globalization.CodePointConverter.ConvertToUtf16SurrogatePair
+System.Globalization.CodePointConverter.ConvertFromUtf16SurrogatePair
+System.Text.Rune.GetRuneAt

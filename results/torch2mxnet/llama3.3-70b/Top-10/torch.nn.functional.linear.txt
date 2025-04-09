@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `torch.nn.functional.linear`:
+
+1. mxnet.ndarray.FullyConnected
+2. mxnet.gluon.nn.Dense
+3. mxnet.ndarray.dot
+4. mxnet.gluon.nn.Linear
+5. mxnet.ndarray.batch_dot
+6. mxnet.gluon.nn.Flatten
+7. mxnet.ndarray.transpose
+8. mxnet.gluon.nn.Activation
+9. mxnet.ndarray.sum
+10. mxnet.gluon.nn.HybridSequential

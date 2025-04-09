@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.learners.adam
+2. cntk.learners.adagrad
+3. cntk.learners.momentum_sgd
+4. cntk.learners.rmsprop
+5. cntk.initializers.glorot_uniform
+6. cntk.initializers.he_normal
+7. cntk.ops.relu
+8. cntk.ops.sigmoid
+9. cntk.ops.softmax
+10. cntk.losses.cross_entropy

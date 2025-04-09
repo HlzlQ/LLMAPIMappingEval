@@ -1,0 +1,10 @@
+torch.distributions.normal.Normal  
+torch.nn.functional.gaussian_nll_loss  
+torch.distributions.multivariate_normal.MultivariateNormal  
+torch.distributions.kl_divergence  
+torch.distributions.utils.clamp_probs  
+torch.distributions.utils.broadcast_all  
+torch.distributions.utils._standard_normal  
+torch.distributions.utils._sum_rightmost  
+torch.distributions.utils._convert_to_tensor  
+torch.distributions.utils._clamp_and_cast_to_value_type

@@ -1,0 +1,21 @@
+  Here are ten C# APIs that have similar functionality to the Java Math class:
+
+1. System.Math.Abs(double)
+2. System.Math.Acos(double)
+3. System.Math.Asin(double)
+4. System.Math.Atan(double)
+5. System.Math.Ceiling(double)
+6. System.Math.Cos(double)
+7. System.Math.Exp(double)
+8. System.Math.Floor(double)
+9. System.Math.Log(double)
+10. System.Math.Max(double, double)
+11. System.Math.Min(double, double)
+12. System.Math.Pow(double, double)
+13. System.Math.Round(double)
+14. System.Math.Sign(double)
+15. System.Math.Sin(double)
+16. System.Math.Sqrt(double)
+17. System.Math.Tan(double)
+
+Note that some of these APIs may have slightly different names or syntax than their Java counterparts, but they provide similar functionality.

@@ -1,0 +1,5 @@
+mxnet.ndarray.ones_like
+mxnet.ndarray.full
+mxnet.ndarray.fill
+mxnet.ndarray.onehot_encode
+mxnet.ndarray.repeat

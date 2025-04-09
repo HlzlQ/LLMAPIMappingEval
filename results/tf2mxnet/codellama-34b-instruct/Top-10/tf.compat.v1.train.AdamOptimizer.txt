@@ -1,0 +1,12 @@
+  tf.compat.v1.train.AdamOptimizer is a TensorFlow API for creating an Adam optimizer. Here are ten MXNet APIs with similar functions:
+
+1. mxnet.optimizer.Adam
+2. mxnet.optimizer.AdamW
+3. mxnet.optimizer.Adamax
+4. mxnet.optimizer.Nadam
+5. mxnet.optimizer.RMSprop
+6. mxnet.optimizer.SGD
+7. mxnet.optimizer.AdaGrad
+8. mxnet.optimizer.AdaDelta
+9. mxnet.optimizer.Adagrad
+10. mxnet.optimizer.Adamax

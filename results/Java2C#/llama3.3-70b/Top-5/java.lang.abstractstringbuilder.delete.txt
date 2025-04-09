@@ -1,0 +1,5 @@
+1. System.Text.StringBuilder.Remove
+2. System.Text.StringBuilder.Replace
+3. System.Text.RegularExpressions.Regex.Replace
+4. System.Linq.Enumerable.SkipWhile
+5. System.Linq.Enumerable.TakeWhile

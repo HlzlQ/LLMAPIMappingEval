@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.Concat
+3. System.Collections.ArrayList.AddRange
+4. System.Array.CopyTo
+5. System.Collections.ICollection.CopyTo

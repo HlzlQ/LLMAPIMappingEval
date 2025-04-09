@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.profiler.profile`:
+
+1. tf.profiler.experimental.Profile
+2. tf.profiler.trace
+3. tf.debugging.profile
+4. tf.summary.trace_on
+5. tf.summary.trace_off
+6. tf.profiler.experimental.start
+7. tf.profiler.experimental.stop
+8. tf.profiler.experimental.ProfileContext
+9. tf.profiler.experimental.Trace
+10. tf.summary.trace_export

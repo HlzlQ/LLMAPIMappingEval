@@ -1,0 +1,5 @@
+1. tf.keras.layers.LSTMCell
+2. tf.nn.rnn_cell.BasicLSTMCell
+3. tf.compat.v1.nn.rnn_cell.LSTMCell
+4. tf.keras.layers.StackedRNNCells
+5. tf.raw_ops.LSTMCell

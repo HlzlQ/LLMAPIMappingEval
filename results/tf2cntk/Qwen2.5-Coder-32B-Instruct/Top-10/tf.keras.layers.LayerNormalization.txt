@@ -1,0 +1,10 @@
+cntk.layers.LayerNormalization
+cntk.ops.layer_normalization
+cntk.layers.normalization
+cntk.layers.batch_normalization
+cntk.layers.instance_normalization
+cntk.layers.group_normalization
+cntk.layers.l2_normalization
+cntk.layers.local_response_normalization
+cntk.layers.cross_channel_lrn
+cntk.layers.spatial_normalization

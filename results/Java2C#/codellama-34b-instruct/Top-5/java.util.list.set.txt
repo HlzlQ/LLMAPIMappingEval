@@ -1,0 +1,12 @@
+  Sure! Here are the 5 most likely C# APIs for each Java API:
+
+1. java.util.List.set(int index, E element)
+	* C# List<T>.set(int index, T value)
+2. java.util.List.get(int index)
+	* C# List<T>.get(int index)
+3. java.util.List.add(E element)
+	* C# List<T>.Add(T item)
+4. java.util.List.remove(int index)
+	* C# List<T>.RemoveAt(int index)
+5. java.util.List.size()
+	* C# List<T>.Count

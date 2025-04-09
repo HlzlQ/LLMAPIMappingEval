@@ -1,0 +1,10 @@
+System.IO.TextWriter.Write  
+System.IO.StreamWriter.Write  
+System.IO.StringWriter.Write  
+System.IO.BufferedWriter.Write  
+System.IO.SynchronizedWriter.Write  
+System.IO.UnmanagedMemoryStream.Write  
+System.IO.FileStream.Write  
+System.IO.MemoryStream.Write  
+System.IO.BinaryWriter.Write  
+System.IO.Stream.Write

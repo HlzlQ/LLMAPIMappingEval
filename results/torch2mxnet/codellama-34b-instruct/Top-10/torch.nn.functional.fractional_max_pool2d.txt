@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to `torch.nn.functional.fractional_max_pool2d`:
+
+1. `mxnet.ndarray.fractional_max_pooling`
+2. `mxnet.ndarray.fractional_max_pooling2d`
+3. `mxnet.ndarray.fractional_max_pooling3d`
+4. `mxnet.ndarray.fractional_max_pooling_with_argmax`
+5. `mxnet.ndarray.fractional_max_pooling2d_with_argmax`
+6. `mxnet.ndarray.fractional_max_pooling3d_with_argmax`
+7. `mxnet.ndarray.fractional_max_pooling_with_indices`
+8. `mxnet.ndarray.fractional_max_pooling2d_with_indices`
+9. `mxnet.ndarray.fractional_max_pooling3d_with_indices`
+10. `mxnet.ndarray.fractional_max_pooling_with_argmax_and_indices`

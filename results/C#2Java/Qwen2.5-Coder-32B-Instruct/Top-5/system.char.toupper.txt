@@ -1,0 +1,5 @@
+java.lang.Character.toUpperCase
+java.lang.String.toUpperCase
+java.text.Normalizer.Form.valueOf
+java.util.Locale.forLanguageTag
+java.nio.charset.Charset.forName

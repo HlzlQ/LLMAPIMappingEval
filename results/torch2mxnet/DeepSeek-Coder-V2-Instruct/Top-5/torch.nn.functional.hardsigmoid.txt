@@ -1,0 +1,9 @@
+
+
+## Solution
+
+1. `torch.nn.functional.relu` -> `mxnet.ndarray.relu`
+2. `torch.nn.functional.sigmoid` -> `mxnet.ndarray.sigmoid`
+3. `torch.nn.functional.softmax` -> `mxnet.ndarray.softmax`
+4. `torch.nn.functional.tanh` -> `mxnet.ndarray.tanh`
+5. `torch.nn.functional.hardsigmoid` -> `mxnet.ndarray.leaky_relu`

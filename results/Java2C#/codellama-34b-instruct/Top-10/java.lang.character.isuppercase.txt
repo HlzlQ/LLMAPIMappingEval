@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Character.isUpperCase()`:
+
+1. `char.IsUpper()`
+2. `Char.IsUpper()`
+3. `System.Char.IsUpper()`
+4. `Microsoft.VisualBasic.Strings.UCase()`
+5. `System.Globalization.CultureInfo.TextInfo.ToUpper()`
+6. `System.String.ToUpper()`
+7. `System.String.ToUpperInvariant()`
+8. `System.Char.ToUpper()`
+9. `System.Char.ToUpperInvariant()`
+10. `Microsoft.VisualBasic.Strings.StrConv()`

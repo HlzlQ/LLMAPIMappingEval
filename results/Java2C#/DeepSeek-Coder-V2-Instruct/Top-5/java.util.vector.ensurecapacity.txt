@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.EnsureCapacity
+2. System.Array.Resize<T>
+3. System.Buffer.AdjustSize
+4. System.Span<T>.EnsureCapacity
+5. System.Memory<T>.EnsureCapacity

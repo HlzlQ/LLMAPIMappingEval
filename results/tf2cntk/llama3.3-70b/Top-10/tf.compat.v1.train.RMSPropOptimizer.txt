@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.train.RMSPropOptimizer`:
+
+1. `cntk.learners.rmsprop`
+2. `cntk.optimizers.rmsprop`
+3. `cntk.train.rmsprop`
+4. `cntk.learners.RMSPropLearner`
+5. `cntk.optimizers.RMSPropOptimizer`
+6. `cntk.train.rmsprop_optimizer`
+7. `cntk.learners.RMSPropParameterLearner`
+8. `cntk.optimizers.RMSPropSGDOptimizer`
+9. `cntk.train.RMSPropTrainer`
+10. `cntk.learners.MomentumRMSPropLearner`

@@ -1,0 +1,12 @@
+  Here are ten Java methods that correspond to the C# `System.Char` class's `IsDigit` method:
+
+1. `Character.isDigit(char ch)`
+2. `Character.isDigit(int codePoint)`
+3. `Character.isDigit(String str, int index)`
+4. `Character.isDigit(String str, int index, int count)`
+5. `Character.isDigit(char[] chars, int offset, int count)`
+6. `Character.isDigit(CharSequence s, int start, int end)`
+7. `Character.isDigit(CharSequence s, int start)`
+8. `Character.isDigit(CharSequence s)`
+9. `Character.isDigit(int codePoint, int index)`
+10. `Character.isDigit(char ch, int index)`

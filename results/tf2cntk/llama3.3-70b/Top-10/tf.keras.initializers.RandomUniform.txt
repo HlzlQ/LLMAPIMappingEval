@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent CNTK APIs:
+
+1. CNTK.DefaultInitializer
+2. CNTK.GlorotUniformInitializer
+3. CNTK.HeUniformInitializer
+4. CNTK.RandomNormalInitializer
+5. CNTK.RandomUniformInitializer
+6. CNTK.XavierUniformInitializer
+7. CNTK.NormalInitializer
+8. CNTK.UniformInitializer
+9. CNTK.ScaledRandomUniformInitializer
+10. CNTK.ScaledUniformInitializer

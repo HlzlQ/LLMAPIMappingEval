@@ -1,0 +1,9 @@
+
+
+## Solution
+
+1. `torch.distributions.bernoulli.Bernoulli` -> `mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss`
+2. `torch.distributions.bernoulli.Bernoulli` -> `mxnet.ndarray.sign`
+3. `torch.distributions.bernoulli.Bernoulli` -> `mxnet.ndarray.clip`
+4. `torch.distributions.bernoulli.Bernoulli` -> `mxnet.ndarray.ones_like`
+5. `torch.distributions.bernoulli.Bernoulli` -> `mxnet.ndarray.zeros_like`

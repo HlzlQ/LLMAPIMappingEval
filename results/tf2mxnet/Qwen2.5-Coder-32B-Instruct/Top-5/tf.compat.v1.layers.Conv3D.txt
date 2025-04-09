@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Conv3D  
+mxnet.symbol.Convolution  
+mxnet.ndarray.Convolution  
+mxnet.gluon.contrib.nn.SynchronizedBatchNormConv3D  
+mxnet.gluon.nn.HybridSequential.add(mxnet.gluon.nn.Conv3D)

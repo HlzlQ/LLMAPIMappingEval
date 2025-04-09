@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.activations.softplus`:
+
+1. `torch.nn.Softplus`
+2. `torch.nn.functional.softplus`
+3. `torch.nn.modules.activation.Softplus`
+4. `torch.nn.modules.activation.SoftplusActivation`
+5. `torch.nn.modules.activation.SoftplusFunction`
+6. `torch.nn.modules.activation.SoftplusModule`
+7. `torch.nn.modules.activation.SoftplusLayer`
+8. `torch.nn.modules.activation.SoftplusBlock`
+9. `torch.nn.modules.activation.SoftplusCell`
+10. `torch.nn.modules.activation.SoftplusGate`

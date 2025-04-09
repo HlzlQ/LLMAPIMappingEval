@@ -1,0 +1,5 @@
+1. GetBoolean(int columnIndex)
+2. GetBoolean(string columnName)
+3. ReadBoolean()
+4. ToBoolean()
+5. BooleanValue()

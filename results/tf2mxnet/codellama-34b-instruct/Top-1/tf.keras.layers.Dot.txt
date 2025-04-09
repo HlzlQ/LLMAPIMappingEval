@@ -1,0 +1,7 @@
+
+* `tf.keras.layers.Dense` -> `mxnet.gluon.nn.Dense`
+* `tf.keras.layers.Conv2D` -> `mxnet.gluon.nn.Conv2D`
+* `tf.keras.layers.MaxPooling2D` -> `mxnet.gluon.nn.MaxPool2D`
+* `tf.keras.layers.Flatten` -> `mxnet.gluon.nn.Flatten`
+* `tf.keras.layers.Dropout` -> `mxnet.gluon.nn.Dropout`
+* `tf.keras.layers.BatchNormalization` -> `mxnet.gluon.nn.BatchNorm`

@@ -1,0 +1,17 @@
+
+<jupyter_code>
+# Your answer here (provide the names of the 10 APIs)
+cntk_apis = [
+    "sigmoid",
+    "relu",
+    "softmax",
+    "tanh",
+    "log_softmax",
+    "batch_normalization",
+    "convolution",
+    "pooling",
+    "elementwise_mul",
+    "concat"
+]
+<jupyter_output>
+<empty_output>

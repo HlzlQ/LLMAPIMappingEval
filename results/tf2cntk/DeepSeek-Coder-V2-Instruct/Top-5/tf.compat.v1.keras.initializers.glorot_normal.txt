@@ -1,0 +1,17 @@
+
+```python
+import cntk as C
+```
+
+```python
+# Your code here
+```
+
+```python
+# Output:
+# 1. C.glorot_uniform()
+# 2. C.he_normal()
+# 3. C.he_uniform()
+# 4. C.random_sample_normal()
+# 5. C.random_sample_uniform()
+```

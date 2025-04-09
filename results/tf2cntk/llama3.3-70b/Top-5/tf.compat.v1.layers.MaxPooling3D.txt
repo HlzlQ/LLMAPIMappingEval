@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. CNTK.MaxPooling
+2. CNTK.Pooling
+3. CNTK.MaxUnpooling
+4. CNTK.AveragePooling
+5. CNTK.PoolingLayer

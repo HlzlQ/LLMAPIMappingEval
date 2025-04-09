@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.layers.Dense`:
+
+1. mxnet.gluon.nn.Dense
+2. mxnet.ndarray.FullyConnected
+3. mxnet.gluon.nn.FullyConnected
+4. mxnet.symbol.FullyConnected
+5. mxnet.gluon.nn.DenseLayer
+6. mxnet.ndarray.Dense
+7. mxnet.gluon.nn.Linear
+8. mxnet.symbol.Dense
+9. mxnet.gluon.nn.AffineTransformation
+10. mxnet.ndarray.FullyConnected_v2

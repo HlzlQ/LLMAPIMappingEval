@@ -1,0 +1,7 @@
+C# does not have a direct equivalent to the `java.util.Map` interface. However, there are several options available in C# for working with key-value pairs:
+
+1. `System.Collections.Generic.Dictionary<TKey, TValue>`: This is a generic class that allows you to store and retrieve key-value pairs using the `Add()` method. You can also use the `ContainsKey()` method to check if a key exists in the dictionary, and the `Remove()` method to remove an entry from the dictionary.
+2. `System.Collections.Specialized.NameValueCollection`: This is a non-generic class that allows you to store and retrieve name-value pairs using the `Add()` method. You can also use the `ContainsKey()` method to check if a key exists in the collection, and the `Remove()` method to remove an entry from the collection.
+3. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>`: This is a generic class that allows you to store and retrieve key-value pairs using the `AddOrUpdate()` method. You can also use the `ContainsKey()` method to check if a key exists in the dictionary, and the `Remove()` method to remove an entry from the dictionary.
+
+All of these options provide similar functionality to the `java.util.Map` interface, but with slightly different syntax and methods.

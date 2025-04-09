@@ -1,0 +1,5 @@
+java.lang.System.getenv  
+java.lang.System.getProperty  
+java.util.Properties.getProperty  
+java.util.Map.get  
+java.lang.Runtime.getRuntime.exec

@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Capacity
+2. System.Collections.ArrayList.Capacity
+3. System.Collections.Specialized.StringCollection.Capacity
+4. System.Collections.ObjectModel.Collection<T>.Capacity
+5. System.ComponentModel.BindingList<T>.Capacity
+6. System.Windows.Forms.ListBox.ObjectCollection.Capacity
+7. System.Data.DataViewManager.DataViewSettings.Capacity
+8. System.Web.UI.WebControls.ListItemCollection.Capacity
+9. System.Collections.Concurrent.BlockingCollection<T>.BoundedCapacity
+10. System.Collections.Generic.Queue<T>.Capacity

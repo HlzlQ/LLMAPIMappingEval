@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.compat.v1.train.RMSPropOptimizer`:
+
+1. `torch.optim.RMSprop`
+2. `torch.optim.Adam`
+3. `torch.optim.SGD`
+4. `torch.optim.Adagrad`
+5. `torch.optim.Adadelta`

@@ -1,0 +1,1 @@
+C# does not have an exact equivalent to the `java.sql.ResultSet` class, but it does have a similar concept called `DbDataReader`. The method in C# that is closest to `getString()` is `GetString()`.

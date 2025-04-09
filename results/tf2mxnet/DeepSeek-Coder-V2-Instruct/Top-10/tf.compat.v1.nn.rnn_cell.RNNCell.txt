@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.rnn.RNNCell
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.gluon.rnn.GRUCell
+4. mxnet.ndarray.RNNCell
+5. mxnet.ndarray.LSTMCell
+6. mxnet.ndarray.GRUCell
+7. mxnet.symbol.RNNCell
+8. mxnet.symbol.LSTMCell
+9. mxnet.symbol.GRUCell
+10. mxnet.contrib.onnx.rnn_cell.RNNCell

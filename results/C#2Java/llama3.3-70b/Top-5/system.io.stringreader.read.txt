@@ -1,0 +1,5 @@
+1. java.io.StringReader.read
+2. java.io.BufferedReader.read
+3. java.io.InputStreamReader.read
+4. java.io.FileReader.read
+5. java.nio.CharBuffer.read

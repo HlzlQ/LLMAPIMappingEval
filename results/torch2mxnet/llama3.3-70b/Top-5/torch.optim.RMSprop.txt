@@ -1,0 +1,5 @@
+1. mx.optimizer.RMSProp
+2. mx.optimizer.RMSPROP
+3. mx.optim.RMSprop
+4. mx.optimizer.rmsprop
+5. mx.optimizer.Rmsprop

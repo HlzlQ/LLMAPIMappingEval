@@ -1,0 +1,7 @@
+1. BigInteger.Divide(BigInteger)
+2. BigDecimal.Divide(BigInteger)
+3. Decimal.Divide(Decimal)
+4. Double.Divide(Double)
+5. Float.Divide(Float)
+
+These APIs provide similar functionality to divide operations in Java's `BigDecimal` class, allowing for division of numeric values with different data types and precision levels.

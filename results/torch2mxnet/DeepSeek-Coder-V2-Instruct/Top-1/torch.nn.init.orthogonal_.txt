@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: mxnet.initializer.Orthogonal
+<jupyter_output>
+<empty_output>

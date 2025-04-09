@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely Java APIs for the given C# API:
+
+1. Double.isNaN()
+2. Float.isNaN()
+3. NumberUtils.isNaN(double)
+4. Math.isNaN(double)
+5. Apache Commons Math.isNaN(double)

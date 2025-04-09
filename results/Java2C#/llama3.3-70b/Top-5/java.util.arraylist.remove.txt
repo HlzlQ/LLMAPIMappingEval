@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.Remove
+2. System.Collections.Generic.List<T>.RemoveAt
+3. System.Collections.Generic.List<T>.RemoveRange
+4. System.Linq.Enumerable.Remove
+5. System.Collections.ObjectModel.Collection<T>.RemoveItem

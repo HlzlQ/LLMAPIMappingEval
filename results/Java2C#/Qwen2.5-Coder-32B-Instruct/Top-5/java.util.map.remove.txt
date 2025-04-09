@@ -1,0 +1,5 @@
+System.Collections.Generic.IDictionary.Remove  
+System.Collections.Hashtable.Remove  
+System.Collections.Specialized.NameValueCollection.Remove  
+System.Collections.Concurrent.ConcurrentDictionary.TryRemove  
+System.Collections.ObjectModel.KeyedCollection.RemoveItem

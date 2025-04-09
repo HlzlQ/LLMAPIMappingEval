@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.unique`:
+
+1. `torch.unique`
+2. `torch.unique_dim`
+3. `torch.unique_rows`
+4. `torch.unique_cols`
+5. `torch.unique_values`
+6. `torch.unique_indices`
+7. `torch.unique_counts`
+8. `torch.unique_inverse`
+9. `torch.unique_mask`
+10. `torch.unique_scatter`

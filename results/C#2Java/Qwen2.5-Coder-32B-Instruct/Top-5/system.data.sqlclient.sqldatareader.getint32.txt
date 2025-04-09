@@ -1,0 +1,5 @@
+java.sql.ResultSet.getInt
+java.sql.CallableStatement.getInt
+java.sql.PreparedStatement.getInt
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement

@@ -1,0 +1,10 @@
+1. System.Collections.Generic.Dictionary<TKey,TValue>.Values
+2. System.Linq.Enumerable.Values
+3. System.Collections.IDictionary.Values
+4. System.Collections.Specialized.NameValueCollection.Values
+5. System.Configuration.ConfigurationManager.AppSettings.Settings.Value
+6. System.Collections.Generic.Dictionary<string,object>.Values
+7. Microsoft.Extensions.Configuration.IConfiguration.Values
+8. System.Collections.Generic.SortedDictionary<TKey,TValue>.Values
+9. System.Collections.Generic.SortedList<string,object>.Values
+10. System.Web.Configuration.AppSettingsSection.Settings.Value

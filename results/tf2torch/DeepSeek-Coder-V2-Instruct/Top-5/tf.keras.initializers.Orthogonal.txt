@@ -1,0 +1,2 @@
+
+Answer: tensorflow.keras.initializers.GlorotUniform, tensorflow.keras.initializers.HeNormal, tensorflow.keras.initializers.LecunUniform, tensorflow.keras.initializers.Orthogonal, tensorflow.keras.initializers.VarianceScaling

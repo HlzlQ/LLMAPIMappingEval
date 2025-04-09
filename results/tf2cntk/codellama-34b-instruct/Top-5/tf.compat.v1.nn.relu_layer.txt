@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used as alternatives to `tensorflow.compat.v1.nn.relu_layer`:
+
+1. `cntk.layers.Relu`
+2. `cntk.layers.Activation(cntk.ops.relu)`
+3. `cntk.layers.Dense(activation=cntk.ops.relu)`
+4. `cntk.layers.Conv2D(activation=cntk.ops.relu)`
+5. `cntk.layers.BatchNormalization(activation=cntk.ops.relu)`

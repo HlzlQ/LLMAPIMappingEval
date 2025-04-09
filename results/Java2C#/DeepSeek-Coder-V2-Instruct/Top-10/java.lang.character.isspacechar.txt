@@ -1,0 +1,10 @@
+1. System.Char.IsWhiteSpace
+2. System.String.IsNullOrWhiteSpace
+3. System.Text.RegularExpressions.Regex.IsMatch
+4. System.Linq.Enumerable.Any
+5. System.Text.StringBuilder.ToString
+6. System.IO.StringReader.Peek
+7. System.IO.StringWriter.Write
+8. System.Console.ReadKey
+9. System.Console.ReadLine
+10. System.Environment.NewLine

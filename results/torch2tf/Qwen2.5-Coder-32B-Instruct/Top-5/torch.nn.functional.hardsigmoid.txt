@@ -1,0 +1,5 @@
+tf.keras.activations.hard_sigmoid  
+tf.nn.relu6  
+tf.math.sigmoid  
+tf.math.tanh  
+tf.keras.layers.Activation('hard_sigmoid')

@@ -1,0 +1,7 @@
+
+
+1. tf.pad
+2. tf.image.resize_images
+3. tf.layers.conv2d
+4. tf.nn.max_pool
+5. tf.train.AdamOptimizer

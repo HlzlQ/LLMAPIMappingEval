@@ -1,0 +1,5 @@
+1. mxnet.gluon.loss.HuberLoss
+2. mxnet.ndarray.huber_loss
+3. mxnet.gluon.loss.L2Loss
+4. mxnet.gluon.loss.L1Loss
+5. mxnet.gluon.loss.SquaredL2Loss

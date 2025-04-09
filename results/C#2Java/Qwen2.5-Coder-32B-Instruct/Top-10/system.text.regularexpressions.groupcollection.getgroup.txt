@@ -1,0 +1,10 @@
+java.util.regex.Matcher.group
+java.util.regex.Pattern.matcher
+java.util.regex.MatchResult.group
+java.util.regex.Matcher.start
+java.util.regex.Matcher.end
+java.util.regex.Matcher.groupCount
+java.util.regex.Matcher.regionStart
+java.util.regex.Matcher.regionEnd
+java.util.regex.Matcher.reset
+java.util.regex.Matcher.replaceAll

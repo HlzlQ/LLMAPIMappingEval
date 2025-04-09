@@ -1,0 +1,9 @@
+Java does not have a direct equivalent to the `System.Web.HttpUtility.UrlEncode` method in C#. However, you can use the `URLEncoder` class from the `java.net` package to achieve similar functionality. Here's an example:
+```java
+import java.net.URLEncoder;
+
+String url = "https://example.com/path?param1=value1&param2=value2";
+String encodedUrl = URLEncoder.encode(url, StandardCharsets.UTF_8);
+System.out.println(encodedUrl);
+```
+This will output the URL-encoded version of the input string, which can be used as a query parameter in a URL.

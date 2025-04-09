@@ -1,0 +1,5 @@
+mxnet.gluon.loss.HingeLoss
+mxnet.ndarray.contrib.hinge_loss
+mxnet.symbol.contrib.hinge_loss
+mxnet.gluon.nn.HingeEmbeddingLoss
+mxnet.ndarray.loss.hinge_embedding_loss

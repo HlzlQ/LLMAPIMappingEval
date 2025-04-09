@@ -1,0 +1,5 @@
+mxnet.gluon.prob.Uniform
+mxnet.ndarray.random.uniform
+mxnet.symbol.random.uniform
+mxnet.numpy.random.uniform
+mxnet.random.uniform

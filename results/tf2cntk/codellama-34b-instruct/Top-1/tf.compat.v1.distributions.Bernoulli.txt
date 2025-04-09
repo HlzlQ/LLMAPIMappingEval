@@ -1,0 +1,2 @@
+
+CNTK does not have an exact equivalent of the `tensorflow.compat.v1.distributions.Bernoulli` API. However, CNTK has a similar distribution called `cntk.layers.distributions.Bernoulli`.

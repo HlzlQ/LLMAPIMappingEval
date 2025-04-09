@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings:
+
+1. torch.nn.LSTM
+2. torch.nn.RNN
+3. torch.nn.GRU
+4. torch.nn.LSTMCell
+5. torch.nn.RNNCell

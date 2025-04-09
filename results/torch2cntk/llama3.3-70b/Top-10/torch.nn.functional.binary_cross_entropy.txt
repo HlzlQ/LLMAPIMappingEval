@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.functional.binary_cross_entropy`:
+
+1. `cntk.losses.binary_cross_entropy`
+2. `cntk.metrics.binary_classification_error`
+3. `cntk.objective_functions.binary_cross_entropy`
+4. `cntk.loss_functions.binary_cross_entropy`
+5. `cntk.metrics.accuracy_binary`
+6. `cntk.objectives.binary_cross_entropy`
+7. `cntk.losses.cross_entropy_with_softmax`
+8. `cntk.metrics.binary_error`
+9. `cntk.loss_functions.cross_entropy`
+10. `cntk.objective_functions.cross_entropy`

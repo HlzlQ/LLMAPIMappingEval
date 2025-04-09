@@ -1,0 +1,10 @@
+mxnet.init.Xavier
+mxnet.init.MSRAPrelu
+mxnet.init.Uniform
+mxnet.init.Normal
+mxnet.init.LecunUniform
+mxnet.init.LecunNormal
+mxnet.init.HeNormal
+mxnet.init.HeUniform
+mxnet.init.VarianceScaling
+mxnet.init.FactorizedReduction

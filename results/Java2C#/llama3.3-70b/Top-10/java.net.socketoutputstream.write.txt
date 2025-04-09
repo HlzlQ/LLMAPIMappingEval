@@ -1,0 +1,10 @@
+1. System.Net.Sockets.NetworkStream.Write
+2. System.IO.Stream.Write
+3. System.Net.Sockets.Socket.Send
+4. System.IO.FileStream.Write
+5. System.IO.MemoryStream.Write
+6. System.Net.WebClient.OpenWrite
+7. System.IO.Pipes.NamedPipeServerStream.Write
+8. System.IO.Pipes.PipeStream.Write
+9. System.Net.Security.SslStream.Write
+10. System.Runtime.Remoting.Channels.SocketHandler.SocketWrite

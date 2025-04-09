@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.distributions.exponential.Exponential`:
+
+1. mxnet.ndarray.random.exponential
+2. mxnet.sym.random.exponential
+3. mxnet.gluon.loss.Exponential
+4. mxnet.gluon.contrib.loss.Exponential
+5. mxnet.ndarray.LinalgExponential
+6. mxnet.sym.LinalgExponential
+7. mxnet.gluon.nn.Exponential
+8. mxnet.gluon.contrib.nn.Exponential
+9. mxnet.ndarray.random.sample_exponential
+10. mxnet.sym.random.sample_exponential

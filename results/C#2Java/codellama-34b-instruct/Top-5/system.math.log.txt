@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. java.lang.Math.log(double a)
+2. java.lang.StrictMath.log(double a)
+3. org.apache.commons.math3.special.Gamma.logGamma(double x)
+4. com.google.common.math.DoubleMath.log(double x, int n)
+5. edu.princeton.cs.algs4.StdStats.log(double[] a)

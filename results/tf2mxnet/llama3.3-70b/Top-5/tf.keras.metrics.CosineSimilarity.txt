@@ -1,0 +1,5 @@
+1. mxnet.metric.CosineSimilarity
+2. mxnet.ndarray.cosine_similarity
+3. mxnet.gluon.loss.CosineEmbeddingLoss
+4. mxnet.gluon.metric.cosine_similarity
+5. mxnet gluon.loss.SoftmaxCrossEntropyLoss with cosine similarity option

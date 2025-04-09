@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.functional.hinge_embedding_loss | mxnet.ndarray.hinge_embedding_loss |
+  | torch.nn.functional.hinge_embedding_loss | mxnet.gluon.loss.HingeEmbeddingLoss |
+  | torch.nn.functional.hinge_embedding_loss | mxnet.symbol.hinge_embedding_loss |
+  | torch.nn.functional.hinge_embedding_loss | mxnet.ndarray.hinge_embedding_loss |
+  | torch.nn.functional.hinge_embedding_loss | mxnet.gluon.loss.HingeEmbeddingLoss |

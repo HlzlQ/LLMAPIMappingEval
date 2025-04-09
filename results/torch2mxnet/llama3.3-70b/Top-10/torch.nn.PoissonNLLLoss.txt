@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `torch.nn.PoissonNLLLoss`:
+
+1. mxnet.gluon.loss.PoissonNLLLoss
+2. mxnet.ndarray.PoissonNLL
+3. mxnet.gluon.loss.NegativeLogLikelihood
+4. mxnet.ndarray.NLL
+5. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+6. mxnet.ndarray.SoftmaxCrossEntropy
+7. mxnet.gluon.loss.KLDivLoss
+8. mxnet.ndarray.KLDiv
+9. mxnet.gluon.loss.L2Loss
+10. mxnet.ndarray.L2Normalization

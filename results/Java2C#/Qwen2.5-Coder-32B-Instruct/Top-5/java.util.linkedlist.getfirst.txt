@@ -1,0 +1,5 @@
+System.Collections.Generic.LinkedList<T>.First.Value  
+System.Collections.Generic.LinkedList<T>.GetFirst()  
+System.Collections.Generic.LinkedListNode<T>.Value  
+System.Collections.Generic.LinkedList<T>.FirstOrDefault()  
+System.Collections.Generic.LinkedList<T>.ElementAt(0)

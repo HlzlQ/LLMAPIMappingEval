@@ -1,0 +1,10 @@
+java.util.List.contains  
+java.util.ArrayList.contains  
+java.util.LinkedList.contains  
+java.util.Vector.contains  
+java.util.Stack.contains  
+java.util.AbstractList.contains  
+java.util.AbstractSequentialList.contains  
+java.util.Collections.singletonList.contains  
+java.util.Collections.unmodifiableList.contains  
+java.util.Collections.checkedList.contains

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for loading a saved model:
+
+1. `cntk.load_model()`
+2. `cntk.utils.load_model()`
+3. `cntk.io.load_model()`
+4. `cntk.core.load_model()`
+5. `cntk.train.load_model()`

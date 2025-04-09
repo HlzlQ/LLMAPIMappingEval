@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+2. mxnet.ndarray.softmax_cross_entropy
+3. mxnet.symbol.softmax_cross_entropy
+4. mxnet.gluon.loss.KLDivLoss
+5. mxnet.ndarray.kldiv_loss
+6. mxnet.symbol.kldiv_loss
+7. mxnet.gluon.loss.LogisticLoss
+8. mxnet.ndarray.sigmoid_cross_entropy
+9. mxnet.symbol.sigmoid_cross_entropy
+10. mxnet.gluon.loss.HingeLoss

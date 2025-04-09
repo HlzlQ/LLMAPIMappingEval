@@ -1,0 +1,10 @@
+1. org.junit.jupiter.api.Assertions.assertNotSame
+2. org.junit.Assert.assertNotSame
+3. ch.qos.logback.core.spi.ContextAwareBase.assertSame
+4. org.testng.Assert.assertNotEquals
+5. junit.framework.Assert.assertNotSame
+6. org.mockito.Mockito.assertNotSame
+7. org.junit.jupiter.api.Assertions.assertEquals
+8. org.junit.jupiter.api.Assertions.assertSame
+9. org.testng.Assert.assertSame
+10. junit.framework.Assert.assertSame

@@ -1,0 +1,2 @@
+
+Answer: LSTM, GRU, SimpleRNN, Dense, Conv1D

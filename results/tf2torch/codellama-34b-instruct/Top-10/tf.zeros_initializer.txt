@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.zeros_initializer`:
+
+1. `torch.zeros`
+2. `torch.zeros_like`
+3. `torch.zeros_like_tensor`
+4. `torch.zeros_like_array`
+5. `torch.zeros_like_scalar`
+6. `torch.zeros_like_vector`
+7. `torch.zeros_like_matrix`
+8. `torch.zeros_like_tensor_like`
+9. `torch.zeros_like_array_like`
+10. `torch.zeros_like_scalar_like`

@@ -1,0 +1,10 @@
+System.Diagnostics.Process.Start
+System.Diagnostics.Process.StartInfo.FileName
+System.Diagnostics.Process.StartInfo.Arguments
+System.Diagnostics.Process.StartInfo.UseShellExecute
+System.Diagnostics.Process.StartInfo.RedirectStandardOutput
+System.Diagnostics.Process.StartInfo.RedirectStandardError
+System.Diagnostics.Process.StartInfo.CreateNoWindow
+System.Diagnostics.Process.StartInfo.WorkingDirectory
+System.Diagnostics.Process.StandardOutput.ReadToEnd
+System.Diagnostics.Process.WaitForExit

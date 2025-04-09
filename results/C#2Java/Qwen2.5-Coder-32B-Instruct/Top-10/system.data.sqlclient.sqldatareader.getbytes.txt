@@ -1,0 +1,10 @@
+java.sql.ResultSet.getBytes
+java.sql.Blob.getBytes
+java.nio.ByteBuffer.get
+java.io.InputStream.read
+java.nio.channels.ReadableByteChannel.read
+javax.sql.rowset.serial.SerialBlob.getBytes
+java.sql.Clob.getAsciiStream
+java.sql.NClob.getCharacterStream
+java.sql.SQLXML.getSource
+java.sql.Array.getArray

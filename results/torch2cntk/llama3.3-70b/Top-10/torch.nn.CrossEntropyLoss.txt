@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.CrossEntropyLoss`:
+
+1. `cntk.losses.cross_entropy`
+2. `cntk.losses.cross_entropy_with_softmax`
+3. `cntk.metrics.classification_error`
+4. `cntk.metrics.accuracy`
+5. `cntk.losses.softmax_cross_entropy`
+6. `cntk.losses.log_loss`
+7. `cntk.objective_functions.cross_entropy_error`
+8. `cntk.objective_functions.softmax_cross_entropy_error`
+9. `cntk.train.loss_function.cross_entropy`
+10. `cntk.train.metrics.classification_cross_entropy`

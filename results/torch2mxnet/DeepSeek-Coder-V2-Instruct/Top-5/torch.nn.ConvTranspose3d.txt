@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.conv_transpose3d, mxnet.ndarray.Convolution, mxnet.symbol.Deconvolution, mxnet.gluon.Conv2DTranspose, mxnet.gluon.Conv3DTranspose

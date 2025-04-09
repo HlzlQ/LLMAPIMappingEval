@@ -1,0 +1,6 @@
+
+```python
+import tensorflow as tf
+tf_dist = tf.compat.v1.distributions.Exponential(rate=2.0)
+```
+Answer: torch.distributions.Exponential

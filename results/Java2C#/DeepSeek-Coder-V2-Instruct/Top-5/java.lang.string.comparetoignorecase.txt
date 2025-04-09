@@ -1,0 +1,5 @@
+1. String.CompareToIgnoreCase
+2. String.Equals
+3. String.IndexOf
+4. String.LastIndexOf
+5. String.StartsWith

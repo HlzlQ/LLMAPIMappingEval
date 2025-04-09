@@ -1,0 +1,10 @@
+System.Text.RegularExpressions.Match.Success  
+System.Text.RegularExpressions.Regex.IsMatch  
+System.Text.RegularExpressions.Match.NextMatch  
+System.Text.RegularExpressions.MatchCollection.GetEnumerator  
+System.Text.RegularExpressions.Match.Result  
+System.Text.RegularExpressions.Match.Groups  
+System.Text.RegularExpressions.Group.Success  
+System.Text.RegularExpressions.Capture.Success  
+System.Text.RegularExpressions.Regex.Matches  
+System.Text.RegularExpressions.Regex.Match

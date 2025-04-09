@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.PReLU`:
+
+1. torch.nn.PReLU
+2. torch.nn.ReLU
+3. torch.nn.LeakyReLU
+4. torch.nn.Sigmoid
+5. torch.nn.Tanh
+6. torch.nn.Hardtanh
+7. torch.nn.Softsign
+8. torch.nn.LogSigmoid
+9. torch.nn.Hardsigmoid
+10. torch.nn.Mish

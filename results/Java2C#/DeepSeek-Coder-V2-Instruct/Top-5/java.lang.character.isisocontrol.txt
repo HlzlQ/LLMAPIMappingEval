@@ -1,0 +1,5 @@
+1. System.Char.IsControl
+2. System.String.IsNullOrWhiteSpace
+3. System.String.IsNullOrEmpty
+4. System.Text.StringBuilder.Length
+5. System.String.Trim

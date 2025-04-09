@@ -1,0 +1,2 @@
+
+Answer: torch.nn.init.kaiming_uniform_, cnn.initialization.he_uniform, tf.keras.initializers.HeUniform, mxnet.initializer.Xavier, numpy.random.uniform

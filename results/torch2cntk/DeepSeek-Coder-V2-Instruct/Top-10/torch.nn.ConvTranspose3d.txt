@@ -1,0 +1,15 @@
+
+"""
+
+cntk_api = [
+    "ConvolutionTranspose",
+    "Deconvolution",
+    "TransposedConvolution",
+    "ConvTranspose3D",
+    "UpSampling3D",
+    "ResizeImages",
+    "Crop",
+    "ExpandDims",
+    "Squeeze",
+    "Reshape"
+]

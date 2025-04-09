@@ -1,0 +1,10 @@
+java.lang.Character.isUpperCase
+java.lang.String.toUpperCase
+java.lang.String.toLowerCase
+java.util.Locale.toLanguageTag
+java.text.Normalizer.normalize
+java.nio.charset.CharsetEncoder.canEncode
+java.awt.font.TextLayout.getCharacterLevelMetrics
+java.text.BreakIterator.first
+java.text.BreakIterator.next
+java.text.BreakIterator.previous

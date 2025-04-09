@@ -1,0 +1,5 @@
+mxnet.ndarray.dot
+mxnet.ndarray.batch_dot
+mxnet.ndarray.linalg.gemm
+mxnet.ndarray.linalg.matmul
+mxnet.ndarray.linalg.syrk

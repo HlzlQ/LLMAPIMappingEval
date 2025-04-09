@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.keras.initializers.Ones`:
+
+1. torch.nn.init.ones_
+2. torch.ones
+3. torch.nn.Parameter(torch.ones)
+4. torch.tensor(1)
+5. torch.nn.init.constant_
+6. torch.full
+7. torch.nn.Linear.weight_initializer
+8. torch.nn.Module.reset_parameters
+9. torch.nn.utils.parameters_to_vector
+10. torch.nn.init.uniform_

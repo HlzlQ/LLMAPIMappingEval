@@ -1,0 +1,10 @@
+1. Assert.IsNull
+2. Assert.IsNotNull
+3. Assert.AreEqual
+4. Assert.AreNotEqual
+5. Assert.Fail
+6. Assert.Inconclusive
+7. Assert.IsTrue
+8. Assert.IsFalse
+9. Assert.IsInstanceOfType
+10. Assert.IsNotInstanceOfType

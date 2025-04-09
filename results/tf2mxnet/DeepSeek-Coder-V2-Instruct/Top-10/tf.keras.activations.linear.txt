@@ -1,0 +1,16 @@
+
+"""
+
+# Answer:
+"""
+1. mxnet.ndarray.relu
+2. mxnet.ndarray.softmax
+3. mxnet.ndarray.sigmoid
+4. mxnet.ndarray.tanh
+5. mxnet.ndarray.leaky_relu
+6. mxnet.ndarray.elu
+7. mxnet.ndarray.selu
+8. mxnet.ndarray.softplus
+9. mxnet.ndarray.softsign
+10. mxnet.ndarray.log_softmax
+"""

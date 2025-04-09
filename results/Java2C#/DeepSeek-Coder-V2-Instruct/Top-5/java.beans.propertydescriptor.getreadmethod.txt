@@ -1,0 +1,5 @@
+1. System.ComponentModel.PropertyDescriptor.GetGetMethod()
+2. System.Reflection.PropertyInfo.GetGetMethod()
+3. System.Reflection.MemberInfo.GetMethod
+4. Microsoft.AspNetCore.Mvc.ModelBinding.IModelBinder.GetReadMethod(Type type)
+5. Microsoft.EntityFrameworkCore.Metadata.IReadOnlyProperty.GetGetter()

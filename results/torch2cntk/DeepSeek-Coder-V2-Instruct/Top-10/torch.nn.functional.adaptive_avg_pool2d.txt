@@ -1,0 +1,15 @@
+
+"""
+
+cntk_apis = [
+    "AvgPool",
+    "GlobalAveragePool",
+    "MaxPool",
+    "AdaptiveMaxPool2D",
+    "AdaptiveAvgPool2D",
+    "AveragePooling",
+    "GlobalAveragePooling",
+    "MaxPooling",
+    "GlobalMaxPooling",
+    "Pooling"
+]

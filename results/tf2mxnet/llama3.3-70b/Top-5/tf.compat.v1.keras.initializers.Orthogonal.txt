@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings:
+
+1. mxnet.initializer.Orthogonal
+2. mxnet.nd.random.normal
+3. mxnet.nd.random.uniform
+4. mxnet.initializer.Xavier
+5. mxnet.initializer.MSRAPrelu

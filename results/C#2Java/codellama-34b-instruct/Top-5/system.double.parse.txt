@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely Java APIs for the given C# API:
+
+1. `java.lang.Double.parseDouble(String s)`
+2. `java.lang.Double.valueOf(String s)`
+3. `java.text.DecimalFormat.parse(String source, ParsePosition pos)`
+4. `java.text.NumberFormat.parse(String source, ParsePosition pos)`
+5. `java.util.Scanner.nextDouble()`

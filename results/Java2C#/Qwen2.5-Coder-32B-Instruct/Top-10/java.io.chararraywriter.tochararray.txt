@@ -1,0 +1,10 @@
+System.Text.StringBuilder.ToString
+System.Text.StringBuilder.ToCharArray
+System.IO.StringWriter.ToString
+System.IO.StringWriter.ToCharArray
+System.Text.StringBuilder.CopyTo
+System.Text.StringBuilder.CopyToSpan
+System.Text.StringBuilder.GetChars
+System.Text.StringBuilder.Chars
+System.Text.StringBuilder.Insert
+System.Text.StringBuilder.Replace

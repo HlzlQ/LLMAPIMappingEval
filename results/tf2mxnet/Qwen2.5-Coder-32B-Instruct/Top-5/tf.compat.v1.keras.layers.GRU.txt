@@ -1,0 +1,5 @@
+mxnet.gluon.rnn.GRU
+mxnet.gluon.rnn.GRULayer
+mxnet.gluon.rnn.BidirectionalGRU
+mxnet.gluon.rnn.StackedGRU
+mxnet.gluon.rnn.HybridSequential.add(mxnet.gluon.rnn.GRU)

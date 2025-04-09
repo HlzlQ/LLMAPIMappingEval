@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet APIs:
+
+1. mxnet.ndarray.norm
+2. mxnet.nd.norm
+3. mxnet.gluon.nn.L2Normalization
+4. mxnet.gluon.nn.L1Normalization
+5. mxnet.ndarray.L2Norm

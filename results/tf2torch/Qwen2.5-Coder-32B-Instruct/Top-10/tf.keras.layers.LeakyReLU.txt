@@ -1,0 +1,10 @@
+torch.nn.LeakyReLU  
+torch.nn.functional.leaky_relu  
+torch.nn.PReLU  
+torch.nn.RReLU  
+torch.nn.CELU  
+torch.nn.ELU  
+torch.nn.SELU  
+torch.nn.GELU  
+torch.nn.Hardtanh  
+torch.nn.Hardsigmoid

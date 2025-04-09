@@ -1,0 +1,10 @@
+java.util.List.subList
+java.util.ArrayList.subList
+java.util.LinkedList.subList
+java.util.Vector.subList
+java.util.AbstractList.subList
+java.util.Collections.unmodifiableList
+java.util.Collections.checkedList
+java.util.Collections.synchronizedList
+java.util.Collections.emptyList
+java.util.Collections.singletonList

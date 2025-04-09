@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.optim.Adadelta`:
+
+1. `cntk.learners.AdadeltaLearner`
+2. `cntk.learners.DeltaRuleLearner`
+3. `cntk.learners.RMSPropLearner`
+4. `cntk.learners.AdaGradLearner`
+5. `cntk.learners.AdamLearner`
+6. `cntk.learners.NadamLearner`
+7. `cntk.learners.SGDLearner`
+8. `cntk.learners.MomentumLearner`
+9. `cntk.learners.NesterovAcceleratedGradientLearner`
+10. `cntk.learners.AdaptiveLearningRateLearner`

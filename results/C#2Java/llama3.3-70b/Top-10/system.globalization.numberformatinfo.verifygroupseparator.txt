@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Globalization.NumberFormatInfo.VerifyGroupSeparator` in C#:
+
+1. java.text.DecimalFormat.verifyGroupSeparator()
+2. java.text.NumberFormat.getGroupingSeparator()
+3. java.util.Locale.getGroupingSeparator()
+4. java.text.DecimalFormatSymbols.getGroupingSeparator()
+5. java.text.NumberFormat.getInstance().getGroupingSeparator()
+6. java.util.Currency.getSymbol().getGroupingSeparator()
+7. java.text.DecimalFormat.setGroupingSeparator()
+8. java.text.NumberFormat.setGroupingUsed()
+9. java.util.Locale.getDefault().getGroupingSeparator()
+10. java.text.DecimalFormatSymbols.getInstance().getGroupingSeparator()

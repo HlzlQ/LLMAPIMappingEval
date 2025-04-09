@@ -1,0 +1,10 @@
+tfp.distributions.Dirichlet  
+tf.random.gamma  
+tf.math.log_gamma  
+tf.reduce_sum  
+tf.exp  
+tf.nn.softmax  
+tf.linalg.diag_part  
+tf.linalg.set_diag  
+tf.linalg.tensor_diag_part  
+tf.linalg.tensor_diag

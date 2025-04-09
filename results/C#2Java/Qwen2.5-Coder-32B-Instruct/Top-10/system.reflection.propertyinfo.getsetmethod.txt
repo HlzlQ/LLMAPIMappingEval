@@ -1,0 +1,10 @@
+java.lang.reflect.Method.invoke
+java.lang.reflect.Field.set
+java.lang.reflect.Field.get
+java.beans.PropertyDescriptor.getReadMethod
+java.beans.PropertyDescriptor.getWriteMethod
+java.lang.reflect.Method.getParameterTypes
+java.lang.reflect.Method.getReturnType
+java.lang.reflect.Method.getName
+java.lang.reflect.Method.isAccessible
+java.lang.reflect.Method.setAccessible

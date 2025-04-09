@@ -1,0 +1,12 @@
+Here are the top 10 TensorFlow API mappings for `torch.nn.functional.adaptive_avg_pool2d`:
+
+1. tf.compat.v1.layers.average_pooling2d
+2. tf.keras.layers.AveragePooling2D
+3. tf.nn.avg_pool2d
+4. tf.image.resize_with_crop_or_pad
+5. tf.image.resize_nearest_neighbor
+6. tf.image.resize_bilinear
+7. tf.keras.layers.GlobalAveragePooling2D
+8. tf.compat.v1.nn.avg_pool
+9. tf.raw_ops.AvgPool
+10. tf.keras.layers.UpSampling2D

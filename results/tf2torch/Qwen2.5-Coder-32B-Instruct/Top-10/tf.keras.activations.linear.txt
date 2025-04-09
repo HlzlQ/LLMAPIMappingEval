@@ -1,0 +1,10 @@
+torch.nn.Identity  
+torch.nn.Linear  
+torch.nn.functional.linear  
+torch.nn.modules.activation.Identity  
+torch.nn.init.constant_  
+torch.nn.init.zeros_  
+torch.nn.init.ones_  
+torch.nn.utils.weight_norm  
+torch.nn.utils.spectral_norm  
+torch.nn.utils.remove_weight_norm

@@ -1,0 +1,5 @@
+1. mxnet.optimizer.SGD
+2. mxnet.optimizer.NAG
+3. mxnet.optimizer.SGDHC
+4. mxnet.optimizer.ccSGD
+5. mxnet.optimizer.Ftrl

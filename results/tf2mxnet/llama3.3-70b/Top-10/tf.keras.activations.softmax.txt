@@ -1,0 +1,12 @@
+Here are the 10 most likely matching APIs:
+
+1. mxnet.ndarray.softmax
+2. mxnet.gluon.nn.Softmax
+3. mxnet.gluon.nn.SoftmaxActivation
+4. mxnet.nd.Softmax
+5. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+6. mxnet.ndarray.softmax_cross_entropy
+7. mxnet.gluon.nn.SoftmaxOutput
+8. mxnet.gluon.loss.SoftmaxLoss
+9. mxnet.ndarray.softmax_label
+10. mxnet.gluon.nn.Activation('softmax')

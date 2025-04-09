@@ -1,0 +1,6 @@
+
+* `cntk.learners.adadelta`
+* `cntk.learners.adadelta_with_gradient_clipping`
+* `cntk.learners.adadelta_with_weight_decay`
+* `cntk.learners.adadelta_with_momentum`
+* `cntk.learners.adadelta_with_nesterov_accelerated_gradient`

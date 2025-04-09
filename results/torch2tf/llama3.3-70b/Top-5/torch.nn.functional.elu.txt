@@ -1,0 +1,5 @@
+1. tf.nn.elu
+2. tf.keras.activations.elu
+3. tf.keras.layers.ELU
+4. tf.math.exp
+5. tf.nn.relu6

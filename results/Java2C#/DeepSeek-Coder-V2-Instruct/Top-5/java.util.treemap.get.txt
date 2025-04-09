@@ -1,0 +1,5 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue
+2. System.Linq.Lookup<TKey, TValue>.Contains
+3. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryGetValue
+4. System.Collections.Hashtable.ContainsKey
+5. System.Collections.Generic.SortedList<TKey, TValue>.TryGetValue

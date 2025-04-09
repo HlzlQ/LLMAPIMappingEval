@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.set_Item
+System.Collections.ArrayList.set_Item
+System.Collections.Specialized.StringCollection.set_Item
+System.Collections.ObjectModel.Collection<T>.set_Item
+System.Collections.ObjectModel.ReadOnlyCollection<T>.set_Item

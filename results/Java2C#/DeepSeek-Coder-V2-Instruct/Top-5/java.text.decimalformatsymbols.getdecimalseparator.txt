@@ -1,0 +1,5 @@
+1. System.Globalization.NumberFormatInfo.NumberDecimalSeparator
+2. System.String.Substring(int startIndex)
+3. System.Text.StringBuilder.Append(char value)
+4. System.Collections.Generic.List<T>.Add(T item)
+5. System.IO.File.ReadAllText(string path)

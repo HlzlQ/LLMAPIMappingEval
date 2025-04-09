@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.functional.ctc_loss | mxnet.ndarray.CTCLoss |
+  | torch.nn.functional.cross_entropy | mxnet.ndarray.CrossEntropyLoss |
+  | torch.nn.functional.nll_loss | mxnet.ndarray.NLLLoss |
+  | torch.nn.functional.poisson_nll_loss | mxnet.ndarray.PoissonNLLLoss |
+  | torch.nn.functional.kl_div_loss | mxnet.ndarray.KLDivLoss |
+  | torch.nn.functional.hinge_embedding_loss | mxnet.ndarray.HingeEmbeddingLoss |
+  | torch.nn.functional.smooth_l1_loss | mxnet.ndarray.SmoothL1Loss |
+  | torch.nn.functional.softmax_cross_entropy | mxnet.ndarray.SoftmaxCrossEntropyLoss |
+  | torch.nn.functional.multi_margin_loss | mxnet.ndarray.MultiMarginLoss |
+  | torch.nn.functional.triplet_margin_loss | mxnet.ndarray.TripletMarginLoss |

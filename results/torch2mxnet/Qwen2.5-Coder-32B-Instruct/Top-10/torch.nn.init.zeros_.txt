@@ -1,0 +1,10 @@
+mxnet.ndarray.zeros_like
+mxnet.ndarray.zeros
+mxnet.init.Zero
+mxnet.gluon.nn.HybridSequential.initialize
+mxnet.gluon.nn.Sequential.initialize
+mxnet.gluon.Parameter.initialize
+mxnet.gluon.Block.initialize
+mxnet.gluon.nn.Conv2D.initialize
+mxnet.gluon.nn.Dense.initialize
+mxnet.gluon.nn.BatchNorm.initialize

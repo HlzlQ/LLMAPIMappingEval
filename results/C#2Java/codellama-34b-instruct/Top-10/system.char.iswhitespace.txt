@@ -1,0 +1,12 @@
+  Sure, here are the 10 most likely Java APIs for the C# `System.Char.IsWhiteSpace` method:
+
+1. `java.lang.Character.isWhitespace(char)`
+2. `java.lang.Character.isSpaceChar(char)`
+3. `java.lang.Character.isSpaceSeparator(char)`
+4. `java.lang.Character.isWhitespaceOrControl(char)`
+5. `java.lang.Character.isISOControl(char)`
+6. `java.lang.Character.isWhitespaceOrNonBase(char)`
+7. `java.lang.Character.isWhitespaceOrFormat(char)`
+8. `java.lang.Character.isWhitespaceOrPrivateUse(char)`
+9. `java.lang.Character.isWhitespaceOrSurrogate(char)`
+10. `java.lang.Character.isWhitespaceOrUnassigned(char)`

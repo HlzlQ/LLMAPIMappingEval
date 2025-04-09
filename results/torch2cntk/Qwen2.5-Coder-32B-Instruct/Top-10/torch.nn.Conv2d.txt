@@ -1,0 +1,10 @@
+cntk.layers.Convolution2D
+cntk.ops.convolution
+cntk.layers.Sequential
+cntk.layers.Function
+cntk.layers.For
+cntk.layers.Recurrence
+cntk.layers.Dropout
+cntk.layers.BatchNormalization
+cntk.layers.Activation
+cntk.layers.Dense

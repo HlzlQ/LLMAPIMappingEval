@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for Kaiming initialization:
+
+1. `tf.keras.initializers.he_uniform()`
+2. `tf.keras.initializers.glorot_uniform()`
+3. `tf.keras.initializers.kaiming_uniform()`
+4. `tf.keras.initializers.variance_scaling()`
+5. `tf.keras.initializers.orthogonal()`

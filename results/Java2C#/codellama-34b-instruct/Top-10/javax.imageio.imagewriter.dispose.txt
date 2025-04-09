@@ -1,0 +1,12 @@
+Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Drawing.Image.Dispose()
+2. System.Drawing.Bitmap.Dispose()
+3. System.Drawing.Graphics.Dispose()
+4. System.Drawing.Pen.Dispose()
+5. System.Drawing.Brush.Dispose()
+6. System.Drawing.Font.Dispose()
+7. System.Drawing.StringFormat.Dispose()
+8. System.Drawing.ImageCodecInfo.Dispose()
+9. System.Drawing.EncoderParameters.Dispose()
+10. System.Drawing.ColorMatrix.Dispose()

@@ -1,0 +1,10 @@
+1. System.IO.Stream.Close
+2. System.IO.FileStream.Close
+3. System.Net.Sockets.NetworkStream.Close
+4. System.Data.SqlClient.SqlConnection.Close
+5. System.Web.HttpResponse.Close
+6. System.Security.Cryptography.CryptoStream.Close
+7. System.ServiceModel.Channels.IOutputSessionChannel.Close
+8. System.IO.Compression.DeflateStream.Close
+9. System.Data.Odbc.OdbcConnection.Close
+10. System.Web.UI.HtmlControls.HtmlInputFile.Close

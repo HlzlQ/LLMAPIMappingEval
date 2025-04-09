@@ -1,0 +1,4 @@
+
+Answer: ```python
+cntk_dropout = cntk.Dropout(dropout_rate)
+```

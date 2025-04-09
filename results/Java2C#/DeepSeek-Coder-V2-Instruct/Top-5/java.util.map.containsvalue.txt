@@ -1,0 +1,5 @@
+1. Dictionary<TKey, TValue>.ContainsValue
+2. ConcurrentDictionary<TKey, TValue>.ContainsValue
+3. SortedList<TKey, TValue>.ContainsValue
+4. Hashtable.Contains
+5. HashMap.containsValue

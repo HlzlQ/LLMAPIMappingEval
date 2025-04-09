@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely Java APIs for the C# API `system.math.floor`:
+
+1. `java.lang.Math.floor(double)`: This method returns the largest (closest to positive infinity) floating-point value that is less than or equal to the argument and is equal to a mathematical integer.
+2. `java.lang.Math.floorDiv(int, int)`: This method returns the largest (closest to positive infinity) integer value that is less than or equal to the result of dividing the first argument by the second argument.
+3. `java.lang.Math.floorMod(int, int)`: This method returns the largest (closest to positive infinity) integer value that is less than or equal to the result of taking the remainder of the first argument divided by the second argument.
+4. `java.lang.Math.floorDivision(double, double)`: This method returns the largest (closest to positive infinity) floating-point value that is less than or equal to the result of dividing the first argument by the second argument.
+5. `java.lang.Math.floorRemainder(double, double)`: This method returns the largest (closest to positive infinity) floating-point value that is less than or equal to the result of taking the remainder of the first argument divided by the second argument.

@@ -1,0 +1,5 @@
+1. mx.optimizer.SGD
+2. mx.optimizer.NAG
+3. mx.optimizer.Adam
+4. mx.optimizer.RMSprop
+5. mx.optimizer.MomentumSGD

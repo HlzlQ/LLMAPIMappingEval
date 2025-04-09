@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.keras.activations.softsign`:
+
+1. `torch.nn.Softsign()`
+2. `torch.nn.Softplus()`
+3. `torch.nn.LeakyReLU()`
+4. `torch.nn.PReLU()`
+5. `torch.nn.SELU()`

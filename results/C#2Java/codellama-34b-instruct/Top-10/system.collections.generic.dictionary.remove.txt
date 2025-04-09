@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that correspond to the C# API `system.collections.generic.dictionary.remove`:
+
+1. `java.util.Map.remove(Object key)`: Removes the mapping for a key from this map if it is present.
+2. `java.util.HashMap.remove(Object key)`: Removes the mapping for the specified key from this map if it is present.
+3. `java.util.Hashtable.remove(Object key)`: Removes the mapping for the specified key from this hashtable if it is present.
+4. `java.util.LinkedHashMap.remove(Object key)`: Removes the mapping for the specified key from this linked hash map if it is present.
+5. `java.util.TreeMap.remove(Object key)`: Removes the mapping for the specified key from this tree map if it is present.
+6. `java.util.WeakHashMap.remove(Object key)`: Removes the mapping for the specified key from this weak hash map if it is present.
+7. `java.util.IdentityHashMap.remove(Object key)`: Removes the mapping for the specified key from this identity hash map if it is present.
+8. `java.util.EnumMap.remove(Object key)`: Removes the mapping for the specified key from this enum map if it is present.
+9. `java.util.concurrent.ConcurrentHashMap.remove(Object key)`: Removes the mapping for the specified key from this concurrent hash map if it is present.
+10. `java.util.concurrent.ConcurrentSkipListMap.remove(Object key)`: Removes the mapping for the specified key from this concurrent skip list map if it is present.

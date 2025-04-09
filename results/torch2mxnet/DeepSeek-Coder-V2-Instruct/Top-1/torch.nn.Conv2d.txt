@@ -1,0 +1,7 @@
+
+<jupyter_code>
+# Your answer here:
+conv2d = 'mxnet.gluon.nn.Conv2D'
+print(conv2d)
+<jupyter_output>
+mxnet.gluon.nn.Conv2D

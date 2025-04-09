@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Conv2D`:
+
+1. `mxnet.gluon.nn.Conv2D`
+2. `mxnet.ndarray.Convolution`
+3. `mxnet.symbol.Convolution`
+4. `mxnet.ndarray.convolutional_layer`
+5. `mxnet.gluon.nn.ConvolutionalLayer`
+6. `mxnet.ndarray.Conv2D`
+7. `mxnet.symbol.Conv2D`
+8. `mxnet.ndarray.conv2d`
+9. `mxnet.gluon.nn.Conv2DTranspose`
+10. `mxnet.symbol.Conv2DTranspose`

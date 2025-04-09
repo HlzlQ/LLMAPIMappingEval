@@ -1,0 +1,10 @@
+cntk.layers.batch_normalization
+cntk.layers.LayerNormalization
+cntk.ops.bn_training
+cntk.ops.bn_inference
+cntk.layers.normalization
+cntk.layers.instance_normalization
+cntk.layers.group_normalization
+cntk.layers.layer_normalization
+cntk.layers.batch_norm
+cntk.layers.batchnormalization

@@ -1,0 +1,5 @@
+1. System.Guid.NewGuid()
+2. System.Guid.Parse(string)
+3. System.Guid.ToString()
+4. System.Guid.TryParse(string, out Guid)
+5. System.Guid.Empty

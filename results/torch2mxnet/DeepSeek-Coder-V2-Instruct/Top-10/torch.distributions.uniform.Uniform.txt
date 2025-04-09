@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.uniform
+2. mxnet.random.uniform
+3. mxnet.gluon.nn.Uniform
+4. mxnet.symbol.Variable
+5. mxnet.symbol.Uniform
+6. mxnet.ndarray.RandomUniform
+7. mxnet.random.RandomUniform
+8. mxnet.ndarray.sample_uniform
+9. mxnet.random.sample_uniform
+10. mxnet.gluon.Parameter

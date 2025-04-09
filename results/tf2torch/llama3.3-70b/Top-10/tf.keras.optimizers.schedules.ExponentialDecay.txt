@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.keras.optimizers.schedules.ExponentialDecay`:
+
+1. torch.optim.lr_scheduler.ExponentialLR
+2. torch.optim.lr_scheduler.StepLR
+3. torch.optim.lr_scheduler.MultiStepLR
+4. torch.optim.lr_scheduler.CosineAnnealingLR
+5. torch.optim.lr_scheduler.ReduceLROnPlateau
+6. torch.optim.lr_scheduler.CyclicLR
+7. torch.optim.lr_scheduler.OneCycleLR
+8. torch.optim.lr_scheduler.LambdaLR
+9. torch.optim.lr_scheduler.ChainedScheduler
+10. torch.optim.lr_scheduler.SequentialLR

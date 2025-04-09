@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for random uniform initialization:
+
+1. `cntk.initializer.Uniform`
+2. `cntk.initializer.RandomUniform`
+3. `cntk.initializer.GlorotUniform`
+4. `cntk.initializer.HeUniform`
+5. `cntk.initializer.LeCunUniform`

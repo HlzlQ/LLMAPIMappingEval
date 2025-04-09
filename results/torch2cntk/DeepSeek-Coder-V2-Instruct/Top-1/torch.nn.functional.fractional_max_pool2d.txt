@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.ops.pooling.FractionalMaxPool2D")
+<jupyter_output>
+CNTK.ops.pooling.FractionalMaxPool2D

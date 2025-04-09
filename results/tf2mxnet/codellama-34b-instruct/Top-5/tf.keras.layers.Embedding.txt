@@ -1,0 +1,7 @@
+  tf.keras.layers.Embedding is a layer that maps positive integers (e.g., word indices) to dense vectors of fixed size. In MXNet, this functionality can be achieved using the following layers:
+
+1. mxnet.ndarray.Embedding: This layer creates an embedding matrix and performs the embedding lookup operation.
+2. mxnet.gluon.nn.Embedding: This layer is similar to the MXNet ndarray version, but it also includes a dropout layer for regularization.
+3. mxnet.gluon.nn.Dense: This layer can be used as an alternative to embedding layers in some cases. It creates a dense connection between input and output, which can be useful for tasks where the input data is already continuous.
+4. mxnet.gluon.rnn.Embedding: This layer is specifically designed for sequence data and performs the embedding lookup operation on each element of the sequence.
+5. mxnet.gluon.contrib.nn.Embedding: This layer is similar to the MXNet ndarray version, but it also includes a masking option for handling variable-length sequences.

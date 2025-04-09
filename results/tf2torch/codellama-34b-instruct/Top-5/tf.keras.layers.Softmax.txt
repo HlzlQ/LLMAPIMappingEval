@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to TensorFlow's `tensorflow.keras.layers.Softmax`:
+
+1. `torch.nn.Softmax`
+2. `torch.nn.functional.softmax`
+3. `torch.nn.LogSoftmax`
+4. `torch.nn.functional.log_softmax`
+5. `torch.nn.Sigmoid`

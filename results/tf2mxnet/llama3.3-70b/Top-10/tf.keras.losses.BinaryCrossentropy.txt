@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.losses.BinaryCrossentropy`:
+
+1. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+2. mxnet.ndarray.SigmoidBinaryCrossEntropy
+3. mxnet.gluon.loss.LogisticLoss
+4. mxnet.ndarray.LogisticLoss
+5. mxnet.gluon.loss.BinaryCrossEntropyLoss
+6. mxnet.ndarray.BinaryCrossEntropy
+7. mxnet.gluon.loss.SigmoidCrossEntropyLoss
+8. mxnet.ndarray.SigmoidCrossEntropy
+9. mxnet.gluon.loss.CrossEntropyLoss
+10. mxnet.ndarray.CrossEntropy

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.random_uniform_initializer`:
+
+1. CNTK.DefaultInitializer
+2. CNTK.GlorotInitializer
+3. CNTK.HeInitializer
+4. CNTK.RandomNormalInitializer
+5. CNTK.RandomUniformInitializer
+6. CNTK.UniformInitializer
+7. CNTK.NormalInitializer
+8. CNTK.XavierInitializer
+9. CNTK.KaimingInitializer
+10. CNTK.ConstantInitializer

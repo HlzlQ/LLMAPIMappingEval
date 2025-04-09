@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.KeyValuePair` in C#:
+
+1. java.util.AbstractMap.SimpleEntry
+2. java.util.Map.Entry
+3. java.util.HashMap.Node
+4. java.util.TreeMap.Entry
+5. java.util.LinkedHashMap.Entry
+6. java.util.concurrent.ConcurrentHashMap.Node
+7. java.util.Hashtable.Entry
+8. java.util.IdentityHashMap.Entry
+9. java.util.EnumMap.Entry
+10. java.util.WeakHashMap.Entry

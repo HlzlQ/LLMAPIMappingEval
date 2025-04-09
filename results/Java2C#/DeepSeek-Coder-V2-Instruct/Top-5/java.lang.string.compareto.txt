@@ -1,0 +1,5 @@
+1. String.CompareTo(String)
+2. String.Equals(String)
+3. String.IndexOf(String)
+4. String.Substring(Int32)
+5. String.Substring(Int32, Int32)

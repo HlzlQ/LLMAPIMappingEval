@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.ComponentModel.IndexedPropertyDescriptor.GetIndexedWriteMethod()
+2. System.Windows.Forms.ListControl.GetIndexedWriteMethod()
+3. System.Web.UI.WebControls.ListItemCollection.GetIndexedWriteMethod()
+4. System.Data.DataColumnCollection.GetIndexedWriteMethod()
+5. System.Data.DataRowCollection.GetIndexedWriteMethod()
+6. System.Data.DataSet.GetIndexedWriteMethod()
+7. System.Data.DataTable.GetIndexedWriteMethod()
+8. System.Web.UI.HtmlControls.HtmlInputControl.GetIndexedWriteMethod()
+9. System.Web.UI.WebControls.TextBox.GetIndexedWriteMethod()
+10. System.Windows.Forms.TextBoxBase.GetIndexedWriteMethod()

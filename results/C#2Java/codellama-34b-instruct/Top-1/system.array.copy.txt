@@ -1,0 +1,1 @@
+System.Array.Copy in C# is equivalent to System.arraycopy() in Java.

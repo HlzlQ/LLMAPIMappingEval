@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Contains  
+System.Collections.Generic.ArrayList.Contains  
+System.Collections.Generic.HashSet<T>.Contains  
+System.Collections.Generic.LinkedList<T>.Contains  
+System.Collections.Generic.Queue<T>.Contains  
+System.Collections.Generic.Stack<T>.Contains  
+System.Collections.Hashtable.ContainsValue  
+System.Collections.Hashtable.ContainsKey  
+System.Collections.Specialized.StringCollection.Contains  
+System.Collections.Specialized.NameValueCollection.GetValues

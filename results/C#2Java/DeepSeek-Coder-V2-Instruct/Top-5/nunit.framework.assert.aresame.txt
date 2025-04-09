@@ -1,0 +1,5 @@
+1. org.junit.jupiter.api.Assertions.assertEquals
+2. org.junit.Assert.assertTrue
+3. org.testng.Assert.assertEquals
+4. ch.qos.logback.core.spi.ContextAwareBase.assertOperationInSequence
+5. junit.framework.Assert.assertSame

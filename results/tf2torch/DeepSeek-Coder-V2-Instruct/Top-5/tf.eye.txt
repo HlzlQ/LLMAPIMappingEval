@@ -1,0 +1,13 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+Answer: ```python
+tf.eye
+torch.eye
+tf.linalg.diag_part
+torch.diag
+tf.matmul
+torch.matmul
+```

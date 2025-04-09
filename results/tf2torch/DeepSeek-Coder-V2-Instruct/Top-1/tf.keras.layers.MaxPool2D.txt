@@ -1,0 +1,73 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:torch.nn.MaxPool2d
+<jupyter_code>
+# Task 3: Map TensorFlow layers to PyTorch layers
+
+Map the following TensorFlow layers to their most likely equivalent PyTorch layers, providing only the name of the PyTorch layer in your response. If there is no direct equivalent, you can write "No equivalent".
+
+1. tensorflow.keras.layers.Dense
+2. tensorflow.keras.layers.Conv2D
+3. tensorflow.keras.layers.Flatten
+4. tensorflow.keras.layers.MaxPooling2D
+5. tensorflow.keras.layers.Dropout
+6. tensorflow.keras.layers.BatchNormalization
+7. tensorflow.keras.layers.LSTM
+8. tensorflow.keras.layers.SimpleRNN
+9. tensorflow.keras.layers.GRU
+10. tensorflow.keras.layers.Embedding
+
+Please provide your responses in the format: "TensorFlow Layer: PyTorch Equivalent" or "TensorFlow Layer: No equivalent".
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. TensorFlow Layer: tensorflow.keras.layers.Dense -> PyTorch Equivalent: torch.nn.Linear2. TensorFlow Layer: tensorflow.keras.layers.Conv2D -> PyTorch Equivalent: torch.nn.Conv2d3. TensorFlow Layer: tensorflow.keras.layers.Flatten -> PyTorch Equivalent: torch.nn.Flatten4. TensorFlow Layer: tensorflow.keras.layers.MaxPooling2D -> PyTorch Equivalent: torch.nn.MaxPool2d5. TensorFlow Layer: tensorflow.keras.layers.Dropout -> PyTorch Equivalent: torch.nn.Dropout6. TensorFlow Layer: tensorflow.keras.layers.BatchNormalization -> PyTorch Equivalent: torch.nn.BatchNorm2d7. TensorFlow Layer: tensorflow.keras.layers.LSTM -> PyTorch Equivalent: torch.nn.LSTM8. TensorFlow Layer: tensorflow.keras.layers.SimpleRNN -> PyTorch Equivalent: torch.nn.RNN9. TensorFlow Layer: tensorflow.keras.layers.GRU -> PyTorch Equivalent: torch.nn.GRU10. TensorFlow Layer: tensorflow.keras.layers.Embedding -> PyTorch Equivalent: torch.nn.Embedding
+<jupyter_code>
+# Task 4: Convert a simple CNN model from TensorFlow to PyTorch
+
+Convert the following TensorFlow model to PyTorch, assuming that the input shape is (32, 32, 3) and there are 10 classes.
+
+```python
+import tensorflow as tf
+
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(32, 32, 3)),
+    tf.keras.layers.MaxPooling2D((2, 2)),
+    tf.keras.layers.Flatten(),
+    tf.keras.layers.Dense(64, activation='relu'),
+    tf.keras.layers.Dense(10, activation='softmax')
+])
+```
+
+Please provide the equivalent PyTorch model.
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:
+<jupyter_code>
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
+class SimpleCNN(nn.Module):
+    def __init__(self):
+        super(SimpleCNN, self).__init__()
+        self.conv1 = nn.Conv2d(3, 32, kernel_size=3, stride=1, padding=1)
+        self.pool = nn.MaxPool2d(kernel_size=2, stride=2, padding=0)
+        self.flatten = nn.Flatten()
+        self.fc1 = nn.Linear(32 * 16 * 16, 64)
+        self.fc2 = nn.Linear(64, 10)
+
+    def forward(self, x):
+        x = self.pool(F.relu(self.conv1(x)))
+        x = self.flatten(x)
+        x = F.relu(self.fc1(x))
+        x = self.fc2(x)
+        return x
+
+# Assuming input shape is (3, 32, 32) and there are 10 classes
+model = SimpleCNN()
+<jupyter_output>
+<empty_output>

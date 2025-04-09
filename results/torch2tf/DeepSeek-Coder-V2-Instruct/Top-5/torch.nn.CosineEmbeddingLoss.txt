@@ -1,0 +1,6 @@
+
+Answer: 1. tf.keras.losses.CosineSimilarity
+2. tf.nn.l2_normalize
+3. tf.math.reduce_mean
+4. tf.math.subtract
+5. tf.math.multiply

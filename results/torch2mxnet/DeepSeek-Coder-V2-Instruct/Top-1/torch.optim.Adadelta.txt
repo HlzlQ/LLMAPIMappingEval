@@ -1,0 +1,7 @@
+
+<jupyter_code>
+# Replace None with the correct answer
+answer = "mxnet.optimizer.Adadelta"
+print(answer)
+<jupyter_output>
+mxnet.optimizer.Adadelta

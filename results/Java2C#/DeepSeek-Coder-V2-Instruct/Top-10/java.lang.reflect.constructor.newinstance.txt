@@ -1,0 +1,10 @@
+System.Reflection.ConstructorInfo.Invoke
+System.Activator.CreateInstance
+System.RuntimeType.GetConstructors
+System.Type.GetConstructor
+System.Type.MakeGenericType
+System.Linq.Expressions.Expression.New
+System.Linq.Expressions.Expression.Lambda
+System.Func`1
+System.Action`1
+System.Reflection.MethodInfo.Invoke

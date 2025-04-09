@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.Web.HttpUtility.UrlEncode` method:
+
+1. `java.net.URLEncoder.encode(String s, String enc)`
+2. `org.apache.commons.codec.binary.Base64.encodeBase64URLSafeString(byte[] bytes)`
+3. `com.google.common.net.UrlEscapers.urlFragmentEscaper().escape(String string)`
+4. `javax.ws.rs.core.UriBuilder.fromPath(String path).queryParam(String name, String value).build()`
+5. `org.springframework.web.util.UriComponentsBuilder.fromPath(String path).queryParam(String name, Object... values).build().toUriString()`
+6. `com.sun.jersey.core.util.Base64.encode(byte[] bytes)`
+7. `org.eclipse.jetty.util.UrlEncoded.encodeString(String s, String charset)`
+8. `io.netty.handler.codec.http.QueryStringEncoder.addParam(String name, Object value)`
+9. `com.ning.http.client.uri.Uri.create(String uri).buildUpon().encodedPath(String path).encodedQuery(String query).build()`
+10. `org.apache.http.client.utils.URLEncodedUtils.format(List<NameValuePair> parameters, String charset)`

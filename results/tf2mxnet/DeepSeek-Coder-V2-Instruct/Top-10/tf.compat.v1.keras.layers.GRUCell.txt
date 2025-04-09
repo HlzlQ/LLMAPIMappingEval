@@ -1,0 +1,2 @@
+
+Answer: LSTMCell, GRUCell, SimpleRNNCell, RNNCell, Dense, Conv2D, Conv2DTranspose, MaxPooling2D, AveragePooling2D, Dropout

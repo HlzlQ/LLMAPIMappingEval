@@ -1,0 +1,13 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.layers.average_pooling3d`. However, MXNet provides a similar functionality through its `mxnet.ndarray` module. Specifically, you can use the `mxnet.ndarray.pooling` function with the `mode='avg'` argument to perform average pooling on 3D data.
+
+Here's an example of how to use `mxnet.ndarray.pooling` for average pooling in MXNet:
+```python
+import mxnet as mx
+
+# Create a random 3D tensor with shape (2, 4, 6)
+data = mx.nd.random.uniform(shape=(2, 4, 6))
+
+# Perform average pooling on the data with kernel size (2, 2, 2) and stride (1, 1, 1)
+pooled_data = mx.nd.pooling(data=data, kernel_size=(2, 2, 2), stride=(1, 1, 1), mode='avg')
+```

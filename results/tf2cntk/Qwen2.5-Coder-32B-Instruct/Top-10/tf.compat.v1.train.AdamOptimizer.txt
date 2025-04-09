@@ -1,0 +1,10 @@
+cntk.optimizers.adam
+cntk.optimizers.momentum_sgd
+cntk.optimizers.sgd
+cntk.optimizers.nesterov_momentum_sgd
+cntk.optimizers.rmsprop
+cntk.optimizers.fsadagrad
+cntk.optimizers.adadelta
+cntk.optimizers.amsgrad
+cntk.optimizers.adamax
+cntk.optimizers.lamb

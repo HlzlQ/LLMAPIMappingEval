@@ -1,0 +1,5 @@
+cntk.ops.normalize
+cntk.ops.l2_normalize
+cntk.ops.batch_normalization
+cntk.ops.instance_normalization
+cntk.ops.layer_normalization

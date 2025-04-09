@@ -1,0 +1,5 @@
+1. torch.nn.Upsample
+2. torch.nn.functional.interpolate
+3. torch.nn.PixelShuffle
+4. torch.nn.functional.upsample
+5. torch.nn.functional.upstream

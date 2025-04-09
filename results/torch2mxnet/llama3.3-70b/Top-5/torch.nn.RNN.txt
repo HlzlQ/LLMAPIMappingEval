@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `torch.nn.RNN`:
+
+1. mxnet.ndarray.rnn
+2. mxnet.gluon.rnn.RNN
+3. mxnet.gluon.rnn.LSTM
+4. mxnet.gluon.rnn.GRU
+5. mxnet.gluon.rnn.SimpleRNN

@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that correspond to `torch.nn.functional.cross_entropy`:
+
+1. `tf.keras.losses.CategoricalCrossentropy`
+2. `tf.keras.losses.SparseCategoricalCrossentropy`
+3. `tf.keras.losses.BinaryCrossentropy`
+4. `tf.keras.losses.KLDivergence`
+5. `tf.keras.losses.HingeLoss`

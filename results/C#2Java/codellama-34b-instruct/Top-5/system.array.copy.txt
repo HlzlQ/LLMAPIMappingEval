@@ -1,0 +1,12 @@
+  Sure! Here are the 5 most likely Java APIs for each of the C# APIs:
+
+1. System.Array.Copy:
+	* In Java, this API is called `System.arraycopy()`.
+2. System.Array.Clear:
+	* In Java, this API is called `Arrays.fill(array, 0)`.
+3. System.Array.Clone:
+	* In Java, this API is called `Object.clone()`.
+4. System.Array.IndexOf:
+	* In Java, this API is called `Arrays.binarySearch(array, value)`.
+5. System.Array.LastIndexOf:
+	* In Java, this API is called `Arrays.binarySearch(array, value, array.length - 1)`.

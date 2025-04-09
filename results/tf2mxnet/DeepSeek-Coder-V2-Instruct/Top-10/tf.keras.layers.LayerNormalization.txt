@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.BatchNorm
+2. mxnet.ndarray.L2Normalization
+3. mxnet.ndarray.InstanceNorm
+4. mxnet.ndarray.LayerNorm
+5. mxnet.gluon.nn.InstanceNorm
+6. mxnet.gluon.nn.LayerNorm
+7. mxnet.ndarray.BatchNorm
+8. mxnet.ndarray.GroupNorm
+9. mxnet.gluon.nn.GroupNorm
+10. mxnet.ndarray.SyncBatchNorm

@@ -1,0 +1,5 @@
+1. java.awt.Graphics.dispose
+2. java.awt.image.BufferedImage.flush
+3. javax.swing.ImageIcon.dispose
+4. java.awt.Graphics2D.dispose
+5. java.awt.Component.getGraphics().dispose

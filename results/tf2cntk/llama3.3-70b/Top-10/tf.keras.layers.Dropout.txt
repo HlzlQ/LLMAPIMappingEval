@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functions to `tensorflow.keras.layers.Dropout`:
+
+1. CNTK.Dropout
+2. CNTK.RandomMasking
+3. CNTK.GaussianNoise
+4. CNTK.DropoutWithNoise
+5. CNTK.RandomDropout
+6. CNTK.Masking
+7. CNTK.NoiseLayer
+8. CNTK.RandomGaussianNoise
+9. CNTK.StochasticDepth
+10. CNTK.SwitchDropout

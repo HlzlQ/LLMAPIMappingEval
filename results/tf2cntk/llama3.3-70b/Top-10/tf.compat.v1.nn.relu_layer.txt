@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.nn.relu_layer`:
+
+1. `cntk.layers.ReLU`
+2. `cntk.ops.relu`
+3. `cntk.layers.Activation`
+4. `cntk.ops.activation`
+5. `cntk.layers.Rectifier`
+6. `cntk.ops.rectify`
+7. `cntk.layers.LeakyReLU`
+8. `cntk.ops.leaky_relu`
+9. `cntk.layers.Sigmoid`
+10. `cntk.layers.Tanh`

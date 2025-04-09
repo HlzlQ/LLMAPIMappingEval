@@ -1,0 +1,5 @@
+System.String.Intern  
+System.String.IsInterned  
+System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode  
+System.Text.Encoding.GetString  
+System.Text.Encoding.GetBytes

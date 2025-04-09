@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here (text only)
+# split, unbind, slice, chunk, divide
+<jupyter_output>
+<empty_output>

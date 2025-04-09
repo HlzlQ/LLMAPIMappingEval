@@ -1,0 +1,10 @@
+java.util.LinkedList.removeFirst
+java.util.Deque.removeFirst
+java.util.concurrent.ConcurrentLinkedDeque.removeFirst
+java.util.ArrayDeque.removeFirst
+java.util.concurrent.LinkedBlockingDeque.removeFirst
+java.util.concurrent.LinkedTransferQueue.removeFirst
+java.util.concurrent.PriorityBlockingQueue.poll
+java.util.concurrent.DelayQueue.take
+java.util.concurrent.SynchronousQueue.take
+java.util.concurrent.BlockingDeque.removeFirst

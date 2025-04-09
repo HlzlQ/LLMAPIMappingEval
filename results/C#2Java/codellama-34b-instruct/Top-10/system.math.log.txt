@@ -1,0 +1,12 @@
+  Here are ten Java APIs that correspond to the C# `System.Math` class:
+
+1. java.lang.Math.abs(double a)
+2. java.lang.Math.acos(double a)
+3. java.lang.Math.asin(double a)
+4. java.lang.Math.atan(double a)
+5. java.lang.Math.atan2(double y, double x)
+6. java.lang.Math.cbrt(double a)
+7. java.lang.Math.ceil(double a)
+8. java.lang.Math.cos(double a)
+9. java.lang.Math.exp(double a)
+10. java.lang.Math.floor(double a)

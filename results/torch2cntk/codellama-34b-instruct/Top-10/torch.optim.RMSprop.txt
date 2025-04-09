@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.optim.RMSprop`:
+
+1. `cntk.learners.rms_prop`
+2. `cntk.learners.rms_prop_momentum`
+3. `cntk.learners.rms_prop_nesterov`
+4. `cntk.learners.rms_prop_adam`
+5. `cntk.learners.rms_prop_adagrad`
+6. `cntk.learners.rms_prop_adadelta`
+7. `cntk.learners.rms_prop_adamax`
+8. `cntk.learners.rms_prop_nadam`
+9. `cntk.learners.rms_prop_radam`
+10. `cntk.learners.rms_prop_lookahead`

@@ -1,0 +1,5 @@
+System.String.Concat  
+System.String.Format  
+System.Convert.ToString  
+System.Object.ToString  
+string.Join

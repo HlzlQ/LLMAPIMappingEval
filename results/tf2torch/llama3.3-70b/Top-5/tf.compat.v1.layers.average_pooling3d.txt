@@ -1,0 +1,7 @@
+Here are the 5 PyTorch API names:
+
+1. torch.nn.AvgPool3d
+2. torch.nn.functional.avg_pool3d
+3. torch.nn.AdaptiveAvgPool3d
+4. torch.nn.functional.adaptive_avg_pool3d
+5. torch.nn.LPPool3d

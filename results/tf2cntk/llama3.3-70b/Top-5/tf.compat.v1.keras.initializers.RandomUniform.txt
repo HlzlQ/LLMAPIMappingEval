@@ -1,0 +1,5 @@
+1. CNTK.default_options(random_scale = 0.01)
+2. CNTK.glorot_uniform_initializer()
+3. CNTK.uniform_initializer()
+4. CNTK.random_normal_initializer()
+5. CNTK.he_normal_initializer()

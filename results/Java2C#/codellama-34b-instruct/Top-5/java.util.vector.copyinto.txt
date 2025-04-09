@@ -1,0 +1,5 @@
+System.Array.Copy
+System.Buffer.BlockCopy
+System.Collections.Generic.List<T>.CopyTo
+System.Collections.Generic.Queue<T>.CopyTo
+System.Collections.Generic.Stack<T>.CopyTo

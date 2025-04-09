@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Conv1D`:
+
+1. `cntk.layers.Convolution1D`
+2. `cntk.layers.Conv1D`
+3. `cntk.layers.ConvolutionalLayer1D`
+4. `cntk.layers.Conv1DLayer`
+5. `cntk.layers.ConvolutionalNeuralNetwork1D`
+6. `cntk.layers.Conv1DNetwork`
+7. `cntk.layers.ConvolutionalLayer1DWithMaxPooling`
+8. `cntk.layers.Conv1DLayerWithMaxPooling`
+9. `cntk.layers.ConvolutionalNeuralNetwork1DWithMaxPooling`
+10. `cntk.layers.Conv1DNetworkWithMaxPooling`

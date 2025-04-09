@@ -1,0 +1,5 @@
+1. java.lang.Class.isInstance()
+2. java.lang.Object.getClass()
+3. java.lang.Class.isAssignableFrom()
+4. java.lang.Class.getTypeParameters()
+5. java.lang.Class.getComponentType()

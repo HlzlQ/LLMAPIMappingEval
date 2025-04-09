@@ -1,0 +1,11 @@
+
+Answer: 1. tf.random.exponential
+2. tf.distributions.Exponential
+3. tf.nn.softplus
+4. tf.math.log_sigmoid
+5. tf.math.exp
+6. tf.math.reduce_mean
+7. tf.math.reduce_sum
+8. tf.math.maximum
+9. tf.math.minimum
+10. tf.math.log

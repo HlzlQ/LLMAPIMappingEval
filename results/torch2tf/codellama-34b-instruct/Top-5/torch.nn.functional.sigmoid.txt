@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used as alternatives to `torch.nn.functional.sigmoid`:
+
+1. `tf.keras.layers.Sigmoid`
+2. `tf.keras.activations.sigmoid`
+3. `tf.math.sigmoid`
+4. `tf.nn.sigmoid_cross_entropy_with_logits`
+5. `tf.nn.softmax_cross_entropy_with_logits`

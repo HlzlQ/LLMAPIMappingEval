@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.GetEnumerator
+2. System.Collections.Generic.List<T>.IndexOf
+3. System.Collections.Generic.List<T>.Insert
+4. System.Collections.Generic.List<T>.RemoveAt
+5. System.Collections.Generic.List<T>.GetRange
+6. System.Collections.Generic.List<T>.ConvertAll
+7. System.Collections.Generic.List<T>.FindIndex
+8. System.Collections.Generic.List<T>.Exists
+9. System.Collections.Generic.List<T>.FindLastIndex
+10. System.Collections.Generic.List<T>.ToArray

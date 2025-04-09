@@ -1,0 +1,12 @@
+
+
+```python
+# Your code here
+cntk_optimizers = [
+    "momentum",
+    "adam",
+    "adagrad",
+    "rmsprop",
+    "sgd"
+]
+```

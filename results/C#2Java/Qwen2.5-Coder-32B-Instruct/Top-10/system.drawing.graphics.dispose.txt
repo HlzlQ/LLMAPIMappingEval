@@ -1,0 +1,10 @@
+java.awt.Graphics.dispose  
+java.awt.Graphics2D.dispose  
+javax.swing.JComponent.paintComponent  
+java.awt.Component.repaint  
+java.awt.Container.validate  
+java.awt.Window.pack  
+java.awt.Frame.setVisible  
+java.awt.Dialog.setVisible  
+java.applet.Applet.destroy  
+java.awt.image.BufferedImage.getGraphics

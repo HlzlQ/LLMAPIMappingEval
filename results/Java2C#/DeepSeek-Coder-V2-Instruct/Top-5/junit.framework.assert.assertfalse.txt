@@ -1,0 +1,5 @@
+System.Diagnostics.Contracts.Contract.Assert
+NUnit.Framework.Assert.IsFalse
+Xunit.Sdk.TrueException
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+Chutzpah.Assertions.AssertExtensions.IsFalse

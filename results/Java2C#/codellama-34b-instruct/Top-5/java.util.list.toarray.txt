@@ -1,0 +1,13 @@
+  Sure! Here are the 5 most likely C# APIs for each Java API:
+
+1. java.util.List.toArray()
+	* System.Collections.Generic.List<T>.ToArray()
+	* System.Linq.Enumerable.ToArray<TSource>(IEnumerable<TSource>)
+2. java.util.ArrayList.add(Object)
+	* System.Collections.Generic.List<T>.Add(T)
+3. java.util.ArrayList.get(int)
+	* System.Collections.Generic.List<T>.Get(int)
+4. java.util.ArrayList.remove(int)
+	* System.Collections.Generic.List<T>.RemoveAt(int)
+5. java.util.ArrayList.size()
+	* System.Collections.Generic.List<T>.Count

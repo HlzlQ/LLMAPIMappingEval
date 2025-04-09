@@ -1,0 +1,3 @@
+System.Collections.Generic.HashSet.GetEnumerator()
+
+Java equivalent: java.util.HashSet.iterator()

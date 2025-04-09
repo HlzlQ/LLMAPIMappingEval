@@ -1,0 +1,10 @@
+cntk.layers.pooling.average_pooling
+cntk.ops.average_pooling
+cntk.layers.sequence.average_pooling
+cntk.layers.recurrent.average_pooling
+cntk.layers.convolutional.average_pooling
+cntk.layers.convolution_transpose.average_pooling
+cntk.layers.basic_layers.average_pooling
+cntk.layers.blocks.average_pooling
+cntk.layers.higher_order_functions.average_pooling
+cntk.layers.sequence_blocks.average_pooling

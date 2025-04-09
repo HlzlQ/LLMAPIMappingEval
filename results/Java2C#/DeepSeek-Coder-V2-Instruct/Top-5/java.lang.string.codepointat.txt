@@ -1,0 +1,5 @@
+1. String.CodePointAt(int index)
+2. Char.GetNumericValue(char ch)
+3. Char.ConvertFromUtf32(int utf32)
+4. Encoding.UTF32.GetString(byte[] bytes, int index, int count)
+5. Rune.DecodeFromUtf32(int utf32)

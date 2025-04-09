@@ -1,0 +1,10 @@
+tf.keras.activations.selu  
+tf.nn.selu  
+tf.math.selu  
+tf.raw_ops.Selu  
+tf.compat.v1.nn.selu  
+tf.compat.v2.nn.selu  
+tf.keras.layers.Activation('selu')  
+tf.keras.layers.LeakyReLU(alpha=1.7580993408473766, name='selu')  
+tf.keras.layers.PReLU(init=1.7580993408473766, name='selu')  
+tf.keras.layers.ELU(alpha=1.7580993408473766, name='selu')

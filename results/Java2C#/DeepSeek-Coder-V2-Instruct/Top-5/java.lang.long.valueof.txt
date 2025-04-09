@@ -1,0 +1,5 @@
+1. System.Int64.Parse
+2. System.Convert.ToInt64
+3. System.Int64.TryParse
+4. System.String.ToLong
+5. System.Text.Json.JsonSerializer.Deserialize

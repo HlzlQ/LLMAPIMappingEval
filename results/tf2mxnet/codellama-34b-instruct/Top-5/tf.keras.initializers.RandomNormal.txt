@@ -1,0 +1,2 @@
+  tf.keras.initializers.RandomNormal()
+mxnet.initializer.Normal()

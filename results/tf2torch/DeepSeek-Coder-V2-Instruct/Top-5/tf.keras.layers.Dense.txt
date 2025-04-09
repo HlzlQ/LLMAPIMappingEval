@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.Linear
+2. torch.nn.Conv2d
+3. torch.nn.Dropout
+4. torch.nn.BatchNorm1d
+5. torch.nn.ReLU

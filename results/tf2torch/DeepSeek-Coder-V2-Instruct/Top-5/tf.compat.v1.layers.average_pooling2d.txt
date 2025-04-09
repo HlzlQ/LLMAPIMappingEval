@@ -1,0 +1,5 @@
+
+Answer: 1. torch.nn.AvgPool2d
+2. tf.keras.layers.AveragePooling2D
+3. tensorflow.python.layers.pooling.AveragePooling2D
+4. tensorflow.compat.v1.layers.average_pooling2d

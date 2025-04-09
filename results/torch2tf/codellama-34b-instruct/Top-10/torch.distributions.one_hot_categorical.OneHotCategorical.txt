@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for one-hot categorical distribution:
+
+1. `tf.distributions.OneHotCategorical`
+2. `tf.distributions.Categorical`
+3. `tf.distributions.Multinomial`
+4. `tf.distributions.Bernoulli`
+5. `tf.distributions.Poisson`
+6. `tf.distributions.Gamma`
+7. `tf.distributions.Exponential`
+8. `tf.distributions.Normal`
+9. `tf.distributions.Uniform`
+10. `tf.distributions.Beta`

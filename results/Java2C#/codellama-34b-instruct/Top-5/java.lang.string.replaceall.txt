@@ -1,0 +1,7 @@
+  Sure! Here are the five most likely C# APIs for the Java API `java.lang.string.replaceall`:
+
+1. `System.String.Replace`
+2. `System.Text.RegularExpressions.Regex.Replace`
+3. `System.Linq.Enumerable.Select`
+4. `System.Collections.Generic.List<T>.ReplaceAll`
+5. `System.Collections.Generic.Dictionary<TKey, TValue>.ReplaceAll`

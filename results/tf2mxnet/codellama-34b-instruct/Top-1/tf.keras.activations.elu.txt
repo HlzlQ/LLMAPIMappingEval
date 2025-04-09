@@ -1,0 +1,15 @@
+
+MXNet does not have a direct equivalent of TensorFlow's `elu` activation function. However, you can achieve similar results using the `leaky_relu` activation function in MXNet with a negative slope parameter.
+
+Here is an example:
+```
+import mxnet as mx
+
+# Define a LeakyReLU activation function with a negative slope of 0.5
+act = mx.gluon.nn.LeakyReLU(alpha=0.5)
+
+# Use the activation function to transform an input tensor
+input_tensor = mx.nd.array([[1, 2], [3, 4]])
+output_tensor = act(input_tensor)
+```
+In this example, the `LeakyReLU` activation function is defined with a negative slope of 0.5, which means that the output will be scaled down by a factor of 0.5 for negative input values. The `act` function can then be used to transform an input tensor using this activation function.

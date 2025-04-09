@@ -1,0 +1,2 @@
+
+Answer: torch.nn.init.xavier_normal_, cntk.initializer.glorot_normal

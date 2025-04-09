@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to `tensorflow.eye`:
+
+1. `mxnet.ndarray.eye`
+2. `mxnet.numpy.eye`
+3. `mxnet.linalg.eye`
+4. `mxnet.matrix.eye`
+5. `mxnet.tensor.eye`

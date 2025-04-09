@@ -1,0 +1,10 @@
+java.lang.String.intern
+java.util.StringJoiner.add
+java.util.StringTokenizer.nextToken
+java.text.MessageFormat.format
+java.nio.file.Files.readString
+java.io.BufferedReader.readLine
+java.net.URLDecoder.decode
+java.net.URLEncoder.encode
+java.time.format.DateTimeFormatter.format
+java.util.Formatter.format

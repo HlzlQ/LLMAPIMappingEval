@@ -1,0 +1,7 @@
+
+
+1. torch.nn.Linear
+2. tf.keras.layers.Dense
+3. torch.nn.modules.linear.Linear
+4. tf.layers.dense
+5. torch.nn.Sequential

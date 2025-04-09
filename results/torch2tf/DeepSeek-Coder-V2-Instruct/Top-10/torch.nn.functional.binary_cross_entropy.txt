@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.functional.binary_cross_entropy`
+2. `tf.keras.losses.BinaryCrossentropy`
+3. `tf.nn.sigmoid_cross_entropy_with_logits`
+4. `torch.nn.BCELoss`
+5. `torch.nn.BCEWithLogitsLoss`
+6. `tf.keras.losses.binary_crossentropy`
+7. `tf.nn.softmax_cross_entropy_with_logits`
+8. `torch.nn.CrossEntropyLoss`
+9. `tf.nn.sparse_softmax_cross_entropy_with_logits`
+10. `torch.nn.NLLLoss`

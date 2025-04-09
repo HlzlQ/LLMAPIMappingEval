@@ -1,0 +1,21 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mxnet.ndarray.flatten2. mxnet.sym.Flatten3. gluon.nn.Flatten4. mxnet.gluon.Flatten5. mxnet.ndarray.reshape
+<jupyter_code>
+import torch
+import mxnet as mx
+from mxnet import gluon, nd, sym
+
+# PyTorch API
+torch_flatten = torch.nn.Flatten()
+
+# MXNet APIs
+mxnet_flatten1 = mx.nd.flatten
+mxnet_flatten2 = mx.sym.Flatten
+mxnet_flatten3 = gluon.nn.Flatten
+mxnet_flatten4 = mx.gluon.Flatten
+mxnet_flatten5 = mx.ndarray.reshape
+<jupyter_output>
+<empty_output>

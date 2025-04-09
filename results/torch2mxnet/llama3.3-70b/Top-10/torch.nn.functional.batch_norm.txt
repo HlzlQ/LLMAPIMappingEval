@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.functional.batch_norm`:
+
+1. mxnet.ndarray.BatchNorm
+2. mxnet.gluon.nn.BatchNorm
+3. mxnet.gluon.contrib.nn.BatchNorm
+4. mxnet.nd.BatchNormalization
+5. mxnet.gluon.nn.BatchNorm2d
+6. mxnet.gluon.nn.InstanceNorm
+7. mxnet.gluon.nn.LayerNorm
+8. mxnet.ndarray.batch_norm
+9. mxnet.gluon.contrib.nn.SyncBatchNorm
+10. mxnet.gluon.nn.BatchNorm1d

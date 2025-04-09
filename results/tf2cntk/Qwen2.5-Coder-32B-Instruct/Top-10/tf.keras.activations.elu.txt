@@ -1,0 +1,10 @@
+cntk.ops.elu  
+cntk.relu  
+cntk.sigmoid  
+cntk.tanh  
+cntk.softmax  
+cntk.hard_sigmoid  
+cntk.swish  
+cntk.leaky_relu  
+cntk.prelu  
+cntk.selu

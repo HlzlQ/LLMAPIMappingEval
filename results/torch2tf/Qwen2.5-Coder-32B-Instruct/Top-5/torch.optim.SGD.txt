@@ -1,0 +1,5 @@
+tf.keras.optimizers.SGD  
+tf.train.GradientDescentOptimizer  
+tf.compat.v1.train.GradientDescentOptimizer  
+tf.optimizers.SGD  
+tf.keras.optimizers.Optimizer (with SGD parameters)

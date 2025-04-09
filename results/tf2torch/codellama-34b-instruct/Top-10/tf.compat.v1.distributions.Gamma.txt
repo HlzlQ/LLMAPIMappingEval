@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Gamma`:
+
+1. `torch.distributions.Gamma`
+2. `torch.distributions.gamma`
+3. `torch.distributions.GammaDistribution`
+4. `torch.distributions.gamma_distribution`
+5. `torch.distributions.GammaFunction`
+6. `torch.distributions.gamma_function`
+7. `torch.distributions.GammaLogProb`
+8. `torch.distributions.gamma_log_prob`
+9. `torch.distributions.GammaMean`
+10. `torch.distributions.gamma_mean`

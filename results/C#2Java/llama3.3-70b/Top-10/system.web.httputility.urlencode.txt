@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Web.HttpUtility.UrlEncode` in C#:
+
+1. java.net.URLEncoder.encode
+2. org.apache.commons.codec.net.URLCodec.encode
+3. javax.ws.rs.core.UriBuilder.encode
+4. com.google.common.net.UrlEscapers.urlFragmentEscaper
+5. org.springframework.web.util.UriUtils.encode
+6. java.nio.charset.StandardCharsets.UTF_8.encode
+7. org.eclipse.jetty.util.UrlEncoded.encode
+8. com.sun.jersey.api.uri.UriComponent.encode
+9. net.sf.ehcache.util.URLEncoder.encode
+10. org.apache.http.client.utils.URLEncodedUtils.encode

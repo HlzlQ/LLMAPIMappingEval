@@ -1,0 +1,17 @@
+
+
+```python
+import cntk as C
+```
+
+### Answer:
+1. `C.gradient`
+2. `C.value_and_grad`
+3. `C.zeros_like`
+4. `C.ones_like`
+5. `C.constant`
+6. `C.parameter`
+7. `C.placeholder`
+8. `C.times`
+9. `C.plus`
+10. `C.logistic`

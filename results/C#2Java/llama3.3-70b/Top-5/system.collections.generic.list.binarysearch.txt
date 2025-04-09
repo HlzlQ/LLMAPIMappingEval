@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `System.Collections.Generic.List.BinarySearch` in C#:
+
+1. java.util.Arrays.binarySearch
+2. java.util.Collections.binarySearch
+3. java.util.ArrayList.indexOf
+4. java.util.TreeSet.ceiling
+5. java.util.NavigableSet.floor

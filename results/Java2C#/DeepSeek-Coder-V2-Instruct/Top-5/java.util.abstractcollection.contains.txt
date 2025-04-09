@@ -1,0 +1,5 @@
+1. Contains(T) : bool (in System.Collections.Generic namespace)
+2. ContainsKey(TKey) : bool (in System.Collections namespace)
+3. ContainsValue(TValue) : bool (in System.Collections.Hashtable class)
+4. Exists(Predicate<T>) : bool (in System.Linq namespace)
+5. Any() : bool (in System.Linq namespace)

@@ -1,0 +1,15 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:1. mx.gluon.loss.SoftmaxCrossEntropyLoss2. mx.ndarray.softmax_cross_entropy3. mx.symbol.softmax_cross_entropy4. mx.contrib.onnx.mxnet_proto.SoftmaxCrossEntropy5. mx.sym.SoftmaxCrossEntropy
+<jupyter_code>
+import torch
+import mxnet as mx
+# Example usage of the PyTorch API
+input = torch.randn(3, 5)
+target = torch.empty(3, dtype=torch.long).random_(5)
+loss = torch.nn.functional.cross_entropy(input, target)
+print(loss)
+<jupyter_output>
+tensor(1.4289)

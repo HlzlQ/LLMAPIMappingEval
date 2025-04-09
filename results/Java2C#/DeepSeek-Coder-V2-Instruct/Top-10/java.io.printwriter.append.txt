@@ -1,0 +1,10 @@
+1. System.IO.TextWriter.Append
+2. System.Console.WriteLine
+3. System.String.Concat
+4. System.Text.StringBuilder.Append
+5. System.Text.StringBuilder.ToString
+6. System.Text.StringBuilder.AppendFormat
+7. System.Text.StringWriter.Write
+8. System.Text.StringWriter.Flush
+9. System.Text.StringWriter.GetStringBuilder
+10. System.IO.StringWriter.WriteLine

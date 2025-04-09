@@ -1,0 +1,36 @@
+C# does not have a direct equivalent of the `replaceAll` method in Java's `String` class. However, you can use the `Regex.Replace` method to achieve similar functionality. Here is an example:
+```
+using System;
+using System.Text.RegularExpressions;
+
+class Example
+{
+    static void Main()
+    {
+        string input = "Hello, World!";
+        string pattern = @"\bWorld\b";
+        string replacement = "Earth";
+
+        Console.WriteLine(Regex.Replace(input, pattern, replacement));
+    }
+}
+```
+This will output `Hello, Earth!`.
+
+Alternatively, you can use the `String.Replace` method to replace all occurrences of a specific string with another string. Here is an example:
+```
+using System;
+
+class Example
+{
+    static void Main()
+    {
+        string input = "Hello, World!";
+        string oldValue = "World";
+        string newValue = "Earth";
+
+        Console.WriteLine(input.Replace(oldValue, newValue));
+    }
+}
+```
+This will also output `Hello, Earth!`.

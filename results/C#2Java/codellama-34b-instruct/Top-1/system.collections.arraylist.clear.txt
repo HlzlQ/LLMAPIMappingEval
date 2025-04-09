@@ -1,0 +1,3 @@
+System.Collections.ArrayList.Clear()
+
+Java equivalent: java.util.ArrayList.clear()

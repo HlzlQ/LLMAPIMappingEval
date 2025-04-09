@@ -1,0 +1,10 @@
+1. System.IO.Directory.CreateDirectory
+2. System.IO.DirectoryInfo.Create
+3. System.IO.DirectoryInfo.CreateSubdirectory
+4. System.IO.FileSystem.CreateDirectory
+5. System.IO.File.CreateDirectory
+6. Microsoft.Win32.RegistryKey.CreateSubKey
+7. System.Security.AccessControl.DirectorySecurity.AddAccessRule
+8. System.IO.FileSystemInfo.Create
+9. System.IO.DirectoryInfo.Attributes
+10. System.IO.Directory.CreateDirectory

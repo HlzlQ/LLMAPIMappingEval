@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent APIs in CNTK:
+
+1. CNTK.optimizers.Adam
+2. CNTK.optimizers.SGD
+3. CNTK.optimizers.MomentumSGD
+4. CNTK.optimizers.Nesterov
+5. CNTK.optimizers.RMSProp
+6. CNTK.optimizers.Adagrad
+7. CNTK.optimizers.Adadelta
+8. CNTK.optimizers.Adamax
+9. CNTK.optimizers.Nadam
+10. CNTK.optimizers.AdaGrad

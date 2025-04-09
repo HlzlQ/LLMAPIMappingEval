@@ -1,0 +1,5 @@
+mxnet.gluon.nn.GlobalAvgPool1D  
+mxnet.ndarray.Pooling  
+mxnet.symbol.Pooling  
+mxnet.gluon.nn.AvgPool1D  
+mxnet.ndarray.avg_pool1d

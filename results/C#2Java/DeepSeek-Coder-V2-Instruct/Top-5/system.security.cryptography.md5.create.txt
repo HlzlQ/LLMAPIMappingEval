@@ -1,0 +1,5 @@
+java.security.MessageDigest.getInstance("MD5")
+javax.crypto.Mac.getInstance("HmacMD5")
+org.bouncycastle.jce.provider.BouncyCastleProvider.getMD5()
+com.sun.crypto.provider.MD5Cipher.getInstance()
+org.apache.commons.codec.digest.DigestUtils.md5Hex(String)

@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.interpolate, tf.image.resize

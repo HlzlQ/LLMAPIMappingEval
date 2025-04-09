@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the function of `system.string.tolower` in C#:
+
+1. java.lang.String.toLowerCase()
+2. java.lang.String.toLowerCase(Locale)
+3. java.text.Normalizer.normalize()
+4. org.apache.commons.lang3.StringUtils.lowerCase()
+5. org.springframework.util.StringUtils.toLowerCase()
+6. com.google.common.base.Strings.toLowerCase()
+7. javax.swing.text.DefaultEditorKit.toLowerCase()
+8. java.awt.datatransfer.DataFlavor.toLowerCase()
+9. org.eclipse.jface.viewers.StyledString.toLowerCase()
+10. net.sf.cglib.core.StringToLowerConverter.convert()

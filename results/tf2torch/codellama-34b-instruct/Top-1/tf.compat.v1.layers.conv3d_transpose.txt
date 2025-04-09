@@ -1,0 +1,2 @@
+
+PyTorch equivalent: `torch.nn.ConvTranspose3d`

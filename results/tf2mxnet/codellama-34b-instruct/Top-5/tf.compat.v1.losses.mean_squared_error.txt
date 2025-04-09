@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for mean squared error loss:
+
+1. mxnet.gluon.loss.L2Loss()
+2. mxnet.gluon.loss.MeanSquaredError()
+3. mxnet.ndarray.mean_squared_error()
+4. mxnet.ndarray.l2_loss()
+5. mxnet.autograd.L2Loss()

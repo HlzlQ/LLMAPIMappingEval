@@ -1,0 +1,5 @@
+1. CNTK.layers.AveragePooling
+2. CNTK.layers.Pooling
+3. CNTK.layers.Subsampling
+4. CNTK.layers.AvgPool
+5. CNTK.layers.PoolingLayer

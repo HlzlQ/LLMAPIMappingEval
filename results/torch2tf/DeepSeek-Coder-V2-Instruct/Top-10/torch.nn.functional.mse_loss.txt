@@ -1,0 +1,11 @@
+
+Answer: 1. tf.keras.losses.MeanSquaredError
+2. tf.keras.losses.MSE
+3. tf.losses.mean_squared_error
+4. tf.keras.losses.mse
+5. tf.keras.metrics.mean_squared_error
+6. tf.math.reduce_mean(tf.square(...))
+7. tf.keras.losses.get('mse')
+8. tf.keras.losses.MeanSquaredError()
+9. tf.keras.losses.MSE()
+10. tf.keras.losses.mse(tf.keras.losses.mean_squared_error)

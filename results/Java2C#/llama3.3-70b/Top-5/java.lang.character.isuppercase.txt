@@ -1,0 +1,5 @@
+1. System.Char.IsUpper
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.Globalization.CharUnicodeInfo.GetUnicodeCategory
+4. System.String.Equals
+5. System.Text.Encoding.ASCII.ToUpper

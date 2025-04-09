@@ -1,0 +1,10 @@
+System.Environment.GetEnvironmentVariable  
+System.Environment.GetFolderPath  
+System.Environment.MachineName  
+System.Environment.OSVersion  
+System.Environment.ProcessorCount  
+System.Environment.UserDomainName  
+System.Environment.UserName  
+System.Environment.Version  
+System.Environment.WorkingSet  
+System.Environment.Is64BitOperatingSystem

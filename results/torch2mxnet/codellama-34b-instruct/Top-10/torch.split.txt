@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch `torch.split` API:
+
+1. `mxnet.ndarray.split`
+2. `mxnet.ndarray.split_v2`
+3. `mxnet.ndarray.split_axis`
+4. `mxnet.ndarray.split_axes`
+5. `mxnet.ndarray.split_like`
+6. `mxnet.ndarray.split_like_v2`
+7. `mxnet.ndarray.split_axis_like`
+8. `mxnet.ndarray.split_axes_like`
+9. `mxnet.ndarray.split_axis_like_v2`
+10. `mxnet.ndarray.split_axes_like_v2`

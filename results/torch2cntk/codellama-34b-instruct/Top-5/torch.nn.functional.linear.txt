@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.linear`:
+
+1. `cntk.layers.Linear`
+2. `cntk.layers.Dense`
+3. `cntk.layers.FullyConnected`
+4. `cntk.layers.Affine`
+5. `cntk.layers.LinearRegression`

@@ -1,0 +1,5 @@
+torch.nn.ConvTranspose3d  
+torch.nn.functional.conv_transpose3d  
+torch.nn.Upsample  
+torch.nn.PixelUnshuffle  
+torch.nn.PixelShuffle

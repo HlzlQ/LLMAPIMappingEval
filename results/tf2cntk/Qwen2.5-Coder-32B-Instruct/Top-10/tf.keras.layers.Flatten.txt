@@ -1,0 +1,10 @@
+cntk.ops.reshape  
+cntk.layers.Dense  
+cntk.layers.Sequential  
+cntk.layers.Function  
+cntk.layers.Dropout  
+cntk.layers.ForwardPassSequences  
+cntk.layers.Recurrence  
+cntk.layers.Embedding  
+cntk.layers.Convolution2D  
+cntk.layers.MaxPooling2D

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.collections.generic.list.sort`:
+
+1. `java.util.Collections.sort(List)`: Sorts the elements in a list according to their natural order.
+2. `java.util.Arrays.sort(Object[])`: Sorts an array of objects according to their natural order.
+3. `java.util.ArrayList.sort(Comparator)`: Sorts the elements in an ArrayList using a Comparator.
+4. `java.util.LinkedList.sort(Comparator)`: Sorts the elements in a LinkedList using a Comparator.
+5. `java.util.Vector.sort(Comparator)`: Sorts the elements in a Vector using a Comparator.
+6. `java.util.TreeSet.sort(Comparator)`: Sorts the elements in a TreeSet using a Comparator.
+7. `java.util.HashSet.sort(Comparator)`: Sorts the elements in a HashSet using a Comparator.
+8. `java.util.LinkedHashSet.sort(Comparator)`: Sorts the elements in a LinkedHashSet using a Comparator.
+9. `java.util.TreeMap.sort(Comparator)`: Sorts the elements in a TreeMap using a Comparator.
+10. `java.util.HashMap.sort(Comparator)`: Sorts the elements in a HashMap using a Comparator.

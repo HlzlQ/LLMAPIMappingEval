@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.unique`:
+
+1. torch.unique
+2. torch.tensor.unique
+3. torch.Tensor.unique
+4. torch.unique_consecutive
+5. torch.tensor.unique_consecutive
+6. torch.Tensor.unique_consecutive
+7. torch.unique_dim
+8. torch.tensor.unique_dim
+9. torch.Tensor.unique_dim
+10. torch.unique_sorted

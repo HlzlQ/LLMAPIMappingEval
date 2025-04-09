@@ -1,0 +1,6 @@
+
+* cntk.ops.mse
+* cntk.ops.mean_squared_error
+* cntk.ops.losses.mean_squared_error
+* cntk.ops.objectives.mean_squared_error
+* cntk.ops.metrics.mean_squared_error

@@ -1,0 +1,2 @@
+
+CNTK has a similar API for max pooling called `max_pooling2d`.

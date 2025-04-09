@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tensorflow_probability.python.distributions.gamma.Gamma
+<jupyter_output>
+<empty_output>

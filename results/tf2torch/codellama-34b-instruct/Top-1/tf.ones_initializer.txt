@@ -1,0 +1,2 @@
+
+PyTorch: torch.ones_like

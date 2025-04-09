@@ -1,0 +1,15 @@
+C# does not have a direct equivalent of the `java.lang.Character.isDigit()` method. However, you can use the `char.IsDigit()` method in C# to achieve similar functionality. This method returns a boolean value indicating whether the specified character is a digit or not.
+
+Here's an example:
+```csharp
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        char c = '5';
+        Console.WriteLine(char.IsDigit(c)); // Output: True
+    }
+}
+```

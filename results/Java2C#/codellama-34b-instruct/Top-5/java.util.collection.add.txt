@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Add()
+System.Collections.Generic.LinkedList<T>.AddAfter()
+System.Collections.Generic.LinkedList<T>.AddBefore()
+System.Collections.Generic.Queue<T>.Enqueue()
+System.Collections.Generic.Stack<T>.Push()

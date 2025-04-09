@@ -1,0 +1,10 @@
+
+Here are five possible MXNet APIs that can be used for initializing weights with ones:
+
+1. `mxnet.initializers.Ones()`
+2. `mxnet.init.ones()`
+3. `mxnet.initializers.Constant(1)`
+4. `mxnet.init.constant(1)`
+5. `mxnet.initializers.Zeros(1)`
+
+Note that the last one is not exactly the same as TensorFlow's `Ones`, but it can be used to initialize weights with ones by setting the `value` parameter to 1.

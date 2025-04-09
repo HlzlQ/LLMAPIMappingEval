@@ -1,0 +1,10 @@
+cntk.layers.ConvolutionTranspose
+cntk.layers.Upsample
+cntk.layers.Deconvolution
+cntk.layers.TransposeConvolution
+cntk.layers.BilinearUpsampling
+cntk.layers.NearestNeighborUpsampling
+cntk.layers.SubPixelConvolution
+cntk.layers.PixelShuffle
+cntk.layers.DepthToSpace
+cntk.layers.SpaceToDepth

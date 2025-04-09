@@ -1,0 +1,10 @@
+1. System.Text.RegularExpressions.Regex.Replace
+2. System.String.Replace
+3. Microsoft.VisualBasic.Strings.Replace
+4. System.Text.RegularExpressions.MatchEvaluator
+5. System.Text.RegularExpressions.RegexOptions
+6. System.Text.RegularExpressions.Pattern
+7. System.Text.RegularExpressions.Matcher
+8. System.Text.RegularExpressions.Group
+9. System.Text.RegularExpressions.Capture
+10. System.Text.RegularExpressions.Regex.Split

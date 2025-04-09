@@ -1,0 +1,12 @@
+
+
+1. tf.unstack
+2. tf.split
+3. None (in PyTorch, this is handled by slicing)
+4. tf.reshape
+5. tf.tile
+6. tf.expand_dims
+7. tf.squeeze
+8. tf.transpose
+9. tf.concat
+10. tf.stack

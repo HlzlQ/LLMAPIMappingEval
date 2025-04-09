@@ -1,0 +1,5 @@
+System.String.CompareTo
+System.String.CompareOrdinal
+System.String.Compare
+System.Globalization.CultureInfo.CompareInfo.CompareString
+System.Collections.Generic.Comparer<string>.Default.Compare

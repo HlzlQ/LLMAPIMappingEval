@@ -1,0 +1,10 @@
+System.Char.IsDigit
+System.Convert.ToInt32
+System.Int32.TryParse
+System.Double.TryParse
+System.Single.TryParse
+System.Decimal.TryParse
+System.Numerics.BigInteger.TryParse
+System.Numerics.BigDecimal.TryParse
+System.Text.RegularExpressions.Regex.IsMatch
+System.Linq.Enumerable.Any

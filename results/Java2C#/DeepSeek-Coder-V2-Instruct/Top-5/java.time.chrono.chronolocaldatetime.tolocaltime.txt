@@ -1,0 +1,5 @@
+1. ToLocalTime() - DateTime.ToLocalTime()
+2. ChronoLocalDateTime<T> - IsoChronology.Date(DateTime)
+3. LocalTime - TimeOnly
+4. ZonedDateTime - ZonedDateTime.FromDateTimeOffset(DateTimeOffset)
+5. ZoneId - TimeZoneInfo

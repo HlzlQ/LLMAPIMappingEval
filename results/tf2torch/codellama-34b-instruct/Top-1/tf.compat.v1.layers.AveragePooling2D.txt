@@ -1,0 +1,2 @@
+
+In PyTorch, the equivalent of `tensorflow.compat.v1.layers.AveragePooling2D` is `nn.AvgPool2d`.

@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.ConvolutionTranspose3D
+2. cntk.ops.transposed_convolution
+3. cntk.contrib.layers.Conv3DTranspose
+4. cntk.contrib.layers.deconv3d
+5. cntk.layers.Deconvolution3D
+6. cntk.ops.convolution_transpose
+7. cntk.layers.Convolution3DTranspose
+8. cntk.layers.Conv3DTranspose
+9. cntk.contrib.layers.deconv3d
+10. cntk.layers.Deconvolution3D

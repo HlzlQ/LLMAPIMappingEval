@@ -1,0 +1,12 @@
+Here are the 10 most likely matching MXNet APIs for `torch.optim.RMSprop`:
+
+1. mx.optimizer.RMSProp
+2. mx.optimizer.RMSPROP
+3. mx.optimizer.rmsprop
+4. mx.optimizer.Rmsprop
+5. mx.optimizer.RMSPROp
+6. mx.optimizer.RmsProp
+7. mx.optimizer.RmspropOptimizer
+8. mx.optimizer.RMSPropOptimizer
+9. mx.optimizer.RMSPROPOptimizer
+10. mx.optimizer.RmspropUpdate

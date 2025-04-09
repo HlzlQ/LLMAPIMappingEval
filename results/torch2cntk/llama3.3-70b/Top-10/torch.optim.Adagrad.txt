@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.optim.Adagrad`:
+
+1. `cntk.learners.adagrad`
+2. `cntk.learners.adagrad_with_momentum`
+3. `cntk.learners.adam`
+4. `cntk.learners.rmsprop`
+5. `cntk.learners.momentum_sgd`
+6. `cntk.learners.nesterov`
+7. `cntk.learners.adadelta`
+8. `cntk.learners.adagrad_with_weight_decay`
+9. `cntk.learners.sgd`
+10. `cntk.learners.adamax`

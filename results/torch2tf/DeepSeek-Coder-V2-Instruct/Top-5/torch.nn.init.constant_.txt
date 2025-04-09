@@ -1,0 +1,8 @@
+
+Answer: ```python
+tf.initializers.constant
+tf.keras.initializers.Constant
+tf.compat.v1.keras.initializers.constant
+tf.initializers.zeros
+tf.keras.initializers.Zeros
+```

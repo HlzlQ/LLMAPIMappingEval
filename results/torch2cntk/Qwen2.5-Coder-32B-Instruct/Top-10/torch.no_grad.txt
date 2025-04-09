@@ -1,0 +1,10 @@
+cntk.disable_training
+cntk.Function.forward
+cntk.as_composite
+cntk.combine
+cntk.layers.Forward
+cntk.layers.Sequential
+cntk.layers.Dropout
+cntk.layers.Dense
+cntk.layers.Convolution2D
+cntk.layers.MaxPooling2D

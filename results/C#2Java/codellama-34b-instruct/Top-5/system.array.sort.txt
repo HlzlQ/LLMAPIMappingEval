@@ -1,0 +1,7 @@
+  Sure! Here are the 5 most likely Java APIs for sorting arrays:
+
+1. `java.util.Arrays.sort(Object[] a)`
+2. `java.util.Collections.sort(List<?> list)`
+3. `java.util.ArrayList.sort(Comparator<? super E> c)`
+4. `java.util.LinkedList.sort(Comparator<? super E> c)`
+5. `java.util.Vector.sort(Comparator<? super E> c)`

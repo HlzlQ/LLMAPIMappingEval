@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most similar API in MXNet
+print("Conv1d")
+<jupyter_output>
+Conv1D

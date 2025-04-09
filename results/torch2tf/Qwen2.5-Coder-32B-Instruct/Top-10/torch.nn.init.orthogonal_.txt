@@ -1,0 +1,10 @@
+tf.linalg.set_diag  
+tf.linalg.diag_part  
+tf.linalg.tensor_diag_part  
+tf.linalg.tensor_diag  
+tf.linalg.eig  
+tf.linalg.svd  
+tf.linalg.qr  
+tf.linalg.lu  
+tf.linalg.matrix_transpose  
+tf.linalg.matmul

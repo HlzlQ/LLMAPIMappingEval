@@ -1,0 +1,10 @@
+cntk.train.training_session
+cntk.train.minimizer.rmsprop
+cntk.layers.sequence.unroll_from
+cntk.layers.sequence.past_value
+cntk.layers.sequence.first
+cntk.layers.sequence.last
+cntk.layers.sequence.reduce_sum
+cntk.layers.sequence.reduce_mean
+cntk.layers.sequence.scan
+cntk.layers.sequence.delay

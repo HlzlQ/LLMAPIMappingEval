@@ -1,0 +1,5 @@
+cntk.ops.log_softmax
+cntk.losses.softmax_cross_entropy_with_logit
+cntk.ops.softmax
+cntk.ops.log
+cntk.losses.cross_entropy_with_softmax

@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+Answer: ```python
+tf.tensordot
+torch.tensordot
+```

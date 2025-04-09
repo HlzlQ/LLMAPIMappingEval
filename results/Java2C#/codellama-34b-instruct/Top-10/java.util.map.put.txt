@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that correspond to the Java API `java.util.map.put`:
+
+1. `System.Collections.Generic.Dictionary<TKey, TValue>.Add(TKey key, TValue value)`
+2. `System.Collections.Generic.IDictionary<TKey, TValue>.Add(TKey key, TValue value)`
+3. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryAdd(TKey key, TValue value)`
+4. `System.Collections.Specialized.NameObjectCollectionBase.Add(string name, object value)`
+5. `System.Web.HttpContext.Current.Items.Add(string key, object value)`
+6. `System.Web.HttpContext.Current.Application.Add(string key, object value)`
+7. `System.Web.HttpContext.Current.Cache.Insert(string key, object value)`
+8. `System.Web.HttpContext.Current.Session.Add(string key, object value)`
+9. `System.Web.HttpContext.Current.Server.Add(string key, object value)`
+10. `System.Web.HttpContext.Current.Request.Add(string key, object value)`

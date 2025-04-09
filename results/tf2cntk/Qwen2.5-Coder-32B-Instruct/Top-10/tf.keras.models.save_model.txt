@@ -1,0 +1,10 @@
+cntk.io.save_model
+cntk.ops.functions.save
+cntk.models.save
+cntk.train.training_session.save_checkpoint
+cntk.train.checkpoint_config.save
+cntk.utils.save_model
+cntk.core.save_model
+cntk.layers.save_model
+cntk.io.save_as_text
+cntk.io.save_as_binary

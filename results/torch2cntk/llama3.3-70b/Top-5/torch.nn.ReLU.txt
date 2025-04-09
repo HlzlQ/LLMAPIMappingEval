@@ -1,0 +1,5 @@
+1. cntk.relu
+2. cntk.sigmoid
+3. cntk.tanh
+4. cntk.leaky_relu
+5. cntk.prelu

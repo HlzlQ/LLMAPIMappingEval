@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.losses.CategoricalCrossentropy`:
+
+1. mxnet.ndarray.softmax_cross_entropy
+2. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+3. mxnet.gluon.loss.CrossEntropyLoss
+4. mxnet.ndarray.make_loss
+5. mxnet.gluon.loss.KLDivLoss
+6. mxnet.gluon.loss.NLLLoss
+7. mxnet.gluon.loss.PoissonNLLLoss
+8. mxnet.gluon.loss.HuberLoss
+9. mxnet.gluon.loss.L2Loss
+10. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss

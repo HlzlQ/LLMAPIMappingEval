@@ -1,0 +1,11 @@
+
+Answer: 1. `tf.keras.models.Sequential` -> `mxnet.gluon.nn.Sequential`
+2. `tf.keras.layers.Dense` -> `mxnet.gluon.nn.Dense`
+3. `tf.keras.layers.Conv2D` -> `mxnet.gluon.nn.Conv2D`
+4. `tf.keras.layers.MaxPooling2D` -> `mxnet.gluon.nn.MaxPool2D`
+5. `tf.keras.layers.Flatten` -> `mxnet.gluon.nn.Flatten`
+6. `tf.keras.layers.Dropout` -> `mxnet.gluon.nn.Dropout`
+7. `tf.keras.optimizers.Adam` -> `mxnet.optimizer.adam`
+8. `tf.keras.losses.SparseCategoricalCrossentropy` -> `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+9. `tf.keras.metrics.Accuracy` -> `mxnet.metric.Accuracy`
+10. `tf.keras.callbacks.ModelCheckpoint` -> `mxnet.callback.ModelCheckpoint`

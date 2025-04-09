@@ -1,0 +1,16 @@
+
+
+```python
+cntk_api = [
+    "gradient",
+    "value",
+    "times",
+    "plus",
+    "minus",
+    "div",
+    "sqrt",
+    "exp",
+    "log",
+    "reduce_sum"
+]
+```

@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: MaxPooling1D
+<jupyter_output>
+<empty_output>

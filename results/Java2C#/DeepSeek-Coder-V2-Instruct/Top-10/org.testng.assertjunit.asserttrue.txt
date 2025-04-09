@@ -1,0 +1,11 @@
+System.Diagnostics.Debug.Assert
+System.Threading.Monitor.Enter
+System.Threading.Monitor.Exit
+System.Threading.Thread.Sleep
+System.Console.WriteLine
+System.Environment.Exit
+System.GC.Collect
+System.GC.WaitForPendingFinalizers
+System.Random.Next
+System.String.Format
+System.Math.Abs

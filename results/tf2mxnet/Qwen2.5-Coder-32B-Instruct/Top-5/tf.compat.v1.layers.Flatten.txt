@@ -1,0 +1,5 @@
+mxnet.gluon.nn.Flatten
+mxnet.ndarray.flatten
+mxnet.symbol.flatten
+mxnet.ndarray.reshape
+mxnet.symbol.reshape

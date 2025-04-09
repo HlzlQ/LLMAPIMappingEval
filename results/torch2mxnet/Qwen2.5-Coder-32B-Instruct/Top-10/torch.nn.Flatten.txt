@@ -1,0 +1,10 @@
+mxnet.ndarray.flatten
+mxnet.gluon.nn.Flatten
+mxnet.symbol.flatten
+mxnet.ndarray.reshape
+mxnet.symbol.reshape
+mxnet.ndarray.expand_dims
+mxnet.symbol.expand_dims
+mxnet.ndarray.squeeze
+mxnet.symbol.squeeze
+mxnet.ndarray.transpose

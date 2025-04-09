@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+System.Diagnostics.Trace.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+NUnit.Framework.Assert.IsNotNull
+Xunit.Assert.NotNull
+FluentAssertions.Assertions.AssertionScope.NotBeNull
+NSubstitute.ReceivedExtensions.DidNotReceiveWithAnyArgs
+Moq.Language.Flow.ITimes.ReturnsExtensions.Returns
+AutoFixture.Idioms.FixtureAssertion.ThrowsNoException
+Castle.Core.AssertionHelper.IsNotNull

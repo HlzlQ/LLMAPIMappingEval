@@ -1,0 +1,7 @@
+Here are the 5 PyTorch API names that match the functionality of `tensorflow.compat.v1.nn.fractional_max_pool`:
+
+1. torch.nn.FractionalMaxPool2d
+2. torch.nn.MaxPool2d
+3. torch.nn.AdaptiveMaxPool2d
+4. torch.nn.LPPool2d
+5. torch.nn.Functional.max_pool2d

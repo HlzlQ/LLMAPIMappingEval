@@ -1,0 +1,5 @@
+mxnet.gluon.nn.PixelShuffle2D  
+mxnet.ndarray.UpSampling  
+mxnet.symbol.UpSampling  
+mxnet.gluon.nn.Conv2DTranspose  
+mxnet.ndarray.BilinearResize2D

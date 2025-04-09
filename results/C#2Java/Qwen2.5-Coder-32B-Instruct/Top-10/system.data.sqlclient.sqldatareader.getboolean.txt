@@ -1,0 +1,10 @@
+java.sql.ResultSet.getBoolean
+java.sql.CallableStatement.getBoolean
+java.sql.PreparedStatement.getBoolean
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement
+java.sql.DriverManager.getConnection
+java.sql.SQLException.getMessage
+java.sql.SQLWarning.getNextWarning
+java.sql.DatabaseMetaData.getColumns
+java.sql.ResultSetMetaData.getColumnCount

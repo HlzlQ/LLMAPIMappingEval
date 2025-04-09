@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.ToList
+3. System.Collections.ArrayList.AddRange
+4. System.Collections.ICollection.CopyTo
+5. System.Array.CopyTo
+6. System.Collections.IList.Insert
+7. System.Collections.Generic.List<T>.InsertRange
+8. System.Collections.ArrayList.InsertRange
+9. System.Collections.IList.Add
+10. System.Collections.ICollection.Add

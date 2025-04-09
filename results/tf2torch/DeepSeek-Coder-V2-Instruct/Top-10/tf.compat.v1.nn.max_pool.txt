@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.functional.max_pool2d
+2. torch.nn.MaxPool2d
+3. F.avg_pool2d
+4. nn.AvgPool2d
+5. torch.nn.AdaptiveMaxPool2d
+6. torch.nn.AdaptiveAvgPool2d
+7. torch.nn.functional.adaptive_max_pool2d
+8. torch.nn.functional.adaptive_avg_pool2d
+9. F.interpolate (for global pooling)
+10. nn.Sequential (for combining multiple pooling layers)

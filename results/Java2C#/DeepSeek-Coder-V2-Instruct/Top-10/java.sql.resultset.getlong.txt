@@ -1,0 +1,10 @@
+1. GetInt32
+2. GetInt64
+3. GetString
+4. GetBoolean
+5. GetDouble
+6. GetDateTime
+7. GetDecimal
+8. GetByte
+9. GetBytes
+10. GetValue

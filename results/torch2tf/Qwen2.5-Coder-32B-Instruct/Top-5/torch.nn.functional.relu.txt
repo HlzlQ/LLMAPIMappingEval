@@ -1,0 +1,5 @@
+tf.nn.relu  
+tf.keras.activations.relu  
+tf.math.maximum  
+tf.where  
+tf.clip_by_value

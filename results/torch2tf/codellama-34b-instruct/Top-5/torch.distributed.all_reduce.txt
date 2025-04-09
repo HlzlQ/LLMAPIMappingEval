@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that correspond to `torch.distributed.all_reduce`:
+
+1. `tf.distribute.AllReduce`
+2. `tf.distribute.Reduce`
+3. `tf.distribute.AllGather`
+4. `tf.distribute.Broadcast`
+5. `tf.distribute.Scatter`

@@ -1,0 +1,8 @@
+Here are the 5 Java APIs that match the functionality of `system.data.sqlclient.sqldatareader.nextresult`:
+
+1. java.sql.ResultSet.next()
+2. java.sql.Statement.getMoreResults()
+3. java.sql.Statement.execute()
+4. java.sql.ResultSet.nextResult()
+   is not available in Java, instead we have 
+5. java.sql.SQLException.getNextException()

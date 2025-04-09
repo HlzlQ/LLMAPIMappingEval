@@ -1,0 +1,5 @@
+1. cntk.layers.Normalize
+2. cntk.ops.divide
+3. cntk.ops.subtract
+4. cntk.layers.BatchNormalization
+5. cntk.layers.LayerNormalization

@@ -1,0 +1,5 @@
+1. MoveNext() - System.Data.SqlClient.SqlDataReader
+2. Read() - System.Data.SqlClient.SqlDataReader
+3. FetchNext() - System.Data.SqlClient.SqlDataReader
+4. NextResult() - System.Data.SqlClient.SqlDataReader
+5. MoveToRecord(int n) - System.Data.SqlClient.SqlDataReader

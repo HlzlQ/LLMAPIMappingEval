@@ -1,0 +1,5 @@
+1. Dictionary<TKey, TValue>.TryGetValue
+2. Hashtable.ContainsKey
+3. Hashtable.Item
+4. Dictionary<TKey, TValue>.ContainsKey
+5. ConcurrentDictionary<TKey, TValue>.GetOrAdd

@@ -1,0 +1,11 @@
+
+Answer: 1. tf.nn.relu
+2. tf.nn.softmax
+3. tf.nn.sigmoid
+4. tf.nn.tanh
+5. tf.nn.elu
+6. tf.nn.leaky_relu
+7. tf.nn.selu
+8. tf.nn.crelu
+9. tf.nn.gelu
+10. tf.nn.swish

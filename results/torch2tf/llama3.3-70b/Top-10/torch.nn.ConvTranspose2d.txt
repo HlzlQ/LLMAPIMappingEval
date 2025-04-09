@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.ConvTranspose2d`:
+
+1. tf.keras.layers.Conv2DTranspose
+2. tf.compat.v1.layers.Conv2DTransposed
+3. tf.nn.conv2d_transpose
+4. tf.keras.layers.Deconv2D
+5. tf.layers.Conv2DTranspose
+6. tf.contrib.layers.conv2d_transpose
+7. tf.nn.conv2d_backprop_input
+8. tf.keras.layers.TransposeConv2D
+9. tf.layers.TransposedConv2D
+10. tf.compat.v1.nn.conv2d_transpose

@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator
+2. System.Collections.Generic.IEnumerator<T>
+3. System.Collections.IEnumerable
+4. System.Collections.Generic.IEnumerable<T>
+5. System.Linq.Enumerable.Iterator
+6. System.Collections.Generic.List<T>.GetEnumerator
+7. System.Data.IDataReader
+8. System.Collections.Concurrent.Partitioner
+9. System.Linq.IGrouping<TKey, TElement>.GetEnumerator
+10. System.Collections.Generic.Dictionary<TKey, TValue>.GetEnumerator

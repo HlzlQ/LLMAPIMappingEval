@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.is_tensor`:
+
+1. tf.is_tensor
+2. tf.Tensor
+3. tf.convert_to_tensor
+4. tf.check_ops.is_tensor
+5. tf.debugging.is_tensor
+6. tf.types.experimental.TensorLike
+7. tf.data.Dataset.from_tensor_slices
+8. tf.keras.backend.is_tensor
+9. tf.math.is_tensor
+10. tf.type_spec.is_tensor

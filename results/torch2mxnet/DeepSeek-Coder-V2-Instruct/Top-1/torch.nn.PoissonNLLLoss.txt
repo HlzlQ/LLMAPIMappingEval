@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet equivalent API: mxnet.gluon.loss.PoissonNLLLoss
+print("mxnet.gluon.loss.PoissonNLLLoss")
+<jupyter_output>
+mxnet.gluon.loss.PoissonNLLLoss

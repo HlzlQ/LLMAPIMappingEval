@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.optimizers.schedules.ExponentialDecay`:
+
+1. `torch.optim.lr_scheduler.ExponentialLR`
+2. `torch.optim.lr_scheduler.CosineAnnealingLR`
+3. `torch.optim.lr_scheduler.StepLR`
+4. `torch.optim.lr_scheduler.MultiStepLR`
+5. `torch.optim.lr_scheduler.ExponentialDecayLR`

@@ -1,0 +1,5 @@
+1. CNTK.MaxPooling
+2. CNTK.Pooling
+3. CNTK.MaxUnpooling
+4. CNTK.PoolingLayer
+5. CNTK.MaxPool3D

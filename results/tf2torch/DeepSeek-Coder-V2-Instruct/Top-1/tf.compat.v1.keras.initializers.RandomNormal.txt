@@ -1,0 +1,7 @@
+
+```python
+RandomNormal
+```
+Answer: ```python
+torch.nn.init.normal_
+```

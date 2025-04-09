@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.optimizer.SGD
+2. mxnet.optimizer.Adam
+3. mxnet.optimizer.RMSProp
+4. mxnet.lr_scheduler.FactorScheduler
+5. mxnet.lr_scheduler.MultiFactorScheduler
+6. mxnet.lr_scheduler.PolyScheduler
+7. mxnet.lr_scheduler.CosineAnnealingScheduler
+8. mxnet.lr_scheduler.StepScheduler
+9. mxnet.lr_scheduler.ExpScheduler
+10. mxnet.lr_scheduler.InvScheduler

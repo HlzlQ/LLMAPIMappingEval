@@ -1,0 +1,10 @@
+tf.math.softplus  
+tf.keras.activations.softplus  
+tf.nn.softplus  
+tf.raw_ops.Softplus  
+tf.compat.v1.nn.softplus  
+tf.compat.v2.nn.softplus  
+tf.compat.v1.math.softplus  
+tf.compat.v2.math.softplus  
+tf.keras.layers.Activation(activation='softplus')  
+tf.keras.layers.LeakyReLU(alpha=0.69314718)

@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that may have similar functionality:
+
+1. tf.clip_by_value
+2. tf.clip_by_norm
+3. tf.clip_by_global_norm
+4. tf.keras.optimizers.Adam.clip_value
+5. tf.keras.optimizers.SGD.clip_value
+6. tf.keras.constraints.MaxNorm
+7. tf.keras.constraints.MinMaxNorm
+8. tf.keras.layers.LayerNormalization.clip_value
+9. tf.linalg.global_norm
+10. tf.math.maximum

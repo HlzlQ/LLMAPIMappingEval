@@ -1,0 +1,8 @@
+
+MXNet MaxPooling1D
+```
+
+### 回答：
+```plaintext
+MXNet MaxPooling1D
+```

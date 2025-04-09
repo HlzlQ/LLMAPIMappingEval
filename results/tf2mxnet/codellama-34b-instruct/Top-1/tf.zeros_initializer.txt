@@ -1,0 +1,2 @@
+
+MXNet's equivalent of `tensorflow.zeros_initializer` is `mxnet.init.Zero`.

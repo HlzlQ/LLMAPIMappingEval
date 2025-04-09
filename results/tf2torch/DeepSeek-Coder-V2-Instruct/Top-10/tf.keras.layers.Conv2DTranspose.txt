@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.ConvTranspose2d
+2. torch.nn.functional.conv_transpose2d
+3. torch.nn.UpsamplingTranspose2D
+4. torch.nn.PixelShuffle
+5. torch.nn.FractionalMaxPool2d
+6. torch.nn.AdaptiveMaxPool2d
+7. torch.nn.Conv2d
+8. torch.nn.functional.conv2d
+9. torch.nn.UpsamplingNearest2D
+10. torch.nn.UpsamplingBilinear2D

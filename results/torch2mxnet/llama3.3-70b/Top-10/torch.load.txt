@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `torch.load`:
+
+1. mxnet.ndarray.load
+2. mxnet.module.Module.load_checkpoint
+3. mxnet.module.Module.load_params
+4. mxnet.gluon.Parameter.load
+5. mxnet.gluon.Block.load_params
+6. mxnet.gluon.model_zoo.vision_model.load
+7. mxnet.io.NDArrayIter.load
+8. mxnet.ndarray.NDArray.save
+9. mxnet.module.Module.save_checkpoint
+10. mxnet.gluon.utils.checkpoint.load_model

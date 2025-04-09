@@ -1,0 +1,12 @@
+
+
+1. ConvTranspose3D
+2. ConvTranspose3d
+3. ConvTranspose3D_backward
+4. ConvTranspose3d_backward
+5. TransposedConv3D
+6. TransposedConv3d
+7. TransposedConv3D_backward
+8. TransposedConv3d_backward
+9. Conv3DBackpropInput
+10. Conv3DBackpropInput_backward

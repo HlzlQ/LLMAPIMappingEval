@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.GRU
+2. torch.nn.LSTMCell
+3. torch.nn.RNNCell
+4. torch.nn.RNN
+5. torch.nn.LSTM
+6. torch.nn.RNN
+7. torch.nn.Linear
+8. torch.nn.Conv1d
+9. torch.nn.Conv2d
+10. torch.nn.BatchNorm1d

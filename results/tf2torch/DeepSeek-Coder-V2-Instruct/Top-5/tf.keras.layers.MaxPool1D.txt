@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.MaxPool1d
+2. torch.nn.AvgPool1d
+3. tensorflow.keras.layers.AveragePooling1D
+4. tensorflow.keras.layers.GlobalMaxPool1D
+5. tensorflow.keras.layers.GlobalAveragePooling1D

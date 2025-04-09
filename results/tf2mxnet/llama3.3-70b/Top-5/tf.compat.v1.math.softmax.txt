@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.math.softmax`:
+
+1. mxnet.nd.softmax
+2. mxnet.ndarray.softmax
+3. mxnet.gluon.nn.Softmax
+4. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+5. mxnet.ndarrayActivation.softmax

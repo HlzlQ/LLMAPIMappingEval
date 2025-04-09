@@ -1,0 +1,22 @@
+
+MXNet does not have an exact equivalent of TensorFlow's `tensordot` function. However, you can achieve a similar result using the `mxnet.ndarray.dot` function.
+
+Here is an example of how to use `mxnet.ndarray.dot` to perform a tensor dot product in MXNet:
+```
+import mxnet as mx
+
+# Create two tensors
+a = mx.nd.array([[1, 2], [3, 4]])
+b = mx.nd.array([[5, 6], [7, 8]])
+
+# Perform tensor dot product
+c = mx.nd.dot(a, b)
+
+print(c)
+```
+This will output the following tensor:
+```
+[[19 22]
+ [43 50]]
+```
+Note that the `mxnet.ndarray.dot` function performs a matrix multiplication between two tensors, and returns a new tensor with the result. In this example, we are performing a dot product between two 2D tensors, but you can also perform dot products between higher-dimensional tensors by specifying the appropriate axes.

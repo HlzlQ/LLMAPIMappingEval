@@ -1,0 +1,5 @@
+1. System.Text.StringBuilder.Remove
+2. System.Text.StringBuilder.Replace
+3. System.String.Substring
+4. System.Text.RegularExpressions.Regex.Replace
+5. Microsoft.VisualBasic.Strings.Left

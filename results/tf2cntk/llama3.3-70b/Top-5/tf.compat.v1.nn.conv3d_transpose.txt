@@ -1,0 +1,7 @@
+Here are the 5 CNTK APIs that may have similar functionality:
+
+1. `CNTKlib.deconvolution`
+2. `CNTK.Functions.deconvolution`
+3. `CNTK.layers.Deconvolution`
+4. `CNTK.ops.deconvolution`
+5. `CNTK.layers.TransposedConvolution`

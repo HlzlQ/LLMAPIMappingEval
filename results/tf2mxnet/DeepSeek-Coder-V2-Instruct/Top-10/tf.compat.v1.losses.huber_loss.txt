@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.loss.HuberLoss
+2. mxnet.ndarray.smooth_l1
+3. mxnet.symbol.contrib.make_loss
+4. mxnet.ndarray.abs
+5. mxnet.symbol.square
+6. mxnet.ndarray.sqrt
+7. mxnet.gluon.loss.L2Loss
+8. mxnet.ndarray.mean_squared_error
+9. mxnet.ndarray.l1_loss
+10. mxnet.ndarray.hinge_loss

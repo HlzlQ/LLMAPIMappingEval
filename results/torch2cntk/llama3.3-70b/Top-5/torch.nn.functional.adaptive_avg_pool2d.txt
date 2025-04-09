@@ -1,0 +1,5 @@
+1. cntk.layers.AveragePooling
+2. cntk.layers.Pooling
+3. cntk.layers.MaxPooling
+4. cntk.layers.GlobalAveragePooling
+5. cntk.layers.RoIPooling

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Conv2D`:
+
+1. `cntk.layers.Convolution2D`
+2. `cntk.layers.Conv2D`
+3. `cntk.layers.ConvolutionalLayer`
+4. `cntk.layers.ConvLayer`
+5. `cntk.layers.ConvolutionalNeuralNetwork`

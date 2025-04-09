@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.LSTM`:
+
+1. tf.keras.layers.LSTM
+2. tf.compat.v1.keras.layers.LSTM
+3. tf.nn.rnn_cell.BasicLSTMCell
+4. tf.nn.rnn_cell.LSTMCell
+5. tf.keras.layers.StackedLSTMCells
+6. tf.keras.layers.CuDNNLSTM
+7. tf.keras.layers.LSTMCell
+8. tf.nn.dynamic_rnn
+9. tf.nn.bidirectional_dynamic_rnn
+10. tf.keras.layers.Bidirectional

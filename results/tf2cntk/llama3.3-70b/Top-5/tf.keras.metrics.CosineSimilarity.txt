@@ -1,0 +1,5 @@
+1. CNTK.cosine_distance
+2. CNTK.cross_entropy_with_softmax
+3. CNTK.mean_squared_error
+4. CNTK.binary_cross_entropy
+5. CNTK.squared_error

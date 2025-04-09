@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow APIs that match the functionality of `torch.load`:
+
+1. tf.load_library
+2. tf.saved_model.load
+3. tf.keras.models.load_model
+4. tf.io.read_file
+5. tf.data.experimental.load
+6. tf.train.Checkpoint.restore
+7. tf.compat.v1.train.Saver.restore
+8. tf.io.gfile.GFile
+9. tf.data.Dataset.load
+10. tf.saved_model.LoadOptions

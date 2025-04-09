@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that are similar to the TensorFlow API for Gamma distribution:
+
+1. mxnet.distributions.Gamma
+2. mxnet.distributions.gamma
+3. mxnet.distributions.GammaDistribution
+4. mxnet.distributions.gamma_distribution
+5. mxnet.distributions.GammaDist
+6. mxnet.distributions.gamma_dist
+7. mxnet.distributions.GammaDistr
+8. mxnet.distributions.gamma_distr
+9. mxnet.distributions.GammaDistribution
+10. mxnet.distributions.gamma_distribution

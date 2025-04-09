@@ -1,0 +1,5 @@
+1. System.IO.BinaryWriter.Write
+2. System.Net.Sockets.NetworkStream.Write
+3. System.Net.Sockets.Socket.Send
+4. System.Net.Sockets.SocketAsyncEventArgs.SetBuffer
+5. System.IO.Stream.Write

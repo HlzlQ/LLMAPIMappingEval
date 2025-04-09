@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.ZeroPadding2D`:
+
+1. torch.nn.ZeroPad2d
+2. torch.nn.ReflectionPad2d
+3. torch.nn.ReplicationPad2d
+4. torch.nn.ConstantPad2d
+5. torch.nn.Functional.zero_pad
+6. torch.nn.Functional.replication_pad2d
+7. torch.nn.Functional.reflection_pad2d
+8. torch.nn.Module.ZeroPad2d
+9. torch.nn.Pad
+10. torch.nn.functional.pad

@@ -1,0 +1,10 @@
+System.Int32.Parse  
+System.Convert.ToInt32  
+int.Parse  
+Convert.ToInt32  
+Int32.Parse  
+System.Int64.Parse  
+long.Parse  
+System.UInt32.Parse  
+uint.Parse  
+System.Decimal.Parse

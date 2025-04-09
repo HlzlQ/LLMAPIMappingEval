@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tensorflow_probability.python.distributions.beta.Beta
+<jupyter_output>
+<empty_output>

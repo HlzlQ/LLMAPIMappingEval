@@ -1,0 +1,8 @@
+
+
+## My Answer:
+1. `torch.nn.functional.leaky_relu`
+2. `mxnet.ndarray.LeakyReLU`
+3. `mxnet.symbol.Activation` with argument `act_type='leaky'`
+4. `mxnet.gluon.nn.LeakyReLU`
+5. `mxnet.gluon.Block.add` with `activation='leakyrelu'`

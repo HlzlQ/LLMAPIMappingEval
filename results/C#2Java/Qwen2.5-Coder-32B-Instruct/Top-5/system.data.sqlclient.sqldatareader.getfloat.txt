@@ -1,0 +1,5 @@
+java.sql.ResultSet.getFloat
+java.sql.CallableStatement.getFloat
+java.sql.PreparedStatement.getFloat
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement

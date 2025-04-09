@@ -1,0 +1,5 @@
+cntk.layers.BatchNormalization
+cntk.ops.batch_normalization
+cntk.layers.LayerNormalization
+cntk.blocks.normalization.BatchNormalization
+cntk.layers.sequence.BatchNormalization

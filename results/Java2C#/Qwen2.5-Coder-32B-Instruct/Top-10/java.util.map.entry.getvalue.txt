@@ -1,0 +1,10 @@
+System.Collections.Generic.KeyValuePair.Value  
+System.Linq.Enumerable.ToDictionary  
+System.Collections.Concurrent.ConcurrentDictionary.TryGetValue  
+System.Collections.Generic.Dictionary.TryGetValue  
+System.Collections.Specialized.NameValueCollection.GetValues  
+System.Collections.Generic.IDictionary.TryGetValue  
+System.Collections.ObjectModel.ReadOnlyDictionary.TryGetValue  
+System.Collections.Generic.SortedList.TryGetValue  
+System.Collections.Generic.List<KeyValuePair>.ForEach  
+System.Collections.Generic.HashSet<KeyValuePair>

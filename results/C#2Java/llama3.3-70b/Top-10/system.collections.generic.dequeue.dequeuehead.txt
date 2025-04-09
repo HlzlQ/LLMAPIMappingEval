@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.Deque` in C#:
+
+1. java.util.ArrayDeque
+2. java.util.LinkedList
+3. java.util.Queue
+4. java.util.concurrent.ConcurrentLinkedDeque
+5. java.util.concurrent.LinkedBlockingDeque
+6. java.util.Deque
+7. java.util.AbstractQueue
+8. java.util.PriorityQueue
+9. java.util.concurrent.BlockingDeque
+10. java.util.concurrent.LinkedTransferQueue

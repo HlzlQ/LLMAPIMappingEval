@@ -1,0 +1,2 @@
+
+CNTK.losses.binary_crossentropy

@@ -1,0 +1,4 @@
+
+
+TensorFlow: tensorflow.gradients
+CNTK: gradient_with_loss

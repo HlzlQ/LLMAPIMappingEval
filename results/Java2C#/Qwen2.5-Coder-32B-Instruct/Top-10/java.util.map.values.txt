@@ -1,0 +1,10 @@
+System.Collections.Generic.Dictionary<TKey,TValue>.Values  
+System.Collections.Generic.IDictionary<TKey,TValue>.Values  
+System.Linq.Enumerable.Select<TSource,TResult>  
+System.Collections.Specialized.NameValueCollection.GetValues  
+System.Web.HttpUtility.ParseQueryString.GetValues  
+System.Collections.Hashtable.Values  
+System.Collections.ArrayList.ToArray  
+System.Collections.Generic.List<T>.ToArray  
+System.Collections.Generic.IList<T>.ToArray  
+System.Collections.Generic.Dictionary<TKey,TValue>.TryGetValue

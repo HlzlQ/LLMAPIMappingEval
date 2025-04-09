@@ -1,0 +1,10 @@
+java.util.List.remove
+java.util.ArrayList.remove
+java.util.LinkedList.remove
+java.util.Vector.remove
+java.util.Stack.remove
+java.util.AbstractList.remove
+java.util.AbstractSequentialList.remove
+java.util.Collections.singletonList.remove
+java.util.concurrent.CopyOnWriteArrayList.remove
+java.util.concurrent.CopyOnWriteArraySet.remove

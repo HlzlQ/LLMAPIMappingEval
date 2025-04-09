@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.keras.layers.Conv3DTranspose`:
+
+1. `torch.nn.ConvTranspose3d`
+2. `torch.nn.ConvTranspose3dWithBias`
+3. `torch.nn.ConvTranspose3dWithoutBias`
+4. `torch.nn.ConvTranspose3dWithBatchNorm`
+5. `torch.nn.ConvTranspose3dWithInstanceNorm`

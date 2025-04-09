@@ -1,0 +1,5 @@
+System.Net.Dns.GetHostName  
+System.Net.NetworkInformation.IPGlobalProperties.HostName  
+System.Environment.MachineName  
+System.Net.Sockets.Socket.OSSupportsIPv4  
+System.Net.Sockets.Socket.OSSupportsIPv6

@@ -1,0 +1,11 @@
+
+Answer: 1. tf.compat.v1.keras.initializers.Zeros
+2. tf.zeros_initializer()
+3. tf.zeros
+4. tf.initializers.zeros
+5. tf.keras.initializers.Zeros
+6. tf.constant_initializer(0.)
+7. tf.zeros_like
+8. tf.fill
+9. tf.compat.v1.ones_like
+10. tf.compat.v1.zeros

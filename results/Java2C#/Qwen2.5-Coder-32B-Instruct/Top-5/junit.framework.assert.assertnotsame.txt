@@ -1,0 +1,5 @@
+System.Diagnostics.Debug.AssertNotSame
+System.Diagnostics.Trace.AssertNotSame
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame
+NUnit.Framework.Assert.AreNotSame
+Xunit.Assert.NotSame

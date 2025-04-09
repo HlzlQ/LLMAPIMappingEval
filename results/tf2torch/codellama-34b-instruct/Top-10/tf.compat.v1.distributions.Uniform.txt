@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Uniform`:
+
+1. `torch.distributions.uniform`
+2. `torch.distributions.Uniform`
+3. `torch.distributions.uniform_like`
+4. `torch.distributions.UniformLike`
+5. `torch.distributions.uniform_from_params`
+6. `torch.distributions.UniformFromParams`
+7. `torch.distributions.uniform_to_tensor`
+8. `torch.distributions.UniformToTensor`
+9. `torch.distributions.uniform_to_tensor_like`
+10. `torch.distributions.UniformToTensorLike`

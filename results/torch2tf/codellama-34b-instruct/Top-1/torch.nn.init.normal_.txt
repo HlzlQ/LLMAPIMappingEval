@@ -1,0 +1,2 @@
+
+The equivalent function in TensorFlow for `torch.nn.init.normal` is `tf.initializers.random_normal`.

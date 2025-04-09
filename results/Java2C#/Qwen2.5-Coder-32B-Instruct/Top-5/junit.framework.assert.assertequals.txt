@@ -1,0 +1,5 @@
+System.Diagnostics.Debug.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+NUnit.Framework.Assert.AreEqual
+Xunit.Assert.Equal
+FluentAssertions.Assertions.AssertionScopeExtensions.BeEquivalentTo

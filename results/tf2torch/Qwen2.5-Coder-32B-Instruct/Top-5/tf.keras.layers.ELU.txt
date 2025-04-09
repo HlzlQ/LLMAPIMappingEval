@@ -1,0 +1,5 @@
+torch.nn.ELU  
+torch.nn.functional.elu  
+torch.nn.modules.activation.ELU  
+torch.nn.init.calculate_gain  
+torch.nn.utils.weight_norm

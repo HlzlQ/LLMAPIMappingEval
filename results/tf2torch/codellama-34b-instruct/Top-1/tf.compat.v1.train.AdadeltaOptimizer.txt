@@ -1,0 +1,1 @@
+  tf.compat.v1.train.AdadeltaOptimizer -> torch.optim.Adadelta

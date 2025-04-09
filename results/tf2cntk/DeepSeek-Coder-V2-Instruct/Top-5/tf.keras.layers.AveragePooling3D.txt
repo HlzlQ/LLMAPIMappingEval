@@ -1,0 +1,2 @@
+
+Answer: AveragePooling1D, AveragePooling2D, AveragePooling3D

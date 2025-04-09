@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each Java API:
+
+1. java.lang.String.startsWith(String prefix)
+	* C#: string.StartsWith(string value)
+2. java.lang.String.endsWith(String suffix)
+	* C#: string.EndsWith(string value)
+3. java.lang.String.contains(CharSequence s)
+	* C#: string.Contains(string value)
+4. java.lang.String.indexOf(int ch)
+	* C#: string.IndexOf(char value)
+5. java.lang.String.lastIndexOf(int ch)
+	* C#: string.LastIndexOf(char value)

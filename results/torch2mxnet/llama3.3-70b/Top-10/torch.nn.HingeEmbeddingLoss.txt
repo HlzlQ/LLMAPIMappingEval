@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `torch.nn.HingeEmbeddingLoss`:
+
+1. mxnet.ndarray.HingeLoss
+2. mxnet.gluon.loss.HingeLoss
+3. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+4. mxnet.ndarray.SigmoidCrossEntropyLoss
+5. mxnet.gluon.loss.CosineEmbeddingLoss
+6. mxnet.gluon.loss.HuberLoss
+7. mxnet.ndarray.HuberLoss
+8. mxnet.gluon.loss.L2Loss
+9. mxnet.ndarray.L2Loss
+10. mxnet.gluon.loss.SquaredL2NormLoss

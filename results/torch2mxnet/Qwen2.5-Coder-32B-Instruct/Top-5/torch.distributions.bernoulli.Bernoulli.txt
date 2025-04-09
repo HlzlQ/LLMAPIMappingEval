@@ -1,0 +1,5 @@
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss  
+mxnet.ndarray.random.bernoulli  
+mxnet.gluon.nn.BernoulliSampler  
+mxnet.ndarray.sigmoid  
+mxnet.gluon.probability.distributions.Bernoulli

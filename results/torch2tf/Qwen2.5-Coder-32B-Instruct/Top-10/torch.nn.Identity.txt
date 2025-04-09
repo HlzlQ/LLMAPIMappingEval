@@ -1,0 +1,10 @@
+tf.identity  
+tf.keras.layers.Lambda  
+tf.function  
+tf.Module.__call__  
+tf.TensorSpec.from_tensor  
+tf.raw_ops.Identity  
+tf.compat.v1.identity  
+tf.compat.v2.identity  
+tf.data.Dataset.map  
+tf.math.add

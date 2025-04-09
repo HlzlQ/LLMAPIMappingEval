@@ -1,0 +1,5 @@
+1. mxnet.optimizer.Adam
+2. mxnet.optimizer.SGD
+3. mxnet.optimizer.RMSprop
+4. mxnet.optimizer.NAG
+5. mxnet.optimizer.AdaGrad

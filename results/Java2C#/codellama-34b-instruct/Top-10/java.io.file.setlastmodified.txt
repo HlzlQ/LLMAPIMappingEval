@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.File.SetLastWriteTime
+2. System.IO.File.SetLastAccessTime
+3. System.IO.File.SetCreationTime
+4. System.IO.File.SetAttributes
+5. System.IO.File.SetSecurity
+6. System.IO.File.SetOwner
+7. System.IO.File.SetGroup
+8. System.IO.File.SetPermissions
+9. System.IO.File.SetAcl
+10. System.IO.File.SetEa

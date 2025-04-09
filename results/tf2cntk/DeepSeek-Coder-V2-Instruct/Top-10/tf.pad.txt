@@ -1,0 +1,16 @@
+
+
+```python
+cntk_api = [
+    "Pad",
+    "Reshape",
+    "Transpose",
+    "Slice",
+    "ExpandDims",
+    "Squeeze",
+    "Concat",
+    "ReduceSum",
+    "MaxPooling",
+    "BatchNormalization"
+]
+```

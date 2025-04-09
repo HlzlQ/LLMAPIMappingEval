@@ -1,0 +1,11 @@
+
+```python
+import mxnet as mx
+```
+
+### Answer:
+1. `mxnet.init.Xavier`
+2. `mxnet.init.GlorotUniform`
+3. `mxnet.init.Normal`
+4. `mxnet.init.Uniform`
+5. `mxnet.init.Constant`

@@ -1,0 +1,5 @@
+java.util.HashSet.remove
+java.util.Set.remove
+java.util.Collection.remove
+java.util.AbstractSet.remove
+java.util.AbstractCollection.remove

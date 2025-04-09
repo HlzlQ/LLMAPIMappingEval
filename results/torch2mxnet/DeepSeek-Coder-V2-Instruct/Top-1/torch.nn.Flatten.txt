@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Flatten in MXNet
+print("Flatten")
+<jupyter_output>
+Flatten

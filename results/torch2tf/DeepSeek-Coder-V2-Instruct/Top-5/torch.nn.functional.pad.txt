@@ -1,0 +1,8 @@
+
+"""
+
+1. tf.pad
+2. tf.space_to_batch_nd
+3. tf.image.resize_images
+4. tf.layers.conv2d
+5. tf.nn.depthwise_conv2d

@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.nn.init.ones_`:
+
+1. `tf.ones`
+2. `tf.zeros`
+3. `tf.fill`
+4. `tf.constant`
+5. `tf.Variable`
+6. `tf.get_variable`
+7. `tf.placeholder`
+8. `tf.sparse_placeholder`
+9. `tf.ragged_placeholder`
+10. `tf.convert_to_tensor`

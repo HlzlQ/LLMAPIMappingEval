@@ -1,0 +1,5 @@
+cntk.ops.element_times
+cntk.ops.times
+cntk.layers.Dense
+cntk.layers.Function
+cntk.layers.Sequential

@@ -1,0 +1,5 @@
+1. java.util.List.contains
+2. java.util.Set.contains
+3. java.util.Map.containsKey
+4. java.util.Collection.contains
+5. java.util.ArrayList.contains

@@ -1,0 +1,5 @@
+1. `java.util.Deque.removeFirst()`
+2. `java.util.LinkedList.pollFirst()`
+3. `java.util.ArrayDeque.pollFirst()`
+4. `java.util.concurrent.LinkedBlockingDeque.takeFirst()`
+5. `java.util.concurrent.ConcurrentLinkedDeque.pollFirst()`

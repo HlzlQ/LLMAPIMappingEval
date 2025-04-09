@@ -1,0 +1,10 @@
+java.nio.file.Files.exists  
+java.io.File.exists  
+java.nio.file.Paths.get  
+java.nio.file.Path.toFile  
+java.nio.file.Files.notExists  
+java.nio.file.Files.isDirectory  
+java.nio.file.Files.isRegularFile  
+java.nio.file.Files.readAttributes  
+java.nio.file.Files.newDirectoryStream  
+java.nio.file.Files.walk

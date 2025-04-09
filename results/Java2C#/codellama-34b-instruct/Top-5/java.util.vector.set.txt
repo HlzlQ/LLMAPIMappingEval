@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Add
+System.Collections.Generic.List<T>.Insert
+System.Collections.Generic.List<T>.RemoveAt
+System.Collections.Generic.List<T>.Clear
+System.Collections.Generic.List<T>.Contains

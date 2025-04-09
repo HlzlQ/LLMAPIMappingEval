@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for uniform initialization:
+
+1. `mxnet.init.Uniform`
+2. `mxnet.initializers.uniform`
+3. `mxnet.init.uniform_`
+4. `mxnet.initializers.Uniform`
+5. `mxnet.init.uniform`
+6. `mxnet.initializers.uniform_`
+7. `mxnet.init.UniformInitializer`
+8. `mxnet.initializers.UniformInitializer`
+9. `mxnet.init.uniform_initializer`
+10. `mxnet.initializers.uniform_initializer`

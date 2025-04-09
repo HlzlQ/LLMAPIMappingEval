@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to `torch.nn.functional.fractional_max_pool2d`:
+
+1. `cntk.layers.MaxPooling2D`
+2. `cntk.layers.FractionalMaxPooling2D`
+3. `cntk.layers.AdaptiveMaxPooling2D`
+4. `cntk.layers.GlobalMaxPooling2D`
+5. `cntk.layers.LocalMaxPooling2D`
+6. `cntk.layers.MaxUnpooling2D`
+7. `cntk.layers.FractionalMaxUnpooling2D`
+8. `cntk.layers.AdaptiveMaxUnpooling2D`
+9. `cntk.layers.GlobalMaxUnpooling2D`
+10. `cntk.layers.LocalMaxUnpooling2D`

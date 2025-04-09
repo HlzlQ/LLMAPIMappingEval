@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.AddRange(IEnumerable<T> collection)
+System.Collections.Generic.List<T>.InsertRange(int index, IEnumerable<T> collection)
+System.Collections.Generic.List<T>.RemoveAll(Predicate<T> match)
+System.Collections.Generic.List<T>.RetainAll(IEnumerable<T> collection)
+System.Collections.Generic.List<T>.SetAll(T value)

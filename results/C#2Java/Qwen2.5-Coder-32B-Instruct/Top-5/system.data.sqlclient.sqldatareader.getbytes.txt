@@ -1,0 +1,5 @@
+java.sql.ResultSet.getBytes
+java.sql.Blob.getBytes
+java.nio.ByteBuffer.get
+java.io.InputStream.read
+java.nio.channels.ReadableByteChannel.read

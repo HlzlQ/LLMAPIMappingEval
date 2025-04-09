@@ -1,0 +1,2 @@
+
+Answer: relu, softmax, sigmoid, tanh, exponential, softplus, selu, elu, softmax_cross_entropy_with_logits, batch_normalization

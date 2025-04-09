@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.conv_transpose2d

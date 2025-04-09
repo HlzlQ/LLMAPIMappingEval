@@ -1,0 +1,10 @@
+System.Numerics.BigInteger.Equals  
+System.String.Equals  
+System.Object.Equals  
+System.Collections.Generic.List<T>.Equals  
+System.DateTime.Equals  
+System.Decimal.Equals  
+System.Double.Equals  
+System.Guid.Equals  
+System.Int32.Equals  
+System.Single.Equals

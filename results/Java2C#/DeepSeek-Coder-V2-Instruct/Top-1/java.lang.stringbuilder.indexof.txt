@@ -1,0 +1,1 @@
+C# does not have a direct equivalent to `java.lang.stringbuilder.indexof`. However, if you're looking for a method similar to `IndexOf` in C#, it would be `IndexOf` or `LastIndexOf` depending on your needs.

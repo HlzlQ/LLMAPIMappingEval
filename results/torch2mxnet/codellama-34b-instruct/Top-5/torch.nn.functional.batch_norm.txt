@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.batch_norm`:
+
+1. `mxnet.ndarray.BatchNorm`
+2. `mxnet.gluon.nn.BatchNorm`
+3. `mxnet.symbol.BatchNorm`
+4. `mxnet.ndarray.LayerNorm`
+5. `mxnet.gluon.nn.LayerNorm`

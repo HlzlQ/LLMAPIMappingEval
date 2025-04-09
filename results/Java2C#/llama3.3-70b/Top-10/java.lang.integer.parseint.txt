@@ -1,0 +1,10 @@
+1. System.Int32.Parse
+2. System.Convert.ToInt32
+3. Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger
+4. System.Int16.Parse
+5. System.Int64.Parse
+6. System.UInt16.Parse
+7. System.UInt32.Parse
+8. System.UInt64.Parse
+9. System.Single.Parse
+10. System.Double.Parse

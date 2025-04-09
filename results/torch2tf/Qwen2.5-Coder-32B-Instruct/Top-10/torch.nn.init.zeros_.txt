@@ -1,0 +1,10 @@
+tf.zeros_initializer
+tf.keras.initializers.Zeros
+tf.compat.v1.zeros_initializer
+tf.compat.v2.zeros_initializer
+tf.keras.layers.Layer.add_weight
+tf.Variable
+tf.constant
+tf.fill
+tf.ones_like
+tf.zeros_like

@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the Java API `org.testng.assert.assertNotNull`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull`
+2. `NUnit.Framework.Assert.IsNotNull`
+3. `Xunit.Assert.NotNull`
+4. `FluentAssertions.AssertionExtensions.Should().NotBeNull()`
+5. `NSubstitute.Received.InOrder(() => { }).NotNull()`

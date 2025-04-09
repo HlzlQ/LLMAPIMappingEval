@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for adaptive average pooling:
+
+1. `tf.nn.adaptive_avg_pool2d`
+2. `tf.nn.adaptive_max_pool2d`
+3. `tf.nn.adaptive_avg_pool3d`
+4. `tf.nn.adaptive_max_pool3d`
+5. `tf.nn.adaptive_avg_pool_nd`

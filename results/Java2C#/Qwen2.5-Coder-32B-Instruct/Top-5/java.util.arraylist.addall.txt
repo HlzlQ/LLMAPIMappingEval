@@ -1,0 +1,5 @@
+System.Collections.ArrayList.AddRange  
+System.Collections.Generic.List<T>.AddRange  
+System.Collections.ObjectModel.Collection<T>.AddRange  
+System.Collections.Specialized.StringCollection.AddRange  
+System.Windows.Forms.BindingSource.AddNew

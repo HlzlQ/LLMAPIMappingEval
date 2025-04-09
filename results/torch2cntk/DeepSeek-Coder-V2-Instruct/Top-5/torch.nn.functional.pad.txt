@@ -1,0 +1,10 @@
+
+"""
+
+cntk_pad = [
+    "Pad",
+    "MirrorPad",
+    "Crop",
+    "AsymmetricPadding",
+    "ZeroPadding"
+]

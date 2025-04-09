@@ -1,0 +1,10 @@
+1. List<T>.IndexOf(T item)
+2. List<T>.Insert(int index, T item)
+3. List<T>.RemoveAt(int index)
+4. List<T>.Contains(T item)
+5. List<T>.Clear()
+6. List<T>.Add(T item)
+7. List<T>.Remove(T item)
+8. List<T>.Sort()
+9. List<T>.ToArray()
+10. List<T>.Count

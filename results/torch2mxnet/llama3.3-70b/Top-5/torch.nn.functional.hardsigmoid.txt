@@ -1,0 +1,5 @@
+1. mx.nd.contrib.hard_sigmoid
+2. mx.gluon.nn.Hardsigmoid
+3. mx.sym.contrib.hard_sigmoid
+4. mx.gluon.nn.Activation('hard_sigmoid')
+5. mx.ndarray.contrib.hard_sigmoid

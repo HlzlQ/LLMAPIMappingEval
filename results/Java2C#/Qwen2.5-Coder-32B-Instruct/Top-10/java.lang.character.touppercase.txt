@@ -1,0 +1,10 @@
+System.Char.ToUpper
+System.String.ToUpper
+System.Globalization.CultureInfo.TextInfo.ToTitleCase
+System.Globalization.TextInfo.ToTitleCase
+System.Text.RegularExpressions.Regex.Replace
+System.Linq.Enumerable.Select
+System.Collections.Generic.List<char>.ConvertAll
+System.Array.ConvertAll
+System.Text.StringBuilder.ToString
+System.IO.Path.GetFullPath

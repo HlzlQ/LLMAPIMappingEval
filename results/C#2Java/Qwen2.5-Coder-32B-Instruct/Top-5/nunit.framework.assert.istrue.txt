@@ -1,0 +1,5 @@
+org.junit.jupiter.api.Assertions.assertTrue  
+junit.framework.Assert.assertTrue  
+org.testng.Assert.assertTrue  
+java.util.Objects.requireNonNullElseThrow  
+java.lang.AssertionError (not exactly the same but related)

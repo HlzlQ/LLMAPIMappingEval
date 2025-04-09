@@ -1,0 +1,11 @@
+
+CNTK does not have an exact equivalent of TensorFlow's `Conv3D` layer. However, you can use the `convolutional_layer` function in CNTK to create a 3D convolutional layer. Here is an example:
+```
+from cntk.layers import ConvolutionalLayer
+
+# Create a 3D convolutional layer with 64 filters and a kernel size of (3, 3, 3)
+conv_layer = ConvolutionalLayer(num_filters=64, kernel_size=(3, 3, 3))
+```
+This will create a 3D convolutional layer with 64 filters and a kernel size of (3, 3, 3). The `ConvolutionalLayer` function takes several other parameters that you can use to customize the layer, such as `padding`, `stride`, and `dilation`.
+
+Keep in mind that CNTK's convolutional layers are implemented differently than TensorFlow's. In CNTK, the convolution operation is performed separately for each filter, whereas in TensorFlow, the entire convolution operation is performed at once. This can result in slightly different behavior and performance characteristics between the two libraries.

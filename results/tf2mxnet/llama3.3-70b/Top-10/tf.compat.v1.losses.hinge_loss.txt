@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.losses.hinge_loss`:
+
+1. mxnet.ndarray.HingeLoss
+2. mxnet.gluon.loss.HingeLoss
+3. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+4. mxnet.ndarray.SoftmaxCrossEntropyLoss
+5. mxnet.gluon.loss.LogisticLoss
+6. mxnet.ndarray.LogisticLoss
+7. mxnet.gluon.loss.MSE
+8. mxnet.ndarray.MSE
+9. mxnet.gluon.loss.L2Loss
+10. mxnet.ndarray.L2Loss

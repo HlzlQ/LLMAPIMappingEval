@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.String.Substring(int startIndex, int length)
+2. System.Text.RegularExpressions.Regex.Replace(string input, string pattern, string replacement)
+3. System.Text.StringBuilder.Remove(int startIndex, int length)
+4. System.Text.StringBuilder.Replace(string oldValue, string newValue)
+5. System.IO.StreamReader.ReadToEnd()

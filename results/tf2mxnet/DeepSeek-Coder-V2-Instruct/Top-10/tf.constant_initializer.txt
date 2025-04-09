@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.ones_like
+2. mxnet.initializer.One
+3. mxnet.init.One
+4. mxnet.initializer.Xavier
+5. mxnet.init.Xavier
+6. mxnet.initializer.Uniform
+7. mxnet.init.Uniform
+8. mxnet.initializer.Normal
+9. mxnet.init.Normal
+10. mxnet.initializer.Constant

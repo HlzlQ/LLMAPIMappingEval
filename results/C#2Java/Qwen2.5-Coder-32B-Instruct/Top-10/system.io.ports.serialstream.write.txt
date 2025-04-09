@@ -1,0 +1,10 @@
+java.io.OutputStream.write
+java.io.DataOutputStream.write
+java.io.BufferedOutputStream.write
+java.nio.channels.WritableByteChannel.write
+java.nio.file.Files.newOutputStream.write
+javax.comm.SerialPort.outputStream.write
+jssc.SerialPort.writeBytes
+gnu.io.SerialPort.outputStream.write
+org.apache.commons.io.output.ProxyOutputStream.write
+com.fazecast.jSerialComm.SerialPort.getOutputStream.write

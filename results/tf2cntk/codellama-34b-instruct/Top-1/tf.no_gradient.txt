@@ -1,0 +1,2 @@
+
+In CNTK, the equivalent of `tensorflow.no_gradient` is `cntk.ops.stop_gradient`.

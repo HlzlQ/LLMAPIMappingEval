@@ -1,0 +1,5 @@
+java.lang.String.replace  
+java.lang.String.replaceAll  
+java.lang.String.replaceFirst  
+java.lang.StringBuilder.replace  
+java.lang.StringBuffer.replace

@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.ndarray.contrib.BilinearResize2D
+2. mxnet.ndarray.Pooling
+3. mxnet.gluon.nn.AvgPool1D
+4. mxnet.ndarray.Pooling
+5. mxnet.gluon.nn.GlobalAvgPool1D

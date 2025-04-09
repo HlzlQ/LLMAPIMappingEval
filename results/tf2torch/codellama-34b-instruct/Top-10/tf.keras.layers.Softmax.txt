@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Softmax`:
+
+1. `torch.nn.Softmax`
+2. `torch.nn.functional.softmax`
+3. `torch.nn.modules.activation.Softmax`
+4. `torch.nn.modules.activation.SoftmaxWithLoss`
+5. `torch.nn.modules.activation.SoftmaxCrossEntropyLoss`
+6. `torch.nn.modules.activation.SoftmaxCrossEntropy`
+7. `torch.nn.modules.activation.SoftmaxWithLogits`
+8. `torch.nn.modules.activation.SoftmaxWithLogitsLoss`
+9. `torch.nn.modules.activation.SoftmaxWithLogitsCrossEntropyLoss`
+10. `torch.nn.modules.activation.SoftmaxWithLogitsCrossEntropy`

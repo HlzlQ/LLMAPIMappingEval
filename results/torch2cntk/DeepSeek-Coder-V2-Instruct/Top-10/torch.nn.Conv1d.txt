@@ -1,0 +1,15 @@
+
+"""
+
+cntk_conv1d = [
+    "Convolution",
+    "TransposedConvolution",
+    "Pooling",
+    "BatchNormalization",
+    "Dropout",
+    "ReLU",
+    "Sigmoid",
+    "Tanh",
+    "Linear",
+    "Composite"
+]

@@ -1,0 +1,10 @@
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Add
+2. System.Collections.Hashtable.Set
+3. System.Collections.Generic.Dictionary<TKey, TValue>.Insert
+4. Microsoft.VisualBasic.Collection.Add
+5. System.Dynamic.ExpandoObject.TryAdd
+6. System.Collections.Specialized.NameValueCollection.Add
+7. System.Collections.Generic.SortedDictionary<TKey, TValue>.Add
+8. System.Runtime.Caching.MemoryCache.AddOrGetExisting
+9. System.Web.Caching.Cache.Insert
+10. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryAdd

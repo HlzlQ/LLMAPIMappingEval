@@ -1,0 +1,5 @@
+cntk.softmax
+cntk.ops.softmax
+cntk.layers.Softmax
+cntk.functions.softmax
+cntk.models.softmax

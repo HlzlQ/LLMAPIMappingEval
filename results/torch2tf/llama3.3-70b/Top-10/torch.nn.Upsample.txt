@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.Upsample`:
+
+1. tf.image.resize
+2. tf.image.resize_bilinear
+3. tf.image.resize_nearest_neighbor
+4. tf.keras.layers.UpSampling2D
+5. tf.keras.layers.UpSampling3D
+6. tf.compat.v1.image.resize_images
+7. tf.compat.v1.image.resize_bilinear
+8. tf.compat.v1.image.resize_nearest_neighbor
+9. tf.image.resize_with_crop_or_pad
+10. tf.keras.layers.Cropping2D

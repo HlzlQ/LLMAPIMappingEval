@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.initializers.Constant`:
+
+1. torch.nn.init.constant_
+2. torch.tensor
+3. torch.full
+4. torch.ones
+5. torch.zeros
+6. torch.nn.Parameter
+7. torch.nn.init.uniform_
+8. torch.nn.init.normal_
+9. torch.nn.init.xavier_uniform_
+10. torch.nn.init.xavier_normal_

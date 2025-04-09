@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.functional.softmax
+2. torch.nn.Softmax
+3. tensorflow.keras.layers.Activation('softmax')
+4. tensorflow.keras.activations.softmax
+5. tf.nn.softmax
+6. tf.keras.layers.Activation('softmax')
+7. tf.keras.activations.softmax
+8. numpy.exp() / numpy.sum()
+9. scipy.special.softmax
+10. sklearn.preprocessing.normalize

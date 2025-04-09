@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.adaptive_avg_pool2d -> cntk.ops.average_pooling

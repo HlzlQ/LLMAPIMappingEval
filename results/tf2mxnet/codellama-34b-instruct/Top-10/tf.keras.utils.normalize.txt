@@ -1,0 +1,11 @@
+  tf.keras.utils.normalize
+  1. mxnet.ndarray.Norm
+  2. mxnet.ndarray.LpNorm
+  3. mxnet.ndarray.MaxNorm
+  4. mxnet.ndarray.MinNorm
+  5. mxnet.ndarray.MeanNorm
+  6. mxnet.ndarray.StdNorm
+  7. mxnet.ndarray.VarNorm
+  8. mxnet.ndarray.RMSNorm
+  9. mxnet.ndarray.L1Norm
+  10. mxnet.ndarray.L2Norm

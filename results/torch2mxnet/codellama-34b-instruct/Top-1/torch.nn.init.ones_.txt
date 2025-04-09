@@ -1,0 +1,7 @@
+
+MXNet does not have an exact equivalent of `torch.nn.init.ones_`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.initializer.Ones()`: This initializes all elements of a tensor to 1.0.
+* `mxnet.initializer.Constant(value=1)`: This initializes all elements of a tensor to a specified value (in this case, 1).
+
+Note that the syntax and behavior of these APIs may differ slightly from the PyTorch API, so you may need to adjust your code accordingly.

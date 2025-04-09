@@ -1,0 +1,10 @@
+mxnet.init.Constant
+mxnet.initializer.Constant
+mxnet.gluon.nn.initializer.Constant
+mxnet.ndarray.zeros_initializer
+mxnet.ndarray.ones_initializer
+mxnet.ndarray.full_initializer
+mxnet.ndarray.uniform_initializer
+mxnet.ndarray.normal_initializer
+mxnet.ndarray.xavier_initializer
+mxnet.ndarray.orthogonal_initializer

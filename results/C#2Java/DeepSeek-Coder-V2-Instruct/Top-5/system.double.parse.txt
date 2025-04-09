@@ -1,0 +1,5 @@
+1. Double.parseDouble(String s)
+2. java.lang.Double.valueOf(String s)
+3. java.lang.Double.parseDouble(String s)
+4. java.lang.Number.parseDouble(String s)
+5. java.lang.String.parseDouble(String s)

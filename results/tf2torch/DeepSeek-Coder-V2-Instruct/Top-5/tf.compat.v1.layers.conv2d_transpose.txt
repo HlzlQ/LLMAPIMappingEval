@@ -1,0 +1,7 @@
+
+
+1. torch.nn.ConvTranspose2d
+2. torch.nn.functional.conv_transpose2d
+3. tf.compat.v1.layers.conv2d_transpose
+4. tensorflow.compat.v1.layers.conv2d_transpose
+5. tf.keras.layers.Conv2DTranspose

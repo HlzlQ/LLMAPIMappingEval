@@ -1,0 +1,6 @@
+
+1. mxnet.np.tensordot
+2. mxnet.ndarray.dot
+3. mxnet.ndarray.batch_dot
+4. mxnet.symbol.dot
+5. mxnet.symbol.batch_dot

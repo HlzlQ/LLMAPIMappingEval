@@ -1,0 +1,8 @@
+
+Answer: ```
+1. mxnet.ndarray.norm
+2. mxnet.symbol.norm
+3. mxnet.gluon.nn.norm
+4. mxnet.contrib.ndarray.norm
+5. mxnet.ndarray.linalg.norm
+```

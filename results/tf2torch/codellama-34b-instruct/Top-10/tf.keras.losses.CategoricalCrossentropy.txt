@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.losses.CategoricalCrossentropy`:
+
+1. `torch.nn.CrossEntropyLoss`
+2. `torch.nn.NLLLoss`
+3. `torch.nn.BCEWithLogitsLoss`
+4. `torch.nn.MSELoss`
+5. `torch.nn.L1Loss`
+6. `torch.nn.SmoothL1Loss`
+7. `torch.nn.HuberLoss`
+8. `torch.nn.KLDivLoss`
+9. `torch.nn.BCELoss`
+10. `torch.nn.SoftmaxCrossEntropyLoss`

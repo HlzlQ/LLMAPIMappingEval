@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for orthogonal initialization:
+
+1. `mxnet.initializers.Orthogonal`
+2. `mxnet.initializers.orthogonal_uniform`
+3. `mxnet.initializers.orthogonal_normal`
+4. `mxnet.initializers.orthogonal_truncated_normal`
+5. `mxnet.initializers.orthogonal_random_normal`
+6. `mxnet.initializers.orthogonal_random_uniform`
+7. `mxnet.initializers.orthogonal_xavier_normal`
+8. `mxnet.initializers.orthogonal_xavier_uniform`
+9. `mxnet.initializers.orthogonal_he_normal`
+10. `mxnet.initializers.orthogonal_he_uniform`

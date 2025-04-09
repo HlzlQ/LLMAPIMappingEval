@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. `java.lang.System.getProperty(String key)`
+2. `java.lang.System.setProperty(String key, String value)`
+3. `java.lang.System.clearProperty(String key)`
+4. `java.lang.System.getProperties()`
+5. `java.lang.System.setProperties(Properties props)`
+6. `java.lang.System.getenv()`
+7. `java.lang.System.getenv(String name)`
+8. `java.lang.System.setenv(String name, String value)`
+9. `java.lang.System.clearenv()`
+10. `java.lang.System.getEnvironmentVariables()`

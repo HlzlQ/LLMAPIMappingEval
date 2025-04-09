@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.timezone.tolocaltime` in C#:
+
+1. java.util.TimeZone.getDefault()
+2. java.time.ZoneId.systemDefault()
+3. java.time.Instant.now()
+4. java.time.Clock.systemUTC()
+5. java.time.ZonedDateTime.now()
+6. java.util.Calendar.getInstance()
+7. java.util.Date.toLocaleString()
+8. java.text.SimpleDateFormat.getTimeZone()
+9. java.time.zone.ZoneRules.of(java.time.ZoneId)
+10. java.time.format.DateTimeFormatter.withZone(java.time.ZoneId)

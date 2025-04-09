@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings:
+
+1. torch.distributions.Normal
+2. torch.normal
+3. torch.randn
+4. torch.distributions.Distribution
+5. torch.Tensor.normal_

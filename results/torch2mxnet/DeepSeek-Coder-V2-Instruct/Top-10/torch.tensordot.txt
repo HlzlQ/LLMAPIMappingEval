@@ -1,0 +1,13 @@
+
+
+1. mxnet.np.tensordot
+2. mxnet.ndarray.dot
+3. mxnet.ndarray.batch_dot
+4. mxnet.symbol.dot
+5. mxnet.symbol.batch_dot
+6. mxnet.gluon.nn.Dense
+7. mxnet.gluon.nn.Conv2D
+8. mxnet.gluon.nn.BatchNorm
+9. mxnet.gluon.nn.Activation
+10. mxnet.ndarray.linalg_gemm
+```

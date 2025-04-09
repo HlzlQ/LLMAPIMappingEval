@@ -1,0 +1,7 @@
+
+Answer: 
+1. mxnet.optimizer.adamax
+2. mxnet.optimizer.sgd
+3. mxnet.optimizer.rmsprop
+4. mxnet.optimizer.adagrad
+5. mxnet.optimizer.adam

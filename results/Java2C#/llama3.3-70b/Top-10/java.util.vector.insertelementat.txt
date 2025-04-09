@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Insert
+2. System.Collections.ArrayList.Insert
+3. System.Collections.ObjectModel.Collection<T>.InsertItem
+4. System.Windows.Controls.ItemCollection.Insert
+5. System.ComponentModel.BindingList<T>.Insert
+6. System.Data.DataRowCollection.InsertAt
+7. System.Web.UI.WebControls.ListItemCollection.Insert
+8. System.Windows.Forms.ListView.ListViewItemCollection.Insert
+9. System.Windows.Controls.ListBox.Items.Insert
+10. System.Collections.Generic.SortedSet<T>.Add

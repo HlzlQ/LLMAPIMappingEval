@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.distributions.uniform.Uniform`:
+
+1. `CNTK.random.uniform`
+2. `CNTK.random.uniform_like`
+3. `CNTK.random.uniform_normal`
+4. `CNTK.random.uniform_normal_like`
+5. `CNTK.random.uniform_cauchy`
+6. `CNTK.random.uniform_cauchy_like`
+7. `CNTK.random.uniform_exponential`
+8. `CNTK.random.uniform_exponential_like`
+9. `CNTK.random.uniform_gamma`
+10. `CNTK.random.uniform_gamma_like`

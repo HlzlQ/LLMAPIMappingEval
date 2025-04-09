@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for hinge loss:
+
+1. `torch.nn.HingeLoss()`
+2. `torch.nn.MarginRankingLoss()`
+3. `torch.nn.MultiLabelMarginLoss()`
+4. `torch.nn.CrossEntropyLoss()`
+5. `torch.nn.BCEWithLogitsLoss()`

@@ -1,0 +1,10 @@
+System.Collections.Generic.List.Add  
+System.Collections.ArrayList.Add  
+System.Collections.Generic.Collection.Add  
+System.Collections.Generic.HashSet.Add  
+System.Collections.Generic.LinkedList.AddLast  
+System.Collections.Generic.Queue.Enqueue  
+System.Collections.Generic.Stack.Push  
+System.Collections.Generic.SortedSet.Add  
+System.Collections.Generic.Dictionary.Add  
+System.Collections.Hashtable.Add

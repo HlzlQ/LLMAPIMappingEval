@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. `torch.nn.functional.conv3d`
+2. `mxnet.ndarray.Convolution`
+3. `mxnet.symbol.Convolution`
+4. `mxnet.gluon.nn.Conv3D`
+5. `mxnet.image.Conv3D`
+6. `mxnet.contrib.nn.Conv3D`
+7. `mxnet.ndarray.Deconvolution`
+8. `mxnet.symbol.Deconvolution`
+9. `mxnet.gluon.nn.Deconv3D`
+10. `mxnet.image.Deconv3D`

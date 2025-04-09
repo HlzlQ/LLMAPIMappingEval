@@ -1,0 +1,5 @@
+mxnet.ndarray.random.orthogonal
+mxnet.init.Orthogonal
+mxnet.gluon.nn.initializer.Orthogonal
+mxnet.ndarray.linalg.syrk
+mxnet.ndarray.linalg.trmm

@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.split`:
+
+1. `torch.split`
+2. `torch.chunk`
+3. `torch.tensor_split`
+4. `torch.array_split`
+5. `torch.split_dimension`
+6. `torch.split_axis`
+7. `torch.split_along_axis`
+8. `torch.split_by_size`
+9. `torch.split_by_length`
+10. `torch.split_by_value`

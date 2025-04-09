@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow Keras Sequential API:
+
+1. torch.nn.Sequential
+2. torch.nn.ModuleList
+3. torch.nn.Linear
+4. torch.nn.Conv2d
+5. torch.nn.MaxPool2d
+6. torch.nn.Flatten
+7. torch.nn.Dropout
+8. torch.nn.BatchNorm2d
+9. torch.nn.ReLU
+10. torch.nn.Softmax

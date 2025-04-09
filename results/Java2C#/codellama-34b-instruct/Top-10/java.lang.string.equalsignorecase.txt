@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. StringComparer.OrdinalIgnoreCase.Equals()
+2. String.Compare(string, string, StringComparison.OrdinalIgnoreCase)
+3. String.Equals(string, StringComparison.OrdinalIgnoreCase)
+4. String.IsNullOrEmpty(string)
+5. String.IsNullOrWhiteSpace(string)
+6. String.Join(string, IEnumerable<string>)
+7. String.Replace(string, string, string)
+8. String.Split(string[], StringSplitOptions)
+9. String.Substring(int, int)
+10. String.ToLower()

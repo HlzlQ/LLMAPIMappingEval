@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to `torch.nn.init.orthogonal_`:
+
+1. `mxnet.initializer.Orthogonal`
+2. `mxnet.initializer.XavierNormal`
+3. `mxnet.initializer.XavierUniform`
+4. `mxnet.initializer.KaimingNormal`
+5. `mxnet.initializer.KaimingUniform`
+6. `mxnet.initializer.HeNormal`
+7. `mxnet.initializer.HeUniform`
+8. `mxnet.initializer.LeCunNormal`
+9. `mxnet.initializer.LeCunUniform`
+10. `mxnet.initializer.GlorotNormal`

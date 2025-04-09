@@ -1,0 +1,7 @@
+
+
+1. torch.nn.functional.conv2d
+2. torch.nn.Linear
+3. torch.optim.SGD
+4. torch.Tensor.backward
+5. torch.no_grad

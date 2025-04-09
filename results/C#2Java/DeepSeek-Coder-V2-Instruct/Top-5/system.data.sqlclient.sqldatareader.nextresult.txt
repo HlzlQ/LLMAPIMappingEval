@@ -1,0 +1,5 @@
+1. ResultSet.next()
+2. Statement.executeQuery()
+3. PreparedStatement.executeQuery()
+4. CallableStatement.executeQuery()
+5. DatabaseMetaData.getTables()

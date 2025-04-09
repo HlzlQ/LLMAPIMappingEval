@@ -1,0 +1,5 @@
+cntk.binary_cross_entropy
+cntk.cross_entropy_with_softmax
+cntk.logistic_loss
+cntk.sigmoid_cross_entropy
+cntk.losses.BinaryCrossEntropy

@@ -1,0 +1,5 @@
+cntk.ops.pad
+cntk.layers.Pad
+cntk.functions.pad
+cntk.layers.sequence.pad
+cntk.ops.sequence.pad

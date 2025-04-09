@@ -1,0 +1,5 @@
+  * mxnet.gluon.loss.HuberLoss()
+  * mxnet.gluon.loss.SmoothL1Loss()
+  * mxnet.gluon.loss.L1Loss()
+  * mxnet.gluon.loss.L2Loss()
+  * mxnet.gluon.loss.HuberLoss(delta=1.0)

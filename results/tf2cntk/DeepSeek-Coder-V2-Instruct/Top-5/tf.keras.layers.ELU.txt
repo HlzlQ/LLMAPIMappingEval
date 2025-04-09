@@ -1,0 +1,2 @@
+
+Answer: GlobalAveragePooling2D, MaxPooling2D, Conv2D, Dense, ELU

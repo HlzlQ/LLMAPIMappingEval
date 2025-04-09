@@ -1,0 +1,2 @@
+
+CNTK equivalent: `cntk.losses.mean_squared_error`

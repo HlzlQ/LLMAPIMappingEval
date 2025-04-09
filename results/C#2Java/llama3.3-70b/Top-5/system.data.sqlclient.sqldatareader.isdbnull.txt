@@ -1,0 +1,7 @@
+Here are 5 Java APIs that match the functionality of `system.data.sqlclient.sqldatareader.isdbnull`:
+
+1. java.sql.ResultSet.wasNull()
+2. java.sql.ResultSet.getObject(int columnIndex)
+3. java.sql.ResultSet.getInt(int columnIndex)
+4. java.sql.ResultSet.getString(int columnIndex)
+5. java.sql.ResultSet.isNull(int columnIndex)

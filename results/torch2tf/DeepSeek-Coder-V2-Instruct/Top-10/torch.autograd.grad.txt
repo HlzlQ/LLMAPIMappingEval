@@ -1,0 +1,12 @@
+
+
+1. gradients
+2. value_and_gradients
+3. jacobian
+4. hessian
+5. grad_inputs
+6. grad_outputs
+7. gradient
+8. compute_gradient
+9. derivative
+10. differentiate

@@ -1,0 +1,14 @@
+
+MXNet does not have a direct equivalent to PyTorch's `torch.nn.functional.pad`. However, you can achieve similar functionality using MXNet's `mxnet.ndarray.pad` function. Here's an example:
+```python
+import mxnet as mx
+
+# Create a random tensor with shape (3, 4)
+data = mx.nd.random.uniform(shape=(3, 4))
+
+# Pad the tensor with zeros on both sides
+padded_data = mx.nd.pad(data, pad_width=1, mode='constant')
+```
+In this example, `mx.nd.pad` is used to pad the input tensor `data` with zeros on both sides. The `pad_width` argument specifies the number of elements to be padded on each side. The `mode` argument specifies the padding mode, which can be either `'constant'` or `'reflect'`.
+
+Note that MXNet's `mx.nd.pad` function only supports 2D padding, so you may need to reshape your tensor before applying padding if it has more than two dimensions.

@@ -1,0 +1,1 @@
+times or element_times or reduce_dot or dot or times in cntk but most probably:  cntk.times

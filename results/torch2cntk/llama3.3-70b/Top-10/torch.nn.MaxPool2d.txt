@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functionality to `torch.nn.MaxPool2d`:
+
+1. `CNTK.layers.MaxPooling`
+2. `CNTK.layers.Pooling`
+3. `CNTK.layers.MaxUnpooling`
+4. `CNTK.layers.AveragePooling`
+5. `CNTK.layers.GlobalMaxPooling`
+6. `CNTK.layers.GlobalAveragePooling`
+7. `CNTK.layers.ConvolutionalLayer`
+8. `CNTK.layers.SubsamplingLayer`
+9. `CNTK.layers.PoolingLayer`
+10. `CNTK.layers.MaxPool`

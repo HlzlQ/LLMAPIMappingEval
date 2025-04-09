@@ -1,0 +1,5 @@
+mxnet.gluon.loss.L2Loss  
+mxnet.ndarray.square  
+mxnet.ndarray.mean  
+mxnet.symbol.square  
+mxnet.symbol.mean

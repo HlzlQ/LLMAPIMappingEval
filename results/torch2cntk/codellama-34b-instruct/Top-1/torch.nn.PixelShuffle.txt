@@ -1,0 +1,25 @@
+
+CNTK does not have a direct equivalent of `torch.nn.PixelShuffle`. However, you can achieve a similar effect by using the `cntk.layers.ConvolutionTranspose` layer with a stride of 2 in the height and width dimensions. This will effectively upsample the input tensor by a factor of 2 in both dimensions.
+
+Here's an example:
+```
+import cntk as C
+
+# Define the input shape
+input_shape = (3, 10, 10)
+
+# Create a convolutional transpose layer with stride 2
+conv_transpose = C.layers.ConvolutionTranspose(num_filters=64, kernel_size=(3, 3), strides=(2, 2))
+
+# Define the output shape
+output_shape = (64, 10, 10)
+
+# Create a model using the convolutional transpose layer
+model = C.models.Sequential([
+    conv_transpose,
+    C.layers.Activation('relu'),
+    C.layers.Flatten(),
+    C.layers.Dense(64, activation='relu')
+])
+```
+In this example, the `ConvolutionTranspose` layer is used to upsample the input tensor by a factor of 2 in both dimensions, and then a ReLU activation function is applied followed by a flattening operation and a dense layer with 64 units. The output shape of the model is (64, 10, 10).

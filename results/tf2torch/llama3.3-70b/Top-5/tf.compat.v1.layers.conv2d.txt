@@ -1,0 +1,5 @@
+1. torch.nn.Conv2d
+2. torch.nn.functional.conv2d
+3. torch.nn.ConvTranspose2d
+4. torch.nn.functional.conv_transpose2d
+5. torch.nn.quantized.Conv2d

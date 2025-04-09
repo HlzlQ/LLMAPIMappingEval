@@ -1,0 +1,12 @@
+1. java.util.HashMap.put
+2. java.util.Map.put
+3. java.util.concurrent.ConcurrentHashMap.put
+4. java.util.Hashtable.put
+5. javax.swing.text.html.parser.Entity.put
+6. org.w3c.dom.NamedNodeMap.setNamedItem
+7. org.apache.xmlbeans.XmlCursor.putChildElement
+8. com.sun.org.glassfish.external.statistics.Statistic.putValue
+9. java.nio.file.attribute.BasicFileAttributes.put
+10. javax.management.Attribute.setAttribute
+
+These APIs are chosen based on their similarity in functionality, where the main goal is to add or update a key-value pair in a collection.

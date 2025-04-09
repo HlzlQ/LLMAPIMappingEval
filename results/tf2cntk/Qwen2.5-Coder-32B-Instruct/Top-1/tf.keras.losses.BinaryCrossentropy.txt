@@ -1,0 +1,1 @@
+cntk.binary_cross_entropy

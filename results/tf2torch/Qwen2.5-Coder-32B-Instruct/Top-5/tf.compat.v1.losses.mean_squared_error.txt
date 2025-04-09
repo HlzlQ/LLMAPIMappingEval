@@ -1,0 +1,5 @@
+torch.nn.MSELoss  
+torch.nn.functional.mse_loss  
+torch.mean_squared_error  
+torch.cdist  
+torch.dist

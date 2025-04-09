@@ -1,0 +1,5 @@
+1. System.Double.IsNaN
+2. System.Single.IsNaN
+3. System.Numerics.Complex.IsNaN
+4. System.Decimal.IsNaN
+5. System.Numerics.BigInteger.IsNaN

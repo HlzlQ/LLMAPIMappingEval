@@ -1,0 +1,10 @@
+tf.linalg.set_diag  
+tf.eye  
+tf.linalg.diag_part  
+tf.linalg.tensor_diag_part  
+tf.linalg.diag  
+tf.linalg.tensor_diag  
+tf.linalg.set_diag_v2  
+tf.linalg.diag_set  
+tf.linalg.diag_extract  
+tf.linalg.diag_insert

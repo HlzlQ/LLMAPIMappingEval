@@ -1,0 +1,10 @@
+tf.keras.layers.Conv2D  
+tf.nn.conv2d  
+tf.layers.Conv2D  
+tf.contrib.layers.conv2d  
+tf.compat.v1.layers.Conv2D  
+tf.compat.v1.nn.conv2d  
+tf.compat.v1.contrib.layers.conv2d  
+tf.keras.layers.Convolution2D  
+tf.compat.v1.keras.layers.Conv2D  
+tf.compat.v1.keras.layers.Convolution2D

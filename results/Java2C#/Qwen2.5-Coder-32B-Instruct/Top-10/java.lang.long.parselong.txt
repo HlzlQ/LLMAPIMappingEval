@@ -1,0 +1,10 @@
+System.Int64.Parse  
+System.Convert.ToInt64  
+System.Numerics.BigInteger.Parse  
+System.Numerics.BigInteger.TryParse  
+System.Int64.TryParse  
+System.Convert.ChangeType  
+System.Text.Json.Serialization.JsonConverter`1.Read  
+System.Xml.XmlConvert.ToInt64  
+System.Globalization.NumberStyles.AllowInteger  
+System.Data.SqlTypes.SqlInt64.Parse

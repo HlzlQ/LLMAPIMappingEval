@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.sigmoid")
+<jupyter_output>
+CNTK.sigmoid

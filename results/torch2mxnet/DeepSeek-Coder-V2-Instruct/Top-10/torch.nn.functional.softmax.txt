@@ -1,0 +1,4 @@
+
+
+## 解题答案
+torch.nn.functional.softmax

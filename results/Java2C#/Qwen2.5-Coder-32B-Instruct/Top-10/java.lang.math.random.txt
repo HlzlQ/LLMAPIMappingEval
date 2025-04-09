@@ -1,0 +1,10 @@
+System.Random.NextDouble  
+System.Random.Next  
+System.Random.NextBytes  
+System.Random.NextSingle  
+System.Random.NextInt64  
+System.Random.NextDecimal  
+System.Random.NextBoolean  
+System.Random.NextBigInteger  
+System.Random.NextGuid  
+System.Random.NextEnum

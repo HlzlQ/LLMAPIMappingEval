@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for transposed convolution:
+
+1. `cntk.ops.conv_transpose2d`
+2. `cntk.ops.deconv2d`
+3. `cntk.ops.conv_transpose3d`
+4. `cntk.ops.deconv3d`
+5. `cntk.ops.conv_transpose1d`

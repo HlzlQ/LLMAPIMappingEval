@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.nn.init.zeros_`:
+
+1. `tf.zeros`
+2. `tf.zeros_like`
+3. `tf.fill`
+4. `tf.constant`
+5. `tf.Variable` with a zero initializer
+6. `tf.get_variable` with a zero initializer
+7. `tf.placeholder` with a zero default value
+8. `tf.zeros_initializer`
+9. `tf.zeros_like_initializer`
+10. `tf.fill_initializer`

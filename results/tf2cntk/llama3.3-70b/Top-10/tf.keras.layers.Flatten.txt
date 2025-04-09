@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functions to `tensorflow.keras.layers.Flatten`:
+
+1. CNTK.Sequence.reshape
+2. CNTK.Transpose
+3. CNTK.Reshape
+4. CNTK.Flatten
+5. CNTK.Squeeze
+6. CNTK.Unstack
+7. CNTK.Stack
+8. CNTK.Sequence.slice
+9. CNTK.ReshapeLike
+10. CNTK.BatchNormalization.reshape

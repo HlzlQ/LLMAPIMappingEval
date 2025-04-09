@@ -1,0 +1,10 @@
+mxnet.ndarray.random.orthogonal
+mxnet.init.Orthogonal
+mxnet.gluon.nn.initializer.Orthogonal
+mxnet.ndarray.linalg.svd
+mxnet.ndarray.linalg.qr
+mxnet.ndarray.linalg.eigh
+mxnet.ndarray.linalg.solve
+mxnet.ndarray.linalg.potrf
+mxnet.ndarray.linalg.trmm
+mxnet.ndarray.linalg.trsm

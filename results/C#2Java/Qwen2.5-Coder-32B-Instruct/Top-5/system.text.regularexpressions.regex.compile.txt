@@ -1,0 +1,5 @@
+java.util.regex.Pattern.compile
+java.util.regex.Matcher.matches
+java.util.regex.Matcher.find
+java.util.regex.Matcher.group
+java.util.regex.Matcher.replaceAll

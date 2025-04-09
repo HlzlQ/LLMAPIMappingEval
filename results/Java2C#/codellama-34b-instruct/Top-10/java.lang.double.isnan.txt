@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Double.isNaN()`:
+
+1. `System.Double.IsNaN(double)`
+2. `System.Math.IsNaN(double)`
+3. `System.Double.IsInfinity(double)`
+4. `System.Math.IsInfinity(double)`
+5. `System.Double.IsPositiveInfinity(double)`
+6. `System.Math.IsPositiveInfinity(double)`
+7. `System.Double.IsNegativeInfinity(double)`
+8. `System.Math.IsNegativeInfinity(double)`
+9. `System.Double.IsNormal(double)`
+10. `System.Math.IsNormal(double)`

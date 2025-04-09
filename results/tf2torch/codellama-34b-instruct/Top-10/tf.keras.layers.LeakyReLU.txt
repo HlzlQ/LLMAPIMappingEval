@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `tensorflow.keras.layers.LeakyReLU`:
+
+1. `torch.nn.LeakyReLU`
+2. `torch.nn.functional.leaky_relu`
+3. `torch.nn.modules.activation.LeakyReLU`
+4. `torch.nn.modules.activation.LeakyReLU6`
+5. `torch.nn.modules.activation.LeakyReLU8`
+6. `torch.nn.modules.activation.LeakyReLU10`
+7. `torch.nn.modules.activation.LeakyReLU12`
+8. `torch.nn.modules.activation.LeakyReLU14`
+9. `torch.nn.modules.activation.LeakyReLU16`
+10. `torch.nn.modules.activation.LeakyReLU18`

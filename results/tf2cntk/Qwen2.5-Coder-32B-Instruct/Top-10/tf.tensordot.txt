@@ -1,0 +1,10 @@
+cntk.times
+cntk.reduce_sum
+cntk.matmul
+cntk.element_times
+cntk.dot_product
+cntk.batch_matmul
+cntk.multiply
+cntk.ops.times
+cntk.ops.matmul
+cntk.ops.dot_product

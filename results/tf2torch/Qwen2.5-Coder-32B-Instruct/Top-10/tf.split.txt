@@ -1,0 +1,10 @@
+torch.chunk
+torch.tensor_split
+torch.hsplit
+torch.vsplit
+torch.dsplit
+torch.split_with_sizes
+torch.narrow
+torch.index_select
+torch.gather
+torch.unfold

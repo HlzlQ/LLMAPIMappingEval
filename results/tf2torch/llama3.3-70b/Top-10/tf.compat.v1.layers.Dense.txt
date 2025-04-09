@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.compat.v1.layers.Dense`:
+
+1. torch.nn.Linear
+2. torch.nn.Dense
+3. torch.nn.Module
+4. torch.nn.Sequential
+5. torch.nn.Functional.linear
+6. torch.nn.Linear.forward
+7. torch.nn.Module.apply
+8. torch.nn.Parameter
+9. torch.nn.init.xavier_uniform_
+10. torch.nn.functional.relu

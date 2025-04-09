@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Conv1D  
+mxnet.ndarray.convolution_1d  
+mxnet.symbol.contrib.Conv1D  
+mxnet.gluon.nn.HybridSequential.add  
+mxnet.gluon.nn.Sequential.add  
+mxnet.gluon.nn.SymbolBlock.imports  
+mxnet.gluon.nn.SymbolBlock.from_json  
+mxnet.gluon.nn.SymbolBlock.from_mxnet_code  
+mxnet.gluon.nn.SymbolBlock.from_mxnet_model  
+mxnet.gluon.nn.SymbolBlock.from_mxnet_symbol

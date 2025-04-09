@@ -1,0 +1,10 @@
+1. System.Collections.Generic.HashSet<T>.GetEnumerator()
+2. System.Collections.Generic.List<T>.GetEnumerator()
+3. System.Collections.IEnumerable.GetEnumerator()
+4. System.Collections.IEnumerator.MoveNext()
+5. System.Collections.IEnumerator.Reset()
+6. System.Collections.IEnumerator.Current
+7. System.IDisposable.Dispose()
+8. System.Collections.Generic.Dictionary<TKey, TValue>.GetEnumerator()
+9. System.Collections.IEnumerable.GetEnumerator()
+10. System.Collections.IEnumerator.MoveNext()

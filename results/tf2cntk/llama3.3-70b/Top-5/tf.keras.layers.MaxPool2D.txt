@@ -1,0 +1,5 @@
+1. MaxPooling
+2. Pooling
+3. MaxUnpooling
+4. AveragePooling
+5. pooling_layer

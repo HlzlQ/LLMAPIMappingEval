@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for normalization:
+
+1. `torch.nn.functional.normalize`
+2. `torch.nn.utils.normalize_layer`
+3. `torch.nn.utils.normalize_weight`
+4. `torch.nn.utils.normalize_bias`
+5. `torch.nn.utils.normalize_activation`

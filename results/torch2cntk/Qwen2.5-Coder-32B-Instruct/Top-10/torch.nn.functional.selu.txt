@@ -1,0 +1,10 @@
+cntk.ops.selu  
+cntk.activations.selu  
+cntk.layers.SELU  
+cntk.functions.selu  
+cntk.models.selu  
+cntk.losses.selu  
+cntk.metrics.selu  
+cntk.optimizers.selu  
+cntk.initializer.selu  
+cntk.learner.selu

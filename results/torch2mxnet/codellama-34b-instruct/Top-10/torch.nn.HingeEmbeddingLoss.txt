@@ -1,0 +1,12 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.HingeEmbeddingLoss | mxnet.gluon.loss.HingeEmbeddingLoss |
+  | torch.nn.MarginRankingLoss | mxnet.gluon.loss.MarginRankingLoss |
+  | torch.nn.MultiLabelSoftMarginLoss | mxnet.gluon.loss.MultiLabelSoftMarginLoss |
+  | torch.nn.MultiLabelMarginLoss | mxnet.gluon.loss.MultiLabelMarginLoss |
+  | torch.nn.BCEWithLogitsLoss | mxnet.gluon.loss.BCEWithLogitsLoss |
+  | torch.nn.CrossEntropyLoss | mxnet.gluon.loss.SoftmaxCrossEntropyLoss |
+  | torch.nn.NLLLoss | mxnet.gluon.loss.NLLLoss |
+  | torch.nn.KLDivLoss | mxnet.gluon.loss.KLDivLoss |
+  | torch.nn.MSELoss | mxnet.gluon.loss.MSELoss |
+  | torch.nn.L1Loss | mxnet.gluon.loss.L1Loss |

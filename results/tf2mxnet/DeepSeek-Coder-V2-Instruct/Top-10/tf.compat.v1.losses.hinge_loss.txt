@@ -1,0 +1,13 @@
+
+Answer: ```
+1. mxnet.gluon.loss.HingeLoss
+2. mxnet.ndarray.contrib.hinge_loss
+3. mxnet.symbol.contrib.hinge_loss
+4. mxnet.ndarray.softmax_cross_entropy
+5. mxnet.symbol.softmax_cross_entropy
+6. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+7. mxnet.ndarray.mean_squared_error
+8. mxnet.symbol.mean_squared_error
+9. mxnet.gluon.loss.L2Loss
+10. mxnet.ndarray.l2_norm
+```

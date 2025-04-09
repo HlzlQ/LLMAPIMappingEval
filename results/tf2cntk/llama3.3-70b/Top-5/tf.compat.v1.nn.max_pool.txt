@@ -1,0 +1,5 @@
+1. pooling
+2. max_pooling
+3. MaxPooling
+4. CNTK.max_pooling
+5. pooling_layer

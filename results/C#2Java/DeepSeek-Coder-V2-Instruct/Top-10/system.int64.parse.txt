@@ -1,0 +1,10 @@
+java.lang.Long.parseLong
+java.math.BigInteger.valueOf
+java.util.Scanner.nextLong
+java.lang.String.parseLong
+javax.xml.bind.DatatypeConverter.parseLong
+org.w3c.dom.Node.getTextContent
+org.apache.commons.lang3.StringUtils.isNumeric
+com.fasterxml.jackson.databind.ObjectMapper.readValue
+com.google.gson.JsonParser.parse
+io.vertx.core.json.JsonObject.getLong

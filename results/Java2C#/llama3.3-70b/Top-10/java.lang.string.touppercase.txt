@@ -1,0 +1,10 @@
+1. System.String.ToUpper
+2. System.String.ToUpperInvariant
+3. System.Char.ToUpper
+4. System.Char.ToUpperInvariant
+5. System.Globalization.TextInfo.ToTitleCase
+6. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToUpper
+7. System.Globalization.CultureInfo.InvariantCulture.TextInfo.ToUpper
+8. Microsoft.VisualBasic.Strings.UCase
+9. System.Web.HttpUtility.HtmlEncode.ToString().ToUpper
+10. System.Text.RegularExpressions.Regex.Replace.ToString().ToUpper

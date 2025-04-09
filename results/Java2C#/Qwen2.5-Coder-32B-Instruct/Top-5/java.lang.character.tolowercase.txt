@@ -1,0 +1,5 @@
+System.Char.ToLower
+System.String.ToLower
+System.Globalization.CultureInfo.TextInfo.ToLower
+System.Text.RegularExpressions.Regex.Replace (with a custom match evaluator)
+System.Linq.Enumerable.Select (with Char.ToLower)

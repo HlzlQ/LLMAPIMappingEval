@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for saving models:
+
+1. `tf.saved_model.save()`
+2. `tf.keras.models.save_model()`
+3. `tf.train.Saver().save()`
+4. `tf.estimator.Estimator.export_saved_model()`
+5. `tf.keras.applications.save_model()`

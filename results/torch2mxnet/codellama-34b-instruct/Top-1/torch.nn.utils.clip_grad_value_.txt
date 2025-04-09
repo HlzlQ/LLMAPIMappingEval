@@ -1,0 +1,1 @@
+  The PyTorch API `torch.nn.utils.clip_grad_value` is used to clip the gradient values of a model during training. In MXNet, the equivalent API for this functionality is `mxnet.ndarray.clip`.

@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.compat.v1.layers.MaxPooling1D`:
+
+1. torch.nn.MaxPool1d
+2. torch.nn.functional.max_pool1d
+3. torch.nn.AvgPool1d
+4. torch.nn.functional.avg_pool1d
+5. torch.nn.AdaptiveMaxPool1d

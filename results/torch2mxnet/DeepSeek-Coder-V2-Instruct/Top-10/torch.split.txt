@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.cat` -> `mxnet.ndarray.concat`
+2. `torch.stack` -> `mxnet.ndarray.stack`
+3. `torch.chunk` -> `mxnet.ndarray.split`
+4. `torch.split` -> `mxnet.ndarray.split`
+5. `torch.unsqueeze` -> `mxnet.ndarray.expand_dims`
+6. `torch.squeeze` -> `mxnet.ndarray.squeeze`
+7. `torch.transpose` -> `mxnet.ndarray.transpose`
+8. `torch.permute` -> `mxnet.ndarray.transpose`
+9. `torch.reshape` -> `mxnet.ndarray.reshape`
+10. `torch.view` -> `mxnet.ndarray.reshape`

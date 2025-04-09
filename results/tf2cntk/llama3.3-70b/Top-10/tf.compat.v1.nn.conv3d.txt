@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.nn.conv3d`:
+
+1. `cntk.layers.Convolution3D`
+2. `cntk.ops.convolve`
+3. `cntk.layers.SubsamplingLayer`
+4. `cntk.ops.spatial_convolution`
+5. `cntk.layers.ConvolutionalLayer`
+6. `cntk.ops.depthwise_convolve`
+7. `cntk.layers.SeparableConvolution`
+8. `cntk.ops.spatial_depthwise_convolve`
+9. `cntk.layers.Conv3D`
+10. `cntk.ops.conv3d`

@@ -1,0 +1,5 @@
+1. Console.WriteLine
+2. System.Console.WriteLine
+3. Printf
+4. WriteLine
+5. println

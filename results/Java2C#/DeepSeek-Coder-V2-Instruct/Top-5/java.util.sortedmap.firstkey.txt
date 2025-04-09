@@ -1,0 +1,5 @@
+1. First()
+2. KeyCollection<K,V>.First()
+3. SortedDictionary<TKey, TValue>.First
+4. ConcurrentDictionary<TKey, TValue>.First
+5. ImmutableSortedDictionary<TKey, TValue>.First

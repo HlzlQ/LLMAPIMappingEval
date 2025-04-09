@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that correspond to the TensorFlow API `tensorflow.gradients`:
+
+1. `mxnet.autograd.backward`
+2. `mxnet.autograd.grad`
+3. `mxnet.autograd.gradients`
+4. `mxnet.ndarray.gradient`
+5. `mxnet.ndarray.gradients`
+6. `mxnet.symbolic.backward`
+7. `mxnet.symbolic.grad`
+8. `mxnet.symbolic.gradients`
+9. `mxnet.tensor.gradient`
+10. `mxnet.tensor.gradients`

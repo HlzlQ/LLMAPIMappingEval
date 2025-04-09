@@ -1,0 +1,10 @@
+java.nio.charset.Charset.forName  
+java.nio.charset.StandardCharsets.UTF_8  
+java.nio.charset.StandardCharsets.US_ASCII  
+java.nio.charset.StandardCharsets.ISO_8859_1  
+java.nio.charset.StandardCharsets.UTF_16  
+java.nio.charset.StandardCharsets.UTF_16BE  
+java.nio.charset.StandardCharsets.UTF_16LE  
+java.nio.charset.Charset.defaultCharset  
+java.nio.charset.Charset.availableCharsets  
+java.nio.charset.Charset.forName

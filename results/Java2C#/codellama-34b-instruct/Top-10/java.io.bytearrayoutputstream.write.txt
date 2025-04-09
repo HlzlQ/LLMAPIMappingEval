@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.IO.Stream.Write
+2. System.IO.BinaryWriter.Write
+3. System.IO.FileStream.Write
+4. System.IO.MemoryStream.Write
+5. System.IO.BufferedStream.Write
+6. System.IO.Compression.DeflateStream.Write
+7. System.IO.Compression.GZipStream.Write
+8. System.IO.Compression.TarArchive.Write
+9. System.IO.Compression.ZipArchive.Write
+10. System.IO.Compression.Bzip2Stream.Write

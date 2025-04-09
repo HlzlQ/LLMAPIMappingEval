@@ -1,0 +1,5 @@
+mxnet.ndarray.dot  
+mxnet.symbol.dot  
+mxnet.gluon.nn.Dense  
+mxnet.gluon.nn.HybridSequential  
+mxnet.gluon.nn.Block

@@ -1,0 +1,5 @@
+1. System.Double.Parse(string s)
+2. System.Convert.ToDouble(object value)
+3. System.Double.TryParse(string s, out double result)
+4. System.Double.ToString()
+5. System.Double.ValueOf(double d)

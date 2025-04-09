@@ -1,0 +1,6 @@
+
+* `tf.nn.elu`
+* `tf.nn.selu`
+* `tf.nn.softplus`
+* `tf.nn.relu`
+* `tf.nn.leaky_relu`

@@ -1,0 +1,5 @@
+1. Deque<T>.RemoveFirst()
+2. Queue<T>.Dequeue()
+3. LinkedList<T>.RemoveFirst()
+4. Stack<T>.Pop()
+5. ConcurrentQueue<T>.TryDequeue(out T result)

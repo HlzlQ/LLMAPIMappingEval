@@ -1,0 +1,10 @@
+1. System.Data.IDataReader.IsDBNull
+2. System.Data.Common.DbDataReader.IsDBNull
+3. System.Data.SqlClient.SqlDataReader.IsDBNull
+4. System.Data.OleDb.OleDbDataReader.IsDBNull
+5. System.Data.Odbc.OdbcDataReader.IsDBNull
+6. System.Data.OracleClient.OracleDataReader.IsDBNull
+7. Npgsql.NpgsqlDataReader.IsDBNull
+8. MySql.Data.MySqlClient.MySqlDataReader.IsDBNull
+9. Microsoft.Data.SqlClient.SqlDataReader.IsDBNull
+10. System.Data.Common.DbDataReader.GetFieldType

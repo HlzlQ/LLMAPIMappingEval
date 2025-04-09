@@ -1,0 +1,2 @@
+
+CNTK has a similar API for average pooling in 3D data called `cntk.ops.avg_pool`.

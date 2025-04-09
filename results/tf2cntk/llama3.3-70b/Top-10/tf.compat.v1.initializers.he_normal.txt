@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.initializers.he_normal`:
+
+1. CNTK.DefaultInitializer()
+2. CNTK.GlorotNormalInitializer()
+3. CNTK.HeNormalInitializer()
+4. CNTK.KaimingNormalInitializer()
+5. CNTK.NormalInitializer()
+6. CNTK.XavierNormalInitializer()
+7. CNTK.Initializer.from_numpy()
+8. CNTK.Parameter.init_with_tensor()
+9. CNTK.Trainer.get_parameter_initializers()
+10. CNTK.layers.initializers.HeNormal()

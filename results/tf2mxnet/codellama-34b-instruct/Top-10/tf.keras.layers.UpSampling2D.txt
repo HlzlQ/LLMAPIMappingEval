@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.UpSampling2D`:
+
+1. `mxnet.ndarray.UpSampling2D`
+2. `mxnet.gluon.nn.UpSampling2D`
+3. `mxnet.symbol.UpSampling2D`
+4. `mxnet.ndarray.upsampling_2d`
+5. `mxnet.gluon.nn.upsampling_2d`
+6. `mxnet.symbol.upsampling_2d`
+7. `mxnet.ndarray.UpSampling`
+8. `mxnet.gluon.nn.UpSampling`
+9. `mxnet.symbol.UpSampling`
+10. `mxnet.ndarray.upsampling`

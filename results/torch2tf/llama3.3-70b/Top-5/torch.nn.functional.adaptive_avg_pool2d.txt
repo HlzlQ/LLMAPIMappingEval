@@ -1,0 +1,5 @@
+1. tf.compat.v1.layers.average_pooling2d
+2. tf.nn.avg_pool2d
+3. tf.keras.layers.AveragePooling2D
+4. tf.keras.layers.GlobalAveragePooling2D
+5. tf.reduce_mean

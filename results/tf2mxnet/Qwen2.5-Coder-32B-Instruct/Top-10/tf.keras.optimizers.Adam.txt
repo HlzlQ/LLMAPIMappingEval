@@ -1,0 +1,10 @@
+mxnet.gluon.Trainer
+mxnet.optimizer.Adam
+mxnet.ndarray.adam_update
+mxnet.ndarray.contrib.multi_adamw_update
+mxnet.ndarray.contrib.multi_sgd_mom_update
+mxnet.ndarray.contrib.sgd_mom_update
+mxnet.ndarray.ftrl_update
+mxnet.ndarray.rmspropalex_update
+mxnet.ndarray.signum_update
+mxnet.ndarray.sgd_update

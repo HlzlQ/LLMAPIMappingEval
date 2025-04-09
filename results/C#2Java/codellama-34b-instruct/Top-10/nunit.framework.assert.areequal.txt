@@ -1,0 +1,12 @@
+Here are ten possible Java APIs that correspond to the given C# API:
+
+1. org.junit.Assert.assertEquals
+2. org.testng.Assert.assertEquals
+3. org.easymock.EasyMock.expect
+4. org.mockito.Mockito.verify
+5. org.hamcrest.MatcherAssert.assertThat
+6. org.hamcrest.CoreMatchers.equalTo
+7. org.hamcrest.CoreMatchers.is
+8. org.hamcrest.CoreMatchers.sameInstance
+9. org.hamcrest.CoreMatchers.notNullValue
+10. org.hamcrest.CoreMatchers.nullValue

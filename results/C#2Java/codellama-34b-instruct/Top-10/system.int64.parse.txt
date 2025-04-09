@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. `java.lang.Integer.parseInt(String s)`
+2. `java.lang.Long.parseLong(String s)`
+3. `java.lang.NumberFormatException`
+4. `java.text.ParsePosition`
+5. `java.util.Locale`
+6. `java.text.DecimalFormatSymbols`
+7. `java.text.DecimalFormat`
+8. `java.text.NumberFormat`
+9. `java.lang.String`
+10. `java.lang.Object`

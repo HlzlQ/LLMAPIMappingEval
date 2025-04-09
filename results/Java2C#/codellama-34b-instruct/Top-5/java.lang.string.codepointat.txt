@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each Java API:
+
+1. java.lang.String.codePointAt(int index)
+	* C# equivalent: System.Text.Rune.GetCodePoint(string input, int index)
+2. java.lang.String.codePointBefore(int index)
+	* C# equivalent: System.Text.Rune.GetCodePointBefore(string input, int index)
+3. java.lang.String.codePointCount(int beginIndex, int endIndex)
+	* C# equivalent: System.Text.Rune.GetCodePointCount(string input, int beginIndex, int endIndex)
+4. java.lang.String.offsetByCodePoints(int index, int codePointOffset)
+	* C# equivalent: System.Text.Rune.GetOffsetByCodePoints(string input, int index, int codePointOffset)
+5. java.lang.String.getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin)
+	* C# equivalent: System.Text.Rune.GetChars(string input, int srcBegin, int srcEnd, char[] dst, int dstBegin)

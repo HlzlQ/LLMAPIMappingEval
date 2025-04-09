@@ -1,0 +1,5 @@
+1. mx.nd.dot
+2. mx.nd.batch_dot
+3. mx.nd.sum
+4. mx.nd.linalg_gemm2
+5. mx.ndarray.tensordot

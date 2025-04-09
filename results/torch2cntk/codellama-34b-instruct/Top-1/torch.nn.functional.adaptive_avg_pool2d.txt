@@ -1,0 +1,2 @@
+
+CNTK has a similar API for adaptive average pooling called `cntk.ops.adaptive_avg_pool2d`.

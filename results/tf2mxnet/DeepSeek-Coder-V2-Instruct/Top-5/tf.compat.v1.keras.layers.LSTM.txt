@@ -1,0 +1,6 @@
+
+```python
+import tensorflow as tf
+tf_layer = tf.keras.layers.LSTM
+```
+Answer: LSTM, CuDNNLSTM, SimpleRNN, GRU, ConvLSTM2D

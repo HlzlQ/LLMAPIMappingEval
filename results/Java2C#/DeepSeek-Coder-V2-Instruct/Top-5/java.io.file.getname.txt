@@ -1,0 +1,5 @@
+1. FileInfo.FullName
+2. Path.GetFullPath
+3. Directory.GetFiles
+4. File.ReadAllText
+5. File.WriteAllText

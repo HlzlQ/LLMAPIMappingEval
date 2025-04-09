@@ -1,0 +1,5 @@
+System.Object.IsInstanceOfType  
+System.Type.IsAssignableFrom  
+System.Runtime.InteropServices.Marshal.IsComObject  
+System.Convert.ChangeType  
+System.Linq.Enumerable.OfType

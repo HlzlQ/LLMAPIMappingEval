@@ -1,0 +1,12 @@
+
+
+1. torch.nn.functional.pixel_shuffle
+2. torch.nn.PixelShuffle
+3. torch.nn.functional.conv_transpose2d
+4. torch.nn.ConvTranspose2d
+5. torch.nn.functional.interpolate
+6. torch.nn.Upsample
+7. torchvision.transforms.Resize
+8. tensorflow.compat.v1.image.resize_images
+9. tensorflow.compat.v1.space_to_depth
+10. torch.nn.PixelShuffle

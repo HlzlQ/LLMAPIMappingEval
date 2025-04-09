@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The corresponding MXNet API for torch.nn.MaxPool2d is mxnet.gluon.nn.MaxPool2d
+print("mxnet.gluon.nn.MaxPool2d")
+<jupyter_output>
+mxnet.gluon.nn.MaxPool2d

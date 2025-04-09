@@ -1,0 +1,5 @@
+NUnit.Framework.Assert.IsTrue  
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue  
+Xunit.Assert.True  
+FluentAssertions.Assertions.AssertionScopeExtensions.BeTrue  
+NSubstitute.Received.InOrderExtensions.ShouldBeTrue

@@ -1,0 +1,5 @@
+1. cntk.layers.MaxPooling
+2. cntk.layers.AveragePooling
+3. cntk.layers.Pooling
+4. cntk.layers.FractionalMaxPooling
+5. cntk.layers.SubsamplingLayer

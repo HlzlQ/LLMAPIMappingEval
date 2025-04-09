@@ -1,0 +1,7 @@
+  tf.keras.layers.Conv3DTranspose is a 3D transposed convolutional layer. The equivalent API in MXNet is:
+
+1. mxnet.gluon.nn.Conv3DTranspose
+2. mxnet.gluon.nn.Convolution3DTranspose
+3. mxnet.gluon.nn.Deconvolution3D
+4. mxnet.gluon.nn.UpSampling3D
+5. mxnet.gluon.nn.Upsampling3D

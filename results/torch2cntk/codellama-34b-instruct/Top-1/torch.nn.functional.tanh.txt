@@ -1,0 +1,2 @@
+
+CNTK has a similar function called `tanh` that can be used as a drop-in replacement for PyTorch's `torch.nn.functional.tanh`.

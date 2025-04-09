@@ -1,0 +1,5 @@
+1. System.Net.Sockets.NetworkStream.Write
+2. System.IO.Stream.Write
+3. System.Net.Sockets.Socket.Send
+4. System.IO.BinaryWriter.Write
+5. System.Net.WebRequest.GetRequestStream.Write

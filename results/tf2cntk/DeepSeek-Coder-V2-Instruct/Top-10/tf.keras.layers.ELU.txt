@@ -1,0 +1,2 @@
+
+Answer: BatchNormalization, Conv2D, Dense, Dropout, Flatten, MaxPooling2D, ReLU, Softmax, ELU, LeakyReLU

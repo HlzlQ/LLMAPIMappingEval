@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Add
+System.Collections.Generic.Dictionary<TKey,TValue>.Add
+System.Collections.Hashtable.Add
+System.Collections.Generic.SortedSet<T>.Add
+System.Collections.Generic.HashSet<T>.Add

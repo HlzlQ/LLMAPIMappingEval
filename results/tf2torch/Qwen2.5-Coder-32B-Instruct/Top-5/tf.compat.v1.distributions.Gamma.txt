@@ -1,0 +1,5 @@
+torch.distributions.gamma.Gamma  
+torch.distributions.Gamma  
+torch.nn.functional.gamma  
+torch.special.gammaln  
+torch.special.gamma

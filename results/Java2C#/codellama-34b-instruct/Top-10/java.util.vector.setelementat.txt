@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.List<T>.set_Item(int index, T value)
+2. System.Collections.ArrayList.set_Item(int index, object value)
+3. System.Collections.Specialized.NameObjectCollectionBase.set_Item(string name, object value)
+4. System.Collections.Specialized.StringCollection.set_Item(int index, string value)
+5. System.Collections.Generic.IList<T>.set_Item(int index, T value)
+6. System.Collections.ObjectModel.Collection<T>.set_Item(int index, T value)
+7. System.Collections.Specialized.StringDictionary.set_Item(string key, string value)
+8. System.Collections.Generic.IDictionary<TKey, TValue>.set_Item(TKey key, TValue value)
+9. System.Collections.Specialized.NameValueCollection.set_Item(string name, string value)
+10. System.Collections.Specialized.StringEnumerator.set_Item(int index, string value)

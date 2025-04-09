@@ -1,0 +1,10 @@
+1. System.Array.Sort
+2. System.Linq.OrderBy
+3. System.Linq.OrderByDescending
+4. System.Linq.ThenBy
+5. System.Linq.ThenByDescending
+6. System.Linq.Reverse
+7. System.Collections.Generic.List<T>.Sort
+8. System.Array.Sort(Array, Array)
+9. System.Array.Sort(Array, Int32, Int32)
+10. System.Array.Sort(Array, Comparison<T>)

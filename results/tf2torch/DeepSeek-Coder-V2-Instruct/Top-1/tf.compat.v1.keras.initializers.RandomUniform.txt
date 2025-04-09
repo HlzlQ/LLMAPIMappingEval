@@ -1,0 +1,6 @@
+
+```python
+import tensorflow as tf
+tf_initializer = tf.keras.initializers.RandomUniform()
+```
+Answer: torch.nn.init.uniform_

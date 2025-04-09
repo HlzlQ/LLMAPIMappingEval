@@ -1,0 +1,10 @@
+
+```python
+import torch
+```
+
+1. `torch.nn.init.ones_`
+2. `torch.zeros_like`
+3. `torch.full_like`
+4. `torch.ones_like`
+5. `torch.Tensor.fill_`

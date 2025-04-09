@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.compat.v1.layers.MaxPooling2D`:
+
+1. mxnet.ndarray.Pooling
+2. mxnet.gluon.nn.MaxPool2D
+3. mxnet.gluon.nn.AvgPool2D
+4. mxnet.ndarray.max_pooling
+5. mxnet.gluon.nn.GlobalMaxPool2D
+6. mxnet.gluon.nn.GlobalAvgPool2D
+7. mxnet.ndarray.pooling
+8. mxnet.gluon.nn.MaxPooling2D
+9. mxnet.ndarray.MaxPool2D
+10. mxnet.gluon.nn.Pooling

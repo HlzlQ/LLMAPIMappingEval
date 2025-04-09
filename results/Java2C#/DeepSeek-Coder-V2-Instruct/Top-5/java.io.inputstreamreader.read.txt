@@ -1,0 +1,5 @@
+1. System.IO.StreamReader.ReadToEnd
+2. System.IO.TextReader.ReadLine
+3. System.IO.TextReader.Read
+4. System.IO.StreamReader.ReadBlock
+5. System.IO.TextReader.ReadAsync

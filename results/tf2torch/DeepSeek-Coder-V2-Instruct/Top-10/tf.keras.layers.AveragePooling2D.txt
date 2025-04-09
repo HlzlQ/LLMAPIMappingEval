@@ -1,0 +1,4 @@
+
+Answer: 1. torch.nn.AvgPool2d
+2. torch.nn.AdaptiveAvgPool2d
+3. tensorflow.keras.layers.AveragePooling2D

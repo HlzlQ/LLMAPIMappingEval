@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.Vector.copyInto()`:
+
+1. `System.Array.CopyTo()`
+2. `System.Collections.Generic.List<T>.CopyTo()`
+3. `System.Collections.ArrayList.CopyTo()`
+4. `System.Collections.Specialized.NameObjectCollectionBase.CopyTo()`
+5. `System.Collections.Specialized.OrderedDictionary.CopyTo()`
+6. `System.Collections.Hashtable.CopyTo()`
+7. `System.Collections.SortedList.CopyTo()`
+8. `System.Collections.Stack.CopyTo()`
+9. `System.Collections.Queue.CopyTo()`
+10. `System.Collections.BitArray.CopyTo()`

@@ -1,0 +1,5 @@
+mxnet.gluon.loss.CosineSimilarity
+mxnet.ndarray.linalg_gemm2
+mxnet.ndarray.dot
+mxnet.ndarray.norm
+mxnet.ndarray.subtract

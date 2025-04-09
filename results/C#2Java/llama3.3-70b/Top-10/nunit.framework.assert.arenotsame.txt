@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `nunit.framework.assert.arenotsame`:
+
+1. org.junit.Assert.assertNotSame
+2. org.testng.Assert.assertNotSame
+3. junit.framework.Assert.assertNotSame
+4. org.hamcrest.MatcherAssert.assertNotSame
+5. org.junit.jupiter.api.Assertions.assertNotSame
+6. io.restassured.module.jsv.JsonSchemaValidator.assertNotSame
+7. org.apache.commons.lang3.Validate.assertNotSame
+8. com.google.common.truth.Truth.assertThatNotSame
+9. org.springframework.test.util.AssertionErrors.assertNotSame
+10. org.easymock.EasyMockAssert.assertNotSame

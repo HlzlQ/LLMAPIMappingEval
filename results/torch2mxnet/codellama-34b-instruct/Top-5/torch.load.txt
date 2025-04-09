@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.load | mxnet.ndarray.load |
+  | torch.save | mxnet.ndarray.save |
+  | torch.tensor | mxnet.ndarray.array |
+  | torch.device | mxnet.context |
+  | torch.dtype | mxnet.dtype |

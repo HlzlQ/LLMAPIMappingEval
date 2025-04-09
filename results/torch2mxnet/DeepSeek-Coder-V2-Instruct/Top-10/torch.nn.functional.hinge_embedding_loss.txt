@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.functional.relu` -> `mxnet.ndarray.relu`
+2. `torch.nn.functional.sigmoid` -> `mxnet.ndarray.sigmoid`
+3. `torch.nn.functional.tanh` -> `mxnet.ndarray.tanh`
+4. `torch.nn.functional.softmax` -> `mxnet.ndarray.softmax`
+5. `torch.nn.functional.log_softmax` -> `mxnet.ndarray.log_softmax`
+6. `torch.nn.functional.cross_entropy` -> `mxnet.ndarray.softmax_cross_entropy`
+7. `torch.nn.functional.mse_loss` -> `mxnet.ndarray.mean_squared_error`
+8. `torch.nn.functional.l1_loss` -> `mxnet.ndarray.abs_error`
+9. `torch.nn.functional.smooth_l1_loss` -> `mxnet.ndarray.smooth_l1`
+10. `torch.nn.functional.hinge_embedding_loss` -> `mxnet.ndarray.hinge_embedding`

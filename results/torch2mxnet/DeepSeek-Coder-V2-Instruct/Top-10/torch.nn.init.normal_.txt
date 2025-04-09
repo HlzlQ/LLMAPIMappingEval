@@ -1,0 +1,12 @@
+
+Answer: 
+1. mxnet.initializer.Normal
+2. mxnet.init.normal
+3. mxnet.contrib.ndarray.init.normal
+4. mxnet.gluon.nn.init.Normal
+5. mxnet.ndarray.random_normal
+6. mxnet.symbol.Variable
+7. mxnet.sym.Variable
+8. mxnet.initializer.Uniform
+9. mxnet.init.Uniform
+10. mxnet.contrib.ndarray.init.Uniform

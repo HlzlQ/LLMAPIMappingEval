@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: cntk.gradients
+<jupyter_output>
+<empty_output>

@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.activations.hard_sigmoid`:
+
+1. `torch.nn.HardSigmoid`
+2. `torch.nn.functional.hard_sigmoid`
+3. `torch.nn.modules.activation.HardSigmoid`
+4. `torch.nn.modules.activation.ReLU6`
+5. `torch.nn.modules.activation.LeakyReLU`
+6. `torch.nn.modules.activation.Softmax`
+7. `torch.nn.modules.activation.Sigmoid`
+8. `torch.nn.modules.activation.Tanh`
+9. `torch.nn.modules.activation.ReLU`
+10. `torch.nn.modules.activation.Softplus`

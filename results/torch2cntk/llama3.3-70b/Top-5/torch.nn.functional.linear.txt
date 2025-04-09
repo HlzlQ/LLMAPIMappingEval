@@ -1,0 +1,5 @@
+1. cntk.times
+2. cntk.element_times
+3. cntk.dense
+4. cntk.layers.Dense
+5. cntk.ops.times

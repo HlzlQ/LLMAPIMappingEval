@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.optim.SGD`:
+
+1. tf.keras.optimizers.SGD
+2. tf.train.GradientDescentOptimizer
+3. tf.optimizers.SGD
+4. tf.keras.optimizers.Momentum
+5. tf.train.MomentumOptimizer
+6. tf.optimizers.Adagrad
+7. tf.train.AdagradOptimizer
+8. tf.keras.optimizers.RMSprop
+9. tf.train.RMSPropOptimizer
+10. tf.optimizers.Adam

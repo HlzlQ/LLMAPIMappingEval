@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.optimizers.RMSprop")
+<jupyter_output>
+CNTK.optimizers.RMSprop

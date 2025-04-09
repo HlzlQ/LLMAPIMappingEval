@@ -1,0 +1,5 @@
+torch.tensor
+torch.clone
+torch.view
+torch.reshape
+torch.detach

@@ -1,0 +1,10 @@
+cntk.ops.reshape
+cntk.ops.permute_axes
+cntk.ops.slice
+cntk.ops.reduction_sum
+cntk.ops.element_times
+cntk.ops.element_divide
+cntk.ops.element_plus
+cntk.ops.element_minus
+cntk.ops.element_select
+cntk.ops.element_greater_than

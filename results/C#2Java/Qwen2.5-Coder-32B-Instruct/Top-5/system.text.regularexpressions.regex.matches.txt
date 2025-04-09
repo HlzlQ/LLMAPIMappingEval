@@ -1,0 +1,5 @@
+java.util.regex.Pattern.matches
+java.util.regex.Matcher.matches
+java.lang.String.matches
+java.text.BreakIterator.matches
+java.nio.file.Files.lines (not exactly matches but related)

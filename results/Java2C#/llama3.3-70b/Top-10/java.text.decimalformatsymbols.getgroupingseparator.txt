@@ -1,0 +1,10 @@
+1. System.Globalization.NumberFormatInfo.CurrencyGroupSeparator
+2. System.Globalization.CultureInfo.CurrentCulture.NumberFormat.GroupSeparator
+3. System.Globalization.NumberFormatInfo.NumberGroupSeparator
+4. System.Globalization.CultureInfo.InvariantCulture.NumberFormat.GroupSeparator
+5. System.Windows.Forms.NumericUpDown.GroupSeparator
+6. System.Globalization.TextInfo.ListSeparator
+7. System.Globalization.NumberFormatInfo.ThousandSeparator
+8. System.Globalization.CultureInfo.CurrentCulture.NumberFormat.CurrencyGroupSeparator
+9. System.Globalization.NumberFormatInfo.IntegerGroupSeparator
+10. System.Globalization.CultureInfo.InvariantCulture.NumberFormat.NumberGroupSeparator

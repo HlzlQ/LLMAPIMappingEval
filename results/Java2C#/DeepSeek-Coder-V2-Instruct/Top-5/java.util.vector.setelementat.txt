@@ -1,0 +1,5 @@
+1. System.Numerics.Vector<T>.SetElementAt(System.Numerics.Vector<T>, int, T)
+2. System.Collections.Generic.List<T>.Insert(int, T)
+3. System.Array.SetValue(object, int)
+4. System.Collections.ArrayList.Insert(int, object)
+5. System.Collections.Concurrent.ConcurrentQueue<T>.Enqueue(T)

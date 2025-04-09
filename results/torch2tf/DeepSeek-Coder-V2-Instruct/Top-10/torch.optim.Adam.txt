@@ -1,0 +1,11 @@
+
+Answer: 1. tf.train.AdamOptimizer
+2. tf.train.GradientDescentOptimizer
+3. tf.train.MomentumOptimizer
+4. tf.train.AdagradOptimizer
+5. tf.train.RMSpropOptimizer
+6. tf.train.ProximalAdagradOptimizer
+7. tf.train.ProximalGradientDescentOptimizer
+8. tf.train.AdadeltaOptimizer
+9. tf.train.AdamaxOptimizer
+10. tf.train.FtrlOptimizer

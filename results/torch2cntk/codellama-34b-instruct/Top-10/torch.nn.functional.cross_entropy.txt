@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.cross_entropy`:
+
+1. `cntk.losses.cross_entropy`
+2. `cntk.layers.CrossEntropyLoss`
+3. `cntk.objectives.cross_entropy`
+4. `cntk.metrics.cross_entropy`
+5. `cntk.train.cross_entropy`
+6. `cntk.losses.softmax_cross_entropy`
+7. `cntk.layers.SoftmaxCrossEntropyLoss`
+8. `cntk.objectives.softmax_cross_entropy`
+9. `cntk.metrics.softmax_cross_entropy`
+10. `cntk.train.softmax_cross_entropy`

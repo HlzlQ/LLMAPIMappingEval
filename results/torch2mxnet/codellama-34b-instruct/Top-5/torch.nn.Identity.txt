@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.Identity`:
+
+1. `mxnet.gluon.nn.Identity`
+2. `mxnet.symbol.Variable`
+3. `mxnet.ndarray.identity`
+4. `mxnet.initializer.Identity`
+5. `mxnet.optimizer.Identity`

@@ -1,0 +1,5 @@
+1. cntk.learners.SGDLearner
+2. cntk.learners.MomentumSGDLearner
+3. cntk.learners.NesterovSGDLearner
+4. cntk.learners.AdamLearner
+5. cntk.learners.RMSPropLearner

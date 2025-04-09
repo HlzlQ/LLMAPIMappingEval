@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.compat.v1.keras.layers.LSTMCell`:
+
+1. `nn.LSTMCell`
+2. `nn.RNNCell`
+3. `nn.GRUCell`
+4. `nn.LSTM`
+5. `nn.SequentialRNN`

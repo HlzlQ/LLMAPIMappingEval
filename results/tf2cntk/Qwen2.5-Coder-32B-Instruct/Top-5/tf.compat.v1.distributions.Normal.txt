@@ -1,0 +1,5 @@
+cntk.gaussian
+cntk.random.normal
+cntk.ops.random_normal
+cntk.distributions.normal
+cntk.layers.GaussianNoise

@@ -1,0 +1,29 @@
+C# does not have an exact equivalent to the Java `Pattern` class and its `compile()` method. However, you can use the `System.Text.RegularExpressions.Regex` class in C# to perform regular expression matching and replacement.
+
+Here are some of the most commonly used methods in the `Regex` class:
+
+* `IsMatch(string input, string pattern)`: Returns a boolean value indicating whether the input string matches the specified pattern.
+* `Match(string input, string pattern)`: Returns a `Match` object that contains information about the match, such as the matched text and any captured groups.
+* `Replace(string input, string pattern, string replacement)`: Replaces all occurrences of the specified pattern in the input string with the specified replacement string.
+* `Split(string input, string pattern)`: Splits the input string into an array of substrings using the specified pattern as a delimiter.
+
+For example, to compile a regular expression pattern and use it to match a string, you can use the following code in C#:
+```
+using System.Text.RegularExpressions;
+
+// Compile the regular expression pattern
+Regex regex = new Regex("[a-zA-Z0-9_]+");
+
+// Match the input string against the pattern
+Match match = regex.Match("hello123");
+
+// Check if the match was successful
+if (match.Success)
+{
+    Console.WriteLine("The input string matches the pattern.");
+}
+else
+{
+    Console.WriteLine("The input string does not match the pattern.");
+}
+```

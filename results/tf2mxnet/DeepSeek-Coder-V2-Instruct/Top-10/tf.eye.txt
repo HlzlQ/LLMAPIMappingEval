@@ -1,0 +1,17 @@
+
+
+```python
+import mxnet as mx
+```
+
+### Answer:
+1. `mxnet.ndarray.eye`
+2. `mxnet.symbol.eye`
+3. `mxnet.image.Eye`
+4. `mxnet.gluon.nn.Eye`
+5. `mxnet.contrib.eye`
+6. `mxnet.metric.Eye`
+7. `mxnet.initializer.Eye`
+8. `mxnet.optimizer.Eye`
+9. `mxnet.executor.Eye`
+10. `mxnet.rnn.Eye`

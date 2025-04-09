@@ -1,0 +1,5 @@
+1. Dictionary<TKey, TValue>.Add
+2. SortedDictionary<TKey, TValue>.Add
+3. ConcurrentDictionary<TKey, TValue>.TryAdd
+4. Hashtable.Add
+5. SortedList<TKey, TValue>.Add

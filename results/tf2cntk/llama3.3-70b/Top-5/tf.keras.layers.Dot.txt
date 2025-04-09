@@ -1,0 +1,5 @@
+1. CNTK Times
+2. CNTK ElementTimes
+3. CNTK TransposeTimes
+4. CNTK BatchNormalization
+5. CNTK ReduceSum

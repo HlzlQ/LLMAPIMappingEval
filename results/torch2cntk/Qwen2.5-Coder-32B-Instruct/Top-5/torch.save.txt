@@ -1,0 +1,5 @@
+cntk.ops.save_model
+cntk.io.MinibatchSource
+cntk.io.CTFDeserializer
+cntk.io.TextFormatDeserializer
+cntk.io.ImageDeserializer

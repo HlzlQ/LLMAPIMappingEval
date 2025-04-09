@@ -1,0 +1,5 @@
+tf.keras.layers.AveragePooling3D  
+tf.nn.avg_pool3d  
+tf.layers.average_pooling3d  
+tf.compat.v1.layers.average_pooling3d  
+tf.contrib.layers.avg_pool3d

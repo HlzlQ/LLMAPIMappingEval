@@ -1,0 +1,10 @@
+1. System.Console.Write
+2. System.IO.StreamWriter.Write
+3. System.IO.TextWriter.Write
+4. System.Diagnostics.Debug.Write
+5. System.Diagnostics.Trace.Write
+6. System.Web.UI.HtmlTextWriter.Write
+7. System.Xml.XmlWriter.WriteElementString
+8. System.Xml.XmlWriter.WriteString
+9. System.IO.StringWriter.Write
+10. System.Text.StringBuilder.Append

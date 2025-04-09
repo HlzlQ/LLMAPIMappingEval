@@ -1,0 +1,5 @@
+1. Assert.AreNotSame
+2. NUnit.Framework.Assert.AreNotEqual
+3. Xunit.Assert.NotSame
+4. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotEqual
+5. Chutzpah.Assert.AreNotEqual

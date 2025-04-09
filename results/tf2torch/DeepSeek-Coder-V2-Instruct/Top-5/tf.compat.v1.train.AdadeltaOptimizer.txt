@@ -1,0 +1,7 @@
+
+
+1. torch.optim.Adadelta
+2. torch.optim.RMSprop
+3. torch.optim.Adam
+4. torch.optim.SGD
+5. torch.optim.Adamax

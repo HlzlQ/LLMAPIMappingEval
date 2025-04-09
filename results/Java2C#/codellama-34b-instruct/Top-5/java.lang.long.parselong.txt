@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each of the Java APIs you mentioned:
+
+1. java.lang.Long.parseLong(String s)
+C# equivalent: System.Int64.Parse(string s)
+2. java.lang.Long.toString(long i)
+C# equivalent: System.Int64.ToString()
+3. java.lang.Long.toHexString(long i)
+C# equivalent: System.Int64.ToHexString()
+4. java.lang.Long.toOctalString(long i)
+C# equivalent: System.Int64.ToOctalString()
+5. java.lang.Long.toBinaryString(long i)
+C# equivalent: System.Int64.ToBinaryString()

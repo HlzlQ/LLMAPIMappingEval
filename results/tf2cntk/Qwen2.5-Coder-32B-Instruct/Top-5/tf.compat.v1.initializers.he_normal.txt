@@ -1,0 +1,5 @@
+cntk.layers.HeNormalInitializer  
+cntk.initializer.he_normal  
+cntk.layers.default_he_normal_initializer  
+cntk.initializer.HeNormal  
+cntk.layers.init.he_normal

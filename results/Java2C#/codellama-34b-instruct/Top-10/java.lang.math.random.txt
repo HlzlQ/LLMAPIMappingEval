@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the Java `java.lang.math.random` API:
+
+1. `System.Random`
+2. `System.Math.Random`
+3. `System.Security.Cryptography.RandomNumberGenerator`
+4. `System.Random.Next()`
+5. `System.Random.Next(int maxValue)`
+6. `System.Random.Next(int minValue, int maxValue)`
+7. `System.Math.Round(double value, int digits)`
+8. `System.Math.Floor(double value)`
+9. `System.Math.Ceiling(double value)`
+10. `System.Math.Truncate(double value)`

@@ -1,0 +1,10 @@
+1. System.Diagnostics.Debug.Assert
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+3. NUnit.Framework.Assert.IsNotNull
+4. xunit.assert.NotNull
+5. FluentAssertions.ObjectAssertions.BeNotNull
+6. Shouldly.ShouldNotBeNull
+7. NSubstitute.AssertWasNotCalled
+8. Moq.Mock.Verify
+9. Rhino.MocksExpectations.AssertWasNotCalled
+10. SpecFlow.Assist.Basic.NotNullOrEmpty

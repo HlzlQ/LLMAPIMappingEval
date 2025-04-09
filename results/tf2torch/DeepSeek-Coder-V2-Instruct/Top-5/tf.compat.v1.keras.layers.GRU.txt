@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+
+### Answer:
+1. `tf.keras.layers.GRU`
+2. `torch.nn.GRU`

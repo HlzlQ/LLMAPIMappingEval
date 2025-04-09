@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for 3D convolution:
+
+1. `torch.nn.Conv3d`
+2. `torch.nn.functional.conv3d`
+3. `torch.nn.modules.conv.Conv3d`
+4. `torch.nn.modules.conv.ConvTranspose3d`
+5. `torch.nn.modules.conv.Conv1d` (with a kernel size of 1)

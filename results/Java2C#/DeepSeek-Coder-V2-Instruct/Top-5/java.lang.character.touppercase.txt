@@ -1,0 +1,5 @@
+1. Char.ToUpper()
+2. String.ToUpper()
+3. TextInfo.ToUpper()
+4. CultureInfo.TextInfo.ToUpper()
+5. String.ToUpper(CultureInfo)

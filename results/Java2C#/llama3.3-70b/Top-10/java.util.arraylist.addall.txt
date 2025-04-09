@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.Concat
+3. System.Collections.Generic.List<T>.InsertRange
+4. System.Collections.ObjectModel.Collection<T>.AddRange
+5. System.Collections.Generic.SortedSet<T>.UnionWith
+6. System.Collections.Generic.HashSet<T>.UnionWith
+7. System.Collections.Generic.Dictionary<TKey, TValue>.AddRange
+8. System.Data.DataTable.ImportRow
+9. System.Data.DataTable.Merge
+10. System.Collections.Generic.List<T>.InsertRange

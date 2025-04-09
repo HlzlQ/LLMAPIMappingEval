@@ -1,0 +1,5 @@
+java.lang.StringBuilder.getChars
+java.lang.AbstractStringBuilder.getChars
+java.nio.CharBuffer.put
+java.util.Arrays.copyOfRange
+java.lang.System.arraycopy

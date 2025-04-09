@@ -1,0 +1,5 @@
+java.lang.Character.isUpperCase
+java.util.Objects.requireNonNull
+java.text.Normalizer.normalize
+java.nio.charset.CharsetEncoder.canEncode
+java.lang.String.toUpperCase

@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.distributions.normal.Normal`:
+
+1. tf.distributions.Normal
+2. tfp.distributions.Normal
+3. tf.random.normal
+4. tf.distributions.TruncatedNormal
+5. tfp.distributions.TruncatedNormal
+6. tf.keras.initializers.RandomNormal
+7. tfp.bijectors.Scale
+8. tfp.distributions.LogNormal
+9. tfp.distributions.InverseGaussian
+10. tfp.distributions.HalfNormal

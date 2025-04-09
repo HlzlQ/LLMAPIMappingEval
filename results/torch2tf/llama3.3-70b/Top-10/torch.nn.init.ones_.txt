@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.init.ones_`:
+
+1. tf.ones
+2. tf.fill
+3. tf.constant
+4. tf.initializers.ones
+5. tf.keras.initializers.Ones
+6. tf.keras.layers.Input(shape=..., initial_value=1)
+7. tf.Variable(tf.ones())
+8. tf.assign
+9. tf.scatter_update
+10. tf.where

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.losses.BinaryCrossentropy`:
+
+1. `cntk.losses.binary_crossentropy`
+2. `cntk.losses.cross_entropy`
+3. `cntk.losses.binary_hinge`
+4. `cntk.losses.squared_hinge`
+5. `cntk.losses.multi_class_hinge`

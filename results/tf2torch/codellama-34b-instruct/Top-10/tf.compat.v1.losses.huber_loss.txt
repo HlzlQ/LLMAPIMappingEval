@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that are similar to the TensorFlow API `tensorflow.compat.v1.losses.huber_loss`:
+
+1. `torch.nn.HuberLoss`
+2. `torch.nn.SmoothL1Loss`
+3. `torch.nn.MSELoss`
+4. `torch.nn.L1Loss`
+5. `torch.nn.CrossEntropyLoss`
+6. `torch.nn.NLLLoss`
+7. `torch.nn.BCELoss`
+8. `torch.nn.BCEWithLogitsLoss`
+9. `torch.nn.MarginRankingLoss`
+10. `torch.nn.MultiLabelSoftMarginLoss`

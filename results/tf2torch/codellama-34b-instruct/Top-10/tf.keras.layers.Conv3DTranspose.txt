@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `Conv3DTranspose`:
+
+1. `torch.nn.ConvTranspose3d`
+2. `torch.nn.ConvTranspose3dWithBias`
+3. `torch.nn.ConvTranspose3dWithoutBias`
+4. `torch.nn.ConvTranspose3dWithDilation`
+5. `torch.nn.ConvTranspose3dWithPadding`
+6. `torch.nn.ConvTranspose3dWithStride`
+7. `torch.nn.ConvTranspose3dWithKernelSize`
+8. `torch.nn.ConvTranspose3dWithDilationAndPadding`
+9. `torch.nn.ConvTranspose3dWithDilationAndStride`
+10. `torch.nn.ConvTranspose3dWithKernelSizeAndStride`

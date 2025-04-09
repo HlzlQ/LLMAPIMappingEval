@@ -1,0 +1,5 @@
+1. org.junit.Assert.assertTrue
+2. org.testng.Assert.assertTrue
+3. junit.framework.Assert.assertTrue
+4. org.hamcrest.MatcherAssert.assertTrue
+5. org.junit.internal.matchers.JUnitMatchers.assertTruth

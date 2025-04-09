@@ -1,0 +1,5 @@
+1. mx.ndarray.Pooling
+2. mx.gluon.nn.MaxPool2D
+3. mxnet.ndarray.max_pooling
+4. mx.gluon.nn.AvgPool2D 
+5. mxnet.gluon.nn.MaxPool2D

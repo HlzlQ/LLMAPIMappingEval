@@ -1,0 +1,12 @@
+
+CNTK does not have an exact equivalent of TensorFlow's `depth_to_space` function. However, you can achieve a similar result using CNTK's `reshape` and `transpose` functions. Here's an example:
+```csharp
+// TensorFlow code
+output = tf.depth_to_space(input, block_size=2)
+
+// CNTK equivalent
+output = cntk.reshape(cntk.transpose(input, (0, 3, 1, 2)), (0, -1))
+```
+In this example, `input` is the input tensor, and `block_size` is a parameter that specifies the size of the spatial block to be moved. The `depth_to_space` function in TensorFlow moves the depth dimension to the spatial dimensions, effectively increasing the number of feature maps by a factor of `block_size`.
+
+In CNTK, we first transpose the input tensor using `cntk.transpose`, which moves the channel dimension (i.e., the third dimension) to the second position. We then reshape the tensor using `cntk.reshape` to create a new shape with the same number of elements as the original tensor, but with the channel dimension moved to the first position. This effectively achieves the same result as TensorFlow's `depth_to_space` function.

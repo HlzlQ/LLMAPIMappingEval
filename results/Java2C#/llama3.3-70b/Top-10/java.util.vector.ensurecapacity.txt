@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Capacity
+2. System.Collections.Generic.List<T>.EnsureCapacity
+3. System.Collections.ArrayList.Capacity
+4. System.Collections.ArrayList.EnsureCapacity
+5. System.Collections.Generic.Collection<T>.SetCapacity
+6. System.Collections.ObjectModel.Collection<T>.SetCapacity
+7. System.Data.DataTable.MinimumCapacity
+8. System.Data.DataTable.Capacity
+9. System.Collections.Specialized.NameValueCollection.Capacity
+10. System.Collections.Hashtable.Capacity

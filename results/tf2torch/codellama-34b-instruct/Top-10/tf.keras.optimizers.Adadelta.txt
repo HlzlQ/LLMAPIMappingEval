@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.Adadelta`:
+
+1. `torch.optim.Adadelta`
+2. `torch.optim.AdadeltaOptimizer`
+3. `torch.optim.AdadeltaLRScheduler`
+4. `torch.optim.AdadeltaMomentum`
+5. `torch.optim.AdadeltaNesterov`
+6. `torch.optim.AdadeltaRMSProp`
+7. `torch.optim.AdadeltaSGD`
+8. `torch.optim.AdadeltaSparse`
+9. `torch.optim.AdadeltaWithDecay`
+10. `torch.optim.AdadeltaWithWarmup`

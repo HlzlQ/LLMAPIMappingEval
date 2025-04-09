@@ -1,0 +1,5 @@
+1. java.lang.System.arraycopy
+2. java.util.Arrays.copyOf
+3. java.util.Collections.copy
+4. java.nio.ByteBuffer.copy
+5. java.lang.Object.clone

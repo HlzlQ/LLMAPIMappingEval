@@ -1,0 +1,5 @@
+1. cntk.layers.Sequential
+2. cntk.layers.LayerStack
+3. cntk.layers.DenseLayer
+4. cntk.layers.For
+5. cntk.layers.Stack

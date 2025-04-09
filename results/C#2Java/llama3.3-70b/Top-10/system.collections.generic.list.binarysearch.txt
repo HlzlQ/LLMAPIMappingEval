@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.List.BinarySearch` in C#:
+
+1. java.util.Arrays.binarySearch
+2. java.util.Collections.binarySearch
+3. java.util.ArrayList.indexOf
+4. java.util.LinkedList.indexOf
+5. java.util.Vector.indexOf
+6. java.util.Stack.search
+7. javax.swing.DefaultListModel.indexOf
+8. java.awt.List.indexOf
+9. java.util.concurrent.CopyOnWriteArrayList.indexOf
+10. org.apache.commons.collections.ListUtils.binarySearch

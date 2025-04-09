@@ -1,0 +1,12 @@
+
+
+1. tf.clip_by_global_norm
+2. tf.clip_by_value
+3. tf.train.GradientDescentOptimizer
+4. tf.train.AdamOptimizer
+5. tf.train.RMSPropOptimizer
+6. tf.keras.optimizers.SGD
+7. tf.keras.optimizers.Adam
+8. tf.keras.optimizers.RMSprop
+9. tf.contrib.layers.optimize_loss
+10. tf.train.GradientDescentOptimizer

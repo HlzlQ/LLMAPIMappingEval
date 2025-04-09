@@ -1,0 +1,5 @@
+java.util.List.get
+java.util.ArrayList.get
+java.util.LinkedList.get
+java.util.Vector.get
+java.util.Stack.get

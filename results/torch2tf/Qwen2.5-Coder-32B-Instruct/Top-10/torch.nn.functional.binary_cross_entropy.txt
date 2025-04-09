@@ -1,0 +1,10 @@
+tf.keras.losses.BinaryCrossentropy  
+tf.nn.sigmoid_cross_entropy_with_logits  
+tf.compat.v1.nn.sigmoid_cross_entropy_with_logits  
+tf.math.log_sigmoid  
+tf.reduce_mean  
+tf.reduce_sum  
+tf.nn.softmax_cross_entropy_with_logits_v2  
+tf.nn.weighted_cross_entropy_with_logits  
+tf.nn.compute_weighted_loss  
+tf.keras.backend.binary_crossentropy

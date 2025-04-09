@@ -1,0 +1,12 @@
+  Here are ten Java methods that correspond to the C# `char.IsControl` method:
+
+1. `Character.isISOControl(char ch)`
+2. `Character.isWhitespace(char ch)`
+3. `Character.isSpaceChar(char ch)`
+4. `Character.isWhitespaceOrControl(char ch)`
+5. `Character.isControl(char ch)`
+6. `Character.isDefined(char ch)`
+7. `Character.isDigit(char ch)`
+8. `Character.isLetter(char ch)`
+9. `Character.isLetterOrDigit(char ch)`
+10. `Character.isJavaIdentifierStart(char ch)`

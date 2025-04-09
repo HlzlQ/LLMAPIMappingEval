@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that match the functionality of `tensorflow.compat.v1.layers.batch_normalization`:
+
+1. torch.nn.BatchNorm1d
+2. torch.nn.BatchNorm2d
+3. torch.nn.BatchNorm3d
+4. torch.nn.SyncBatchNorm
+5. torch.nn.functional.batch_norm

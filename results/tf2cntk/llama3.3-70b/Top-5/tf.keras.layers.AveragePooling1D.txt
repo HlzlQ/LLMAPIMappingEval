@@ -1,0 +1,7 @@
+Here are the 5 CNTK APIs that are similar to `tensorflow.keras.layers.AveragePooling1D`:
+
+1. `CNTK.Pooling`
+2. `CNTK.AveragePooling`
+3. `CNTK.PoolingLayer`
+4. `CNTK.AvgPool`
+5. `CNTK.PoolingOperation`

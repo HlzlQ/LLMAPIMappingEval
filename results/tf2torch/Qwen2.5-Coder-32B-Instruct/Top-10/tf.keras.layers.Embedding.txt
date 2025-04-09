@@ -1,0 +1,10 @@
+torch.nn.Embedding  
+torch.nn.functional.embedding  
+torch.nn.modules.sparse.Embedding  
+torch.nn.utils.rnn.pad_sequence  
+torch.nn.utils.rnn.pack_padded_sequence  
+torch.nn.utils.rnn.pad_packed_sequence  
+torch.nn.init.xavier_uniform_  
+torch.nn.init.kaiming_uniform_  
+torch.nn.init.normal_  
+torch.nn.init.constant_

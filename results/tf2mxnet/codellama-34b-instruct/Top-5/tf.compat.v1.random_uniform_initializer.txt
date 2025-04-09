@@ -1,0 +1,2 @@
+  tf.keras.initializers.RandomUniform(minval=0, maxval=1, seed=None)
+mxnet.initializer.Uniform(scale=1.0, name='uniform')

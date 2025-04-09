@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to `tensorflow.compat.v1.losses.huber_loss`:
+
+1. `torch.nn.HuberLoss`
+2. `torch.nn.SmoothL1Loss`
+3. `torch.nn.MSELoss`
+4. `torch.nn.L1Loss`
+5. `torch.nn.BCEWithLogitsLoss`

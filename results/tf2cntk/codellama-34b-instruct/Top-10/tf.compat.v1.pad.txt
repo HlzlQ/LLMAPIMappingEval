@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for padding:
+
+1. `cntk.layers.padding`
+2. `cntk.layers.zero_padding`
+3. `cntk.layers.reflect_padding`
+4. `cntk.layers.replicate_padding`
+5. `cntk.layers.circular_padding`
+6. `cntk.layers.symmetric_padding`
+7. `cntk.layers.asymmetric_padding`
+8. `cntk.layers.causal_padding`
+9. `cntk.layers.anti_causal_padding`
+10. `cntk.layers.same_padding`

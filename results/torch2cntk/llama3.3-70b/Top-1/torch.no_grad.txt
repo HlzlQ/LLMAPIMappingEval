@@ -1,0 +1,1 @@
+`cntk.disable_training_mode`

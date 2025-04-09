@@ -1,0 +1,1 @@
+System.Text.StringBuilder.CopyTo(Int32 sourceIndex, Char[] destination, Int32 destinationIndex, Int32 count)

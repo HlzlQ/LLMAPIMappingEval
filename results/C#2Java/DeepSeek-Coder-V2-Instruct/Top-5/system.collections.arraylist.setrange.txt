@@ -1,0 +1,5 @@
+1. java.util.ArrayList.subList(int start, int end)
+2. java.util.ArrayList.set(int index, E element)
+3. java.util.ArrayList.addAll(Collection<? extends E> c)
+4. java.util.ArrayList.toArray()
+5. java.util.ArrayList.ensureCapacity(int minCapacity)

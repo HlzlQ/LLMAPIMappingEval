@@ -1,0 +1,10 @@
+1. System.Text.RegularExpressions.Match.Groups
+2. System.Text.RegularExpressions.GroupCollection
+3. System.Text.RegularExpressions.Match.Result
+4. System.Text.RegularExpressions.Capture
+5. System.Text.RegularExpressions.Group
+6. System.Text.RegularExpressions.Matcher
+7. Microsoft.VisualBasic.RegularExpressions.MatchObject.Groups
+8. System.Text.RegularExpressions.Regex.Match
+9. System.Text.RegularExpressions.Match.Value
+10. System.Text.RegularExpressions.Group.Name

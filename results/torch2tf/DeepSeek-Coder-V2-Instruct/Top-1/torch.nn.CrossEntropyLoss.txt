@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.keras.losses.SparseCategoricalCrossentropy
+<jupyter_output>
+<empty_output>

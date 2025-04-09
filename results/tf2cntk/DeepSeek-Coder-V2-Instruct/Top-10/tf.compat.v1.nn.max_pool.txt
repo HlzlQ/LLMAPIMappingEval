@@ -1,0 +1,11 @@
+
+Answer: 1. max_pool
+2. avg_pool
+3. global_max_pool
+4. global_avg_pool
+5. pool
+6. max_pooling2d
+7. average_pooling2d
+8. global_max_pooling2d
+9. global_average_pooling2d
+10. pooling

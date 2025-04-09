@@ -1,0 +1,15 @@
+
+"""
+
+cntk_pad = [
+    "Pad",
+    "MirrorPad",
+    "ConstantPad2d",
+    "ReplicationPad2d",
+    "ZeroPad2d",
+    "ConstantPad1d",
+    "ReplicationPad1d",
+    "ZeroPad1d",
+    "ConstantPad3d",
+    "ReplicationPad3d"
+]

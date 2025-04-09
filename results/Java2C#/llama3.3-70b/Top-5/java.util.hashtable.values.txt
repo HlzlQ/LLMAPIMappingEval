@@ -1,0 +1,5 @@
+1. System.Collections.Hashtable.Values
+2. System.Collections.Generic.Dictionary<TKey,TValue>.Values
+3. System.Linq.Enumerable.Values
+4. System.Collections.IDictionary.Values
+5. System.Collections.Specialized.NameValueCollection.Values

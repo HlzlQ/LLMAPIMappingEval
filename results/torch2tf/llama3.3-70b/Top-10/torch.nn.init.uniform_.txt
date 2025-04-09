@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.init.uniform_`:
+
+1. tf.random.uniform
+2. tf.keras.initializers.Uniform
+3. tf.initializers.uniform
+4. tf.uniform_initializer
+5. tf.random_normal_initializer
+6. tf.glorot_uniform_initializer
+7. tf.keras.layers.Initializer.uniform
+8. tf.initializers.RandomUniform
+9. tf.random.stateless_uniform
+10. tf.keras.initializers.VarianceScaling.uniform

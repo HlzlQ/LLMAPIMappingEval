@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent PyTorch APIs for `tensorflow.keras.optimizers.SGD`:
+
+1. torch.optim.SGD
+2. torch.optim.Adam
+3. torch.optim.RMSprop
+4. torch.optim.Adagrad
+5. torch.optim.Adadelta
+6. torch.optim.AdamW
+7. torch.optim.ASGD
+8. torch.optim.LBFGS
+9. torch.optim.NAdam
+10. torch.optim.RAdam

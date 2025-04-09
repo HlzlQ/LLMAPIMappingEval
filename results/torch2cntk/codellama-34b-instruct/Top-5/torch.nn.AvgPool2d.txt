@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `nn.AvgPool2d` API:
+
+1. `cntk.layers.AveragePooling2D`
+2. `cntk.layers.MaxPooling2D`
+3. `cntk.layers.GlobalAveragePooling2D`
+4. `cntk.layers.GlobalMaxPooling2D`
+5. `cntk.layers.AdaptiveAvgPooling2D`

@@ -1,0 +1,7 @@
+
+
+1. torch.autograd.backward
+2. torch.autograd.grad
+3. torch.nn.functional.cross_entropy
+4. torch.optim.SGD
+5. torch.Tensor.backward

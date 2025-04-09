@@ -1,0 +1,4 @@
+softmax(axis=-1) followed by log() 
+
+Alternatively: 
+log_softmax()

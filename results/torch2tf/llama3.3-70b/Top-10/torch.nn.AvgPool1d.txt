@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.AvgPool1d`:
+
+1. tf.nn.avg_pool1d
+2. tf.layers.AveragePooling1D
+3. tf.compat.v1.nn.avg_pool
+4. tf.keras.layers.AveragePooling1D
+5. tf.nn.pool
+6. tf.layers.Pooling1D
+7. tf.compat.v1.layers.AveragePooling1D
+8. tf.keras.layers.Pooling1D
+9. tf.nn.avg_pool2d (with adjustments for 1D input)
+10. tf.keras.layers.GlobalAveragePooling1D

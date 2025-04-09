@@ -1,0 +1,14 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.MaxPool1d | mxnet.ndarray.max_pooling_1d |
+  | torch.nn.MaxPool2d | mxnet.ndarray.max_pooling_2d |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_3d |
+  | torch.nn.AvgPool1d | mxnet.ndarray.avg_pooling_1d |
+  | torch.nn.AvgPool2d | mxnet.ndarray.avg_pooling_2d |
+  | torch.nn.AvgPool3d | mxnet.ndarray.avg_pooling_3d |
+  | torch.nn.MaxUnpool1d | mxnet.ndarray.max_unpooling_1d |
+  | torch.nn.MaxUnpool2d | mxnet.ndarray.max_unpooling_2d |
+  | torch.nn.MaxUnpool3d | mxnet.ndarray.max_unpooling_3d |
+  | torch.nn.AvgUnpool1d | mxnet.ndarray.avg_unpooling_1d |
+  | torch.nn.AvgUnpool2d | mxnet.ndarray.avg_unpooling_2d |
+  | torch.nn.AvgUnpool3d | mxnet.ndarray.avg_unpooling_3d |

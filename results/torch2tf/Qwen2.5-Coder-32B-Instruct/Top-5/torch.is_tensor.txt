@@ -1,0 +1,5 @@
+tf.is_tensor  
+tf.debugging.assert_type  
+tf.TensorSpec.from_tensor  
+tf.convert_to_tensor  
+tf.raw_ops.IsTensor

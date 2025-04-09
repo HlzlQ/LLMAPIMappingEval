@@ -1,0 +1,5 @@
+1. System.Environment.GetEnvironmentVariable
+2. System.AppDomain.CurrentDomain.GetData
+3. Microsoft.Win32.Registry.GetValue
+4. System.Configuration.ConfigurationManager.AppSettings
+5. System.Diagnostics.Process.StartInfo.EnvironmentVariables

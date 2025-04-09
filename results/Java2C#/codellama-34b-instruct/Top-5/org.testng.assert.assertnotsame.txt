@@ -1,0 +1,8 @@
+
+The following are the five most likely C# APIs that correspond to the Java API `org.testng.assert.assertnotsame`:
+
+1. `Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame`
+2. `NUnit.Framework.Assert.AreNotSame`
+3. `xunit.assert.AreNotSame`
+4. `FluentAssertions.AssertionExtensions.ShouldNotBeSameAs`
+5. `NSubstitute.ReceivedExtensions.DidNotReceive`

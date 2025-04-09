@@ -1,0 +1,5 @@
+1. System.Random
+2. System.Security.Cryptography.RandomNumberGenerator
+3. System.Diagnostics.Stopwatch
+4. System.Environment.TickCount
+5. System.Guid.NewGuid

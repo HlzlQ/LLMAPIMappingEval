@@ -1,0 +1,11 @@
+
+Answer: 1. tf.keras.losses.cosine_similarity
+2. tf.linalg.matmul
+3. tf.math.reduce_mean
+4. tf.norm
+5. tf.nn.l2_normalize
+6. tf.keras.layers.LayerNormalization
+7. tf.keras.metrics.CosineSimilarity
+8. tf.image.resize
+9. tf.signal.cosine_similarity
+10. tf.math.divide

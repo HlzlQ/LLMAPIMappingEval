@@ -1,0 +1,17 @@
+
+
+```python
+import mxnet as mx
+```
+
+### Answer:
+1. `mxnet.ndarray.unique`
+2. `mxnet.ndarray.sort`
+3. `mxnet.ndarray.argsort`
+4. `mxnet.ndarray.take`
+5. `mxnet.ndarray.split`
+6. `mxnet.ndarray.concat`
+7. `mxnet.ndarray.slice`
+8. `mxnet.ndarray.reshape`
+9. `mxnet.ndarray.expand_dims`
+10. `mxnet.ndarray.transpose`

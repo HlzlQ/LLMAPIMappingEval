@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.optim.Adagrad`:
+
+1. tf.keras.optimizers.Adagrad
+2. tf.train.AdagradOptimizer
+3. tf.optimizers.Adagrad
+4. tf.keras.optimizers.AdagradLR
+5. tf.train.AdagradDAOptimizer
+6. tf.optimizers.AdagradV2
+7. tf.keras.optimizers.SparseAdagrad
+8. tf.train.SparseAdagradOptimizer
+9. tf.optimizers.SparseAdagrad
+10. tf.compat.v1.train.AdagradOptimizer

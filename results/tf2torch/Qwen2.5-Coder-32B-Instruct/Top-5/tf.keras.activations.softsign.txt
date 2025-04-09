@@ -1,0 +1,5 @@
+torch.nn.functional.softsign  
+torch.nn.Softsign  
+torch.nn.functional.sigmoid  
+torch.nn.Sigmoid  
+torch.nn.functional.tanh

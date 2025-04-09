@@ -1,0 +1,4 @@
+
+Answer: 1. tf.math.softsign
+2. tf.keras.activations.softsign
+3. tf.nn.softsign

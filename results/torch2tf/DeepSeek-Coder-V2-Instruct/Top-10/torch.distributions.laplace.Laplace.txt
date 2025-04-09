@@ -1,0 +1,13 @@
+
+Answer: ```
+1. tf.compat.v1.distributions.Laplace
+2. tfp.distributions.Laplace
+3. tf.distribute.experimental.distributions.Laplace
+4. tf.keras.layers.GaussianProcess
+5. tf.keras.layers.LaplacianNoise
+6. tf.nn.sampled_softmax_loss
+7. tf.contrib.distributions.Laplace
+8. tf.compat.v2.distributions.Laplace
+9. tfp.distributions.laplace.Laplace
+10. tf.keras.layers.GaussianProcessRegressionModel
+```

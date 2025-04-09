@@ -1,0 +1,10 @@
+1. Console.WriteLine
+2. System.Console.Write
+3. System.Console.WriteLine
+4. System.Diagnostics.Debug.WriteLine
+5. System.Diagnostics.Trace.WriteLine
+6. System.IO.TextWriter.WriteLine
+7. System.Windows.Forms.Control.Text
+8. System.Web.UI.HtmlControls.HtmlForm.Write
+9. System.Web.UI.Page.OutputCache
+10. System.Web.HttpResponse.Write

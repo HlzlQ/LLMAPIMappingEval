@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.PixelShuffle`:
+
+1. `mxnet.ndarray.pixel_shuffle`
+2. `mxnet.ndarray.upsample`
+3. `mxnet.ndarray.resize`
+4. `mxnet.ndarray.reshape`
+5. `mxnet.ndarray.transpose`
+6. `mxnet.ndarray.permute`
+7. `mxnet.ndarray.flip`
+8. `mxnet.ndarray.rotate`
+9. `mxnet.ndarray.crop`
+10. `mxnet.ndarray.pad`

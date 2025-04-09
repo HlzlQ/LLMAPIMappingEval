@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that are similar to the TensorFlow API `tensorflow.compat.v1.distributions.Exponential`:
+
+1. `mxnet.ndarray.exponential`
+2. `mxnet.random.exponential`
+3. `mxnet.distributions.exponential`
+4. `mxnet.stats.exponential`
+5. `mxnet.math.exponential`
+6. `mxnet.ndarray.exp`
+7. `mxnet.random.exp`
+8. `mxnet.distributions.exp`
+9. `mxnet.stats.exp`
+10. `mxnet.math.exp`

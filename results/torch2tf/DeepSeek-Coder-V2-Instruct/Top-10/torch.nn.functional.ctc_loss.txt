@@ -1,0 +1,4 @@
+
+Answer: 1. tf.compat.v1.nn.ctc_loss
+2. tf.nn.ctc_loss
+3. torch.nn.functional.ctc_loss

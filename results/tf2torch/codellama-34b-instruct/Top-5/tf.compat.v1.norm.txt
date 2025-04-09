@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that correspond to the given TensorFlow API:
+
+1. `torch.norm`
+2. `torch.linalg.norm`
+3. `torch.nn.functional.normalize`
+4. `torch.nn.functional.batch_norm`
+5. `torch.nn.functional.instance_norm`

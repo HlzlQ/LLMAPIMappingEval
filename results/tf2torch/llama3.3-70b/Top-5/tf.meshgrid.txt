@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that have similar functions to `tensorflow.meshgrid`:
+
+1. torch.meshgrid
+2. torch.tensor.meshgrid
+3. torch.arange
+4. torch.linspace
+5. torch.ndgrid

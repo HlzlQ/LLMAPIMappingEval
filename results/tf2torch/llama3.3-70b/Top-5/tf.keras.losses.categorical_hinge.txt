@@ -1,0 +1,5 @@
+1. torch.nn.functional.hinge_embedding_loss
+2. torch.nn.HingeEmbeddingLoss
+3. torch.nn.CosineEmbeddingLoss
+4. torch.nn.MarginRankingLoss
+5. torch.nn.TripletMarginLoss

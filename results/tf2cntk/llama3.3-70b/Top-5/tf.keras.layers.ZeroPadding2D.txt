@@ -1,0 +1,5 @@
+1. cntk.layers.Convolution
+2. cntk.layers.Pooling
+3. cntk.layers.For
+4. cntk.layers.Slice
+5. cntk.layers.Pad

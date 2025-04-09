@@ -1,0 +1,10 @@
+1. System.Random.Next
+2. System.Random.NextInt32
+3. System.Security.Cryptography.RNGCryptoServiceProvider.GetBytes
+4. System.Random.NextBytes
+5. System.Security.Cryptography.RandomNumberGenerator.GetBytes
+6. System.Random.NextDouble
+7. System.Security.Cryptography.RNGCryptoServiceProvider.GetNonZeroBytes
+8. Microsoft.VisualStudio.TestTools.UnitTesting.TestContext.Random
+9. System.Diagnostics.Process.StartTime.Random
+10. System.Numerics.BigInteger.GenerateRandom

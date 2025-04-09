@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.String.Substring(int startIndex, int length)
+2. System.Text.RegularExpressions.Regex.Replace(string input, string pattern, string replacement)
+3. System.Text.RegularExpressions.Regex.Match(string input, string pattern)
+4. System.Text.RegularExpressions.Regex.Split(string input, string pattern)
+5. System.String.IndexOf(string value)
+6. System.String.LastIndexOf(string value)
+7. System.String.StartsWith(string value)
+8. System.String.EndsWith(string value)
+9. System.String.Contains(string value)
+10. System.String.Replace(string oldValue, string newValue)

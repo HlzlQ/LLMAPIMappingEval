@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. `torch.nn.functional.mse_loss` -> `mxnet.gluon.loss.L2Loss`
+2. `torch.nn.functional.l1_loss` -> `mxnet.gluon.loss.L1Loss`
+3. `torch.nn.functional.smooth_l1_loss` -> `mxnet.gluon.loss.HuberLoss`
+4. `torch.nn.functional.cross_entropy` -> `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+5. `torch.nn.functional.binary_cross_entropy` -> `mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss`
+6. `torch.nn.functional.softmax` -> `mxnet.ndarray.softmax`
+7. `torch.nn.functional.log_softmax` -> `mxnet.ndarray.log_softmax`
+8. `torch.nn.functional.relu` -> `mxnet.ndarray.relu`
+9. `torch.nn.functional.sigmoid` -> `mxnet.ndarray.sigmoid`
+10. `torch.nn.functional.huber_loss` -> `mxnet.gluon.loss.HuberLoss`

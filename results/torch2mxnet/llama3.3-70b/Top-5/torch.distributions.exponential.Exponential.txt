@@ -1,0 +1,5 @@
+1. mx.nd.random.exponential
+2. mx.gluon.loss.L2Loss
+3. mx.gluon.loss.LogisticLoss
+4. mx.gluon.loss.KLDivergence
+5. mx.gluon.loss.PoissonNLLLoss

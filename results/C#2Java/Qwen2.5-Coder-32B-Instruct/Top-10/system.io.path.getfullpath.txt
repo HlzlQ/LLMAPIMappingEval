@@ -1,0 +1,10 @@
+java.nio.file.Paths.get
+java.io.File.getAbsolutePath
+java.nio.file.Path.toAbsolutePath
+java.nio.file.Files.readSymbolicLink
+java.nio.file.Paths.resolve
+java.nio.file.Path.normalize
+java.nio.file.Paths.toRealPath
+java.nio.file.Paths.toUri
+java.nio.file.Path.relativize
+java.nio.file.Paths.getFileSystem

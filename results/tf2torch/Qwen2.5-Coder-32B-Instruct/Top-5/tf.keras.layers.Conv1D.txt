@@ -1,0 +1,5 @@
+torch.nn.Conv1d  
+torch.nn.functional.conv1d  
+torch.nn.utils.weight_norm  
+torch.nn.utils.spectral_norm  
+torch.nn.modules.conv._ConvNd

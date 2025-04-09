@@ -1,0 +1,2 @@
+
+CNTK equivalent: `cntk.layers.AveragePooling2D`

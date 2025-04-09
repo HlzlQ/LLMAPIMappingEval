@@ -1,0 +1,10 @@
+java.lang.Math.ceil  
+java.lang.StrictMath.ceil  
+java.math.BigDecimal.setScale  
+java.math.RoundingMode.CEILING  
+java.util.stream.DoubleStream.max  
+java.util.stream.IntStream.max  
+java.util.stream.LongStream.max  
+java.util.Collections.max  
+java.util.Comparator.comparingDouble  
+java.util.Comparator.comparingInt

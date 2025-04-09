@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.List.GetEnumerator` in C#:
+
+1. java.util.ArrayList.iterator()
+2. java.util.LinkedList.iterator()
+3. java.util.Vector.iterator()
+4. java.util.Stack.iterator()
+5. java.util.AbstractList.iterator()
+6. java.util.Collections.list().iterator()
+7. java.util.concurrent.CopyOnWriteArrayList.iterator()
+8. java.util.concurrent.LinkedBlockingDeque.iterator()
+9. java.util.ArrayList.listIterator()
+10. java.util.AbstractSequentialList.iterator()

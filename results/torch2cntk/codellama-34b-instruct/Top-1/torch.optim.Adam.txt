@@ -1,0 +1,4 @@
+
+CNTK equivalent of `torch.optim.Adam`:
+
+* `cntk.learners.adam`

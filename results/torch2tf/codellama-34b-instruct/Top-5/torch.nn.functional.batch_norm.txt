@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for batch normalization:
+
+1. `tf.keras.layers.BatchNormalization`
+2. `tf.layers.batch_normalization`
+3. `tf.nn.batch_normalization`
+4. `tf.contrib.layers.batch_normalization`
+5. `tf.compat.v1.layers.batch_normalization`

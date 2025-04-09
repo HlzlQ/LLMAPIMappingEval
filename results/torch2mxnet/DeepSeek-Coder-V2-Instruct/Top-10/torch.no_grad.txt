@@ -1,0 +1,25 @@
+
+
+```python
+import mxnet as mx
+from mxnet import autograd
+
+# Example usage:
+# ctx = mx.gpu(0)
+# net = Net()
+# net.initialize(ctx=ctx)
+# with autograd.record():
+#     output = net(data)
+```
+
+### 答案：
+1. `torch.no_grad` -> `mxnet.autograd.pause()`
+2. `torch.tensor` -> `mx.ndarray.array`
+3. `torch.randn` -> `mx.random.normal`
+4. `torch.cat` -> `mx.nd.concat`
+5. `torch.sum` -> `mx.nd.sum`
+6. `torch.mean` -> `mx.nd.mean`
+7. `torch.max` -> `mx.nd.max`
+8. `torch.min` -> `mx.nd.min`
+9. `torch.transpose` -> `mx.nd.transpose`
+10. `torch.unsqueeze` -> `mx.nd.expand_dims`

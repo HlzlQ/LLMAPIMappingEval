@@ -1,0 +1,14 @@
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+```
+
+### Answer:
+1. `mxnet.ndarray.softmax`
+2. `mxnet.gluon.nn.Activation` with argument `activation='softmax'`
+3. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+4. `mxnet.gluon.Block`
+5. `mxnet.gluon.HybridBlock`

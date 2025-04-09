@@ -1,0 +1,10 @@
+java.lang.Double.isNaN
+java.lang.Float.isNaN
+java.math.BigDecimal.isNaN
+java.math.BigInteger.isNaN
+java.util.OptionalDouble.isPresent
+java.util.OptionalDouble.isEmpty
+java.util.OptionalFloat.isPresent
+java.util.OptionalFloat.isEmpty
+java.util.stream.DoubleStream.anyMatch
+java.util.stream.IntStream.anyMatch

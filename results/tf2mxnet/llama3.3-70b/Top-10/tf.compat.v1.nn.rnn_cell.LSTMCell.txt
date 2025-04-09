@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.compat.v1.nn.rnn_cell.LSTMCell`:
+
+1. mxnet.ndarray LSTM
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.gluon.rnn.LSTMBasicCell
+4. mxnet.gluon.rnn.RNNCell
+5. mxnet.ndarray.rnn.LSTM
+6. mxnet.gluon.contrib.rnn.LSTMCell
+7. mxnet.gluon.contrib.rnn.VanillaLSTMCell
+8. mxnet.ndarray.rnn.GRU
+9. mxnet.gluon.rnn.GRUCell
+10. mxnet.gluon.rnn.BasicRNNCell

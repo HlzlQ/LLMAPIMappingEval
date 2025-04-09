@@ -1,0 +1,5 @@
+1. ParseLong(string s)
+2. TryParseLong(string s, out long result)
+3. Long.TryParse(string s, NumberStyles style, IFormatProvider provider, out long result)
+4. Int64.Parse(string s)
+5. Int64.TryParse(string s, out long result)

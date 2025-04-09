@@ -1,0 +1,10 @@
+1. System.String.Intern
+2. System.String.IsInterned
+3. System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode
+4. System.Object.GetType
+5. System.String.Equals
+6. System.String.CompareTo
+7. System.String.GetHashCode
+8. System.String.op_Equality
+9. System.String.op_Inequality
+10. System.Reflection.Assembly.Load

@@ -1,0 +1,7 @@
+JUnit is a unit testing framework for Java, and it provides several assertions to verify the behavior of code. In C#, there are several alternatives to JUnit assertions, but here are five APIs that provide similar functionality:
+
+1. NUnit.Framework.Assert.AreSame
+2. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+3. xunit.assert.same
+4. FluentAssertions.AssertionExtensions.ShouldBeSameAs
+5. ApprovalTests.Approvals.VerifySame

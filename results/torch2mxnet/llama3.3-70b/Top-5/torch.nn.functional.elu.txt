@@ -1,0 +1,5 @@
+1. mx.nd.LeakyReLU
+2. mx.gluon.nn.ELU
+3. mx.nd.Softsign
+4. mx.gluon.nn.SELU
+5. mx.gluon.nn.LeakyReLU

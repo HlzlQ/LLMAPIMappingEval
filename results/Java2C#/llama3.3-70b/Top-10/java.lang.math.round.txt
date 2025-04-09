@@ -1,0 +1,10 @@
+1. System.Math.Round
+2. System.Math.Ceiling
+3. System.Math.Floor
+4. System.Math.Truncate
+5. MathNet.Numerics.Statistics.Statistics.Round
+6. System.Decimal.Round
+7. System.Double.Round
+8. System.Single.Round
+9. Microsoft.VisualBasic.Math.Rounding.Round
+10. System.MidpointRounding

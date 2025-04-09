@@ -1,0 +1,3 @@
+
+torch.linalg.vector_norm
+torch.linalg.matrix_norm

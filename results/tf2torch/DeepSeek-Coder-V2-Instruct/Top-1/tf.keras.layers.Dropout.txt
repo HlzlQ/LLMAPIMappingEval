@@ -1,0 +1,9 @@
+
+<jupyter_text>
+Answer: ```pytorch.nn.Dropout```  Question 4: Which Python library would be suitable for implementing a convolutional neural network (CNN) in deep learning?
+<jupyter_code>
+print("TensorFlow")
+print("PyTorch")
+<jupyter_output>
+TensorFlow
+PyTorch

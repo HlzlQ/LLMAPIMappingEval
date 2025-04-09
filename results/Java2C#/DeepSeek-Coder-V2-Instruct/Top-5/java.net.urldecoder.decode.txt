@@ -1,0 +1,5 @@
+1. System.Uri.UnescapeDataString
+2. System.Web.HttpUtility.UrlDecode
+3. System.Net.WebUtility.UrlDecode
+4. System.Text.Encoding.UTF8.GetString
+5. System.Convert.FromBase64String

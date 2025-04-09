@@ -1,0 +1,5 @@
+1. mxnet.gluon.loss.PoissonNLLLoss
+2. mxnet.ndarray.Poisson
+3. mxnet.gluon.loss.SoftmaxCrossEntropyLoss 
+4. mxnet.gluon.loss.L2Loss 
+5. mxnet.gluon.loss.KLDivergence

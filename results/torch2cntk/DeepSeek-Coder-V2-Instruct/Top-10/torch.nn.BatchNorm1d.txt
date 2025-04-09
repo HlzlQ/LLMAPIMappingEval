@@ -1,0 +1,15 @@
+
+"""
+
+cntk_batchnorm = [
+    "BatchNormalization",
+    "BatchNorm",
+    "FusedBatchNorm",
+    "InstanceNormalization",
+    "LayerNormalization",
+    "GroupNormalization",
+    "SyncBatchNormalization",
+    "LocalResponseNormalization",
+    "CrossMapNormalization",
+    "WeightStandardization"
+]

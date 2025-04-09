@@ -1,0 +1,66 @@
+
+MXNet BatchNormalization
+```
+
+### 问题2：如何将TensorFlow的`tf.keras.layers.BatchNormalization`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.keras.layers.BatchNormalization is mxnet.gluon.nn.BatchNorm.
+```
+
+### 问题3：如何将TensorFlow的`tf.compat.v1.layers.conv2d`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.compat.v1.layers.conv2d is mxnet.gluon.nn.Conv2D.
+```
+
+### 问题4：如何将TensorFlow的`tf.keras.layers.Dense`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.keras.layers.Dense is mxnet.gluon.nn.Dense.
+```
+
+### 问题5：如何将TensorFlow的`tf.compat.v1.placeholder`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.compat.v1.placeholder is mxnet.symbol.Variable.
+```
+
+### 问题6：如何将TensorFlow的`tf.keras.Model`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.keras.Model is mxnet.gluon.Block or mxnet.gluon.nn.HybridBlock, depending on whether the model uses hybrid programming.
+```
+
+### 问题7：如何将TensorFlow的`tf.train.GradientDescentOptimizer`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.train.GradientDescentOptimizer is mxnet.optimizer.SGD.
+```
+
+### 问题8：如何将TensorFlow的`tf.keras.losses.SparseCategoricalCrossentropy`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.keras.losses.SparseCategoricalCrossentropy is mxnet.gluon.loss.SoftmaxCrossEntropyLoss.
+```
+
+### 问题9：如何将TensorFlow的`tf.data.Dataset`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.data.Dataset is not directly available as a single API, but you can use mxnet.io.DataIter to create custom data iterators similar to how DataLoader works in PyTorch or tf.data.Dataset in TensorFlow.
+```
+
+### 问题10：如何将TensorFlow的`tf.keras.metrics.Accuracy`转换为MXNet的API？
+
+```python
+#Answer:
+# MXNet equivalent for TensorFlow's tf.keras.metrics.Accuracy is mxnet.metric.Accuracy.
+```

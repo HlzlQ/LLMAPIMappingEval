@@ -1,0 +1,5 @@
+1. tf.nn.log_softmax
+2. tf.keras.activations.softmax
+3. tf.math.log
+4. tf.keras.layers.Softmax
+5. tf.nn.softmax_cross_entropy_with_logits

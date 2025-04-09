@@ -1,0 +1,10 @@
+1. System.Console.WriteLine
+2. System.IO.StreamWriter.WriteLine
+3. System.Diagnostics.Debug.WriteLine
+4. System.IO.TextWriter.WriteLine
+5. System.Web.UI.WebControls.Label.Write
+6. System.Windows.Forms.TextBox.AppendText
+7. System.IO.StringWriter.WriteLine
+8. System.Xml.XmlTextWriter.WriteLine
+9. System.Net.Sockets.NetworkStream.Write
+10. System.IO.File.WriteAllText

@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Remove
+System.Collections.Generic.LinkedList<T>.Remove
+System.Collections.Generic.Queue<T>.Dequeue
+System.Collections.Generic.Stack<T>.Pop
+System.Collections.Concurrent.ConcurrentBag<T>.TryTake

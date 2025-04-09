@@ -1,0 +1,2 @@
+
+Answer: torch.nn.UpsamplingBilinear2d, torch.nn.UpsamplingNearest2d, torch.nn.functional.interpolate, torch.nn.PixelShuffle, torch.nn.ConvTranspose2d

@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.functional.conv2d` -> `mxnet.ndarray.Convolution`
+2. `torch.nn.functional.relu` -> `mxnet.ndarray.Activation` with `act_type='relu'`
+3. `torch.nn.functional.max_pool2d` -> `mxnet.ndarray.Pooling` with `pool_type='max'`
+4. `torch.nn.functional.linear` -> `mxnet.symbol.FullyConnected` or `mxnet.ndarray.FullyConnected`
+5. `torch.nn.functional.dropout` -> `mxnet.ndarray.Dropout`
+6. `torch.nn.functional.batch_norm` -> `mxnet.ndarray.BatchNorm`
+7. `torch.nn.functional.softmax` -> `mxnet.ndarray.SoftmaxActivation`
+8. `torch.nn.functional.cross_entropy` -> `mxnet.ndarray.SoftmaxOutput` or `mxnet.symbol.SoftmaxCrossEntropyLoss`
+9. `torch.nn.functional.sigmoid` -> `mxnet.ndarray.Activation` with `act_type='sigmoid'`
+10. `torch.nn.functional.ctc_loss` -> `mxnet.ndarray.CTCLoss`

@@ -1,0 +1,3 @@
+```
+CNTK.ops.MaxPooling3D
+```

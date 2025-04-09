@@ -1,0 +1,6 @@
+
+torch.nn.functional.max_pool3d
+mxnet.ndarray.Pooling
+mxnet.symbol.Pooling
+mxnet.gluon.nn.MaxPool3D
+mxnet.contrib.ndarray.MaxPooling3D

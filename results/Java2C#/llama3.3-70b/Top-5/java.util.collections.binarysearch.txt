@@ -1,0 +1,5 @@
+1. System.Array.BinarySearch
+2. System.Collections.Generic.List<T>.BinarySearch
+3. System.Collections.Generic.SortedSet<T>.GetViewBetween
+4. System.Linq.Enumerable.Range
+5. System.Collections.Generic.SortedDictionary<TKey, TValue>.ContainsKey

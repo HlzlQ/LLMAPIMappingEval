@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.distributions.normal.Normal`:
+
+1. `CNTK.Distributions.Normal`
+2. `CNTK.Distributions.NormalDistribution`
+3. `CNTK.Distributions.Gaussian`
+4. `CNTK.Distributions.GaussianDistribution`
+5. `CNTK.Distributions.NormalRandomVariable`

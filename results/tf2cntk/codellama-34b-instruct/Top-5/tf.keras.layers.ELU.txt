@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.ELU`:
+
+1. `cntk.layers.ELU`
+2. `cntk.layers.LeakyReLU`
+3. `cntk.layers.PReLU`
+4. `cntk.layers.ParametricReLU`
+5. `cntk.layers.Softplus`

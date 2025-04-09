@@ -1,0 +1,17 @@
+
+
+```python
+import mxnet as mx
+```
+
+### Answer:
+1. `mx.random.normal`
+2. `mx.nd.array`
+3. `mx.initializer.Normal`
+4. `mx.init.Xavier`
+5. `mx.initializer.Uniform`
+6. `mx.random.uniform`
+7. `mx.initializer.Constant`
+8. `mx.nd.zeros_like`
+9. `mx.initializer.Orthogonal`
+10. `mx.init.One`

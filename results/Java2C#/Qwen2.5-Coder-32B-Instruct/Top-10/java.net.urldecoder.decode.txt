@@ -1,0 +1,10 @@
+System.Web.HttpUtility.UrlDecode  
+System.Net.WebUtility.UrlDecode  
+System.Uri.UnescapeDataString  
+System.Text.RegularExpressions.Regex.Unescape  
+System.Security.Cryptography.CryptoConfig.EncodeToHexString  
+System.Security.Cryptography.CryptoConfig.DecodeFromHexString  
+System.Convert.FromBase64String  
+System.Convert.ToBase64String  
+System.IO.Path.GetInvalidPathChars  
+System.IO.Path.GetInvalidFileNameChars

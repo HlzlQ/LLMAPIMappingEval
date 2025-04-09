@@ -1,0 +1,5 @@
+java.net.InetAddress.getByName  
+java.net.DatagramSocket.getInetAddress  
+java.net.Socket.getInetAddress  
+java.net.ServerSocket.getInetAddress  
+java.net.NetworkInterface.getInetAddresses

@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.Module
+2. torch.nn.Linear
+3. torch.nn.ReLU
+4. torch.nn.functional.relu
+5. torch.optim.Adam

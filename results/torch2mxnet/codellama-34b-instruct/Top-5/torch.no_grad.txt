@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the PyTorch API `torch.no_grad`:
+
+1. `mxnet.autograd.pause()`: This function pauses the computation of gradients for a block of code, similar to how `torch.no_grad` works in PyTorch.
+2. `mxnet.autograd.stop_gradient()`: This function stops the gradient computation for a specific tensor or variable, similar to how `torch.no_grad` works in PyTorch.
+3. `mxnet.autograd.detach()`: This function detaches the gradients of a tensor or variable from its computation graph, similar to how `torch.no_grad` works in PyTorch.
+4. `mxnet.autograd.disable()`: This function disables the gradient computation for a block of code, similar to how `torch.no_grad` works in PyTorch.
+5. `mxnet.autograd.set_mode(False)`: This function sets the mode of the autograd system to "off", which disables the computation of gradients for a block of code, similar to how `torch.no_grad` works in PyTorch.

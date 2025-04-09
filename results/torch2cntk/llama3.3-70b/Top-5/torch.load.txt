@@ -1,0 +1,5 @@
+1. cntk.load_model
+2. cntk.load_checkpoint
+3. cntk.Model.load
+4. cntk.Function.load
+5. cntk.utils.save_load.load_model

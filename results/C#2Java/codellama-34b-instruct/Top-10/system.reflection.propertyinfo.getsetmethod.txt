@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.lang.reflect.Method.getDeclaringClass()
+2. java.lang.reflect.Field.getType()
+3. java.lang.reflect.Field.getName()
+4. java.lang.reflect.Field.getModifiers()
+5. java.lang.reflect.Field.isSynthetic()
+6. java.lang.reflect.Field.isEnumConstant()
+7. java.lang.reflect.Field.getGenericType()
+8. java.lang.reflect.Field.getAnnotations()
+9. java.lang.reflect.Field.getDeclaredAnnotations()
+10. java.lang.reflect.Field.getDeclaringClass().getName()

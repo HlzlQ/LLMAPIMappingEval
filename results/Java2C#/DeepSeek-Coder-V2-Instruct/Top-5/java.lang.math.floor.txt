@@ -1,0 +1,5 @@
+1. System.Math.Floor
+2. MathF.Floor
+3. BigInteger.Floor
+4. NMath.Floor
+5. Cephes.floor

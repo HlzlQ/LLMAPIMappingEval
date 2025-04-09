@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the function of `system.math.ceiling` in C#:
+
+1. java.lang.Math.ceil
+2. java.lang.StrictMath.ceil
+3. org.apache.commons.math3.util.FastMath.ceil
+4. org.apache.commons.math3.analysis.function.Ceiling
+5. com.ibm.icu.math.BigDecimal.ceil
+6. javax.script.ScriptEngineManager.getEngineByName("js").eval("Math.ceil")
+7. org.eclipse.jetty.util.MathUtils.ceil
+8. net.sourceforge.jeuclid.MathHelper.ceil
+9. org.hsqldb.lib.MathUtil.ceil
+10. org.apache.commons.lang3.math.NumberUtils.ceil

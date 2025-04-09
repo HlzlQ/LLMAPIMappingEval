@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.distributions.bernoulli.Bernoulli`:
+
+1. `CNTK.random.bernoulli`
+2. `CNTK.random.bernoulli_distribution`
+3. `CNTK.random.bernoulli_sampler`
+4. `CNTK.random.bernoulli_generator`
+5. `CNTK.random.bernoulli_distribution_from_samples`

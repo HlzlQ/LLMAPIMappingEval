@@ -1,0 +1,11 @@
+  tf.compat.v1.saved_model.load
+
+In TensorFlow, this API is used to load a saved model from a file or directory. The loaded model can then be used for inference or further training.
+
+Here are the MXNet APIs that have similar functions:
+
+1. mxnet.mod.Module.load - This API loads a saved MXNet module from a file or directory.
+2. mxnet.mod.Module.load_checkpoint - This API loads a saved MXNet checkpoint from a file or directory.
+3. mxnet.mod.Module.load_params - This API loads the parameters of a saved MXNet module from a file or directory.
+4. mxnet.mod.Module.load_optimizer - This API loads the optimizer state of a saved MXNet module from a file or directory.
+5. mxnet.mod.Module.load_state - This API loads the entire state of a saved MXNet module from a file or directory, including the parameters, optimizer state, and other metadata.

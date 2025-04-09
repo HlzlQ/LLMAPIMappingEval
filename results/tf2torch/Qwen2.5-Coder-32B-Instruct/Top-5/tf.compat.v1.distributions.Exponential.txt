@@ -1,0 +1,5 @@
+torch.distributions.exponential.Exponential
+torch.nn.functional.relu
+torch.tensor
+torch.exp
+torch.log

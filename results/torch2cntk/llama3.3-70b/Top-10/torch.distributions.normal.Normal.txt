@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.distributions.normal.Normal`:
+
+1. `cntk.normal`
+2. `cntk.distribution.Normal`
+3. `cntk.gaussian_distribution`
+4. `cntk.NormalDistribution`
+5. `cntk.distributions.Gaussian`
+6. `cntk.random.Normal`
+7. `cntk.stats.Normal`
+8. `cntk.distribution.Gaussian`
+9. `cntk.Normal`
+10. `cntk.gaussian`

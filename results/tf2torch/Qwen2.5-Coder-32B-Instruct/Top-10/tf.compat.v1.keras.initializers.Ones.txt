@@ -1,0 +1,10 @@
+torch.nn.init.ones_
+torch.ones
+torch.full
+torch.Tensor.fill_
+torch.nn.Parameter.fill_
+torch.nn.Module.register_buffer
+torch.nn.utils.weight_norm
+torch.nn.utils.spectral_norm
+torch.nn.functional.embedding
+torch.nn.Embedding.from_pretrained

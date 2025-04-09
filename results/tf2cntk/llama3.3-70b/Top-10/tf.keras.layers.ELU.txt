@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.ELU`:
+
+1. CNTK ELU
+2. CNTK LeakyReLUBatchNormalization
+3. CNTK ReLU
+4. CNTK Sigmoid
+5. CNTK Tanh
+6. CNTK Softplus
+7. CNTK Softsign
+8. CNTK Swish
+9. CNTK LeakyReLU
+10. CNTK ParametricReLUBatchNormalization

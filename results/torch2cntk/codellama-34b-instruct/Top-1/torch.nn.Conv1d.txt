@@ -1,0 +1,2 @@
+
+CNTK's equivalent of `torch.nn.Conv1d` is `cntk.layers.Sequential`.

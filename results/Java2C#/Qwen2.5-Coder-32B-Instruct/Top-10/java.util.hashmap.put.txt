@@ -1,0 +1,10 @@
+System.Collections.Generic.Dictionary.Add  
+System.Collections.Generic.IDictionary.Add  
+System.Collections.Hashtable.Add  
+System.Collections.Specialized.HybridDictionary.Add  
+System.Collections.Specialized.ListDictionary.Add  
+System.Collections.Specialized.NameValueCollection.Add  
+System.Web.UI.StateBag.Add  
+System.Windows.Forms.ControlBindingsCollection.Add  
+System.Windows.Forms.PropertyManager.Add  
+System.Xml.Serialization.XmlSerializerNamespaces.Add

@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Conv3D  
+mxnet.ndarray.Convolution  
+mxnet.symbol.Convolution  
+mxnet.gluon.contrib.nn.SynchronizedBatchNormConv3D  
+mxnet.gluon.nn.HybridSequential.add  
+mxnet.gluon.nn.Sequential.add  
+mxnet.gluon.nn.HybridBlock.register_child  
+mxnet.gluon.nn.Block.register_child  
+mxnet.gluon.nn.Conv3DTranspose  
+mxnet.gluon.contrib.nn.GroupNormConv3D

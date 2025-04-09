@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss")
+<jupyter_output>
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss

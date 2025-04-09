@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs:
+
+1. mxnet.initializer.RandomUniform
+2. mxnet.initializer.Uniform
+3. mxnet.nd.random.uniform
+4. mxnet.gluon.nn.Dense
+5. mxnet.gluon.nn.Conv2D
+6. mxnet.gluon.initializer.RandomUniform
+7. mxnet.gluon.initializer.Xavier
+8. mxnet.gluon.initializer.MSRAPrelu
+9. mxnet.gluon.initializer.Normal
+10. mxnet.gluon.initializer.Uniform

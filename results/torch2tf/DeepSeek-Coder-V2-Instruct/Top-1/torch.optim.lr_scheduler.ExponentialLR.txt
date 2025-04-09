@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Output: tf.keras.optimizers.schedules.ExponentialDecay
+<jupyter_output>
+<empty_output>

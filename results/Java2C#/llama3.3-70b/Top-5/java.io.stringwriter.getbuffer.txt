@@ -1,0 +1,5 @@
+1. System.Text.StringBuilder.ToString
+2. System.IO.StringWriter.GetStringBuilder
+3. System.Text.StringBuilder.GetBuffer
+4. System.IO.StringWriter.ToString
+5. System.Text.StringBuilder.CopyTo

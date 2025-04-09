@@ -1,0 +1,10 @@
+System.Text.StringBuilder.ToString
+System.String.IndexOf
+System.Text.StringBuilder.Insert
+System.Text.StringBuilder.Remove
+System.Text.StringBuilder.Replace
+System.String.LastIndexOf
+System.String.Contains
+System.String.StartsWith
+System.String.EndsWith
+System.String.Equals

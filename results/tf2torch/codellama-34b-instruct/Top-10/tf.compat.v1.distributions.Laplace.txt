@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.distributions.Laplace`:
+
+1. `torch.distributions.Laplace`
+2. `torch.distributions.laplace.Laplace`
+3. `torch.distributions.laplace.LaplaceWithPrior`
+4. `torch.distributions.laplace.LaplaceWithoutPrior`
+5. `torch.distributions.laplace.LaplaceWithMean`
+6. `torch.distributions.laplace.LaplaceWithVariance`
+7. `torch.distributions.laplace.LaplaceWithScale`
+8. `torch.distributions.laplace.LaplaceWithLocation`
+9. `torch.distributions.laplace.LaplaceWithShape`
+10. `torch.distributions.laplace.LaplaceWithRate`

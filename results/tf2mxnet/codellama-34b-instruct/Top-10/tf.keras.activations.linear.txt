@@ -1,0 +1,12 @@
+  Here are ten possible MXNet APIs that correspond to the given TensorFlow API:
+
+1. mxnet.ndarray.Activation
+2. mxnet.symbol.Activation
+3. mxnet.gluon.nn.Activation
+4. mxnet.initializers.Linear
+5. mxnet.optimizers.Linear
+6. mxnet.regularizers.Linear
+7. mxnet.callbacks.Linear
+8. mxnet.metrics.Linear
+9. mxnet.losses.Linear
+10. mxnet.layers.Linear

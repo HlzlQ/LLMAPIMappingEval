@@ -1,0 +1,10 @@
+System.IO.BufferedStream.Read
+System.IO.StreamReader.Read
+System.IO.BinaryReader.ReadBytes
+System.IO.FileStream.Read
+System.IO.MemoryStream.Read
+System.IO.UnmanagedMemoryStream.Read
+System.IO.Compression.DeflateStream.Read
+System.IO.Compression.GZipStream.Read
+System.IO.Pipes.NamedPipeClientStream.Read
+System.IO.Pipes.NamedPipeServerStream.Read

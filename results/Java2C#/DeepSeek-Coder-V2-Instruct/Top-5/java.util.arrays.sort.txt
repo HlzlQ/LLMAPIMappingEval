@@ -1,0 +1,5 @@
+1. System.Array.Sort
+2. System.Linq.OrderBy
+3. System.Collections.Generic.List<T>.Sort
+4. System.Array.Sort(Array)
+5. System.Array.Sort(Array, Array)

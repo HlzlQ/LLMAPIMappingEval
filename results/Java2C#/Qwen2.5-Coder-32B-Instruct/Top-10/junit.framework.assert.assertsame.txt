@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+System.Diagnostics.Trace.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+NUnit.Framework.Assert.AreSame
+Xunit.Assert.Same
+FluentAssertions.Assertions.AssertionScope.Subject.Should().BeSameAs
+NSubstitute.ReceivedExtensions.ReceivedWithAnyArgs
+Moq.Language.Flow.ITimes.Returns
+AutoFixture.Idioms.Fixture.Inject
+Castle.Core.AssertionHelper.AssertSame

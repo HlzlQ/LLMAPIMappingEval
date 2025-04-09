@@ -1,0 +1,2 @@
+
+In CNTK, the equivalent of `tf.gradients` is `cntk.ops.gradients`.

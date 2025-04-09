@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Hashtable.get()
+2. System.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey key)
+3. System.Collections.Specialized.NameObjectCollectionBase.Get(int index)
+4. System.Collections.Specialized.NameObjectCollectionBase.Get(string name)
+5. System.Web.HttpContext.Current.Items[string key]

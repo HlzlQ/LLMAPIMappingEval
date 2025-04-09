@@ -1,0 +1,5 @@
+1. `cntk.utils.save`
+2. `cntk.model.save`
+3. `cntk.Function.save`
+4. `cntk.Trainer.save_checkpoint`
+5. `cntk.Model.save_model`

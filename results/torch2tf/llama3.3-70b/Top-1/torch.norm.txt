@@ -1,0 +1,1 @@
+tf.linalg.normalize or tf.norm

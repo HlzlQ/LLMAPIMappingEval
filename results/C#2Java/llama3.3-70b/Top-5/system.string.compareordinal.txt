@@ -1,0 +1,5 @@
+1. java.lang.String.compareTo
+2. java.lang.String.compareToIgnoreCase
+3. java.util.Comparator.naturalOrder
+4. java.lang.String.codePointCompareTo
+5. java.text.Collator.compare

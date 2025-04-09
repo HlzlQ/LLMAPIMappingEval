@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.IO.Path.GetRelativePath` method:
+
+1. `java.nio.file.Paths.getRelativePath()`
+2. `java.nio.file.Path.relativize()`
+3. `java.io.File.getRelativePath()`
+4. `java.io.File.toURI().relativize(other.toURI())`
+5. `java.net.URL.getRelativePath()`
+6. `java.net.URI.relativize(other)`
+7. `org.apache.commons.io.FilenameUtils.getRelativePath()`
+8. `org.springframework.util.ResourceUtils.getRelativePath()`
+9. `com.google.common.io.Files.getRelativePath()`
+10. `com.sun.nio.zipfs.ZipFileSystem.getRelativePath()`

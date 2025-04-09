@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+NUnit.Framework.Assert.IsTrue
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+Xunit.Assert.True
+FluentAssertions.Assertions.AssertionScopeExtensions.BeTrue
+NSubstitute.Received.InOrderExtensions.ReceivedWithAnyArgs
+Moq.Language.Flow.ITimes.ReturnsExtensions.Returns
+AutoFixture.Idioms.FixtureVerification.IdiomaticAssertionExtensions.Verify
+Shouldly.Shouldly.ShouldBooleanExtensions.ShouldBeTrue
+ApprovalTests.Approvals.VerifyAllExtensions.VerifyAll

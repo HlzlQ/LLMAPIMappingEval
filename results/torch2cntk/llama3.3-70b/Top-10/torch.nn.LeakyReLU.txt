@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `torch.nn.LeakyReLU`:
+
+1. CNTK.LeakyReLULayer
+2. CNTK.ReLU
+3. CNTK.PReLU
+4. CNTK.LRNLayer
+5. CNTK.Activation
+6. CNTK.Sigmoid
+7. CNTK.Tanh
+8. CNTK.HardTanh
+9. CNTK.LeakyReLUFun
+10. CNTK.ParametricReLULayer

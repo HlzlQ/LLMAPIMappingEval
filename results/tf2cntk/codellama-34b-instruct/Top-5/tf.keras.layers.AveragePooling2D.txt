@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that could be used for Average Pooling:
+
+1. `cntk.layers.AveragePooling2D`
+2. `cntk.layers.MaxPooling2D`
+3. `cntk.layers.GlobalAveragePooling2D`
+4. `cntk.layers.GlobalMaxPooling2D`
+5. `cntk.layers.AdaptiveAveragePooling2D`

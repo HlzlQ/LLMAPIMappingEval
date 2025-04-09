@@ -1,0 +1,5 @@
+1. System.IO.Stream.Close()
+2. System.IO.FileStream.Close()
+3. System.Net.Sockets.NetworkStream.Close()
+4. System.Data.SqlClient.SqlConnection.Close()
+5. System.Web.HttpResponse.Close()

@@ -1,0 +1,12 @@
+
+
+1. tf.math.softplus
+2. tf.keras.activations.softplus
+3. None (No direct equivalent in TensorFlow)
+4. None (No direct equivalent in TensorFlow)
+5. None (No direct equivalent in TensorFlow)
+6. None (No direct equivalent in TensorFlow)
+7. None (No direct equivalent in TensorFlow)
+8. None (No direct equivalent in TensorFlow)
+9. None (No direct equivalent in TensorFlow)
+10. None (No direct equivalent in TensorFlow)

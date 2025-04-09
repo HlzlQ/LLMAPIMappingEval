@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for initializing weights with a normal distribution:
+
+1. `mxnet.initializer.Normal()`
+2. `mxnet.init.normal_()`
+3. `mxnet.init.normal(mean=0, stddev=1)`
+4. `mxnet.init.normal(loc=0, scale=1)`
+5. `mxnet.init.normal(mean=0, stddev=1, loc=0, scale=1)`
+6. `mxnet.init.normal_like(tensor, mean=0, stddev=1)`
+7. `mxnet.init.normal_like(tensor, loc=0, scale=1)`
+8. `mxnet.init.normal_like(tensor, mean=0, stddev=1, loc=0, scale=1)`
+9. `mxnet.init.normal_like(tensor, mean=0, stddev=1, loc=0, scale=1, **kwargs)`
+10. `mxnet.init.normal_like(tensor, loc=0, scale=1, **kwargs)`

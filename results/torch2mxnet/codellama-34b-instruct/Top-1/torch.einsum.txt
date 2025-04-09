@@ -1,0 +1,18 @@
+
+MXNet does not have a direct equivalent of `torch.einsum`. However, you can use the `mxnet.ndarray.tensordot` function to perform tensor contractions. Here's an example:
+```python
+import mxnet as mx
+
+# Create two tensors
+a = mx.nd.array([[1, 2], [3, 4]])
+b = mx.nd.array([[5, 6], [7, 8]])
+
+# Perform tensor contraction using tensordot
+c = mx.nd.tensordot(a, b, axes=[[0], [1]])
+print(c)
+```
+This will output the following tensor:
+```python
+[[19, 22], [43, 50]]
+```
+Note that the `axes` argument specifies which axes to contract. In this case, we are contracting the first axis of `a` with the second axis of `b`.

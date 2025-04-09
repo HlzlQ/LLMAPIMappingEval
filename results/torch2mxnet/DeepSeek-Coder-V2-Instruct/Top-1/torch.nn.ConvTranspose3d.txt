@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Most likely MXNet API: mxnet.gluon.nn.Conv3DTranspose
+<jupyter_output>
+<empty_output>

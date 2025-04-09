@@ -1,0 +1,11 @@
+
+Answer: 1. tf.distributions.Normal
+2. tf.keras.layers.Dense
+3. tf.nn.relu
+4. tf.train.AdamOptimizer
+5. tf.summary.scalar
+6. tf.data.Dataset.from_tensor_slices
+7. tf.GradientTape
+8. tf.image.decode_image
+9. tf.keras.Model
+10. tf.config.list_physical_devices

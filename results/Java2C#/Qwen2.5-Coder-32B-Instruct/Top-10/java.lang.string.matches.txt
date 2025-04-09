@@ -1,0 +1,10 @@
+System.Text.RegularExpressions.Regex.IsMatch  
+System.String.Contains  
+System.String.StartsWith  
+System.String.EndsWith  
+System.String.Equals  
+System.String.IndexOf  
+System.String.LastIndexOf  
+System.String.Replace  
+System.String.Split  
+System.String.ToLower

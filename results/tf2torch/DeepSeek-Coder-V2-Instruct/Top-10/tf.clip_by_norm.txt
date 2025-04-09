@@ -1,0 +1,12 @@
+
+
+1. torch.nn.utils.clip_grad_norm_
+2. torch.nn.utils.clip_grad_value_
+3. torch.clamp
+4. torch.Tensor.clamp
+5. torch.Tensor.clamp_
+6. torch.nn.functional.relu
+7. torch.nn.functional.sigmoid
+8. torch.nn.functional.tanh
+9. torch.nn.functional.softmax
+10. torch.nn.functional.log_softmax

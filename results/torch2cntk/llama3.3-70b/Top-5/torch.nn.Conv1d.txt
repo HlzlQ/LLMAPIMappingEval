@@ -1,0 +1,7 @@
+Here are the 5 CNTK APIs that match the functionality of `torch.nn.Conv1d`:
+
+1. `CNTK.layers.Convolution`
+2. `CNTK.layers.Convolution1D`
+3. `CNTK.layers.SubsamplingLayer`
+4. `CNTK.layers.ConvolutionTranspose`
+5. `CNTK.layers.SequentialConvolution`

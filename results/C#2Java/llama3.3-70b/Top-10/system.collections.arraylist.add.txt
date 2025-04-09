@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.arraylist.add` in C#:
+
+1. java.util.ArrayList.add
+2. java.util.List.add
+3. java.util.Collection.add
+4. java.util.LinkedList.add
+5. java.util.Vector.add
+6. java.util.Stack.add
+7. java.util.Queue.add
+8. java.util.Deque.add
+9. java.util.AbstractList.add
+10. java.util.AbstractCollection.add

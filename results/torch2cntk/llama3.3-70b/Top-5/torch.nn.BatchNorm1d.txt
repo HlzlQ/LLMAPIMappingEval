@@ -1,0 +1,7 @@
+Here are the 5 CNTK APIs that match the functionality of `torch.nn.BatchNorm1d`:
+
+1. BatchNormalization
+2. LayerNormalization
+3. InstanceNormalization
+4. GroupNormalization
+5. BatchNormalizationLayer

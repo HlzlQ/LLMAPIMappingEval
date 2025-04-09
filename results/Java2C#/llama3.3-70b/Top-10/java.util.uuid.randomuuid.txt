@@ -1,0 +1,10 @@
+1. System.Guid.NewGuid
+2. System.Security.Cryptography.RandomNumberGenerator.GetBytes
+3. System.Guid.Empty
+4. System.Convert.ToBase64String
+5. System.Text.Encoding.UTF8.GetBytes
+6. System.Security.Cryptography.SHA256.Create
+7. System.Security.Cryptography.MD5.Create
+8. System.Security.Cryptography.RNGCryptoServiceProvider.GetBytes
+9. System.IO.Path.GetRandomFileName
+10. Microsoft.AspNetCore.Cryptography.KeyDerivation.Pbkdf2

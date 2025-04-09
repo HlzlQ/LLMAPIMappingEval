@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.Softmax`:
+
+1. mxnet.ndarray.softmax
+2. mxnet.gluon.nn.Softmax
+3. mxnet.gluon.nn.SoftmaxActivation
+4. mxnet.ndarray.softmax_output
+5. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+6. mxnet.gluon.loss.SoftmaxOutput
+7. mxnet.ndarray.Softmax
+8. mxnet.gluon.nn.Activation
+9. mxnet.gluon.loss.Softmax
+10. mxnet.ndarray.softmax_cross_entropy

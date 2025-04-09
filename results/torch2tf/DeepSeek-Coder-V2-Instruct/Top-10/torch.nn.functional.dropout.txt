@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. tf.compat.v1.nn.dropout
+2. tf.keras.layers.Dropout
+3. torch.nn.functional.dropout
+4. tf.nn.dropout
+5. tf.keras.layers.GaussianDropout
+6. tf.keras.layers.AlphaDropout
+7. torch.nn.Dropout
+8. tf.compat.v1.layers.dropout
+9. tf.contrib.layers.dropout
+10. torch.nn.functional.alpha_dropout

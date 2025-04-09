@@ -1,0 +1,5 @@
+1. convolution
+2. Convolution1D
+3. conv1d
+4. Convolve1D
+5. SequentialConvolution

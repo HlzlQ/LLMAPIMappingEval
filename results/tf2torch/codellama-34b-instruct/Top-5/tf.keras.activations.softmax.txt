@@ -1,0 +1,7 @@
+
+* `torch.nn.Softmax`
+* `torch.nn.functional.softmax`
+* `torch.nn.Softmax2d`
+* `torch.nn.functional.softmax2d`
+* `torch.nn.Softmax3d`
+* `torch.nn.functional.softmax3d`

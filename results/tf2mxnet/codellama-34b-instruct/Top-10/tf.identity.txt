@@ -1,0 +1,15 @@
+
+Here are ten MXNet APIs that have similar functionality to the TensorFlow API `tensorflow.identity`:
+
+1. `mxnet.ndarray.identity`
+2. `mxnet.symbol.identity`
+3. `mxnet.tensor.identity`
+4. `mxnet.ndarray.eye`
+5. `mxnet.symbol.eye`
+6. `mxnet.tensor.eye`
+7. `mxnet.ndarray.ones_like`
+8. `mxnet.symbol.ones_like`
+9. `mxnet.tensor.ones_like`
+10. `mxnet.ndarray.zeros_like`
+
+Note that the MXNet APIs listed above are not exact replacements for the TensorFlow API, but they provide similar functionality and can be used to achieve similar results in MXNet.

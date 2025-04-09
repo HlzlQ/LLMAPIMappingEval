@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.LayerNorm`:
+
+1. `mxnet.gluon.nn.LayerNorm`
+2. `mxnet.gluon.nn.InstanceNorm`
+3. `mxnet.gluon.nn.BatchNorm`
+4. `mxnet.gluon.nn.GroupNorm`
+5. `mxnet.gluon.nn.LayerNormalization`

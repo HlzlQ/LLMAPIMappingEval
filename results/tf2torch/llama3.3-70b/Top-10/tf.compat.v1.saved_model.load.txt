@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that may have similar functions:
+
+1. torch.load
+2. torch.save
+3. torch.nn.Module.load_state_dict
+4. torch.jit.load
+5. torch.jit.script
+6. torch.onnx.load
+7. torch.hub.load
+8. torch.serialization.load
+9. torch.utils.data.DataLoader.load
+10. torch.package.load

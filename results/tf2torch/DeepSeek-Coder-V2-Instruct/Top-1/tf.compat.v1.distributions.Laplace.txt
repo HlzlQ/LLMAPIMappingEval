@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+laplace = tf.compat.v1.distributions.Laplace(loc=0.0, scale=1.0)
+```
+Answer: ```python
+import torch
+laplace = torch.distributions.Laplace(loc=0.0, scale=1.0)
+```

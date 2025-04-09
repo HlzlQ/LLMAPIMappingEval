@@ -1,0 +1,7 @@
+JUnit is a unit testing framework for Java, and C# has its own built-in testing framework called NUnit. However, there are some similarities between JUnit and NUnit in terms of their APIs. Here are the 5 most likely C# APIs that correspond to the given JUnit API:
+
+1. NUnit.Framework.Assert.IsTrue()
+2. NUnit.Framework.Assert.That()
+3. NUnit.Framework.Assert.AreEqual()
+4. NUnit.Framework.Assert.AreNotEqual()
+5. NUnit.Framework.Assert.AreSame()

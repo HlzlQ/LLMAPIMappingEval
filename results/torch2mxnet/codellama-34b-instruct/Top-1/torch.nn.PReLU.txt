@@ -1,0 +1,2 @@
+
+MXNet's equivalent of torch.nn.PReLU is mxnet.gluon.nn.PReLU.

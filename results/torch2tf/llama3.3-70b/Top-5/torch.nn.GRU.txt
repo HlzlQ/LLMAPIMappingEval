@@ -1,0 +1,5 @@
+1. tf.keras.layers.GRU
+2. tf.compat.v1.nn.rnn_cell.GRUCell
+3. tf.nn.rnn_cell.GRUCell
+4. tf.keras.layers.LSTM 
+5. tf.raw_ops.GRUBlockCell

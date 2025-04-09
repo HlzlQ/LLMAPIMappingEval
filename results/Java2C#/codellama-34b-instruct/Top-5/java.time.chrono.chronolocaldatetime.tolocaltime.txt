@@ -1,0 +1,12 @@
+  Sure! Here are the five most likely C# APIs for each of the Java APIs you mentioned:
+
+1. java.time.chrono.ChronoLocalDateTime.toLocalTime()
+	* C# equivalent: System.DateTime.ToLocalTime()
+2. java.time.chrono.ChronoLocalDate.atTime()
+	* C# equivalent: System.DateTime.AddHours(int hours)
+3. java.time.chrono.ChronoLocalDate.plusDays()
+	* C# equivalent: System.DateTime.AddDays(int days)
+4. java.time.chrono.ChronoLocalDate.minusDays()
+	* C# equivalent: System.DateTime.Subtract(System.TimeSpan value)
+5. java.time.chrono.ChronoLocalDate.withDayOfMonth()
+	* C# equivalent: System.DateTime.AddDays(int days)

@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Add
+2. System.Collections.ArrayList.Add
+3. System.Collections.Concurrent.ConcurrentBag<T>.Add
+4. System.Collections.Concurrent.ConcurrentQueue<T>.Enqueue
+5. System.Collections.Concurrent.ConcurrentStack<T>.Push
+6. System.Collections.Generic.HashSet<T>.Add
+7. System.Collections.Specialized.HybridDictionary.Add
+8. System.Data.DataTable.Rows.Add
+9. System.Web.UI.StateBag.Add
+10. System.Windows.Forms.ListBox.Items.Add

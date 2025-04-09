@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.RNN`:
+
+1. mxnet.ndarray.rnn
+2. mxnet.gluon.rnn.RNN
+3. mxnet.gluon.rnn.LSTM
+4. mxnet.gluon.rnn.GRU
+5. mxnet.gluon.rnn.SimpleRNN
+6. mxnet.gluon.rnn.Bidirectional
+7. mxnet.gluon.rnn.SequentialRNNCell
+8. mxnet.gluon.rnn.HybridSequentialRNNCell
+9. mxnet.gluon.rnn.RNNCell
+10. mxnet.gluon.rnn.ModularRNNCell

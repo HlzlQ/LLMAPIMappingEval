@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `torch.nn.LSTM`:
+
+1. mxnet.ndarray.LSTM
+2. mxnet.gluon.rnn.LSTM
+3. mxnet.gluon.rnn.LSTMBasicCell
+4. mxnet.gluon.rnn.LSTMCell
+5. mxnet.gluon.rnn.GRU
+6. mxnet.gluon.rnn.RNN
+7. mxnet.ndarray.rnn.FusedRNN
+8. mxnet.gluon.contrib.rnn.LSTM
+9. mxnet.gluon.contrib.rnn.VariationalLSTMCell
+10. mxnet.gluon.rnn.HybridSequentialRNNCell

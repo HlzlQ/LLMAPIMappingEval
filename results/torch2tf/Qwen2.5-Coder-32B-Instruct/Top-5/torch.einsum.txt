@@ -1,0 +1,5 @@
+tf.einsum  
+tf.linalg.matmul  
+tf.tensordot  
+tf.reduce_sum  
+tf.reshape

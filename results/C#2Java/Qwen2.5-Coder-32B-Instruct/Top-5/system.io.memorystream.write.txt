@@ -1,0 +1,5 @@
+java.io.ByteArrayOutputStream.write
+java.nio.channels.WritableByteChannel.write
+java.nio.ByteBuffer.put
+java.io.OutputStream.write
+java.io.DataOutputStream.write

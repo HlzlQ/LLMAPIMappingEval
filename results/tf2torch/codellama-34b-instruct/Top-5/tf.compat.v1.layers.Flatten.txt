@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for flattening a tensor:
+
+1. `torch.flatten()`
+2. `torch.reshape()`
+3. `torch.view()`
+4. `torch.tensor.flatten()`
+5. `torch.tensor.reshape()`

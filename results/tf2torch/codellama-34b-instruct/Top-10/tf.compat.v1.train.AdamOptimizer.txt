@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.train.AdamOptimizer`:
+
+1. `torch.optim.Adam`
+2. `torch.optim.AdamW`
+3. `torch.optim.Adamax`
+4. `torch.optim.RMSprop`
+5. `torch.optim.SGD`
+6. `torch.optim.Adagrad`
+7. `torch.optim.Adadelta`
+8. `torch.optim.Adamax`
+9. `torch.optim.Nadam`
+10. `torch.optim.LBFGS`

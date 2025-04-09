@@ -1,0 +1,18 @@
+
+MXNet does not have an exact equivalent of PyTorch's `torch.nn.LayerNorm` module. However, you can achieve similar functionality using MXNet's `mxnet.gluon.nn.BatchNorm` module with the `use_global_stats=True` argument.
+
+Here is an example of how to use `mxnet.gluon.nn.BatchNorm` as a layer normalization layer in MXNet:
+```python
+import mxnet as mx
+from mxnet import gluon
+
+# Create a BatchNorm layer with global statistics
+bn = gluon.nn.BatchNorm(use_global_stats=True)
+
+# Use the BatchNorm layer in your model
+model = gluon.nn.Sequential()
+model.add(gluon.nn.Dense(64, activation='relu'))
+model.add(bn)
+model.add(gluon.nn.Dense(10))
+```
+Note that the `use_global_stats` argument tells MXNet to use global statistics for the batch normalization, which is equivalent to using layer normalization in PyTorch.

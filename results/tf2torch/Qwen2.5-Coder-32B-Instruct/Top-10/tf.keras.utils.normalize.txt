@@ -1,0 +1,10 @@
+torch.nn.functional.normalize  
+torch.Tensor.norm  
+torch.linalg.norm  
+torch.nn.utils.clip_grad_norm_  
+torch.nn.utils.weight_norm  
+torch.nn.utils.spectral_norm  
+torch.nn.utils.remove_weight_norm  
+torch.nn.utils.remove_spectral_norm  
+torch.nn.utils.vector_to_parameters  
+torch.nn.utils.parameters_to_vector

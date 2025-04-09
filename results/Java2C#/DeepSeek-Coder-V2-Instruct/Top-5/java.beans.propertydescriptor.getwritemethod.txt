@@ -1,0 +1,5 @@
+System.ComponentModel.PropertyDescriptor.GetSetMethod()
+System.Reflection.PropertyInfo.GetSetMethod(bool)
+System.Reflection.MemberInfo.GetMethod
+System.Reflection.MethodInfo.IsPublic
+System.Reflection.MethodBase.IsVirtual

@@ -1,0 +1,5 @@
+1. mxnet.nd.linalg.norm
+2. mxnet.ndarray.norm
+3. mxnet.gluon.utils.normalize
+4. mxnet.ndarray.L2Normalization
+5. mxnet.gluon.nn.BatchNorm

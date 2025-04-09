@@ -1,0 +1,10 @@
+1. System.Web.HttpUtility.UrlEncode
+2. System.Net.WebUtility.UrlEncode
+3. System.Uri.EscapeDataString
+4. System.Net.Http.Formatting.UrlEncodedFormatter
+5. Microsoft.AspNetCore.WebUtilities.QueryHelpers.AddQueryString
+6. System.Net.Http.Headers.UrlEncoder
+7. System.Text.Encoding.UTF8.GetBytes
+8. System.Net.Mime.ContentDispositionHeaderValue.ToString
+9. System.Net.Mail.MailAddress.ToString
+10. System.Security.Cryptography.UrlTokenEncode

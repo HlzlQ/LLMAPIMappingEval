@@ -1,0 +1,10 @@
+System.Collections.Generic.ICollection<T>.Contains
+System.Collections.IEnumerable.Contains
+System.Collections.IList.Contains
+System.Collections.ISet<T>.Contains
+System.Collections.IDictionary<TKey, TValue>.Contains
+System.Linq.Enumerable.Contains
+System.Array.Exists
+System.Array.IndexOf
+System.String.Contains
+System.Text.RegularExpressions.Regex.IsMatch

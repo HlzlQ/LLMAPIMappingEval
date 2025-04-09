@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dot`:
+
+1. `torch.nn.Linear`
+2. `torch.nn.functional.linear`
+3. `torch.nn.functional.dot`
+4. `torch.nn.functional.matmul`
+5. `torch.nn.functional.einsum`
+6. `torch.nn.functional.batch_dot`
+7. `torch.nn.functional.batch_matmul`
+8. `torch.nn.functional.batch_einsum`
+9. `torch.nn.functional.dot_product`
+10. `torch.nn.functional.cosine_similarity`

@@ -1,0 +1,5 @@
+System.Collections.Generic.Dictionary<TKey,TValue>.ContainsValue  
+System.Collections.Hashtable.ContainsValue  
+System.Collections.Specialized.HybridDictionary.ContainsValue  
+System.Collections.Specialized.ListDictionary.ContainsValue  
+System.Collections.Specialized.NameValueCollection.GetValues

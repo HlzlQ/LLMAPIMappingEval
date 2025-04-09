@@ -1,0 +1,31 @@
+C# does not have a direct equivalent to the Java `ListIterator` class. However, you can use the `IEnumerator<T>` interface in C# to achieve similar functionality.
+
+Here is an example of how you can use `IEnumerator<T>` to iterate over a list in C#:
+```
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        List<int> numbers = new List<int>() { 1, 2, 3, 4, 5 };
+
+        IEnumerator<int> enumerator = numbers.GetEnumerator();
+
+        while (enumerator.MoveNext())
+        {
+            Console.WriteLine(enumerator.Current);
+        }
+    }
+}
+```
+This code will output the following:
+```
+1
+2
+3
+4
+5
+```
+Note that `IEnumerator<T>` is a generic interface, so you need to specify the type of the elements in the list when you create an instance of it. In this example, we are using `int` as the element type.

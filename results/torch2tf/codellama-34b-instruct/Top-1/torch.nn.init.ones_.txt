@@ -1,0 +1,2 @@
+
+The PyTorch API `torch.nn.init.ones_` initializes a tensor with ones. The equivalent function in TensorFlow is `tf.ones`.

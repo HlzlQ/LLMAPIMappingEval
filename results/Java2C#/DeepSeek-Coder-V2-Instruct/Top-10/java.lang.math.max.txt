@@ -1,0 +1,10 @@
+1. System.Math.Max
+2. Math.Max
+3. Numerics.BigInteger.Max
+4. Array.Max
+5. Linq.Max
+6. IEnumerable.Max
+7. IComparable.Max
+8. IComparer.Max
+9. Comparator.Max
+10. Aggregate.Max

@@ -1,0 +1,11 @@
+
+Answer: 1. nn.MSELoss
+2. nn.L1Loss
+3. nn.SmoothL1Loss
+4. F.mse_loss
+5. F.l1_loss
+6. F.smooth_l1_loss
+7. torch.nn.functional.huber_loss
+8. torch.nn.HuberLoss
+9. torchvision.transforms.functional.huber_loss
+10. tensorflow.keras.losses.Huber

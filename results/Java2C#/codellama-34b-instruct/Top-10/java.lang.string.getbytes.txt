@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Text.Encoding.ASCII.GetBytes()
+2. System.Text.Encoding.UTF8.GetBytes()
+3. System.Text.Encoding.Unicode.GetBytes()
+4. System.Text.Encoding.BigEndianUnicode.GetBytes()
+5. System.Convert.ToBase64String()
+6. System.Convert.FromBase64String()
+7. System.IO.Stream.Read()
+8. System.IO.Stream.Write()
+9. System.Text.Encoding.UTF32.GetBytes()
+10. System.Text.Encoding.UTF7.GetBytes()

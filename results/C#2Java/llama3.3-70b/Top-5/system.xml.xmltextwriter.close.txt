@@ -1,0 +1,5 @@
+1. java.io.FileWriter.close
+2. javax.xml.stream.XMLStreamWriter.close
+3. org.w3c.dom.ls.LSSerializer.writeToString
+4. javax.xml.transform.Transformer.setOutput
+5. org.xml.sax.Writer.close

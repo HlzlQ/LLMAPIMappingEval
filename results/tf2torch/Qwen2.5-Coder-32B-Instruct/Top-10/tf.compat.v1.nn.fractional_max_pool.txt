@@ -1,0 +1,10 @@
+torch.nn.functional.max_pool1d  
+torch.nn.functional.max_pool2d  
+torch.nn.functional.max_pool3d  
+torch.nn.functional.fractional_max_pool2d  
+torch.nn.functional.adaptive_max_pool1d  
+torch.nn.functional.adaptive_max_pool2d  
+torch.nn.functional.adaptive_max_pool3d  
+torch.nn.functional.lp_pool1d  
+torch.nn.functional.lp_pool2d  
+torch.nn.functional.lp_pool3d

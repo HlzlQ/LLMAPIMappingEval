@@ -1,0 +1,5 @@
+System.Enum.ToString()
+System.Reflection.MemberInfo.Name
+System.Type.FullName
+System.Reflection.PropertyInfo.Name
+System.Reflection.FieldInfo.Name

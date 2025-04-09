@@ -1,0 +1,7 @@
+
+
+1. torch.nn.Dropout
+2. torch.nn.functional.dropout
+3. tf.keras.layers.Dropout
+4. tensorflow.compat.v1.layers.dropout
+5. tf.nn.dropout

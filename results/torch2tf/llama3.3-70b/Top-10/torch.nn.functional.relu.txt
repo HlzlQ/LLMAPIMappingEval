@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.relu`:
+
+1. tf.nn.relu
+2. tf.keras.activations.relu
+3. tf.math.maximum
+4. tf.keras.layers.ReLU
+5. tf.nn.relu6
+6. tf.keras.activations.get
+7. tf.math.sigmoid
+8. tf.keras.layers.LeakyReLU
+9. tf.keras.layers.PReLU
+10. tf.raw_ops.Relu

@@ -1,0 +1,5 @@
+1. Cntk.CrossEntropyError
+2. Cntk.SoftmaxCrossEntropyError
+3. Cntk.ClassificationError
+4. Cntk.SquaredError
+5. Cntk.BinaryCrossEntropy

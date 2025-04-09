@@ -1,0 +1,2 @@
+
+Answer: RandomNormal, GlorotUniform, HeUniform, VarianceScaling, RandomUniform

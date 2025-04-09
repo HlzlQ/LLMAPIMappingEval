@@ -1,0 +1,12 @@
+Here are ten possible C# APIs that correspond to the given Java API:
+
+* System.Collections.Generic.LinkedList<T>.First
+* System.Collections.Generic.LinkedList<T>.FirstOrDefault
+* System.Collections.Generic.LinkedList<T>.GetFirst
+* System.Collections.Generic.LinkedList<T>.PeekFirst
+* System.Collections.Generic.LinkedList<T>.PopFirst
+* System.Collections.Generic.LinkedList<T>.RemoveFirst
+* System.Collections.Generic.LinkedList<T>.TakeFirst
+* System.Collections.Generic.LinkedList<T>.TryGetFirst
+* System.Collections.Generic.LinkedList<T>.TryPeekFirst
+* System.Collections.Generic.LinkedList<T>.TryPopFirst

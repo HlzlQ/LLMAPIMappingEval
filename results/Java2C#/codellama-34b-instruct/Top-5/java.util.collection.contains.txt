@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Contains(T item)
+System.Collections.Generic.HashSet<T>.Contains(T item)
+System.Collections.Generic.SortedSet<T>.Contains(T item)
+System.Collections.Generic.LinkedList<T>.Contains(T value)
+System.Collections.Generic.Stack<T>.Contains(T item)

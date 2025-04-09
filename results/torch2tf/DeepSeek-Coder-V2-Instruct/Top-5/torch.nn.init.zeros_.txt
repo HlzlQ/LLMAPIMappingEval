@@ -1,0 +1,6 @@
+
+Answer: 1. tf.keras.initializers.Zeros()
+2. tf.zeros_initializer()
+3. tf.initialize_all_variables() (deprecated)
+4. tf.compat.v1.keras.initializers.constant(value=0.0)
+5. tf.zeros()

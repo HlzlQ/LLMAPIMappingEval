@@ -1,0 +1,5 @@
+1. tfp.distributions.Exponential
+2. tf.random.exponential
+3. tf.keras.layers.Exponential
+4. tf.math.exp
+5. tfp.distributions.RateParameter

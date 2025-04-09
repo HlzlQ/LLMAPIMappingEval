@@ -1,0 +1,5 @@
+1. System.Math.Ceiling
+2. MathF.Ceil
+3. Math.Round (with a mode parameter)
+4. BigInteger.Ceiling
+5. Decimal.Ceil

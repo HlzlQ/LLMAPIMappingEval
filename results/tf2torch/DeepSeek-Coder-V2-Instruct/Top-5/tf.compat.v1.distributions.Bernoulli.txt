@@ -1,0 +1,7 @@
+
+
+1. torch.distributions.bernoulli.Bernoulli
+2. torch.nn.functional.binary_cross_entropy_with_logits
+3. torch.nn.BCEWithLogitsLoss
+4. torch.nn.Sigmoid
+5. torch.nn.Linear

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.losses.categorical_hinge`:
+
+1. torch.nn.HingeEmbeddingLoss
+2. torch.nn.CosineEmbeddingLoss
+3. torch.nn.MSELoss
+4. torch.nn.L1Loss
+5. torch.nn.NLLLoss
+6. torch.nn.CrossEntropyLoss
+7. torch.nn.KLDivLoss
+8. torch.nn.PoissonNLLLoss
+9. torch.nn.GaussianNLLLoss
+10. torch.nn.HuberLoss

@@ -1,0 +1,10 @@
+ArrayList.Remove
+List.Remove
+Collection.Remove
+IList.Remove
+IEnumerable.Remove
+ICollection.Remove
+IReadOnlyList.Remove
+IReadOnlyCollection.Remove
+IDisposable.Dispose
+Object.Equals

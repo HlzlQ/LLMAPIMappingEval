@@ -1,0 +1,5 @@
+mxnet.gluon.loss.PoissonNLLLoss
+mxnet.ndarray.contrib.poisson_nll_loss
+mxnet.symbol.contrib.poisson_nll_loss
+mxnet.gluon.nn.PoissonNLLLoss
+mxnet.ndarray.poisson_nll_loss

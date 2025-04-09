@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Char.IsWhiteSpace(char)`
+2. `System.Char.IsControl(char)`
+3. `System.Char.IsSeparator(char)`
+4. `System.Char.IsPunctuation(char)`
+5. `System.Char.IsSymbol(char)`

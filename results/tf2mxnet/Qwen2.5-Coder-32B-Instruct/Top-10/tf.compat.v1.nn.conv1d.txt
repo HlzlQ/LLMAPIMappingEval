@@ -1,0 +1,10 @@
+mxnet.ndarray.Convolution1D
+mxnet.gluon.nn.Conv1D
+mxnet.symbol.Convolution1D
+mxnet.ndarray.contrib.Convolution1D
+mxnet.gluon.contrib.nn.Conv1D
+mxnet.ndarray.sparse.Convolution1D
+mxnet.symbol.sparse.Convolution1D
+mxnet.ndarray.contrib.deformable_convolution_v2
+mxnet.symbol.contrib.deformable_convolution_v2
+mxnet.ndarray.contrib.DeformableConvolutionV2

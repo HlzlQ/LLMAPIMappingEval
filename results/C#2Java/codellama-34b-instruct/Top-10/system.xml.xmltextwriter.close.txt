@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. javax.xml.stream.XMLStreamWriter.close()
+2. org.w3c.dom.Document.close()
+3. org.xml.sax.ContentHandler.close()
+4. javax.xml.transform.Transformer.close()
+5. javax.xml.parsers.DocumentBuilder.close()
+6. org.xml.sax.XMLReader.close()
+7. javax.xml.validation.Validator.close()
+8. javax.xml.xpath.XPathExpression.close()
+9. javax.xml.namespace.QName.close()
+10. javax.xml.datatype.Duration.close()

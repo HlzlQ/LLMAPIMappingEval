@@ -1,0 +1,10 @@
+1. System.IO.FileStream.Read
+2. System.IO.StreamReader.Read
+3. System.IO.BinaryReader.Read
+4. System.IO.File.OpenRead
+5. System.IO.Stream.Read
+6. System.IO.TextReader.Read
+7. System.IO.FileSystemWatcher.Read
+8. Microsoft.Win32.SafeHandles.SafeFileHandle.Read
+9. System.Runtime.InteropServices.SafeHandle.Read
+10. System.IO.UnmanagedMemoryStream.Read

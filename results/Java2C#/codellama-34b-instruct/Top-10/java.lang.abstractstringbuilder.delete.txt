@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Text.StringBuilder.Remove()
+2. System.Text.StringBuilder.Delete()
+3. System.Text.StringBuilder.Clear()
+4. System.Text.StringBuilder.Replace()
+5. System.Text.StringBuilder.Append()
+6. System.Text.StringBuilder.Insert()
+7. System.Text.StringBuilder.RemoveAt()
+8. System.Text.StringBuilder.DeleteCharAt()
+9. System.Text.StringBuilder.ClearAll()
+10. System.Text.StringBuilder.ReplaceAll()

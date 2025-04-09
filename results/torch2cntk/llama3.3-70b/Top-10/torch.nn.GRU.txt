@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for torch.nn.GRU:
+
+1. CNTK.Recurrence
+2. CNTK.LSTM
+3. CNTK.GRU
+4. CNTK.SimpleRecurrence
+5. CNTK.RecurrentLayer
+6. CNTK.SequenceOverSequence
+7. CNTK.Fold
+8. CNTK.RecursiveLayer
+9. CNTK.SequentialRecurrence
+10. CNTK.RNNStep

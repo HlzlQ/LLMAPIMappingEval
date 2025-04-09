@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.compat.v1.nn.conv1d`:
+
+1. torch.nn.Conv1d
+2. torch.nn.functional.conv1d
+3. torch.tensor.conv1d
+4. torch.nn.modules.conv.Conv1d
+5. torch.nn.functional.conv1d inplace

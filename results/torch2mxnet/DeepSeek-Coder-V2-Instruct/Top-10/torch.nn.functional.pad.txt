@@ -1,0 +1,15 @@
+
+"""
+
+mxnet_pads = [
+    'Pad',
+    'MirrorPad',
+    'SpatialPadding',
+    'ConstantPad2d',
+    'ReflectionPad2d',
+    'ReplicationPad2d',
+    'ZeroPad2d',
+    'constant',
+    'reflect',
+    'replicate'
+]

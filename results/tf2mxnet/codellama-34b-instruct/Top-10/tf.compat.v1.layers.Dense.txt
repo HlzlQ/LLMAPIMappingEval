@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for the same functionality as TensorFlow's `tensorflow.compat.v1.layers.Dense`:
+
+1. `mxnet.gluon.nn.Dense`
+2. `mxnet.ndarray.dense`
+3. `mxnet.symbol.dense`
+4. `mxnet.initializers.dense`
+5. `mxnet.regularizers.dense`
+6. `mxnet.activations.dense`
+7. `mxnet.layers.Dense`
+8. `mxnet.nn.Dense`
+9. `mxnet.gluon.nn.DenseBlock`
+10. `mxnet.gluon.nn.DenseNet`

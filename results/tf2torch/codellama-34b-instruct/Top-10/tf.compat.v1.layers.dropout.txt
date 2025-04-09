@@ -1,0 +1,13 @@
+
+Here are ten possible PyTorch APIs that can be used for dropout:
+
+1. `torch.nn.Dropout`
+2. `torch.nn.Dropout2d`
+3. `torch.nn.Dropout3d`
+4. `torch.nn.AlphaDropout`
+5. `torch.nn.FeatureDropout`
+6. `torch.nn.SpatialDropout`
+7. `torch.nn.SpatialDropout2d`
+8. `torch.nn.SpatialDropout3d`
+9. `torch.nn.TemporalDropout`
+10. `torch.nn.TemporalDropout2d`

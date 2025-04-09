@@ -1,0 +1,5 @@
+1. Random.Next()
+2. Random.Next(int maxValue)
+3. Random.Next(int minValue, int maxValue)
+4. Random.Shared.Next()
+5. Random.Shared.Next(int maxValue)

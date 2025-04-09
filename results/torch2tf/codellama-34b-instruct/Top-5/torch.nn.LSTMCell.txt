@@ -1,0 +1,5 @@
+  tf.keras.layers.LSTMCell
+tf.keras.layers.RNN
+tf.keras.layers.SimpleRNNCell
+tf.keras.layers.GRUCell
+tf.keras.layers.Bidirectional

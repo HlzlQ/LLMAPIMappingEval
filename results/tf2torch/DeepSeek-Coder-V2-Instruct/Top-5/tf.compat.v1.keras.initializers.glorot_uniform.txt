@@ -1,0 +1,11 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+
+1. `tf.keras.initializers.GlorotUniform`
+2. `torch.nn.init.xavier_uniform_`
+3. `tf.compat.v1.get_variable`
+4. `torch.nn.Parameter`
+5. `tf.Variable`

@@ -1,0 +1,23 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.nn.conv3d`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Convolution`: This API performs a 3D convolution on a 5D input tensor. It takes the input tensor, filter weights, and bias as arguments and returns the output tensor.
+* `mxnet.ndarray.conv3d`: This API is similar to `mxnet.ndarray.Convolution`, but it only supports 3D convolutions with a single filter.
+
+Here's an example of how you can use these APIs:
+```python
+import mxnet as mx
+
+# Create input tensor
+input_tensor = mx.nd.random.normal(shape=(1, 2, 4, 4, 4))
+
+# Create filter weights and bias
+filter_weights = mx.nd.random.normal(shape=(3, 3, 3, 2, 2))
+bias = mx.nd.zeros((1, 2, 2, 2))
+
+# Perform 3D convolution using Convolution API
+output_tensor = mx.ndarray.Convolution(input_tensor, filter_weights, bias)
+
+# Perform 3D convolution using conv3d API
+output_tensor = mx.ndarray.conv3d(input_tensor, filter_weights, bias)
+```

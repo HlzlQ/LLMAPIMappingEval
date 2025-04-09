@@ -1,0 +1,5 @@
+System.Collections.Generic.Dictionary<TKey,TValue>.Values  
+System.Linq.Enumerable.Select<TSource,TResult>  
+System.Collections.IDictionary.Values  
+System.Collections.Specialized.NameValueCollection.AllKeys  
+System.Collections.Hashtable.Values

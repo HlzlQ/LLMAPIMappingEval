@@ -1,0 +1,10 @@
+java.sql.ResultSet.wasNull  
+java.sql.ResultSet.getBoolean  
+java.sql.ResultSet.getByte  
+java.sql.ResultSet.getDate  
+java.sql.ResultSet.getDouble  
+java.sql.ResultSet.getFloat  
+java.sql.ResultSet.getInt  
+java.sql.ResultSet.getLong  
+java.sql.ResultSet.getObject  
+java.sql.ResultSet.getString

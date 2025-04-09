@@ -1,0 +1,8 @@
+Java does not have a direct equivalent to the `System.String.Substring` method in C#. However, you can use the `substring` method provided by the `String` class in Java to achieve similar functionality.
+
+Here is an example of how you can use the `substring` method in Java:
+```
+String str = "Hello, World!";
+String substr = str.substring(7); // Returns "World!"
+```
+In this example, the `substring` method is called on the `str` variable with a single argument, which specifies the starting index of the substring (in this case, 7). The method returns a new string that contains the characters from the specified starting index to the end of the original string.

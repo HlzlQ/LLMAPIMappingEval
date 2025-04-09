@@ -1,0 +1,12 @@
+  SELU (Self-Normalizing Exponential Linear Unit) is a type of activation function used in deep neural networks. It is similar to the ReLU (Rectified Linear Unit) activation function, but it has some key differences:
+
+1. SELU(x) = scale \* x for x < 0
+2. SELU(x) = scale \* alpha \* (exp(x) - 1) for x >= 0
+
+Here are the PyTorch APIs that correspond to the TensorFlow API:
+
+1. torch.nn.SELU()
+2. torch.nn.functional.selu()
+3. torch.nn.functional.selu_derivative()
+4. torch.nn.functional.selu_backward()
+5. torch.nn.functional.selu_forward()

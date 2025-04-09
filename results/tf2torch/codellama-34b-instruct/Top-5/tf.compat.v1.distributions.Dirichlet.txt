@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to the TensorFlow API `tensorflow.compat.v1.distributions.Dirichlet`:
+
+1. `torch.distributions.Dirichlet`
+2. `torch.distributions.dirichlet_distribution`
+3. `torch.distributions.DirichletDistribution`
+4. `torch.distributions.dirichlet`
+5. `torch.distributions.DirichletMultinomial`

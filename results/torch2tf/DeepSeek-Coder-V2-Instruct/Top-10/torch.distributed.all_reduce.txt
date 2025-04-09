@@ -1,0 +1,11 @@
+
+Answer: 1. tf.distribute.ReduceOp
+2. tf.math.reduce_sum
+3. tf.distribute.experimental_set_strategy
+4. tf.distribute.get_strategy
+5. tf.distribute.Strategy
+6. tf.distribute.cluster_resolver.TaskType
+7. tf.distribute.cluster_resolver.ClusterSpec
+8. tf.distribute.cluster_resolver.TFConfigClusterResolver
+9. tf.distribute.experimental_run_v2
+10. tf.distribute.experimental_distribute_dataset

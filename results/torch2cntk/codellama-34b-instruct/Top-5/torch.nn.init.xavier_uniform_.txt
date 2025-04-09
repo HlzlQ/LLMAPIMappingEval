@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to `torch.nn.init.xavier_uniform`:
+
+1. `CNTK.initializer.XavierUniform`
+2. `CNTK.initializer.GlorotUniform`
+3. `CNTK.initializer.HeUniform`
+4. `CNTK.initializer.LeCunUniform`
+5. `CNTK.initializer.XavierNormal`

@@ -1,0 +1,5 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull
+2. NUnit.Framework.Assert.IsNotNull
+3. xunit.assert.NotNull
+4. FluentAssertions.ObjectAssertions.BeNotNull
+5. Shouldly.ShouldNotBeNull

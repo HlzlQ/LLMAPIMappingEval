@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.batch_normalization")
+<jupyter_output>
+CNTK.batch_normalization

@@ -1,0 +1,1 @@
+CNTK.layers.MaxPooling3D

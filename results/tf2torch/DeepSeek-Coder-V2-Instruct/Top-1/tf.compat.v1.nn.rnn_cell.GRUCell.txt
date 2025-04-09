@@ -1,0 +1,10 @@
+
+```python
+import tensorflow as tf
+from tensorflow.compat.v1 import nn
+gru_cell = nn.rnn_cell.GRUCell(256)
+```
+Answer: ```python
+import torch
+gru_cell = torch.nn.GRUCell(256, hidden_size=256)
+```

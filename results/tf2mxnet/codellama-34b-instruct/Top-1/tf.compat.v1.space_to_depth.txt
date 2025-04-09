@@ -1,0 +1,17 @@
+
+MXNet does not have an exact equivalent of TensorFlow's `space_to_depth` function. However, you can achieve a similar effect by using the `mxnet.ndarray.reshape` function to reshape the input array into a 4D tensor with the desired shape, and then use the `mxnet.ndarray.transpose` function to permute the dimensions of the tensor as needed.
+
+Here's an example code snippet that demonstrates how to perform a similar operation in MXNet:
+```python
+import mxnet as mx
+
+# Create a sample input array with shape (1, 2, 3, 4)
+input_array = mx.nd.array(np.random.rand(1, 2, 3, 4))
+
+# Reshape the input array into a 4D tensor with shape (1, 2, 3, 4)
+reshaped_array = mx.nd.reshape(input_array, (1, 2, 3, 4))
+
+# Permute the dimensions of the reshaped array to get the desired output shape
+output_array = mx.nd.transpose(reshaped_array, (0, 2, 1, 3))
+```
+Note that in MXNet, the `mxnet.ndarray.reshape` function takes a tuple of integers as its first argument, which specifies the desired shape of the output array. The `mxnet.ndarray.transpose` function takes a tuple of integers as its first argument, which specifies the permutation of the dimensions of the input array. In this example, we use the `np.random.rand` function to create a sample input array with shape (1, 2, 3, 4), and then reshape it into a 4D tensor with shape (1, 2, 3, 4) using the `mxnet.nd.reshape` function. Finally, we permute the dimensions of the reshaped array to get the desired output shape using the `mxnet.nd.transpose` function.

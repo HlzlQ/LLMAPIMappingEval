@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Dense  
+mxnet.ndarray.dot  
+mxnet.ndarray.FullyConnected  
+mxnet.symbol.FullyConnected  
+mxnet.gluon.nn.Linear  
+mxnet.ndarray.linalg.gemm  
+mxnet.ndarray.linalg.gemv  
+mxnet.ndarray.linalg.syrk  
+mxnet.ndarray.linalg.trmm  
+mxnet.ndarray.linalg.trsm

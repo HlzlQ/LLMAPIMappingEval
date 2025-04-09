@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `he_normal` initializer:
+
+1. `CNTK.initializers.he_normal()`
+2. `CNTK.initializers.HeNormal()`
+3. `CNTK.initializers.he_normal_initializer()`
+4. `CNTK.initializers.HeNormalInitializer()`
+5. `CNTK.initializers.he_normal_init()`
+6. `CNTK.initializers.HeNormalInit()`
+7. `CNTK.initializers.he_normal_distribution()`
+8. `CNTK.initializers.HeNormalDistribution()`
+9. `CNTK.initializers.he_normal_uniform()`
+10. `CNTK.initializers.HeNormalUniform()`

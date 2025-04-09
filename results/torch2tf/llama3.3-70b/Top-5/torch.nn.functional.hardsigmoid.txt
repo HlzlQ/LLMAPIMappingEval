@@ -1,0 +1,5 @@
+1. tf.keras.activations.hard_sigmoid
+2. tf.nn.hard_sigmoid
+3. tf.math.hard_sigmoid
+4. tf.keras.layers.HardSigmoid
+5. tf.raw_ops.HardSigmoid

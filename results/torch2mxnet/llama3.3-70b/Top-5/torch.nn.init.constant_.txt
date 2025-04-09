@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet APIs:
+
+1. mxnet.initializer.Constant
+2. mxnet.nd.full
+3. mxnet.ndarray.full
+4. mxnet.init.Constant
+5. mxnet.gluon.nn.initializer.Constant

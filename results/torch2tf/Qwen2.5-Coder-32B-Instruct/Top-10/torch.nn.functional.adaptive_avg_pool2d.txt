@@ -1,0 +1,10 @@
+tf.nn.avg_pool
+tf.nn.pool
+tf.keras.layers.AveragePooling2D
+tf.keras.layers.GlobalAveragePooling2D
+tf.image.resize_with_pad
+tf.image.resize
+tf.image.central_crop
+tf.image.extract_patches
+tf.raw_ops.AvgPool
+tf.raw_ops.AvgPool3D

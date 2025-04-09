@@ -1,0 +1,11 @@
+
+Answer: 1. `torch.nn.CrossEntropyLoss`
+2. `torch.nn.functional.log_softmax`
+3. `torch.nn.NLLLoss`
+4. `cntk.losses.cross_entropy_with_softmax`
+5. `cntk.ops.softmax`
+6. `cntk.ops.reduce_mean`
+7. `cntk.ops.reduce_logsumexp`
+8. `cntk.ops.element_select`
+9. `cntk.losses.squared_error`
+10. `cntk.losses.binary_cross_entropy`

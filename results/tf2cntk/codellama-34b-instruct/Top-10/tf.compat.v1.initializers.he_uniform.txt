@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `he_uniform` initializer:
+
+1. `CNTK.initializers.he_uniform`
+2. `CNTK.initializers.uniform`
+3. `CNTK.initializers.glorot_normal`
+4. `CNTK.initializers.glorot_uniform`
+5. `CNTK.initializers.xavier_normal`
+6. `CNTK.initializers.xavier_uniform`
+7. `CNTK.initializers.kaiming_normal`
+8. `CNTK.initializers.kaiming_uniform`
+9. `CNTK.initializers.lecun_normal`
+10. `CNTK.initializers.lecun_uniform`

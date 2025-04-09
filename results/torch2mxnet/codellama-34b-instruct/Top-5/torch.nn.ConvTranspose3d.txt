@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.ConvTranspose3d`:
+
+1. `mxnet.ndarray.Convolution`
+2. `mxnet.ndarray.Deconvolution`
+3. `mxnet.ndarray.ConvTranspose3D`
+4. `mxnet.ndarray.ConvTranspose`
+5. `mxnet.ndarray.ConvTranspose3DWithBias`

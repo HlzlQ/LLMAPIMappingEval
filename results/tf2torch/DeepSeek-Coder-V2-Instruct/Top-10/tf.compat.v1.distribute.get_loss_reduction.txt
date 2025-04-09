@@ -1,0 +1,17 @@
+
+
+```python
+import torch
+```
+
+### Answer:
+1. `tf.keras.losses.Loss`
+2. `tf.keras.metrics.Metric`
+3. `tf.function`
+4. `tf.distribute.Strategy`
+5. `tf.data.Dataset`
+6. `tf.GradientTape`
+7. `tf.train.Checkpoint`
+8. `tf.keras.Model`
+9. `tf.optimizers.Optimizer`
+10. `tf.compat.v1.distribute.get_loss_reduction`

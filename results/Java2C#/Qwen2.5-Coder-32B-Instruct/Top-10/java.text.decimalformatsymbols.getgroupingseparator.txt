@@ -1,0 +1,10 @@
+System.Globalization.NumberFormatInfo.NumberGroupSeparator  
+System.Globalization.CultureInfo.NumberFormat.NumberGroupSeparator  
+System.IFormatProvider.GetFormat(System.Type).NumberGroupSeparator  
+System.Globalization.NumberFormatInfo.CurrencyGroupSeparator  
+System.Globalization.CultureInfo.NumberFormat.CurrencyGroupSeparator  
+System.Globalization.NumberFormatInfo.PercentGroupSeparator  
+System.Globalization.CultureInfo.NumberFormat.PercentGroupSeparator  
+System.Globalization.NumberStyles.NumberGroupSeparator  
+System.Globalization.NumberStyles.AllowThousands  
+System.Globalization.NumberStyles.FloatAllowThousands

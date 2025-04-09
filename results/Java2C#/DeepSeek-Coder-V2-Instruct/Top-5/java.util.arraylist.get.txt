@@ -1,0 +1,5 @@
+1. System.Collections.Generic.List<T>.Item(int index)
+2. System.Array.GetValue(int index)
+3. System.Collections.ArrayList.Get(int index)
+4. System.Collections.IList.Item(int index)
+5. System.Collections.IEnumerable.ElementAt(int index)

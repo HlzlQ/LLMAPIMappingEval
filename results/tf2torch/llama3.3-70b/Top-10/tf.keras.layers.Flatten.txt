@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.layers.Flatten`:
+
+1. torch.nn.Flatten
+2. torch.flatten
+3. nn.Flatten
+4. torch.nn.View
+5. torch.view
+6. nn.View
+7. torch.reshape
+8. torch.nn.Reshape
+9. nn.Reshape
+10. torch.squeeze

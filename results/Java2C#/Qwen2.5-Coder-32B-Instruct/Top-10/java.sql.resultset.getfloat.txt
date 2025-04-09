@@ -1,0 +1,10 @@
+System.Data.SqlClient.SqlDataReader.GetFloat
+System.Data.OleDb.OleDbDataReader.GetFloat
+System.Data.OracleClient.OracleDataReader.GetFloat
+System.Data.SQLite.SQLiteDataReader.GetFloat
+Npgsql.NpgsqlDataReader.GetFloat
+MySql.Data.MySqlClient.MySqlDataReader.GetFloat
+FirebirdSql.Data.FirebirdClient.FbDataReader.GetFloat
+IBM.Data.DB2.DB2DataReader.GetFloat
+Microsoft.Data.SqlClient.SqlDataReader.GetFloat
+System.Data.Common.DbDataReader.GetFloat

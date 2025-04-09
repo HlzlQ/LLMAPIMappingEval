@@ -1,0 +1,10 @@
+1. java.text.DecimalFormatSymbols.setGroupingSeparator
+2. java.text.NumberFormat.isGroupingUsed
+3. java.text.DecimalFormat.getGroupingSize
+4. java.text.DecimalFormat.setGroupingSize
+5. java.util.Locale.getDefault
+6. java.util.Locale.getNumberInstance
+7. java.util.Currency.getInstance
+8. java.util.Currency.getSymbol
+9. java.math.BigDecimal.toPlainString
+10. java.text.NumberFormat.format

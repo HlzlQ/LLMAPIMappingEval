@@ -1,0 +1,8 @@
+
+Answer: ```
+1. mx.ndarray.normalize
+2. mx.ndarray.L2Normalization
+3. mx.ndarray.batch_norm
+4. mx.gluon.nn.BatchNorm
+5. mx.gluon.loss.SoftmaxCrossEntropyLoss
+```

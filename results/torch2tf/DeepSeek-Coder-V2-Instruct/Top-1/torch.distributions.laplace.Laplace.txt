@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tfp.distributions.Laplace
+<jupyter_output>
+<empty_output>

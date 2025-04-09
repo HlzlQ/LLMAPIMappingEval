@@ -1,0 +1,5 @@
+tf.clip_by_value  
+tf.keras.optimizers.schedules.LearningRateSchedule  
+tf.train.GradientDescentOptimizer  
+tf.compat.v1.train.GradientDescentOptimizer  
+tf.raw_ops.ClipByValue

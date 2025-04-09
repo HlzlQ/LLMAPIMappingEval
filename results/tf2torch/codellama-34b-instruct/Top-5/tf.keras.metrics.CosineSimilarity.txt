@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.metrics.CosineSimilarity`:
+
+1. `torch.nn.CosineSimilarity`
+2. `torch.nn.functional.cosine_similarity`
+3. `torch.nn.PairwiseDistance`
+4. `torch.nn.PairwiseCosineSimilarity`
+5. `torch.nn.PairwiseDotProduct`

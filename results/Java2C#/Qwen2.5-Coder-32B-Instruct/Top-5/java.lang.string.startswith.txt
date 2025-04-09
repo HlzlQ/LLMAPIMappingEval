@@ -1,0 +1,5 @@
+System.String.StartsWith
+System.String.StartsWith(System.String)
+System.String.StartsWith(System.String, System.StringComparison)
+System.String.StartsWith(char)
+System.String.StartsWith(char, System.Globalization.CultureInfo)

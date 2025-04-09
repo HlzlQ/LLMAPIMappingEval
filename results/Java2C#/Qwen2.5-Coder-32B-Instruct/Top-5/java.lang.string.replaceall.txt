@@ -1,0 +1,5 @@
+System.String.Replace
+System.Text.RegularExpressions.Regex.Replace
+System.String.Replace(System.Char,System.Char)
+System.String.Replace(System.String,System.String,System.StringComparison)
+System.String.Replace(System.String,System.String,System.Int32)

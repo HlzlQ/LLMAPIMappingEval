@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.ReLU`:
+
+1. CNTK.ReLU
+2. CNTK.Sigmoid
+3. CNTK.Tanh
+4. CNTK.LeakyReLU
+5. CNTK.PReLU
+6. CNTK.ELU
+7. CNTK SELU
+8. CNTK.Softplus
+9. CNTK.Softsign
+10. CNTK.HardTanh

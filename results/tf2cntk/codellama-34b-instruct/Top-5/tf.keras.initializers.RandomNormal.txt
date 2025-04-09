@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that could be used for initializing weights with a random normal distribution:
+
+1. `cntk.initializers.RandomNormal`
+2. `cntk.initializers.GlorotNormal`
+3. `cntk.initializers.HeNormal`
+4. `cntk.initializers.LeCunNormal`
+5. `cntk.initializers.XavierNormal`

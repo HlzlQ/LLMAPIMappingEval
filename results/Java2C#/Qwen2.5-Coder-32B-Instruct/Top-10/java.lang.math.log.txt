@@ -1,0 +1,10 @@
+System.Math.Log
+System.Math.Log10
+System.Math.Log2
+System.Math.Exp
+System.Math.Pow
+System.Math.Sqrt
+System.Math.Ceiling
+System.Math.Floor
+System.Math.Round
+System.Math.Truncate

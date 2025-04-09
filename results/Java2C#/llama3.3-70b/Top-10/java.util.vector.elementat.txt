@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.ElementAt
+2. System.Linq.Enumerable.ElementAt
+3. System.Collections.IList.Item
+4. System.Collections.Generic.IList<T>.Item
+5. System.Collections.ObjectModel.Collection<T>.Item
+6. System.ComponentModel.BindingList<T>.Item
+7. System.Windows.Forms.ListBox.ObjectCollection.GetItem
+8. System.Windows.Controls.ItemCollection.GetItem
+9. System.Data.DataRowCollection.Item
+10. System.Data.DataTable.Rows.Item

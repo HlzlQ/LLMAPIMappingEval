@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.functional.elu | mxnet.ndarray.ELU |
+  | torch.nn.functional.selu | mxnet.ndarray.SELU |
+  | torch.nn.functional.silu | mxnet.ndarray.SILU |
+  | torch.nn.functional.gelu | mxnet.ndarray.GELU |
+  | torch.nn.functional.leaky_relu | mxnet.ndarray.LeakyReLU |

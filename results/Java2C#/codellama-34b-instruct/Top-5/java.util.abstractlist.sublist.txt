@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.GetRange(int index, int count)
+System.Collections.Generic.List<T>.RemoveRange(int index, int count)
+System.Collections.Generic.List<T>.InsertRange(int index, IEnumerable<T> collection)
+System.Collections.Generic.List<T>.AddRange(IEnumerable<T> collection)
+System.Collections.Generic.List<T>.Clear()

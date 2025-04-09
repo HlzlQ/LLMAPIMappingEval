@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.learners.adam
+2. cntk.learners.momentum_sgd
+3. cntk.learners.adagrad
+4. cntk.learners.rmsprop
+5. cntk.learners.nesterov_momentum_sgd
+6. cntk.learners.adamax
+7. cntk.learners.ftrl
+8. cntk.learners.adadelta
+9. cntk.learners.lamb
+10. cntk.learners.stochastic_gradient_descent

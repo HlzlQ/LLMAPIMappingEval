@@ -1,0 +1,5 @@
+1. cntk.losses.mean_squared_error
+2. cntk.metrics.mean_squared_error
+3. cntk.ops.sqrt(cntk.ops.reduce_mean(cntk.ops.square(x - y)))
+4. cntk.losses.squared_error
+5. cntk.metrics.root_mean_squared_error

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for initializing weights with a normal distribution:
+
+1. `cntk.initializer.normal()`
+2. `cntk.init.NormalInitializer()`
+3. `cntk.initializers.normal()`
+4. `cntk.init.GaussianInitializer()`
+5. `cntk.initializers.gaussian()`

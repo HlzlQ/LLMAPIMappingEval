@@ -1,0 +1,10 @@
+
+```python
+```
+
+The five TensorFlow APIs that are most likely to have equivalent functionality in PyTorch are:
+1. `tf.keras.losses`
+2. `tf.reduce_mean`
+3. `tf.reduce_sum`
+4. `tf.nn.compute_average_loss`
+5. `tensorflow.compat.v1.distribute.get_loss_reduction`

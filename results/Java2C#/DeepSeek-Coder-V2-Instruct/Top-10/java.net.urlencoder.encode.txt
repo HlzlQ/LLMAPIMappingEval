@@ -1,0 +1,10 @@
+1. System.Uri.EscapeDataString
+2. System.Net.WebUtility.HtmlEncode
+3. System.Text.RegularExpressions.Regex.Replace
+4. System.Web.HttpUtility.UrlEncode
+5. System.Web.HttpServerUtility.UrlEncode
+6. System.Web.Mvc.Controller.UrlEncode
+7. System.Web.Mvc.HtmlHelper.Encode
+8. System.Net.Http.Formatting.QueryStringConverter.EscapeDataString
+9. System.Net.Http.HttpClient.DefaultRequestHeaders.Add
+10. System.Net.Http.HttpRequestMessage.Content.Headers.Add

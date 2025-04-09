@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.map.values`:
+
+1. `System.Collections.Generic.Dictionary<TKey, TValue>.Values`
+2. `System.Collections.Specialized.NameObjectCollectionBase.Keys`
+3. `System.Collections.Hashtable.Keys`
+4. `System.Collections.SortedList.Keys`
+5. `System.Collections.Generic.SortedDictionary<TKey, TValue>.Keys`
+6. `System.Collections.Generic.SortedSet<T>.Keys`
+7. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Keys`
+8. `System.Collections.Immutable.ImmutableDictionary<TKey, TValue>.Keys`
+9. `System.Collections.Immutable.ImmutableSortedDictionary<TKey, TValue>.Keys`
+10. `System.Linq.Enumerable.SelectMany(IEnumerable<TSource>, Func<TSource, IEnumerable<TResult>>)`

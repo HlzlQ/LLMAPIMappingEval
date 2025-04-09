@@ -1,0 +1,5 @@
+1. ToString()
+2. Convert.ToString(object)
+3. String.Format(string, object[])
+4. String.Concat(params string[])
+5. StringBuilder.Append(string)

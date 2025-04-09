@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.norm | mxnet.ndarray.norm |
+  | torch.norm(input, p=2) | mxnet.ndarray.norm(input, ord=2) |
+  | torch.norm(input, dim=1) | mxnet.ndarray.norm(input, axis=1) |
+  | torch.norm(input, dim=-1) | mxnet.ndarray.norm(input, axis=-1) |
+  | torch.norm(input, p=2, dim=1) | mxnet.ndarray.norm(input, ord=2, axis=1) |

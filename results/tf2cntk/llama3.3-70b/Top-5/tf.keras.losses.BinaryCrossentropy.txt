@@ -1,0 +1,5 @@
+1. BinaryCrossEntropy
+2. CrossEntropy
+3. BinaryError
+4. LogisticLoss
+5. SigmoidCrossEntropyError

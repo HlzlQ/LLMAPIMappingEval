@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.losses.cosine_similarity`:
+
+1. mxnet.ndarray.CosineSimilarity
+2. mxnet.gluon.loss.CosineEmbeddingLoss
+3. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+4. mxnet.ndarray.L2Normalization
+5. mxnet.gluon.nn.CosineSimilarity
+6. mxnet.ndarray.Dot
+7. mxnet.gluon.loss.HuberLoss
+8. mxnet.gluon.loss.MSE
+9. mxnet.gluon.loss.KLDivLoss
+10. mxnet.gluon.loss.TripleLoss

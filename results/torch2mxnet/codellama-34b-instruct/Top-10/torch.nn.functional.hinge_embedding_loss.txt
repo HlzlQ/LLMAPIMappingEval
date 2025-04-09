@@ -1,0 +1,15 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.hinge_embedding_loss`:
+
+1. `mxnet.ndarray.hinge_embedding_loss`
+2. `mxnet.gluon.loss.HingeEmbeddingLoss`
+3. `mxnet.symbol.hinge_embedding_loss`
+4. `mxnet.ndarray.hinge_loss`
+5. `mxnet.gluon.loss.HingeLoss`
+6. `mxnet.symbol.hinge_loss`
+7. `mxnet.ndarray.embedding_loss`
+8. `mxnet.gluon.loss.EmbeddingLoss`
+9. `mxnet.symbol.embedding_loss`
+10. `mxnet.ndarray.hinge_margin_loss`
+
+Note that some of these APIs may not be directly equivalent to the PyTorch API, but they can be used to implement a similar loss function in MXNet.

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for mean squared error:
+
+1. cntk.losses.mean_squared_error
+2. cntk.losses.mse
+3. cntk.losses.squared_error
+4. cntk.losses.mean_squared_logarithmic_error
+5. cntk.losses.msle
+6. cntk.losses.squared_logarithmic_error
+7. cntk.losses.mean_squared_hinge_error
+8. cntk.losses.msehe
+9. cntk.losses.squared_hinge_error
+10. cntk.losses.mean_squared_logistic_error

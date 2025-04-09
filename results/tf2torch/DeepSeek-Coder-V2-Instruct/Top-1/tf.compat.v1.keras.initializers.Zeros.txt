@@ -1,0 +1,10 @@
+
+```python
+import tensorflow as tf
+import torch
+```
+
+```python
+# TensorFlow API: tensorflow.compat.v1.keras.initializers.Zeros
+PyTorch API: torch.nn.init.zeros_
+```

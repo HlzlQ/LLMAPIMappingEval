@@ -1,0 +1,7 @@
+Based on the functionality of `tensorflow.einsum`, here are 5 PyTorch APIs that have similar functions:
+
+1. torch.einsum
+2. torch.tensordot
+3. torch.matmul
+4. torch.bmm
+5. torch.dot

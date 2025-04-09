@@ -1,0 +1,10 @@
+1. System.Text.Encoding.GetBytes
+2. System.Text.Encoding.UTF8.GetBytes
+3. System.Text.Encoding.Unicode.GetBytes
+4. System.Text.Encoding.BigEndianUnicode.GetBytes
+5. System.Text.Encoding.ASCII.GetBytes
+6. System.Convert.FromBase64String
+7. System.BitConverter.GetBytes
+8. System.Runtime.InteropServices.Marshal.StringToHGlobalAnsi
+9. System.Runtime.InteropServices.Marshal.StringToHGlobalAuto
+10. System.Runtime.InteropServices.Marshal.StringToHGlobalUni

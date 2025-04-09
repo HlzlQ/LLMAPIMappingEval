@@ -1,0 +1,10 @@
+System.Collections.ArrayList.Clone
+System.Collections.Generic.List<T>.Clone
+System.Collections.Concurrent.ConcurrentBag<T>.Clone
+System.Collections.Concurrent.ConcurrentQueue<T>.Clone
+System.Collections.Concurrent.ConcurrentStack<T>.Clone
+System.Collections.ObjectModel.Collection<T>.Clone
+System.Collections.Specialized.StringCollection.Clone
+System.Collections.Specialized.NameValueCollection.Clone
+System.Collections.Specialized.HybridDictionary.Clone
+System.Collections.Hashtable.Clone

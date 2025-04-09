@@ -1,0 +1,2 @@
+
+Answer: AveragePooling1D, MaxPooling2D, GlobalAveragePooling1D, GlobalMaxPooling1D, Pooling

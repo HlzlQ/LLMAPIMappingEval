@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.depth_to_space`:
+
+1. mxnet.ndarray.depth_to_space
+2. mxnet gluon.nn.Conv2DTranspose
+3. mxnet.ndarray.transpose
+4. mxnet gluon.nn.PixelShuffle
+5. mxnet.ndarray.reshape

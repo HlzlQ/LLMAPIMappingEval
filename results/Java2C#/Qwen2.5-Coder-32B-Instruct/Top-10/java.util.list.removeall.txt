@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.RemoveAll
+System.Collections.ArrayList.RemoveAll
+System.Linq.Enumerable.Except
+System.Linq.Enumerable.Where
+System.Collections.Generic.HashSet<T>.ExceptWith
+System.Collections.Generic.HashSet<T>.SymmetricExceptWith
+System.Collections.Generic.SortedSet<T>.ExceptWith
+System.Collections.Generic.SortedSet<T>.SymmetricExceptWith
+System.Collections.Specialized.StringCollection.RemoveRange
+System.Collections.ObjectModel.Collection<T>.RemoveAll

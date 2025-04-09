@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for transposed convolutional layers:
+
+1. torch.nn.ConvTranspose2d
+2. torch.nn.ConvTranspose3d
+3. torch.nn.ConvTranspose1d
+4. torch.nn.functional.conv_transpose2d
+5. torch.nn.functional.conv_transpose3d

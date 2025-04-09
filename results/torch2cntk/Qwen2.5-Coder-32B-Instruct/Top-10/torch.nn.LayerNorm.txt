@@ -1,0 +1,10 @@
+cntk.layers.LayerNormalization
+cntk.ops.layer_normalization
+cntk.layers.sequence.layer_normalization
+cntk.layers.blocks.layer_normalization
+cntk.layers.recurrent.layer_normalization
+cntk.layers.convolutional.layer_normalization
+cntk.layers.dense.layer_normalization
+cntk.layers.embedding.layer_normalization
+cntk.layers.pooling.layer_normalization
+cntk.layers.dropout.layer_normalization

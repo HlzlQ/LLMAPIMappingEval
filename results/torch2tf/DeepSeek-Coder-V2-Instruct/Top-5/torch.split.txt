@@ -1,0 +1,2 @@
+
+Answer: tf.unstack, tf.split, tf.reshape, tf.expand_dims, tf.squeeze

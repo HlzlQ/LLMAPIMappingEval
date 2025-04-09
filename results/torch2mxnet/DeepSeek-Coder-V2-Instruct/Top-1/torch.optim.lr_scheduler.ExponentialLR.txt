@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet equivalent for torch.optim.lr_scheduler.ExponentialLR:
+print("mxnet.gluon.lr_scheduler.ExponentialScheduler")
+<jupyter_output>
+mxnet.gluon.lr_scheduler.ExponentialScheduler

@@ -1,0 +1,5 @@
+cntk.adam
+cntk.momentum_sgd
+cntk.nesterov_momentum_sgd
+cntk.rmsprop
+cntk.fsadagrad

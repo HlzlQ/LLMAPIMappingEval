@@ -1,0 +1,5 @@
+mx.nd.L2Norm
+mx.nd.Norm
+mx.symbol.L2Normalization
+mx.symbol.norm
+mx.ndarray.linalg.norm

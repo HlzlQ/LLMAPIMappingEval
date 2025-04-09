@@ -1,0 +1,2 @@
+
+Answer: tensorflow.compat.v1.layers.flatten, tensorflow.compat.v1.layers.dense, tensorflow.compat.v1.nn.relu, tensorflow.compat.v1.pad, tensorflow.compat.v1.image.resize_images

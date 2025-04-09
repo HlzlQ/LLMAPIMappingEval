@@ -1,0 +1,7 @@
+
+CNTK does not have a direct equivalent to `tensorflow.keras.utils.normalize`. However, you can use the following APIs in CNTK to achieve similar functionality:
+
+* `cntk.ops.normalize`: This API normalizes the input data by scaling it to a common range, usually between 0 and 1.
+* `cntk.ops.standardize`: This API standardizes the input data by subtracting the mean and dividing by the standard deviation for each feature.
+
+You can use these APIs in combination with other CNTK APIs to achieve similar functionality as `tensorflow.keras.utils.normalize`.

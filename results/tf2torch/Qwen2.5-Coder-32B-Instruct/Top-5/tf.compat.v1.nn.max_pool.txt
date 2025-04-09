@@ -1,0 +1,5 @@
+torch.nn.functional.max_pool1d  
+torch.nn.functional.max_pool2d  
+torch.nn.functional.max_pool3d  
+torch.nn.MaxPool1d  
+torch.nn.MaxPool2d

@@ -1,0 +1,40 @@
+
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.optimizer import Optimizer, register
+
+class Adadelta(Optimizer):
+    def __init__(self, rho=0.9, epsilon=1e-5, **kwargs):
+        super(Adadelta, self).__init__(**kwargs)
+        self.rho = rho
+        self.epsilon = epsilon
+        with self.name_scope():
+            self.register_buffer('s', None)
+            self.register_buffer('delta_x', None)
+
+    def create_state(self, index, weight):
+        return (nd.zeros(weight.shape, weight.context),  # s
+                nd.zeros(weight.shape, weight.context))  # delta_x
+
+    def step(self, key, weights, grads):
+        assert self._index_check(key, weights)
+        lr = self._get_lr(key)
+        rho = self.rho
+        eps = self.epsilon
+        s, delta_x = self.state[key]
+        s[:] = rho * s + (1 - rho) * grads**2
+        std = (delta_x + eps).sqrt()
+        delta_x[:] = lr * (std / ((s + eps).sqrt())) * grads
+        weights[:] -= delta_x
+        delta_x[:] *= 0
+```
+Answer: ```python
+1. mxnet.optimizer.Adadelta
+2. mxnet.optimizer.Optimizer
+3. mxnet.ndarray.zeros
+4. mxnet.ndarray.sqrt
+5. mxnet.ndarray.subtract
+```

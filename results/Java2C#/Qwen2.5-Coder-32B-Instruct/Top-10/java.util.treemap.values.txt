@@ -1,0 +1,10 @@
+System.Collections.Generic.SortedDictionary<TKey,TValue>.Values
+System.Collections.Generic.SortedList<TKey,TValue>.Values
+System.Linq.Enumerable.ToDictionary<TSource,TKey,TElement>(IEnumerable<TSource>,Func<TSource,TKey>,Func<TSource,TElement>)
+System.Linq.Enumerable.OrderBy<TSource,TKey>(IEnumerable<TSource>,Func<TSource,TKey>)
+System.Linq.Enumerable.OrderByDescending<TSource,TKey>(IEnumerable<TSource>,Func<TSource,TKey>)
+System.Collections.Generic.Dictionary<TKey,TValue>.Values
+System.Collections.Concurrent.ConcurrentDictionary<TKey,TValue>.Values
+System.Collections.ObjectModel.ReadOnlyDictionary<TKey,TValue>.Values
+System.Collections.Specialized.OrderedDictionary.ValuesCollection
+System.Collections.Specialized.NameValueCollection.AllKeys

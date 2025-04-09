@@ -1,0 +1,2 @@
+
+In PyTorch, the equivalent function to `tensorflow.compat.v1.pad` is `torch.nn.functional.pad`.

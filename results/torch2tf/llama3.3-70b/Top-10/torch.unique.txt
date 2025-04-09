@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.unique`:
+
+1. tf.unique
+2. tf.unique_with_counts
+3. tf.sets.union
+4. tf.sets.difference
+5. tf.sets.intersection
+6. tf.gather
+7. tf.where
+8. tf.boolean_mask
+9. tf.sparse.to_dense
+10. tf.raw_ops.Unique

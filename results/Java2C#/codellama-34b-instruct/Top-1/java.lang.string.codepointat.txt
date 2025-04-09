@@ -1,0 +1,14 @@
+C# does not have a direct equivalent of the `java.lang.String.codePointAt()` method. However, you can use the following methods to achieve similar functionality:
+
+* `System.Text.Encoding.UTF32.GetBytes(string)`: This method returns an array of bytes that represent the UTF-32 encoding of a string. You can then access the individual code points by indexing into the array.
+* `System.Text.Encoding.UTF32.GetString(byte[])`: This method decodes a byte array representing a UTF-32 encoded string and returns the resulting string.
+
+For example, to get the code point at index 0 of a string in C#, you can use the following code:
+```
+string str = "Hello";
+int codePoint = System.Text.Encoding.UTF32.GetBytes(str)[0];
+```
+To convert a code point to a character, you can use the `System.Text.Encoding.UTF32.GetString()` method:
+```
+char c = System.Text.Encoding.UTF32.GetString(new byte[] { (byte)codePoint })[0];
+```

@@ -1,0 +1,15 @@
+
+Here are ten PyTorch APIs that are similar to the TensorFlow API `tensorflow.compat.v1.space_to_depth`:
+
+1. `torch.nn.functional.space_to_depth`
+2. `torch.nn.modules.space_to_depth`
+3. `torch.nn.SpaceToDepth`
+4. `torch.nn.functional.depth_to_space`
+5. `torch.nn.modules.depth_to_space`
+6. `torch.nn.DepthToSpace`
+7. `torch.nn.functional.space_to_batch`
+8. `torch.nn.modules.space_to_batch`
+9. `torch.nn.SpaceToBatch`
+10. `torch.nn.functional.batch_to_space`
+
+Note that the PyTorch APIs may have slightly different syntax or functionality compared to the TensorFlow API, but they serve a similar purpose and can be used in a similar way.

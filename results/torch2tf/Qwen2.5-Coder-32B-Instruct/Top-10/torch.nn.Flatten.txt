@@ -1,0 +1,10 @@
+tf.keras.layers.Flatten  
+tf.reshape  
+tf.squeeze  
+tf.layers.flatten  
+tf.contrib.layers.flatten  
+tf.keras.backend.batch_flatten  
+tf.keras.layers.Reshape  
+tf.keras.layers.Lambda  
+tf.keras.layers.Permute  
+tf.keras.layers.Cropping2D

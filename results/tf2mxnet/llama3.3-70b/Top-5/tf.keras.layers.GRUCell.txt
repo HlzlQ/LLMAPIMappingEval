@@ -1,0 +1,5 @@
+1. mxnet.ndarray.GRU
+2. mxnet.gluon.rnn.GRUCell
+3. mxnet.gluon.rnn.GRU
+4. mxnet.ndarray.LSTM
+5. mxnet.gluon.rnn.LSTMCell

@@ -1,0 +1,2 @@
+
+Answer: BatchNormalization, LayerNormalization, InstanceNormalization, GroupNormalization, Normalization

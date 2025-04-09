@@ -1,0 +1,17 @@
+
+MXNet does not have a direct equivalent of the `selu` activation function from TensorFlow. However, you can use the `leaky_relu` activation function with a negative slope to achieve similar results. The `leaky_relu` function is defined as:
+
+f(x) = max(alpha \* x, x)
+
+where alpha is a hyperparameter that controls the slope of the negative part of the function. A common value for alpha is 0.1 or 0.2.
+
+So, to use `leaky_relu` in MXNet, you can do:
+```
+from mxnet import ndarray as nd
+
+# Define a symbolic variable
+x = nd.Variable('x')
+
+# Apply the leaky_relu activation function with alpha=0.1
+y = nd.leaky_relu(x, alpha=0.1)
+```

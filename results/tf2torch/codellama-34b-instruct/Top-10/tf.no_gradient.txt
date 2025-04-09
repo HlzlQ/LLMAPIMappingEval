@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.no_gradient`:
+
+1. `torch.no_grad()`
+2. `torch.autograd.no_grad()`
+3. `torch.nn.utils.no_grad()`
+4. `torch.optim.no_grad()`
+5. `torch.distributions.no_grad()`
+6. `torch.nn.functional.no_grad()`
+7. `torch.nn.modules.no_grad()`
+8. `torch.nn.parameter.no_grad()`
+9. `torch.nn.utils.no_grad_parameters()`
+10. `torch.optim.no_grad_parameters()`

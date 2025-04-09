@@ -1,0 +1,8 @@
+
+
+## Solution:
+1. `torch.nn.LSTM`
+2. `torch.nn.LSTMCell`
+3. `torch.nn.RNN`
+4. `torch.nn.RNNCell`
+5. `torch.nn.GRU`

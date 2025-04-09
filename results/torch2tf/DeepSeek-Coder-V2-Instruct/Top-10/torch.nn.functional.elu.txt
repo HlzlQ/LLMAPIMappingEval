@@ -1,0 +1,11 @@
+
+Answer: 1. tf.nn.elu
+2. tf.nn.relu
+3. tf.nn.sigmoid
+4. tf.nn.tanh
+5. tf.nn.softmax
+6. tf.nn.log_softmax
+7. tf.nn.dropout
+8. tf.nn.batch_normalization
+9. tf.nn.local_response_normalization
+10. tf.nn.max_pool

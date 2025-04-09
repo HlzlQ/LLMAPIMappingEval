@@ -1,0 +1,5 @@
+java.lang.reflect.Field.get
+java.lang.reflect.Method.invoke
+java.beans.PropertyDescriptor.getReadMethod
+java.lang.Class.getMethod
+java.lang.reflect.Method.getParameterTypes

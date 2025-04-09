@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for normalization:
+
+1. `cntk.normalize`
+2. `cntk.normalize_axis`
+3. `cntk.normalize_data`
+4. `cntk.normalize_features`
+5. `cntk.normalize_labels`
+6. `cntk.normalize_weights`
+7. `cntk.normalize_activations`
+8. `cntk.normalize_gradients`
+9. `cntk.normalize_momentum`
+10. `cntk.normalize_learning_rate`

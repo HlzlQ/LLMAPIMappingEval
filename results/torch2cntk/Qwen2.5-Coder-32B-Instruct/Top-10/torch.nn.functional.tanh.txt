@@ -1,0 +1,10 @@
+cntk.ops.tanh  
+cntk.activations.tanh  
+cntk.functions.tanh  
+cntk.layers.tanh  
+cntk.models.tanh  
+cntk.losses.tanh  
+cntk.metrics.tanh  
+cntk.optimizers.tanh  
+cntk.initializer.tanh  
+cntk.learner.tanh

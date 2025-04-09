@@ -1,0 +1,1 @@
+Java equivalent: java.util.regex.Pattern.compile(pattern).matcher(input).replaceAll(replacement)

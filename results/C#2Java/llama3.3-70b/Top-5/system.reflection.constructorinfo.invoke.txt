@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.reflection.constructorinfo.invoke` in C#:
+
+1. java.lang.reflect.Constructor.newInstance
+2. java.lang.reflect.Method.invoke
+3. java.lang.reflect.Constructor.newInstanceWithArguments
+4. java.lang.reflect.InvocationHandler.invoke
+5. java.lang.reflect.Proxy.newProxyInstance

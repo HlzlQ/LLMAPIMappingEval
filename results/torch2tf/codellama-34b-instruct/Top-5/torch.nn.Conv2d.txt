@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for convolutional neural networks:
+
+1. `tf.keras.layers.Conv2D`
+2. `tf.keras.layers.Convolution2D`
+3. `tf.nn.conv2d`
+4. `tf.nn.convolution2d`
+5. `tf.nn.depthwise_conv2d`

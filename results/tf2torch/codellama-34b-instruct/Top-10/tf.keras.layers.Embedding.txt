@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.keras.layers.Embedding`:
+
+1. `torch.nn.Embedding`
+2. `torch.nn.EmbeddingBag`
+3. `torch.nn.EmbeddingLookup`
+4. `torch.nn.EmbeddingFromTensor`
+5. `torch.nn.EmbeddingToTensor`
+6. `torch.nn.EmbeddingWithPadding`
+7. `torch.nn.EmbeddingWithoutPadding`
+8. `torch.nn.EmbeddingWithMasking`
+9. `torch.nn.EmbeddingWithoutMasking`
+10. `torch.nn.EmbeddingWithCustomPadding`

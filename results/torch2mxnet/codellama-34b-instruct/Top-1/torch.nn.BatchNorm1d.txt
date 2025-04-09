@@ -1,0 +1,2 @@
+
+In MXNet, the equivalent of `torch.nn.BatchNorm1d` is `mxnet.gluon.nn.BatchNorm`.

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.dropout`:
+
+1. `cntk.layers.Dropout`
+2. `cntk.layers.DropoutLayer`
+3. `cntk.layers.DropoutBlock`
+4. `cntk.layers.DropoutCell`
+5. `cntk.layers.DropoutLayerNorm`

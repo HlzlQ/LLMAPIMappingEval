@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.max_pool1d, mxnet.ndarray.max_pooling1d, mxnet.symbol.max_pooling1d, mxnet.gluon.nn.MaxPool1D, mxnet.gluon.nn.MaxPool1d

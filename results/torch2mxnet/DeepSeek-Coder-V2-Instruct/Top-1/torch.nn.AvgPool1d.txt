@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# AvgPool1d in MXNet equivalent to torch.nn.AvgPool1d
+"AvgPool1d"
+<jupyter_output>
+<empty_output>

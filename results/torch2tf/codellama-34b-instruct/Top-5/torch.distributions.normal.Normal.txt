@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for normal distribution:
+
+1. `tf.distributions.Normal`
+2. `tf.random.normal`
+3. `tf.distributions.TruncatedNormal`
+4. `tf.distributions.Uniform`
+5. `tf.distributions.Exponential`

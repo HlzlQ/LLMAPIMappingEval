@@ -1,0 +1,10 @@
+1. Regex.IsMatch
+2. Regex.Replace
+3. Regex.Split
+4. Regex.Match
+5. Regex.Find
+6. Regex.Matches
+7. String.IndexOf
+8. String.LastIndexOf
+9. String.Contains
+10. String.StartsWith

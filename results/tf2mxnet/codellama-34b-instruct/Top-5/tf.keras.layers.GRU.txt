@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.GRU`:
+
+1. `mxnet.gluon.rnn.GRU`
+2. `mxnet.gluon.rnn.GRUCell`
+3. `mxnet.gluon.rnn.GatedRecurrentUnit`
+4. `mxnet.gluon.rnn.GRUBlock`
+5. `mxnet.gluon.rnn.GRUBlockCell`

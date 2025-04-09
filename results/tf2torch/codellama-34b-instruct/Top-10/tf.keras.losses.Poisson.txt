@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.losses.Poisson`:
+
+1. `torch.nn.functional.poisson_nll_loss`
+2. `torch.nn.functional.poisson_log_likelihood`
+3. `torch.nn.functional.poisson_cross_entropy`
+4. `torch.nn.functional.poisson_hinge_loss`
+5. `torch.nn.functional.poisson_squared_error`
+6. `torch.nn.functional.poisson_mean_squared_error`
+7. `torch.nn.functional.poisson_mean_absolute_error`
+8. `torch.nn.functional.poisson_binary_cross_entropy`
+9. `torch.nn.functional.poisson_categorical_cross_entropy`
+10. `torch.nn.functional.poisson_kl_divergence`

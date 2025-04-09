@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. java.util.Random.nextInt()
+2. java.util.Random.nextLong()
+3. java.util.Random.nextFloat()
+4. java.util.Random.nextDouble()
+5. java.util.Random.nextBoolean()

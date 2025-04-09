@@ -1,0 +1,5 @@
+tfp.distributions.Normal  
+tf.random.normal  
+tf.math.exp  
+tf.reduce_mean  
+tf.reduce_sum

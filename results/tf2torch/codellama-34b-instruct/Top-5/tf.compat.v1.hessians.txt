@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that correspond to the given TensorFlow API:
+
+1. `torch.autograd.hessian`
+2. `torch.nn.functional.hessian`
+3. `torch.optim.Hessian`
+4. `torch.utils.hessian`
+5. `torch.nn.modules.hessian`

@@ -1,0 +1,5 @@
+1. cntk.layers.SubsamplingLayer
+2. cntk.layers.PoolingLayer
+3. cntk.layers.ConvolutionLayer
+4. cntk.layers.TransposeLayer
+5. cntk.layers.ReshapeLayer

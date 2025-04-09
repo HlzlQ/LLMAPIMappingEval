@@ -1,0 +1,6 @@
+
+MXNet does not have an exact equivalent of PyTorch's `nn.ELU` module. However, you can use the following MXNet modules to achieve similar functionality:
+
+* `mxnet.ndarray.LeakyReLU`: This is a variant of the ReLU activation function that allows a small amount of the input to pass through even when the output is negative. It has a similar effect to ELU, but with a different shape.
+* `mxnet.ndarray.PReLU`: This is a parametric version of LeakyReLU, where the leakage rate is learned during training. It can be used as an alternative to ELU and can be more efficient than using separate ReLU and LeakyReLU modules.
+* `mxnet.ndarray.ELU`: This is a module that implements the exact same functionality as PyTorch's `nn.ELU` module. It uses the same formula for computing the output, but it may have slightly different performance characteristics due to differences in the underlying implementation.

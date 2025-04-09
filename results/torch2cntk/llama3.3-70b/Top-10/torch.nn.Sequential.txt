@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that are similar to PyTorch's `torch.nn.Sequential`:
+
+1. `cntk.layers.Sequential`
+2. `cntk.layers.LayerStack`
+3. `cntk.layers.Compose`
+4. `cntk.layers.Chain`
+5. `cntk.layers.Stack`
+6. `cntk.layers.Concat`
+7. `cntk.layers.Sequence`
+8. `cntk.layers.ModuleList`
+9. `cntk.layers.Container`
+10. `cntk.layers.LayerComposition`

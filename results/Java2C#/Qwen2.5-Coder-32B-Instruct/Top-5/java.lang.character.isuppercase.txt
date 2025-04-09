@@ -1,0 +1,5 @@
+System.Char.IsUpper  
+System.Text.RegularExpressions.Regex.IsMatch  
+System.Globalization.CultureInfo.CurrentCulture.TextInfo.IsUpper  
+System.Linq.Enumerable.Any  
+Microsoft.VisualBasic.Information.IsUCase

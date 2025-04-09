@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `nn.Sequential` API:
+
+1. `cntk.layers.Sequential`: This is a sequential container for layers in CNTK, similar to `nn.Sequential` in PyTorch. It allows you to add multiple layers to the model and specify the input and output shapes of each layer.
+2. `cntk.models.Sequential`: This is a pre-defined model class in CNTK that provides a sequential container for layers, similar to `nn.Sequential` in PyTorch. It allows you to add multiple layers to the model and specify the input and output shapes of each layer.
+3. `cntk.layers.Layer`: This is a base class for all layers in CNTK, including sequential containers like `cntk.layers.Sequential`. It provides a way to define the input and output shapes of each layer and add them to the model.
+4. `cntk.models.Model`: This is a pre-defined model class in CNTK that allows you to create a sequential container for layers, similar to `nn.Sequential` in PyTorch. It provides a way to define the input and output shapes of each layer and add them to the model.
+5. `cntk.layers.SequentialLayer`: This is a pre-defined layer class in CNTK that allows you to create a sequential container for layers, similar to `nn.Sequential` in PyTorch. It provides a way to define the input and output shapes of each layer and add them to the model.

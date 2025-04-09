@@ -1,0 +1,10 @@
+System.Collections.ArrayList.Clear
+System.Collections.Generic.List<T>.Clear
+System.Collections.Hashtable.Clear
+System.Collections.SortedList.Clear
+System.Collections.Specialized.NameValueCollection.Clear
+System.Collections.Specialized.StringCollection.Clear
+System.Collections.Specialized.OrderedDictionary.Clear
+System.Collections.Concurrent.ConcurrentBag<T>.Clear
+System.Collections.Concurrent.ConcurrentQueue<T>.Clear
+System.Collections.Concurrent.ConcurrentStack<T>.Clear

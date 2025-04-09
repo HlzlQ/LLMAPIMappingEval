@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.int64.parse` in C#:
+
+1. java.lang.Long.parseLong
+2. java.lang.Integer.parseInt
+3. java.util.Scanner.nextLong
+4. java.math.BigInteger.valueOf
+5. javax.xml.bind.DatatypeConverter.parseLong

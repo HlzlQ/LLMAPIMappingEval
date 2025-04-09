@@ -1,0 +1,10 @@
+tf.random.gamma
+tfp.distributions.Gamma
+tf.math.lgamma
+tf.math.igamma
+tf.math.igammac
+tf.math.betainc
+tf.math.polygamma
+tf.math.digamma
+tf.math.tan
+tf.math.atan2

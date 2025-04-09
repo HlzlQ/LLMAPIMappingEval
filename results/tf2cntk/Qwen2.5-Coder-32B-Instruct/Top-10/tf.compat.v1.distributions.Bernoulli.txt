@@ -1,0 +1,10 @@
+cntk.random.bernoulli
+cntk.layers.Bernoulli
+cntk.ops.bernoulli
+cntk.initializer.bernoulli
+cntk.losses.binary_cross_entropy
+cntk.metrics.binary_accuracy
+cntk.distributions.Bernoulli
+cntk.stochastic_rounding.bernoulli
+cntk.random.sample_bernoulli
+cntk.layers.Dropout

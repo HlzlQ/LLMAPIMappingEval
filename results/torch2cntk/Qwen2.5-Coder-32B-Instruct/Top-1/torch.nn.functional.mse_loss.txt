@@ -1,0 +1,1 @@
+cntk.losses.squared_error

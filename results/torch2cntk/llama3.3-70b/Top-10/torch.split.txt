@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that may have similar functionality to `torch.split`:
+
+1. `cntk.slice`
+2. `cntk.splice`
+3. `cntk.reshape`
+4. `cntk.transpose`
+5. `cntk.split_axis`
+6. `cntk.sequence.slice`
+7. `cntk.sequence.splice`
+8. `cntk.gather`
+9. `cntk.scatter`
+10. `cntk.slice_like`

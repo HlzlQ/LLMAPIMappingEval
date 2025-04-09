@@ -1,0 +1,5 @@
+1. ResultSet.getBytes()
+2. SQLDataReader.getBytes()
+3. DataReader.getByte()
+4. DatabaseMetaData.getURL()
+5. Connection.createStatement()

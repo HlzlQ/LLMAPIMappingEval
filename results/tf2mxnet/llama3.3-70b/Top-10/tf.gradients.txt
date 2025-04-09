@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.gradients`:
+
+1. mxnet.autograd.grad
+2. mxnet.ndarray.grad
+3. mxnet.autograd.compute_gradient
+4. mxnet.nd.compute_gradient
+5. mxnet.autograd.get_gradient
+6. mxnet.ndarray.get_gradient
+7. mxnet.autograd.backward
+8. mxnet.nd.backward
+9. mxnet.autograd.compute_gradients
+10. mxnet.nd.compute_gradients

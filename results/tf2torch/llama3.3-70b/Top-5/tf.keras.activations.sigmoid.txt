@@ -1,0 +1,5 @@
+1. torch.sigmoid
+2. torch.nn.Sigmoid
+3. torch.nn.functional.sigmoid
+4. torch.special.expit
+5. torch.tensor.logistic

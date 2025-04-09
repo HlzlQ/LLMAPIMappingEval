@@ -1,0 +1,6 @@
+
+Answer: 1. tf.train.AdagradOptimizer
+2. tf.keras.optimizers.legacy.Adagrad
+3. tf.compat.v1.train.AdagradOptimizer
+4. tf.contrib.opt.AdagradOptimizer
+5. tf.train.experimental.Adagrad

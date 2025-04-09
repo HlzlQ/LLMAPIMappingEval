@@ -1,0 +1,2 @@
+
+CNTK's AdagradOptimizer: `cntk.learners.adagrad`

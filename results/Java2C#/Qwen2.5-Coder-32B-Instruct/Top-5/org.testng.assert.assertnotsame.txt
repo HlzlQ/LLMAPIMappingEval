@@ -1,0 +1,5 @@
+System.Diagnostics.Debug.Assert.AreNotSame  
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame  
+NUnit.Framework.Assert.AreNotSame  
+Xunit.Assert.NotSame  
+FluentAssertions.Assertions.AssertionExtensions.BeSameAs<T> (negated form)

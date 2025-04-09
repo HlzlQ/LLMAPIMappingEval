@@ -1,0 +1,5 @@
+System.String.ToLower
+System.String.ToLowerInvariant
+System.Globalization.CultureInfo.TextInfo.ToLower
+System.Globalization.TextInfo.ToLower
+System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.ToLower

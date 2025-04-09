@@ -1,0 +1,5 @@
+1. mxnet.ndarray.Activation
+2. mxnet.gluon.nn.ELU
+3. mxnet.gluon.nn.LeakyReLU
+4. mxnet.gluon.nn.SoftmaxActivation
+5. mxnet.gluon.nn.Sigmoid

@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.split`:
+
+1. torch.chunk
+2. torch.split
+3. torch.tensor_split
+4. torch.cat
+5. torch.stack
+6. torch.unbind
+7. torch.unstack
+8. torch.hsplit
+9. torch.vsplit
+10. torch.dsplit

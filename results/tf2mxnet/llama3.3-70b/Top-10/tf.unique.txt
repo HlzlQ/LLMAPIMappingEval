@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.unique`:
+
+1. mxnet.ndarray.unique
+2. mxnet.nd.unique
+3. mxnet.gluon.utils.unique
+4. mxnet.gluon.nn.unique
+5. mxnet.ndarray.setdiff1d
+6. mxnet.ndarray.setdiff
+7. mxnet.ndarray.union1d
+8. mxnet.ndarray.intersect1d
+9. mxnet.ndarray.sym_unique
+10. mxnet.gluon.utils.set_diff

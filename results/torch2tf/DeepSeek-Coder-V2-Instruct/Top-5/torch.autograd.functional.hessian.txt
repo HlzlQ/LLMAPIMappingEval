@@ -1,0 +1,7 @@
+
+
+1. tf.GradientTape()
+2. tf.gradients()
+3. tf.hessian()
+4. tf.jacobian()
+5. tf.linalg.LinearOperatorHessian()

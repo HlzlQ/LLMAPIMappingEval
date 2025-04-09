@@ -1,0 +1,4 @@
+
+"""
+
+# Answer: he_uniform, kaiming_uniform, glorot_normal, xavier_normal, normal

@@ -1,0 +1,12 @@
+Here are the top 10 matching TensorFlow APIs for `torch.nn.functional.log_softmax`:
+
+1. tf.nn.log_softmax
+2. tf.keras.activations.softmax
+3. tf.math.log
+4. tf.math.softmax
+5. tf.keras.layers.Softmax
+6. tf.nn.softmax
+7. tf.keras.activations.log_softmax
+8. tf.math.log_softmax
+9. tf.keras.layers.LogSoftmax
+10. tf.nn.log_sigmoid_cross_entropy_with_logits

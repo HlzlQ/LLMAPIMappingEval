@@ -1,0 +1,2 @@
+
+Answer: MeanSquaredError, SparseCategoricalCrossentropy, BinaryCrossentropy, CategoricalCrossentropy, Huber

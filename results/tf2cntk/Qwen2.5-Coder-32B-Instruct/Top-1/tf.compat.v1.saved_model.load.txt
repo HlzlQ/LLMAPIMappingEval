@@ -1,0 +1,1 @@
+cntk.ops.functions.Function.load_model

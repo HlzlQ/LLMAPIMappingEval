@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.functional.dropout | mxnet.ndarray.Dropout |
+  | torch.nn.functional.dropout2d | mxnet.ndarray.Dropout2D |
+  | torch.nn.functional.dropout3d | mxnet.ndarray.Dropout3D |
+  | torch.nn.functional.alpha_dropout | mxnet.ndarray.AlphaDropout |
+  | torch.nn.functional.feature_alpha_dropout | mxnet.ndarray.FeatureAlphaDropout |
+  | torch.nn.functional.spatial_dropout | mxnet.ndarray.SpatialDropout |
+  | torch.nn.functional.spatial_dropout2d | mxnet.ndarray.SpatialDropout2D |
+  | torch.nn.functional.spatial_dropout3d | mxnet.ndarray.SpatialDropout3D |
+  | torch.nn.functional.dropout_mask | mxnet.ndarray.DropoutMask |

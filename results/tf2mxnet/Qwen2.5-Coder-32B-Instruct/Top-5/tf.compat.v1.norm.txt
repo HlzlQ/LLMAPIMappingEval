@@ -1,0 +1,5 @@
+mx.nd.linalg.norm
+mx.ndarray.norm
+mx.symbol.linalg.norm
+mx.symbol.norm
+mxnet.ndarray.linalg.norm

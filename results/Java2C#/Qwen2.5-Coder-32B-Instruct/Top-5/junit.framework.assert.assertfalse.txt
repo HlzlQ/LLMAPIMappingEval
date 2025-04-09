@@ -1,0 +1,5 @@
+System.Diagnostics.Debug.Assert
+System.Diagnostics.Trace.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+NUnit.Framework.Assert.IsFalse
+Xunit.Assert.False

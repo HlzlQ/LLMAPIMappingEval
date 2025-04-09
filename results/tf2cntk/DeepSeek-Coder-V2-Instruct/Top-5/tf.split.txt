@@ -1,0 +1,41 @@
+
+
+## Step 2: Implementing the Mapping
+Now we need to implement a function that maps the TensorFlow API calls to their corresponding CNTK API calls. We will use Python for this implementation.
+
+```python
+def map_tensorflow_to_cntk(tf_api):
+    # Define a dictionary to map TensorFlow APIs to CNTK APIs
+    tf_to_cntk_map = {
+        "tf.split": "C.split",
+        # Add more mappings here as needed
+    }
+    
+    # Return the corresponding CNTK API or None if not found
+    return tf_to_cntk_map.get(tf_api, None)
+```
+
+## Step 3: Testing the Mapping Function
+Let's test our function to ensure it works correctly. We will create a list of TensorFlow APIs and map each one to its corresponding CNTK API using our function.
+
+```python
+# List of TensorFlow APIs to be mapped
+tensorflow_apis = ["tf.split", "tf.placeholder", "tf.add"]
+
+# Map each TensorFlow API to its corresponding CNTK API
+cntk_apis = [map_tensorflow_to_cntk(api) for api in tensorflow_apis]
+
+# Print the results
+print("TensorFlow APIs:", tensorflow_apis)
+print("CNTK APIs:", cntk_apis)
+```
+
+## Expected Output
+```
+TensorFlow APIs: ['tf.split', 'tf.placeholder', 'tf.add']
+CNTK APIs: ['C.split', None, None]
+```
+
+This output shows that our function correctly maps "tf.split" to "C.split" and returns `None` for the other API calls since they are not in our mapping dictionary.
+
+By following these steps, you have successfully created a function to map TensorFlow APIs to their corresponding CNTK APIs.

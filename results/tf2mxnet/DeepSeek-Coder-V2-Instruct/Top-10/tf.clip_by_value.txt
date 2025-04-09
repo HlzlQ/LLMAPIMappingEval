@@ -1,0 +1,17 @@
+
+
+```python
+import mxnet as mx
+```
+
+### Answer:
+1. `mxnet.ndarray.clip`
+2. `mxnet.ndarray.maximum`
+3. `mxnet.ndarray.minimum`
+4. `mxnet.ndarray.relu`
+5. `mxnet.ndarray.sigmoid`
+6. `mxnet.ndarray.tanh`
+7. `mxnet.ndarray.softmax`
+8. `mxnet.ndarray.log_softmax`
+9. `mxnet.ndarray.exp`
+10. `mxnet.ndarray.sqrt`

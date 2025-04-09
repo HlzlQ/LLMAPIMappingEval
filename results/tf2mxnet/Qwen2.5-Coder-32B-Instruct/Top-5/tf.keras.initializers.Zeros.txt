@@ -1,0 +1,5 @@
+mxnet.init.Zero
+mxnet.gluon.nn.initializer.Constant
+mxnet.gluon.nn.initializer.Zeros
+mxnet.ndarray.zeros
+mxnet.symbol.zeros

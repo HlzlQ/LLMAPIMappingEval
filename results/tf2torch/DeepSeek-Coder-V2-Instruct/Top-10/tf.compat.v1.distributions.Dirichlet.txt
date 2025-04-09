@@ -1,0 +1,12 @@
+
+
+1. Dirichlet
+2. MultivariateNormalDiag
+3. Normal
+4. Bernoulli
+5. Categorical
+6. Exponential
+7. Gamma
+8. Logistic
+9. Poisson
+10. Uniform

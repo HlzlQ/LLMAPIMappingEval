@@ -1,0 +1,7 @@
+Here are the 5 PyTorch APIs that are likely equivalent to `tensorflow.compat.v1.nn.ctc_loss`:
+
+1. torch.nn.CTCLoss
+2. torch.nn.functional.ctc_loss
+3. torch.tensor.ctc_loss
+4. torch.autograd.function.ctc_loss
+5. torch.nn.modules.loss.CtCLoss

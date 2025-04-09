@@ -1,0 +1,10 @@
+java.lang.Character.isISOControl  
+java.text.Normalizer.Form.NFC  
+java.text.Normalizer.Form.NFD  
+java.text.Normalizer.Form.NFKC  
+java.text.Normalizer.Form.NFKD  
+java.nio.charset.CharsetEncoder.canEncode  
+java.nio.charset.CharsetDecoder.decode  
+java.util.Scanner.useDelimiter  
+java.io.StreamTokenizer.nextToken  
+java.lang.String.codePointAt

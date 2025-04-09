@@ -1,0 +1,10 @@
+tf.nn.relu  
+tf.keras.layers.ReLU  
+tf.math.maximum  
+tf.where  
+tf.nn.leaky_relu  
+tf.nn.elu  
+tf.nn.swish  
+tf.nn.sigmoid  
+tf.nn.tanh  
+tf.nn.softplus

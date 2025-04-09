@@ -1,0 +1,11 @@
+
+1. nn.ConvTranspose2d
+2. nn.functional.conv_transpose2d
+3. torchvision.transforms.functional.conv_transpose2d
+4. torch.nn.functional.conv_transpose2d
+5. tensorflow.compat.v1.nn.conv2d_transpose
+6. tf.layers.conv2d_transpose
+7. keras.layers.Conv2DTranspose
+8. mxnet.gluon.nn.Conv2DTranspose
+9. caffe2.operators.deconv_op
+10. paddlepaddle.nn.functional.conv2d_transpose

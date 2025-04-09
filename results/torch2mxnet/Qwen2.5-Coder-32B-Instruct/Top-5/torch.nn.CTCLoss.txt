@@ -1,0 +1,5 @@
+mxnet.gluon.loss.CTCLoss
+mxnet.ndarray.contrib.ctc_loss
+mxnet.symbol.contrib.ctc_loss
+mxnet.gluon.rnn.CTCDecoder
+mxnet.gluon.rnn.CTCEncoder

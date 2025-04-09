@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# `System.IO.FileStream.Read` method:
+
+1. `java.io.FileInputStream.read()`
+2. `java.io.BufferedInputStream.read()`
+3. `java.io.DataInputStream.read()`
+4. `java.io.FilterInputStream.read()`
+5. `java.nio.channels.FileChannel.read()`
+6. `java.nio.file.Files.read()`
+7. `java.nio.file.Path.read()`
+8. `java.nio.file.Paths.read()`
+9. `java.io.RandomAccessFile.read()`
+10. `java.io.InputStream.read()`

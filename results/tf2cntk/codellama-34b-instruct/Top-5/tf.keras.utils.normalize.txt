@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for normalizing data:
+
+1. `cntk.normalize_data`
+2. `cntk.normalize_inputs`
+3. `cntk.normalize_outputs`
+4. `cntk.normalize_weights`
+5. `cntk.normalize_activations`

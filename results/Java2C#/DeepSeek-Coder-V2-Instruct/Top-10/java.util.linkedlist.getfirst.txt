@@ -1,0 +1,10 @@
+1. LinkedList.First
+2. List.FirstOrDefault
+3. Queue.Dequeue
+4. Stack.Pop
+5. Dictionary.TryGetValue
+6. ConcurrentQueue.TryDequeue
+7. ObservableCollection.RemoveAt
+8. SortedList.GetByIndex
+9. HashSet.First
+10. LinkedListNode.Value

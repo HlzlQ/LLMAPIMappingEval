@@ -1,0 +1,9 @@
+The C# API `system.collections.generic.list.removeall` is used to remove all elements from a list. The equivalent Java API for this functionality is `java.util.List.clear()`.
+
+Here are the full names of 5 APIs that you might find useful:
+
+1. `java.util.List.clear()` - Removes all elements from a list.
+2. `java.util.ArrayList.clear()` - Removes all elements from an ArrayList.
+3. `java.util.LinkedList.clear()` - Removes all elements from a LinkedList.
+4. `java.util.Vector.clear()` - Removes all elements from a Vector.
+5. `java.util.Stack.clear()` - Removes all elements from a Stack.

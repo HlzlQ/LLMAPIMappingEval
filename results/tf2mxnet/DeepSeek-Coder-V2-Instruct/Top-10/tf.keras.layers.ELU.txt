@@ -1,0 +1,12 @@
+
+Answer: 
+1. tensorflow.keras.activations.elu
+2. tensorflow.keras.layers.ELU
+3. tensorflow.keras.initializers.he_normal
+4. tensorflow.keras.optimizers.Adam
+5. tensorflow.keras.metrics.accuracy
+6. tensorflow.keras.losses.sparse_categorical_crossentropy
+7. tensorflow.keras.callbacks.ModelCheckpoint
+8. tensorflow.keras.preprocessing.image.ImageDataGenerator
+9. tensorflow.keras.models.Sequential
+10. tensorflow.keras.layers.Dense

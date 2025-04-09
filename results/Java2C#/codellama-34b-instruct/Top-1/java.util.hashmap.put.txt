@@ -1,0 +1,19 @@
+C# does not have a direct equivalent to the Java `HashMap` class. However, you can use the `Dictionary<TKey, TValue>` class in C# to achieve similar functionality. The `put()` method in Java is used to add or update an entry in the map, and the equivalent method in C# is `Add()`.
+
+Here's an example of how you could use the `Dictionary<TKey, TValue>` class in C# to create a map that behaves similarly to a Java `HashMap`:
+```
+using System.Collections.Generic;
+
+// Create a new dictionary with string keys and integer values
+var map = new Dictionary<string, int>();
+
+// Add or update an entry in the map
+map.Add("key1", 1);
+map.Add("key2", 2);
+
+// Get the value associated with a key
+int value = map["key1"];
+
+// Remove an entry from the map
+map.Remove("key1");
+```

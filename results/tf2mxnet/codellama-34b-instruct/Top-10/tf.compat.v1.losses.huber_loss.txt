@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used as alternatives to TensorFlow's `huber_loss` API:
+
+1. `mxnet.ndarray.HuberLoss()`
+2. `mxnet.gluon.loss.HuberLoss()`
+3. `mxnet.symbolic.HuberLoss()`
+4. `mxnet.autograd.HuberLoss()`
+5. `mxnet.optimizer.HuberLoss()`
+6. `mxnet.ndarray.huber_loss()`
+7. `mxnet.gluon.loss.huber_loss()`
+8. `mxnet.symbolic.huber_loss()`
+9. `mxnet.autograd.huber_loss()`
+10. `mxnet.optimizer.huber_loss()`

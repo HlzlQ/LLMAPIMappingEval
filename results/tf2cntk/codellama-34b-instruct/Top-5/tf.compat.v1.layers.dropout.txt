@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for dropout:
+
+1. `cntk.layers.dropout`
+2. `cntk.layers.dropout_layer`
+3. `cntk.layers.dropout_mask`
+4. `cntk.layers.dropout_noise`
+5. `cntk.layers.dropout_with_mask`

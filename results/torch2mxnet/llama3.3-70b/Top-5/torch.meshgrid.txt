@@ -1,0 +1,7 @@
+Based on the PyTorch API `torch.meshgrid`, here are 5 possible equivalent MXNet APIs:
+
+1. mxnet.nd.meshgrid
+2. mxnet.numpy.meshgrid
+3. mxnet.ndarray.meshgrid
+4. mxnet.np.meshgrid
+5. mxnet.mxnet.ndarray.meshgrid

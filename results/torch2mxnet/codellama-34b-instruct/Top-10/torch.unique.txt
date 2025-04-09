@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.unique`:
+
+1. `mxnet.ndarray.unique`
+2. `mxnet.numpy.unique`
+3. `mxnet.tensor.unique`
+4. `mxnet.array.unique`
+5. `mxnet.unique`
+6. `mxnet.ndarray.distinct`
+7. `mxnet.numpy.distinct`
+8. `mxnet.tensor.distinct`
+9. `mxnet.array.distinct`
+10. `mxnet.distinct`

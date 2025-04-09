@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.Convolution2DTranspose
+2. cntk.ops.transposed_convolution
+3. cntk.ops.deconvolution
+4. cntk.layers.Deconvolution
+5. cntk.layers.UpSampling2D
+6. cntk.layers.Conv2DTranspose
+7. cntk.layers.ConvolutionalTranspose
+8. cntk.layers.TransposedConvolution
+9. cntk.layers.Upsampling2D
+10. cntk.layers.Deconv

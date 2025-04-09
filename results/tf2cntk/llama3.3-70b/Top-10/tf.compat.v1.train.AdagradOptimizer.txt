@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.train.AdagradOptimizer`:
+
+1. `cntk.learners.adagrad`
+2. `cntk.optimizers.adagrad`
+3. `cntk.train.adagrad_optimizer`
+4. `cntk.learners.adagrad_learner`
+5. `cntk.optimization.adagrad`
+6. `cntk.trainers.adagrad_trainer`
+7. `cntk.learners.adaptive_gradient`
+8. `cntk.optimizers.adaptive_gradient_descent`
+9. `cntk.train.adagrad_learning_rate_multiplier`
+10. `cntk.learners.adagrad_with_momentum`

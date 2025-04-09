@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+"CNTK.layers.Convolution2DTranspose"
+<jupyter_output>
+<empty_output>

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the function of `system.char.isdigit` in C#:
+
+1. java.lang.Character.isDigit
+2. java.lang.String.matches
+3. java.util.regex.Pattern.matches
+4. java.lang.Character.isLetterOrDigit
+5. java.lang.String.contains
+6. java.util.regex.Matcher.find
+7. java.lang.Character.getType
+8. java.lang.String.replaceAll
+9. java.util.regex.Pattern.compile
+10. java.lang.Character.isWhitespace

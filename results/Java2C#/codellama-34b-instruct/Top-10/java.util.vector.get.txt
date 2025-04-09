@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the Java API `java.util.Vector.get`:
+
+1. System.Collections.Generic.List<T>.get
+2. System.Collections.ArrayList.get
+3. System.Collections.Specialized.NameObjectCollectionBase.get
+4. System.Collections.Specialized.OrderedDictionary.get
+5. System.Collections.Hashtable.get
+6. System.Collections.SortedList.get
+7. System.Collections.Stack.get
+8. System.Collections.Queue.get
+9. System.Collections.Concurrent.ConcurrentBag<T>.get
+10. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.get

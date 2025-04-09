@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.ReLU`:
+
+1. tf.nn.relu
+2. tf.keras.layers.ReLU
+3. tf.keras.activations.relu
+4. tf.math.maximum
+5. tf.raw_ops.Relu
+6. tf.nn.relu6
+7. tf.keras.layers.LeakyReLU
+8. tf.keras.layers.PReLU
+9. tf.keras.layers.ThresholdedReLU
+10. tf.keras.layers.Softmax

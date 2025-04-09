@@ -1,0 +1,5 @@
+1. System.IO.Path.GetFullPath
+2. System.IO.FileInfo.FullName
+3. System.IO.DirectoryInfo.FullName
+4. System.Reflection.Assembly.Location
+5. System.IO.Path.ResolvePath

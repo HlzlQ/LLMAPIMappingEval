@@ -1,0 +1,10 @@
+tf.keras.layers.Conv1D  
+tf.nn.conv1d  
+tf.raw_ops.Conv2DBackpropInputV2  
+tf.raw_ops.Conv3DBackpropInputV2  
+tf.raw_ops.Conv2DTranspose  
+tf.raw_ops.Conv3DTranspose  
+tf.raw_ops.DepthwiseConv2dNativeBackpropFilter  
+tf.raw_ops.DepthwiseConv2dNativeBackpropInput  
+tf.raw_ops.FusedResizeAndPadConv2D  
+tf.raw_ops.FusedResizeAndPadConv2DGrad

@@ -1,0 +1,1 @@
+  tf.compat.v1.layers.max_pooling1d --> mxnet.ndarray.MaxPooling1D

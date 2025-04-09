@@ -1,0 +1,10 @@
+
+"""
+
+mxnet_orthogonal_initializers = [
+    "init.Orthogonal",
+    "initializer.Orthogonal",
+    "mxnet.init.Orthogonal",
+    "gluon.contrib.nn.Orthogonal",
+    "mxnet.gluon.contrib.nn.Orthogonal"
+]

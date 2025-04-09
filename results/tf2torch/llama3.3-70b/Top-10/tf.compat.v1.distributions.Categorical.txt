@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.distributions.Categorical`:
+
+1. torch.distributions.Categorical
+2. torch.distributions.OneHotCategorical
+3. torch.nn.functional.softmax
+4. torch.nn.Softmax
+5. torch.distributions.Distribution
+6. torch.distributions.Discrete
+7. torch.tensor.multinomial
+8. torch.distributions.RelaxedOneHotCategorical
+9. torch.distributions.gumbel.Gumbel
+10. torch.distributions.utils.clamp_probs

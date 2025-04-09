@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.net.httpconnection.getresponsestream` in C#:
+
+1. java.net.HttpURLConnection.getInputStream()
+2. java.net.URLConnection.getInputStream()
+3. java.io.InputStream getResponseStream()
+4. javax.net.ssl.HttpsURLConnection.getInputStream()
+5. org.apache.http.client.methods.CloseableHttpResponse.getEntity().getContent()
+6. org.apache.http.HttpEntity.getContent()
+7. java.net.URL.openStream()
+8. java.io.BufferedReader.readLine(java.io.InputStreamReader)
+9. okhttp3.Response.body().byteStream()
+10. java.net.HttpURLConnection.getErrorStream()

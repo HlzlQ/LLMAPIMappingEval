@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `tensorflow.compat.v1.math.log_softmax`:
+
+1. CNTK.LogSoftmax
+2. CNTK.Softmax
+3. CNTK.Log
+4. CNTK.Exp
+5. CNTK.Normalize
+6. CNTK.Scale
+7. CNTK.Sub
+8. CNTK.Add
+9. CNTK.Max
+10. CNTK.ReduceLogSumExp

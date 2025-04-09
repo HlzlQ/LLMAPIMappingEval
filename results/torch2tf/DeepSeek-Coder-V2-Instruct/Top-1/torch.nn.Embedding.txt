@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.keras.layers.Embedding
+<jupyter_output>
+<empty_output>

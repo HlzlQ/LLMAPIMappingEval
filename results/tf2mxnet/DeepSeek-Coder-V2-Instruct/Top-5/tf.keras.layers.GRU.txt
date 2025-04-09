@@ -1,0 +1,2 @@
+
+Answer: gru, lstm, simple_rnn, embedding, dense

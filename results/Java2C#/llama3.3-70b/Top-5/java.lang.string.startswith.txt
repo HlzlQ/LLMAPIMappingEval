@@ -1,0 +1,5 @@
+1. System.String.StartsWith
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.String.IndexOf
+4. System.Linq.Enumerable.StartsWith
+5. Microsoft.VisualBasic.Strings.InStr

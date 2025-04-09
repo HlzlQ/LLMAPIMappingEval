@@ -1,0 +1,10 @@
+mx.nd.L2Norm
+mx.nd.lp_norm
+mx.nd.norm
+mx.nd.FrobeniusNorm
+mx.nd.Norm
+mx.symbol.L2Norm
+mx.symbol.lp_norm
+mx.symbol.norm
+mx.symbol.FrobeniusNorm
+mx.symbol.Norm

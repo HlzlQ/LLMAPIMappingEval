@@ -1,0 +1,5 @@
+cntk.gaussian
+cntk.random.normal
+cntk.distributions.normal
+cntk.ops.normal_random
+cntk.initializer.normal

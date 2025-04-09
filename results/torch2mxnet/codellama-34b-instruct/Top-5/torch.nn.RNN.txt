@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.RNN | mxnet.rnn.RNN |
+  | torch.nn.LSTM | mxnet.rnn.LSTM |
+  | torch.nn.GRU | mxnet.rnn.GRU |
+  | torch.nn.Sequential | mxnet.gluon.nn.Sequential |
+  | torch.nn.ModuleList | mxnet.gluon.nn.ModuleList |

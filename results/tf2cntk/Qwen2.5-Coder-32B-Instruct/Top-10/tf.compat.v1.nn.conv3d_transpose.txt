@@ -1,0 +1,10 @@
+cntk.layers.ConvolutionTranspose
+cntk.ops.convolution_transpose
+cntk.layers.Upsampling
+cntk.layers.Deconvolution
+cntk.layers.TransposedConvolution
+cntk.layers.Convolution3DTranspose
+cntk.ops.deconvolution
+cntk.layers.ReverseConvolution
+cntk.layers.InverseConvolution
+cntk.layers.FractionalMaxPoolingTranspose

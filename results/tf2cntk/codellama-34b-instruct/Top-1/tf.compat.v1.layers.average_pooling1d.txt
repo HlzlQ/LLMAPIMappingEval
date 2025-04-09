@@ -1,0 +1,11 @@
+
+CNTK does not have a direct equivalent of TensorFlow's `average_pooling1d` function. However, you can achieve similar functionality using CNTK's `pooling` function with the `AveragePooling` argument set to `True`. Here is an example:
+```
+from cntk.layers import pooling
+
+# Define a pooling layer with average pooling and a window size of 2
+pool = pooling(input_shape, pool_size=2, stride=1, padding='valid', data_format='channels_last')
+```
+In this example, `input_shape` is the shape of the input tensor, and `pool_size` is the size of the window used for averaging. The `stride` argument specifies the number of elements to move the window over in each dimension, and `padding` specifies how to handle edges. Finally, `data_format` specifies whether the channels are the last or first dimension of the input tensor.
+
+Note that CNTK's pooling function is more flexible than TensorFlow's `average_pooling1d` function, as it allows you to specify different pooling functions (e.g., max pooling) and window sizes for each dimension of the input tensor.

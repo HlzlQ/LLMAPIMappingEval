@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Sort  
+System.Linq.Enumerable.OrderBy  
+System.Linq.Enumerable.OrderByDescending  
+System.Array.Sort  
+System.Collections.ArrayList.Sort  
+System.Collections.SortedList.Add  
+System.Collections.SortedDictionary<TKey,TValue>.Add  
+System.Collections.Concurrent.ConcurrentBag<T>.OrderBy  
+System.Collections.Concurrent.ConcurrentQueue<T>.OrderBy  
+System.Collections.Concurrent.ConcurrentStack<T>.OrderBy

@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+NUnit.Framework.Assert.IsFalse
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsFalse
+Xunit.Assert.False
+FluentAssertions.Assertions.AssertionScope.FailWith
+ApprovalTests.Approvals.VerifyNoDiff
+NSubstitute.ReceivedExtensions.DidNotReceive
+Moq.Language.Flow.ITimes.Throws
+AutoFixture.Idioms.FixtureAssertion.AddExpectation
+Shouldly.Should.NotBeTrue

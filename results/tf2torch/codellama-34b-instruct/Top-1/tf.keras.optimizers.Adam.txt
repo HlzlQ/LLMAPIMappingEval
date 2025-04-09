@@ -1,0 +1,4 @@
+
+PyTorch equivalent of `tensorflow.keras.optimizers.Adam`:
+
+* `torch.optim.Adam`

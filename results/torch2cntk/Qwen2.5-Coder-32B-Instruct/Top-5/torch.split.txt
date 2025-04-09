@@ -1,0 +1,5 @@
+cntk.ops.slice
+cntk.ops.splice
+cntk.axis.Axis
+cntk.axis.minibatch_size_axis
+cntk.axis.sequence_axis

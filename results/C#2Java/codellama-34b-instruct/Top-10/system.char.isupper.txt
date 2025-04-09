@@ -1,0 +1,12 @@
+  Here are ten Java methods that correspond to the C# `System.Char` class's `IsUpper` method:
+
+1. `Character.isUpperCase(char ch)`
+2. `String.toUpperCase()`
+3. `StringBuilder.toString().toUpperCase()`
+4. `StringBuffer.toString().toUpperCase()`
+5. `CharSequence.toString().toUpperCase()`
+6. `TextUtils.getTrimmedLength(CharSequence s)`
+7. `TextUtils.isEmpty(CharSequence s)`
+8. `TextUtils.isDigitsOnly(CharSequence s)`
+9. `TextUtils.getReverse(CharSequence s, int start, int end)`
+10. `TextUtils.join(CharSequence delimiter, Iterable<? extends CharSequence> elements)`

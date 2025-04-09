@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.AddRange
+2. System.Linq.Enumerable.ToList
+3. System.Collections.ArrayList.AddRange
+4. System.Collections.ICollection.CopyTo
+5. System.Collections.IList.InsertRange
+6. System.Collections.IEnumerable.GetEnumerator
+7. System.Collections.Generic.Dictionary<TKey, TValue>.TryAdd
+8. System.Collections.Concurrent.BlockingCollection<T>.Add
+9. System.Collections.Concurrent.ConcurrentBag<T>.Add
+10. System.Collections.Concurrent.ConcurrentQueue<T>.Enqueue

@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Collections.Generic.List<T>.Insert`
+2. `System.Collections.ArrayList.Insert`
+3. `System.Collections.Specialized.NameObjectCollectionBase.Insert`
+4. `System.Collections.Hashtable.Add`
+5. `System.Collections.SortedList.Add`

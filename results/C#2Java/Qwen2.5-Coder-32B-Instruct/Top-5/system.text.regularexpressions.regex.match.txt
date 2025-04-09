@@ -1,0 +1,5 @@
+java.util.regex.Pattern.matches  
+java.util.regex.Matcher.find  
+java.util.regex.Matcher.match  
+java.util.regex.Matcher.lookingAt  
+java.util.regex.Matcher.matches

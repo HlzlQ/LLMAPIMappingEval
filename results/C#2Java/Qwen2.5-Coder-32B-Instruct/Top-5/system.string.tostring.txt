@@ -1,0 +1,5 @@
+java.lang.String.valueOf
+java.lang.Integer.toString
+java.lang.Double.toString
+java.lang.Float.toString
+java.lang.Long.toString

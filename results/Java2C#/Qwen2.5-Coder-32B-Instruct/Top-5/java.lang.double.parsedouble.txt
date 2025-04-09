@@ -1,0 +1,5 @@
+System.Double.Parse
+System.Convert.ToDouble
+double.TryParse
+Convert.ToDouble
+Double.Parse

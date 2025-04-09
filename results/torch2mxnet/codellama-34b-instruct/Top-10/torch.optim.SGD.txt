@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.optim.SGD | mxnet.optimizer.SGD |
+  | torch.optim.Adam | mxnet.optimizer.Adam |
+  | torch.optim.RMSprop | mxnet.optimizer.RMSprop |
+  | torch.optim.Adagrad | mxnet.optimizer.Adagrad |
+  | torch.optim.Adadelta | mxnet.optimizer.Adadelta |
+  | torch.optim.Adamax | mxnet.optimizer.Adamax |
+  | torch.optim.Nadam | mxnet.optimizer.Nadam |
+  | torch.optim.ASGD | mxnet.optimizer.ASGD |
+  | torch.optim.LBFGS | mxnet.optimizer.LBFGS |

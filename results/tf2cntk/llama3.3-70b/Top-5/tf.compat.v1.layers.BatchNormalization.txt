@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. BatchNormalization
+2. BatchNormalizationLayer
+3. NormalizeLayer
+4. LayerNormalization
+5. InstanceNormalization

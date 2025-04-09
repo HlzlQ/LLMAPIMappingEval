@@ -1,0 +1,17 @@
+
+
+```python
+import torch
+```
+
+### Answer:
+1. `torch.nn.init.ones_`
+2. `torch.nn.Parameter`
+3. `torch.nn.functional.relu`
+4. `torch.nn.Sequential`
+5. `torch.optim.Adam`
+6. `torch.Tensor`
+7. `torch.nn.Module`
+8. `torch.nn.Linear`
+9. `torch.nn.ReLU`
+10. `torch.nn.CrossEntropyLoss`

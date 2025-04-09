@@ -1,0 +1,5 @@
+mxnet.gluon.nn.PixelShuffle1D  
+mxnet.gluon.nn.PixelShuffle2D  
+mxnet.gluon.nn.PixelShuffle3D  
+mxnet.ndarray.reshape  
+mxnet.ndarray.transpose

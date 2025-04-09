@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.layers.AveragePooling3D`:
+
+1. `cntk.layers.AveragePooling3D`
+2. `cntk.layers.MaxPooling3D`
+3. `cntk.layers.GlobalAveragePooling3D`
+4. `cntk.layers.GlobalMaxPooling3D`
+5. `cntk.layers.ConvolutionalLayer3D`
+6. `cntk.layers.DeconvolutionalLayer3D`
+7. `cntk.layers.AverageUnpooling3D`
+8. `cntk.layers.MaxUnpooling3D`
+9. `cntk.layers.GlobalAverageUnpooling3D`
+10. `cntk.layers.GlobalMaxUnpooling3D`

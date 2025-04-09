@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for batch normalization:
+
+1. `cntk.layers.BatchNormalization`
+2. `cntk.layers.batch_normalization`
+3. `cntk.layers.BatchNorm`
+4. `cntk.layers.batch_norm`
+5. `cntk.layers.BatchNormalize`

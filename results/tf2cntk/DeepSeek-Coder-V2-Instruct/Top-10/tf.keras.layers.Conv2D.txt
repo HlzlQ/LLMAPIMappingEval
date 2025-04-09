@@ -1,0 +1,17 @@
+
+<jupyter_code>
+# Your answer here (just write the names):
+cntk_conv2d = [
+    "CNTK.layers.Convolution",
+    "CNTK.layers.Convolution1D",
+    "CNTK.layers.Convolution2D",
+    "CNTK.layers.Convolution3D",
+    "CNTK.layers.Crop",
+    "CNTK.layers.Deconvolution",
+    "CNTK.layers.Deconvolution1D",
+    "CNTK.layers.Deconvolution2D",
+    "CNTK.layers.Deconvolution3D",
+    "CNTK.layers.MaxPooling"
+]
+<jupyter_output>
+<empty_output>

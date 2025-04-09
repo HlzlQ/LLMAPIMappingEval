@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Remove
+System.Collections.Generic.List<T>.RemoveAll
+System.Collections.Generic.List<T>.RemoveAt
+System.Collections.Generic.List<T>.RemoveRange
+System.Collections.Generic.List<T>.Clear

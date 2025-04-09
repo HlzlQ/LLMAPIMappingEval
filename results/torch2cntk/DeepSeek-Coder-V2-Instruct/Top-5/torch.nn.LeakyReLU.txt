@@ -1,0 +1,2 @@
+
+Answer: torch.nn.LeakyReLU -> cntk.ops.activation_leaky_relu

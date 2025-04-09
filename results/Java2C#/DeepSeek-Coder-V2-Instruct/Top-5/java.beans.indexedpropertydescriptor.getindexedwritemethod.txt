@@ -1,0 +1,5 @@
+1. System.ComponentModel.IndexedPropertyDescriptor.SetValue
+2. System.Reflection.MethodInfo.GetMethodFromHandle
+3. System.Reflection.Emit.TypeBuilder.DefineMethod
+4. System.Reflection.Emit.ILGenerator.EmitCall
+5. System.Reflection.Emit.DynamicMethod.CreateDelegate

@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Softplus in TensorFlow
+<jupyter_output>
+<empty_output>

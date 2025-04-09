@@ -1,0 +1,9 @@
+
+"""
+
+# Answer:
+# 1. mx.nd.softmax
+# 2. mx.nd.log_softmax
+# 3. mx.nd.activation.softrelu
+# 4. mx.nd.activation.softsign
+# 5. mx.nd.sigmoid

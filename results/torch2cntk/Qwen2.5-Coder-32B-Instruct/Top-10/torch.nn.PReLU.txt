@@ -1,0 +1,10 @@
+cntk.layers.PReLU
+cntk.ops.prelu
+cntk.layers.ParameterizedReLU
+cntk.layers.ReLU
+cntk.layers.Activation
+cntk.ops.relu
+cntk.layers.LeakyReLU
+cntk.layers.ParametricReLU
+cntk.layers.Nonlinearities.prelu
+cntk.layers.Nonlinearities.leaky_relu

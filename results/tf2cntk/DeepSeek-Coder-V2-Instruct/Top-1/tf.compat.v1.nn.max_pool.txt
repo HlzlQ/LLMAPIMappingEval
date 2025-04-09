@@ -1,0 +1,2 @@
+
+CNTK.ops.max_pool

@@ -1,0 +1,5 @@
+  tf.keras.losses.CategoricalCrossentropy
+tf.keras.losses.SparseCategoricalCrossentropy
+tf.keras.losses.BinaryCrossentropy
+tf.keras.losses.KLDivergence
+tf.keras.losses.MeanSquaredError

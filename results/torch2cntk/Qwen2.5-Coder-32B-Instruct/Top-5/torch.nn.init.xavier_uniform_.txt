@@ -1,0 +1,5 @@
+cntk.glorot_uniform_initializer
+cntk.initializer.glorot_uniform
+cntk.layers.default_options.init
+cntk.layers.ParameterTensor
+cntk.parameter.init.glorot_uniform

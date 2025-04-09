@@ -1,0 +1,10 @@
+1. System.Collections.IEnumerator.MoveNext
+2. System.Collections.Generic.IEnumerator.MoveNext
+3. System.Collections.Generic.IEnumerable.GetEnumerator
+4. System.Linq.Enumerable.FirstOrDefault
+5. System.Linq.Enumerable.ElementAt
+6. System.Collections.IEnumerable.GetEnumerator
+7. System.Data.IDataReader.Read
+8. System.Xml.XmlReader.Read
+9. System.IO.StreamReader.ReadLine
+10. System.Collections.Generic.List<T>.GetEnumerator

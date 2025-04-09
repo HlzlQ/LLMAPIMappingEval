@@ -1,0 +1,16 @@
+
+```python
+import tensorflow as tf
+import torch
+from tensorflow.compat.v1 import keras
+from torch import nn
+
+# TensorFlow LSTM layer
+tf_lstm = keras.layers.LSTM(units=64)
+
+# PyTorch equivalent LSTM layer
+torch_lstm = nn.LSTM(input_size=64, hidden_size=64)
+```
+Answer: ```python
+torch.nn.LSTM
+```

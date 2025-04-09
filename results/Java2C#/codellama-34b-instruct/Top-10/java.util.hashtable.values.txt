@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.util.Hashtable.values()`:
+
+1. `System.Collections.Generic.Dictionary<TKey, TValue>.Values`
+2. `System.Collections.Specialized.NameObjectCollectionBase.Keys`
+3. `System.Collections.Specialized.NameValueCollection.AllKeys`
+4. `System.Collections.Hashtable.Keys`
+5. `System.Collections.Generic.HashSet<T>.GetEnumerator()`
+6. `System.Collections.Generic.List<T>.GetEnumerator()`
+7. `System.Collections.Generic.Queue<T>.GetEnumerator()`
+8. `System.Collections.Generic.Stack<T>.GetEnumerator()`
+9. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Keys`
+10. `System.Collections.Concurrent.ConcurrentQueue<T>.GetEnumerator()`

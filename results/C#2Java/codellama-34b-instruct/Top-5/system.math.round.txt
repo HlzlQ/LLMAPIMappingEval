@@ -1,0 +1,9 @@
+  Sure, here are the top 5 APIs in Java that match the functionality of the C# `System.Math.Round` API:
+
+1. `java.lang.Math.round(double)`: This method rounds a double value to the nearest integer.
+2. `java.lang.Math.ceil(double)`: This method returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer.
+3. `java.lang.Math.floor(double)`: This method returns the largest (closest to positive infinity) double value that is less than or equal to the argument and is equal to a mathematical integer.
+4. `java.lang.Math.rint(double)`: This method rounds a double value to the nearest integer, but unlike `round`, it uses the "round half up" rule for rounding.
+5. `java.lang.Math.round(float)`: This method rounds a float value to the nearest integer.
+
+Note that while these APIs have similar functionality to the C# `System.Math.Round` API, they may not be exact replacements due to differences in the underlying implementation and floating-point arithmetic between C# and Java.

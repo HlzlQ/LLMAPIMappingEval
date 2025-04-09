@@ -1,0 +1,24 @@
+Java does not have a direct equivalent to the `System.Text.RegularExpressions.GroupCollection` class in C#. However, Java has a similar concept called "groups" in regular expressions, which can be accessed using the `Matcher` class and its `group()` method.
+
+Here is an example of how you might use the `Matcher` class to access groups in a regular expression match:
+```
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class Example {
+    public static void main(String[] args) {
+        String input = "Hello, World!";
+        Pattern pattern = Pattern.compile("(\\w+), (\\w+)");
+        Matcher matcher = pattern.matcher(input);
+        if (matcher.find()) {
+            System.out.println(matcher.group(1)); // Outputs "Hello"
+            System.out.println(matcher.group(2)); // Outputs "World"
+        }
+    }
+}
+```
+In this example, the regular expression `(\\w+), (\\w+)` matches a string of one or more word characters (`\w+`) followed by a comma and another string of one or more word characters. The parentheses around each group indicate that we want to capture those parts of the match as groups.
+
+The `Matcher` class provides methods for accessing the captured groups, such as `group(int)` which returns the contents of the specified group. In this example, we use `matcher.group(1)` to access the first group (i.e., "Hello") and `matcher.group(2)` to access the second group (i.e., "World").
+
+Note that the indexing for groups in Java starts at 1, not 0, so the first group is accessed using `matcher.group(1)`, not `matcher.group(0)`.

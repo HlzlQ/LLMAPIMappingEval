@@ -1,0 +1,6 @@
+
+Answer: 1. `tf.compat.v1.layers.conv3d_transpose`
+2. `tf.keras.layers.Conv3DTranspose`
+3. `cntk.ops.convolutional.deconvolution`
+4. `cntk.ops.layers.Convolution3DTranspose`
+5. `mxnet.gluon.nn.Conv3DTranspose`

@@ -1,0 +1,5 @@
+java.awt.Graphics.dispose  
+java.awt.Graphics2D.dispose  
+javax.swing.JComponent.repaint  
+java.awt.Component.invalidate  
+java.awt.Container.validate

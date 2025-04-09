@@ -1,0 +1,10 @@
+System.String.Concat
+System.String.Format
+System.Convert.ToString
+System.Text.StringBuilder.Append
+System.Linq.Enumerable.Aggregate
+System.Object.ToString
+System.Int32.ToString
+System.Double.ToString
+System.Boolean.ToString
+System.Char.ToString

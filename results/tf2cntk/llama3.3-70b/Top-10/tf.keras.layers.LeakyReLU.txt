@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `tensorflow.keras.layers.LeakyReLU`:
+
+1. CNTK.LeakyReLULayer
+2. CNTK.ReLU
+3. CNTK.PReLU
+4. CNTK.ParametricReLULayer
+5. CNTK.LRNLayer
+6. CNTK.ActivationLayer
+7. CNTK.SigmoidLayer
+8. CNTK.TanhLayer
+9. CNTK.HardTanhLayer
+10. CNTK.PReluLayer

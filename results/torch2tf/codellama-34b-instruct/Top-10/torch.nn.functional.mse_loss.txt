@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for MSE loss calculation:
+
+1. `tf.keras.losses.MeanSquaredError()`
+2. `tf.keras.metrics.mean_squared_error()`
+3. `tf.keras.backend.mse()`
+4. `tf.keras.backend.mean_squared_error()`
+5. `tf.losses.MeanSquaredError()`
+6. `tf.losses.mean_squared_error()`
+7. `tf.metrics.mean_squared_error()`
+8. `tf.metrics.mse()`
+9. `tf.keras.backend.mse_loss()`
+10. `tf.keras.backend.mean_squared_error_loss()`

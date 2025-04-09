@@ -1,0 +1,12 @@
+  Sure! Here are the 5 most likely C# APIs for each of the Java APIs you mentioned:
+
+1. java.lang.Double.parseDouble(String s)
+C# equivalent: System.Double.Parse(string s)
+2. java.lang.Double.toString()
+C# equivalent: System.Double.ToString()
+3. java.lang.Double.doubleValue()
+C# equivalent: System.Double.ToDouble()
+4. java.lang.Double.intValue()
+C# equivalent: System.Double.ToInt32()
+5. java.lang.Double.longValue()
+C# equivalent: System.Double.ToInt64()

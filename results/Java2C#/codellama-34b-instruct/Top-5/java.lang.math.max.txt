@@ -1,0 +1,5 @@
+  Math.Max(double, double)
+MathF.Max(float, float)
+Decimal.Max(decimal, decimal)
+Math.Max(int, int)
+Math.Max(long, long)

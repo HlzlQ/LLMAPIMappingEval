@@ -1,0 +1,5 @@
+1. torch.matmul
+2. torch.einsum
+3. torch.tensordot
+4. torch.dot
+5. torch.mm

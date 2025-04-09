@@ -1,0 +1,5 @@
+1. List<T>.Remove(T item)
+2. LinkedList<T>.Remove(T item)
+3. ArrayList<T>.Remove(T item)
+4. IList<T>.Remove(T item)
+5. ObservableCollection<T>.Remove(T item)

@@ -1,0 +1,7 @@
+
+
+1. torch.nn.functional.cross_entropy
+2. torch.nn.BCEWithLogitsLoss
+3. torch.nn.NLLLoss
+4. torch.nn.MultiLabelSoftMarginLoss
+5. torch.nn.KLDivLoss

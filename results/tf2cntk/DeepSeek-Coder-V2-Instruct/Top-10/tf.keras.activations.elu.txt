@@ -1,0 +1,2 @@
+
+Answer: relu, softmax, sigmoid, tanh, linear, softmax_cross_entropy_with_logits, batch_normalization, conv2d, max_pooling2d, dropout

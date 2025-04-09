@@ -1,0 +1,10 @@
+1. System.IO.FileInfo.FullName
+2. System.IO.DirectoryInfo.FullName
+3. System.IO.Path.GetFullPath
+4. System.IO.File.Exists
+5. System.IO.Directory.Exists
+6. System.IO.File.ReadAllText
+7. System.IO.File.WriteAllText
+8. System.IO.File.Delete
+9. System.IO.Directory.CreateDirectory
+10. System.IO.FileInfo.Delete

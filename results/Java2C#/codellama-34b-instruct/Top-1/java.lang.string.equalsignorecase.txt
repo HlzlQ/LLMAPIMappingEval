@@ -1,0 +1,5 @@
+C# has a similar method called `String.Equals` which can be used to compare two strings ignoring case. The syntax for this method is:
+```
+string1.Equals(string2, StringComparison.OrdinalIgnoreCase)
+```
+This will return true if the two strings are equal ignoring case, and false otherwise.

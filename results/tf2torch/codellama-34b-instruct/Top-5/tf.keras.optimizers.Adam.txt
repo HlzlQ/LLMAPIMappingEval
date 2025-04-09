@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that are similar to the TensorFlow API `tensorflow.keras.optimizers.Adam`:
+
+1. `torch.optim.Adam`
+2. `torch.optim.AdamW`
+3. `torch.optim.Adagrad`
+4. `torch.optim.RMSprop`
+5. `torch.optim.SGD`

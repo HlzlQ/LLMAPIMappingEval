@@ -1,0 +1,10 @@
+tf.distribute.Strategy.reduce
+tf.raw_ops.AllReduce
+tf.raw_ops.ReduceJoin
+tf.raw_ops.ReduceProd
+tf.raw_ops.ReduceSum
+tf.raw_ops.ReduceMax
+tf.raw_ops.ReduceMin
+tf.raw_ops.ReduceMean
+tf.raw_ops.ReduceLogSumExp
+tf.raw_ops.ReduceAny

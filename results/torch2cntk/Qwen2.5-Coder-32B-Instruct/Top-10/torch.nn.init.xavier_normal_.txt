@@ -1,0 +1,10 @@
+cntk.glorot_normal_initializer
+cntk.initializer.glorot_normal
+cntk.layers.default_options.init
+cntk.layers.Convolution2D.init
+cntk.layers.Dense.init
+cntk.layers.LSTM.init
+cntk.layers.RNN.init
+cntk.layers.Embedding.init
+cntk.layers.Bias.init
+cntk.layers.Dropout.init

@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.LeakyReLU
+2. torch.nn.PReLU
+3. torch.nn.ELU
+4. torch.nn.RReLU
+5. torch.nn.SReLU

@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.util.Arrays.sort`:
+
+1. `System.Array.Sort`
+2. `System.Collections.Generic.List<T>.Sort`
+3. `System.Linq.Enumerable.OrderBy`
+4. `System.Linq.Enumerable.ThenBy`
+5. `System.Linq.Enumerable.OrderByDescending`
+6. `System.Linq.Enumerable.ThenByDescending`
+7. `System.Collections.Generic.SortedList<TKey, TValue>.Sort`
+8. `System.Collections.Generic.SortedDictionary<TKey, TValue>.Sort`
+9. `System.Collections.Generic.SortedSet<T>.Sort`
+10. `System.Collections.Generic.HashSet<T>.Sort`

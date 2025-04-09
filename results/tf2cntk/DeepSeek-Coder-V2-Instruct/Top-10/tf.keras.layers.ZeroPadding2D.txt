@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.layers.Convolution2D
+2. cntk.ops.pad
+3. cntk.ops.slice
+4. cntk.ops.expand_dims
+5. cntk.ops.transpose
+6. cntk.ops.reshape
+7. cntk.ops.reduce_mean
+8. cntk.ops.pooling
+9. cntk.layers.BatchNormalization
+10. cntk.ops.element_times

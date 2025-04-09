@@ -1,0 +1,10 @@
+1. System.WeakReference.Target
+2. System.Runtime.InteropServices.GCHandle.AddrOfPinnedObject
+3. System.Threading.ThreadLocal`1.Value
+4. System.Lazy`1.Value
+5. System.Data.Linq.EntityRef`1.Value
+6. System.Func`2.Invoke
+7. System.Action.Invoke
+8. System.Converter`2.Convert
+9. System.Predicate`1.Invoke
+10. System.EventHandler.Invoke

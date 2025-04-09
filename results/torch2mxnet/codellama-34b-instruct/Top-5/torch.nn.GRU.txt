@@ -1,0 +1,8 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.GRU | mxnet.gluon.rnn.GRU |
+  | torch.nn.GRUCell | mxnet.gluon.rnn.GRUCell |
+  | torch.nn.LSTM | mxnet.gluon.rnn.LSTM |
+  | torch.nn.LSTMCell | mxnet.gluon.rnn.LSTMCell |
+  | torch.nn.RNN | mxnet.gluon.rnn.RNN |
+  | torch.nn.RNNCell | mxnet.gluon.rnn.RNNCell |

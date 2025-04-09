@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.lang.reflect.Constructor.newInstance()
+2. java.lang.Class.getConstructor()
+3. java.lang.reflect.Constructor.getParameterTypes()
+4. java.lang.reflect.Constructor.getDeclaringClass()
+5. java.lang.reflect.Constructor.getName()
+6. java.lang.reflect.Constructor.getModifiers()
+7. java.lang.reflect.Constructor.isVarArgs()
+8. java.lang.reflect.Constructor.getExceptionTypes()
+9. java.lang.reflect.Constructor.toGenericString()
+10. java.lang.reflect.Constructor.equals()

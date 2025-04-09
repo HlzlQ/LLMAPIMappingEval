@@ -1,0 +1,5 @@
+System.Globalization.NumberFormatInfo.NumberDecimalSeparator  
+System.Globalization.CultureInfo.NumberFormat.NumberDecimalSeparator  
+System.IFormatProvider.GetFormat(System.Type)  
+System.Globalization.NumberFormatInfo.CurrencyDecimalSeparator  
+System.Globalization.NumberFormatInfo.PercentDecimalSeparator

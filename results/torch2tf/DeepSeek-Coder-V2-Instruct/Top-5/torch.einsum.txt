@@ -1,0 +1,7 @@
+
+
+1. tf.linalg.matmul
+2. tf.einsum
+3. tf.reduce_sum
+4. tf.transpose
+5. tf.reshape

@@ -1,0 +1,7 @@
+
+
+1. tf.initializers.GlorotUniform() -> torch.nn.init.xavier_uniform_
+2. tf.initializers.GlorotNormal() -> torch.nn.init.xavier_normal_
+3. tf.random_normal_initializer -> torch.randn
+4. tf.keras.initializers.RandomUniform -> torch.nn.init.uniform_
+5. tf.keras.initializers.RandomNormal -> torch.randn

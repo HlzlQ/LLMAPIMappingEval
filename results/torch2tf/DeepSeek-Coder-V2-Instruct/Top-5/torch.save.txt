@@ -1,0 +1,6 @@
+
+Answer: torch.save -> tf.saved_model.save
+torch.load -> tf.saved_model.load
+torch.nn.Module.state_dict -> model.save_weights
+torch.nn.Module.load_state_dict -> model.load_weights
+torch.Tensor.numpy() -> tf.convert_to_tensor

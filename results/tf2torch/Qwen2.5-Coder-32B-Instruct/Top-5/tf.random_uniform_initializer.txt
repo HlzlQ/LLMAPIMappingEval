@@ -1,0 +1,5 @@
+torch.nn.init.uniform_
+torch.rand
+torch.randn
+torch.full
+torch.empty

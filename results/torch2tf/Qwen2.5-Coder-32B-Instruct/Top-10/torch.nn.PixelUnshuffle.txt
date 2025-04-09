@@ -1,0 +1,10 @@
+tf.nn.depth_to_space  
+tf.image.extract_patches  
+tf.reshape  
+tf.transpose  
+tf.strided_slice  
+tf.space_to_depth  
+tf.nn.conv2d_transpose  
+tf.nn.max_pool_with_argmax  
+tf.nn.avg_pool  
+tf.nn.pool

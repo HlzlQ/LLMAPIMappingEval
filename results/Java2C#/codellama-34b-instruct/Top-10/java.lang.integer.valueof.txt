@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Int32.Parse()
+2. System.Convert.ToInt32()
+3. System.Int32.TryParse()
+4. System.Int32.ToString()
+5. System.IFormatProvider.GetFormat()
+6. System.Globalization.NumberFormatInfo.GetInstance()
+7. System.Globalization.CultureInfo.CurrentCulture.NumberFormat
+8. System.Globalization.NumberFormatInfo.InvariantInfo
+9. System.Globalization.NumberFormatInfo.CurrencyDecimalDigits
+10. System.Globalization.NumberFormatInfo.CurrencyGroupSizes

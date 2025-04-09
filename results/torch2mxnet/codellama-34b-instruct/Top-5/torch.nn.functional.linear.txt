@@ -1,0 +1,17 @@
+  ```
+  import mxnet as mx
+
+  # Create a linear layer
+  linear = mx.gluon.nn.Dense(units=10)
+
+  # Initialize the weights and biases
+  linear.initialize()
+
+  # Forward pass
+  x = mx.nd.array([[1, 2], [3, 4]])
+  y = linear(x)
+
+  # Backward pass
+  dy = mx.nd.array([[5, 6], [7, 8]])
+  dx = mx.autograd.backward(y, dy)
+  ```

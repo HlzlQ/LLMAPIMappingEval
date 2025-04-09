@@ -1,0 +1,5 @@
+cntk.random.uniform
+cntk.initializer.uniform
+cntk.layers.Parameter.init
+cntk.layers.default_options.init
+cntk.ops.random.uniform

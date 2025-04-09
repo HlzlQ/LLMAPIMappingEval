@@ -1,0 +1,5 @@
+1. System.Numerics.Vector<T>.GetElement(int index)
+2. System.Collections.Generic.List<T>.Item[int index]
+3. System.Array.GetValue(int index)
+4. System.Span<T>.this[int index]
+5. System.Memory<T>.Span[int index]

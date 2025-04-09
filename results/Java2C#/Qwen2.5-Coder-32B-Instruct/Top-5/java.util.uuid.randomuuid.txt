@@ -1,0 +1,5 @@
+System.Guid.NewGuid  
+System.Security.Cryptography.RandomNumberGenerator.GetBytes  
+System.Random.NextBytes  
+System.Random.NextDouble  
+System.Random.NextInt64

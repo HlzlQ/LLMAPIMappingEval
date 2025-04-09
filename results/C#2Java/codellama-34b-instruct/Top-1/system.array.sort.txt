@@ -1,0 +1,1 @@
+System.Array.Sort() in C# is equivalent to Arrays.sort() in Java.

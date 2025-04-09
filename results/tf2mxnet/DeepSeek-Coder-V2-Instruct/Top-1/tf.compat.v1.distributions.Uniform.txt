@@ -1,0 +1,8 @@
+
+MXNet Uniform
+```
+
+### Explanation:
+The `tensorflow.compat.v1.distributions.Uniform` API provides functionality for creating uniform distributions in TensorFlow. To find a corresponding MXNet API with similar functionalities, we need to look for an equivalent distribution class in MXNet that can handle the same operations and parameters as the TensorFlow Uniform distribution.
+
+In MXNet, the most likely counterpart to `tensorflow.compat.v1.distributions.Uniform` is the `mxnet.gluon.distribution.Uniform` class, which provides similar functionality for creating uniform distributions.

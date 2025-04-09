@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `nunit.framework.assert.aresame`:
+
+1. org.junit.Assert.assertEquals
+2. org.junit.Assert.assertSame
+3. org.hamcrest.MatcherAssert.assertThat
+4. org.junit.jupiter.api.Assertions.assertEquals
+5. org.junit.jupiter.api.Assertions.assertSame
+6. org.testng.Assert.assertEquals
+7. org.testng.Assert.assertSame
+8. org.apache.commons.lang3.Validate.isSame
+9. org.easymock.EasyMock.assertSame
+10. org.mockito.Mockito.assertSame

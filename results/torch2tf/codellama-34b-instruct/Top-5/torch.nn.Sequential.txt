@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used as alternatives to `torch.nn.Sequential`:
+
+1. `tf.keras.models.Sequential`
+2. `tf.keras.layers.Sequential`
+3. `tf.keras.models.Model`
+4. `tf.keras.layers.Layer`
+5. `tf.keras.models.Functional`

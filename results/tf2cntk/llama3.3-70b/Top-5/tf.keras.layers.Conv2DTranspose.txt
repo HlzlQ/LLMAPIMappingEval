@@ -1,0 +1,5 @@
+1. ConvolutionTransposed
+2. Deconvolution
+3. TransposeConvolution
+4. ConvolutionTranspose
+5. DeconvolutionLayer

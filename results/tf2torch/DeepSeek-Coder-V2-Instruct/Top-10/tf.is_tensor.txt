@@ -1,0 +1,12 @@
+
+
+1. torch.Tensor.numpy
+2. torch.from_numpy
+3. torch.is_tensor
+4. torch.Tensor.detach
+5. torch.no_grad
+6. torch.Tensor.requires_grad
+7. torch.nn.Module.parameters
+8. torch.optim.Optimizer.step
+9. torch.nn.functional.relu
+10. torch.nn.functional.conv2d

@@ -1,0 +1,5 @@
+
+```python
+tf.gradients(ys, xs)
+```
+Answer: torch.autograd.backward

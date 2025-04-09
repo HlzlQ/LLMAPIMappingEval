@@ -1,0 +1,7 @@
+
+
+1. `torch.profiler.profile` -> `tf.summary.trace_on`
+2. `torch.profiler.schedule` -> `tf.summary.trace_options`
+3. `torch.profiler.record_function` -> `tf.summary.trace_event`
+4. `torch.profiler.export_chrome_trace` -> `tf.summary.trace_export`
+5. `torch.profiler.tensorboard_trace_handler` -> `tf.summary.create_file_writer`

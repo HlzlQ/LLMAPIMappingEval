@@ -1,0 +1,10 @@
+System.Web.HttpUtility.UrlEncode  
+System.Net.WebUtility.UrlEncode  
+System.Uri.EscapeDataString  
+System.Uri.EscapeUriString  
+System.Text.RegularExpressions.Regex.Escape  
+System.Security.Cryptography.CryptoConfig.EncodeOID  
+System.Runtime.InteropServices.Marshal.StringToHGlobalAnsi  
+System.Runtime.InteropServices.Marshal.StringToHGlobalUni  
+System.Runtime.InteropServices.Marshal.StringToHGlobalAuto  
+System.Runtime.Serialization.FormatterServices.SerializeObject

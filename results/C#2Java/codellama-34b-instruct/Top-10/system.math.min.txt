@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that correspond to the C# `System.Math` class:
+
+1. `java.lang.Math.min(double a, double b)`
+2. `java.lang.Math.max(double a, double b)`
+3. `java.lang.Math.abs(double a)`
+4. `java.lang.Math.sqrt(double a)`
+5. `java.lang.Math.cbrt(double a)`
+6. `java.lang.Math.pow(double a, double b)`
+7. `java.lang.Math.exp(double a)`
+8. `java.lang.Math.log(double a)`
+9. `java.lang.Math.sin(double a)`
+10. `java.lang.Math.cos(double a)`

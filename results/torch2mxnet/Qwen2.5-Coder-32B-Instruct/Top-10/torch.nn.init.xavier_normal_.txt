@@ -1,0 +1,10 @@
+mxnet.ndarray.random.xavier_uniform
+mxnet.ndarray.random.xavier_normal
+mxnet.init.Xavier
+mxnet.gluon.nn.initializer.Xavier
+mxnet.gluon.nn.initializer.Uniform
+mxnet.gluon.nn.initializer.Normal
+mxnet.gluon.nn.initializer.MSRAPrelu
+mxnet.gluon.nn.initializer.HeNormal
+mxnet.gluon.nn.initializer.HeUniform
+mxnet.gluon.nn.initializer.LecunNormal

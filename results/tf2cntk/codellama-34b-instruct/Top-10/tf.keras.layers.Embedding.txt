@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for embedding layers:
+
+1. `cntk.layers.Embedding`
+2. `cntk.layers.EmbeddingLayer`
+3. `cntk.layers.WordEmbedding`
+4. `cntk.layers.GloVeEmbedding`
+5. `cntk.layers.FastTextEmbedding`
+6. `cntk.layers.Word2VecEmbedding`
+7. `cntk.layers.Doc2VecEmbedding`
+8. `cntk.layers.SentenceEmbedding`
+9. `cntk.layers.ParagraphEmbedding`
+10. `cntk.layers.TextEmbedding`

@@ -1,0 +1,9 @@
+
+```python
+import tensorflow as tf
+tf.compat.v1.losses.hinge_loss
+```
+Answer: ```python
+import torch
+torch.nn.functional.hinge_embedding_loss
+```

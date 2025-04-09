@@ -1,0 +1,5 @@
+cntk.learners.adam
+cntk.learner.adam
+cntk.optimizers.Adam
+cntk.train.adam
+cntk.training.adam

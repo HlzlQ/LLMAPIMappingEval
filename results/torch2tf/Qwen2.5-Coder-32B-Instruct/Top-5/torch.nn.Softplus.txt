@@ -1,0 +1,5 @@
+tf.math.softplus  
+tf.keras.activations.softplus  
+tf.nn.softplus  
+tf.nn.relu6  
+tf.sigmoid

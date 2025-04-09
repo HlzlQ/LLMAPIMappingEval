@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `tensorflow.keras.layers.Softmax`:
+
+1. mxnet.ndarray.softmax
+2. mxnet.gluon.nn.Softmax
+3. mxnet.gluon.nn.SoftmaxActivation
+4. mxnet.gluon.nn.SoftmaxOutput
+5. mxnet.ndarray.softmax_output
+6. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+7. mxnet.gluon.loss.SoftmaxOutput
+8. mxnet.ndarray.Softmax
+9. mxnet.gluon.nn.Activation
+10. mxnet.gluon.nn.SoftmaxCrossEntropyLoss

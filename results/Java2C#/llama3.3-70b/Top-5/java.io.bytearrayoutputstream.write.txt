@@ -1,0 +1,5 @@
+1. System.IO.MemoryStream.Write
+2. System.IO.Stream.Write
+3. System.IO.BinaryWriter.Write
+4. System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize
+5. System.IO.FileStream.Write

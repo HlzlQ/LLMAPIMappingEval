@@ -1,0 +1,2 @@
+
+CNTK's equivalent of `torch.nn.Conv2d` is `cntk.layers.Convolution2D`.

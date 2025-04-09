@@ -1,0 +1,2 @@
+
+Answer: torch.nn.PixelShuffle -> mxnet.ndarray.contrib.pixel_unshuffle

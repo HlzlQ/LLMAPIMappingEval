@@ -1,0 +1,7 @@
+
+<jupyter_code>
+# Softmax function mapping from PyTorch to MXNet
+mxnet_softmax = "softmax"
+print(mxnet_softmax)
+<jupyter_output>
+softmax

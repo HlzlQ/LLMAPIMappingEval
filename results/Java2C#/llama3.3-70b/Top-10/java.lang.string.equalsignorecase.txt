@@ -1,0 +1,10 @@
+1. System.String.Equals
+2. System.String.CompareTo
+3. System.String.OrdinalIgnoreCase
+4. System.StringCultureInfo.InvariantCultureIgnoreCase
+5. System.StringComparison.OrdinalIgnoreCase
+6. Microsoft.VisualBasic.Strings.StrComp
+7. System.Globalization.CompareInfo.IndexOf
+8. System.Text.RegularExpressions.Regex.IsMatch
+9. System.Linq.Enumerable.SequenceEqual
+10. System.String.StartsWith

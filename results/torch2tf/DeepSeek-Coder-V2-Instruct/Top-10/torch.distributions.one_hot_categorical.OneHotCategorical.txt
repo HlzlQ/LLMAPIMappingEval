@@ -1,0 +1,14 @@
+
+"""
+
+# Answer:
+# 1. tf.keras.layers.Categorical
+# 2. tf.nn.softmax_cross_entropy_with_logits
+# 3. tf.one_hot
+# 4. tf.argmax
+# 5. tf.reduce_sum
+# 6. tf.math.reduce_mean
+# 7. tf.keras.activations.softmax
+# 8. tf.nn.sparse_softmax_cross_entropy_with_logits
+# 9. tf.random.categorical
+# 10. tf.nn.softmax

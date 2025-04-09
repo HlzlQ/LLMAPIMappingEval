@@ -1,0 +1,14 @@
+
+<jupyter_output>
+<empty_output>
+<jupyter_text>
+Answer:```1. mxnet.ndarray.selu2. mxnet.symbol.selu3. mxnet.gluon.nn.SELU4. mxnet.contrib.mxnet_modelzoo.se_lu5. mxnet.image.transform_eval```  Problem 6: Mapping PyTorch to MXNet - `torch.nn.functional.softmax`Please map the above PyTorch API to the API with the same functions in MXNet, output the names of the 5 APIs that you think are the most likely ones, and no extra any explanations are needed.
+<jupyter_code>
+# Answer:
+1. mxnet.ndarray.softmax
+2. mxnet.symbol.softmax
+3. mxnet.gluon.nn.Softmax
+4. mxnet.contrib.mxnet_modelzoo.softmax
+5. mxnet.image.transform_eval
+<jupyter_output>
+<empty_output>

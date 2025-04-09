@@ -1,0 +1,2 @@
+
+Answer: torch.nn.BatchNorm1d -> cntk.layers.BatchNormalization

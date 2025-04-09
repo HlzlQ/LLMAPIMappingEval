@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.char.islower` in C#:
+
+1. java.lang.Character.isLowerCase
+2. java.lang.String.toLowerCase
+3. java.lang.Character.isLowercase
+4. java.lang.String.matches("[a-z]")
+5. java.util.regex.Pattern.matches("^[a-z]$", )

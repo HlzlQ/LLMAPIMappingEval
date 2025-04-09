@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.functional.ctc_loss`:
+
+1. tf.keras.backend.ctc_loss
+2. tf.compat.v1.nn.ctc_loss
+3. tf.nn.ctc_loss_v2
+4. tf.keras.losses.CategoricalCrossentropy
+5. tf.keras.losses.SparseCategoricalCrossentropy
+6. tf.nn.ctc_beam_search_decoder
+7. tf.nn.ctc_greedy_decoder
+8. tf.compat.v1.nn.ctc_loss_v2
+9. tf.keras.metrics.CategoricalAccuracy
+10. tf.nn.softmax_cross_entropy_with_logits

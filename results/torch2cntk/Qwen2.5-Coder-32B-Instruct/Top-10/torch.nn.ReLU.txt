@@ -1,0 +1,10 @@
+cntk.relu  
+cntk.ops.relu  
+cntk.layers.ReLU  
+cntk.functions.relu  
+cntk.activations.relu  
+cntk.models.relu  
+cntk.blocks.relu  
+cntk.layers.Activation(cntk.relu)  
+cntk.layers.Activation(cntk.ops.relu)  
+cntk.layers.Activation(cntk.functions.relu)

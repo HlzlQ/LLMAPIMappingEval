@@ -1,0 +1,5 @@
+System.Text.StringBuilder.Replace
+System.Text.StringBuilder.Remove
+System.Text.StringBuilder.Insert
+System.Text.StringBuilder.Append
+System.Text.StringBuilder.AppendFormat

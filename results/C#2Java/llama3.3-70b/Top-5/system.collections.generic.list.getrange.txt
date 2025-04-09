@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.collections.generic.list.getrange`:
+
+1. java.util.List.subList
+2. java.util.ArrayList.subList
+3. java.util.LinkedList.subList
+4. java.util.Collections.singletonList
+5. java.util.Arrays.asList

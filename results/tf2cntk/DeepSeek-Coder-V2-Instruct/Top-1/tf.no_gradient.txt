@@ -1,0 +1,2 @@
+
+CNTK.no_gradient

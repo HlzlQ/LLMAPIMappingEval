@@ -1,0 +1,10 @@
+1. System.IO.Path.GetFullPath(string path)
+2. System.IO.FileInfo.FullName
+3. System.IO.DirectoryInfo.FullName
+4. System.IO.File.GetAttributes(string path)
+5. System.IO.File.Exists(string path)
+6. System.IO.Directory.GetCurrentDirectory()
+7. System.IO.Path.Combine(params string[] paths)
+8. System.IO.FileInfo.ToString()
+9. System.IO.DirectoryInfo.ToString()
+10. System.IO.File.ReadAllText(string path)

@@ -1,0 +1,14 @@
+
+
+## Solution:
+
+1. `torch.nn.functional.relu` -> `mxnet.ndarray.relu`
+2. `torch.nn.functional.leaky_relu` -> `mxnet.ndarray.LeakyReLU`
+3. `torch.nn.functional.prelu` -> `mxnet.ndarray.Prelu`
+4. `torch.nn.functional.elu` -> `mxnet.ndarray.elu`
+5. `torch.nn.functional.selu` -> `mxnet.ndarray.selu`
+6. `torch.nn.functional.softmax` -> `mxnet.ndarray.softmax`
+7. `torch.nn.functional.log_softmax` -> `mxnet.ndarray.log_softmax`
+8. `torch.nn.functional.sigmoid` -> `mxnet.ndarray.sigmoid`
+9. `torch.nn.functional.tanh` -> `mxnet.ndarray.tanh`
+10. `torch.nn.functional.hardshrink` -> `mxnet.ndarray.hard_shrink`

@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The corresponding MaxPool3d function in MXNet should be MaxPooling3D.
+print("MaxPooling3D")
+<jupyter_output>
+MaxPooling3D

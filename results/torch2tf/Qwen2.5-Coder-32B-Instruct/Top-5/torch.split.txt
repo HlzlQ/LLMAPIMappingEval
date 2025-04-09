@@ -1,0 +1,5 @@
+tf.split
+tf.dynamic_partition
+tf.tensor_scatter_nd_update
+tf.strided_slice
+tf.slice

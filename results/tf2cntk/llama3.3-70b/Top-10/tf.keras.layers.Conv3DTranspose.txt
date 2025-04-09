@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.Conv3DTranspose`:
+
+1. `CNTK.ConvolutionTranspose`
+2. `CNTK.Deconvolution`
+3. `CNTK.TransposedConvolution`
+4. `CNTK.Conv3DTransposed`
+5. `CNTK.Deconv3D`
+6. `CNTK.TransposeConvolution3D`
+7. `CNTK.Convolution3DTranspose`
+8. `CNTK.UpSampleConvolution`
+9. `CNTK.FractionalConvolution`
+10. `CNTK.SubsamplingTranspose`

@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `System.Collections.ArrayList.EnsureCapacity` in C#:
+
+1. java.util.ArrayList.ensureCapacity
+2. java.util.Vector.ensureCapacity
+3. java.util.LinkedList.add
+4. java.util.ArrayList.resize
+5. java.util.Vector.capacity

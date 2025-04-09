@@ -1,0 +1,10 @@
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss  
+mxnet.ndarray.linalg.norm  
+mxnet.ndarray.dot  
+mxnet.ndarray.sum  
+mxnet.ndarray.sqrt  
+mxnet.ndarray.broadcast_div  
+mxnet.ndarray.abs  
+mxnet.ndarray.mean  
+mxnet.ndarray.maximum  
+mxnet.ndarray.minimum

@@ -1,0 +1,4 @@
+
+
+## Solution
+torch.tensordot, cntk.tensor.core.tensor_ops.TensorOps.DotProduct, cntk.tensor.core.tensor_ops.TensorOps.Sum, cntk.tensor.core.tensor_ops.TensorOps.Reshape, cntk.tensor.core.tensor_ops.TensorOps.Transpose

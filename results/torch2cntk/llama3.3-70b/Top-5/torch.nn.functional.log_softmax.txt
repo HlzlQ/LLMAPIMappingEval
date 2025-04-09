@@ -1,0 +1,5 @@
+1. cntk.softmax
+2. cntk.log
+3. cntk.combine([cntk.softmax, cntk.log])
+4. cntk.reduce_log_sum_exp
+5. cntk.softmax_with_bias

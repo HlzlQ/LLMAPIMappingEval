@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.data.sqlclient.sqldatareader.getstring`:
+
+1. java.sql.ResultSet.getString
+2. java.sql.CallableStatement.getString
+3. java.sql.PreparedStatement.getString
+4. java.sql.Statement.getString
+5. javax.sql.RowSet.getString
+6. java.sql.SQLInput.getString
+7. java.sql.Clob.getString
+8. java.sql.NClob.getString
+9. javax.sql.rowset.BaseRowSet.getString
+10. org.springframework.jdbc.support.nativejdbc.NativeJdbcExtractor.getString

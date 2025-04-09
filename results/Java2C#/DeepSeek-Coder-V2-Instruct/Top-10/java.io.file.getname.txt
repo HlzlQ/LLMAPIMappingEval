@@ -1,0 +1,10 @@
+1. File.GetName()
+2. Path.GetFileName()
+3. Directory.GetFiles()
+4. FileInfo.Name
+5. Path.GetFullPath()
+6. File.Exists()
+7. Directory.Exists()
+8. File.ReadAllText()
+9. File.WriteAllText()
+10. FileStream.Open()

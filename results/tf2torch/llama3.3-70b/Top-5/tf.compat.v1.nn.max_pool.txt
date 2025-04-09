@@ -1,0 +1,7 @@
+Here are the 5 most likely PyTorch API mappings for `tensorflow.compat.v1.nn.max_pool`:
+
+1. torch.nn.MaxPool2d
+2. torch.nn.MaxPool3d
+3. torch.nn.functional.max_pool2d
+4. torch.nn.functional.max_pool3d
+5. torch.nn.functional.max_pool1d

@@ -1,0 +1,10 @@
+tf.tensordot  
+tf.linalg.matmul  
+tf.reduce_sum  
+tf.einsum  
+tf.math.multiply  
+tf.math.add  
+tf.nn.conv2d  
+tf.nn.depthwise_conv2d  
+tf.nn.separable_conv2d  
+tf.signal.fftconvolve

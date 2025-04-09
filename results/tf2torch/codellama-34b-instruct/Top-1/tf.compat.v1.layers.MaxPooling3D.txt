@@ -1,0 +1,2 @@
+
+In PyTorch, the equivalent of `tensorflow.compat.v1.layers.MaxPooling3D` is `torch.nn.MaxPool3d`.

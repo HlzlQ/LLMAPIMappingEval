@@ -1,0 +1,5 @@
+mxnet.ndarray.ConvolutionTranspose
+mxnet.gluon.nn.Conv2DTranspose
+mxnet.symbol.ConvolutionTranspose
+mxnet.gluon.contrib.nn.Deconvolution2D
+mxnet.ndarray.deconvolution_transpose

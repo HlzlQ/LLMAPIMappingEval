@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.identity`:
+
+1. `torch.eye`
+2. `torch.ones_like`
+3. `torch.zeros_like`
+4. `torch.full_like`
+5. `torch.randn_like`
+6. `torch.rand_like`
+7. `torch.normal_like`
+8. `torch.uniform_like`
+9. `torch.bernoulli_like`
+10. `torch.poisson_like`

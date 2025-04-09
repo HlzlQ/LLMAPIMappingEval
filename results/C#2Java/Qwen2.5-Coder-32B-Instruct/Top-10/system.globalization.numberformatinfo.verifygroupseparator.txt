@@ -1,0 +1,10 @@
+java.text.DecimalFormatSymbols.getGroupingSeparator  
+java.text.NumberFormat.getInstance().getDecimalFormatSymbols().getGroupingSeparator  
+java.util.Locale.getDefault().getDecimalFormatSymbols().getGroupingSeparator  
+java.text.DecimalFormat.getDecimalFormatSymbols().getGroupingSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.US).getGroupingSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.UK).getGroupingSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.GERMANY).getGroupingSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.FRANCE).getGroupingSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.JAPAN).getGroupingSeparator  
+java.text.DecimalFormatSymbols.forLocale(java.util.Locale.CHINA).getGroupingSeparator

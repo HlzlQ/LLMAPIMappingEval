@@ -1,0 +1,5 @@
+torch.distributions.beta.Beta  
+torch.distributions.uniform.Uniform  
+torch.distributions.gamma.Gamma  
+torch.distributions.normal.Normal  
+torch.distributions.dirichlet.Dirichlet

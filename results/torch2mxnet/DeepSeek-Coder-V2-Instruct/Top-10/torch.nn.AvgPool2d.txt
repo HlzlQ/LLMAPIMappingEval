@@ -1,0 +1,12 @@
+
+
+1. mxnet.ndarray.contrib.BilinearResize2D
+2. mxnet.ndarray.Pooling
+3. mxnet.ndarray.UpSampling
+4. mxnet.ndarray.Convolution
+5. mxnet.ndarray.BatchNorm
+6. mxnet.ndarray.Activation
+7. mxnet.ndarray.FullyConnected
+8. mxnet.ndarray.Dropout
+9. mxnet.ndarray.Flatten
+10. mxnet.ndarray.Concat

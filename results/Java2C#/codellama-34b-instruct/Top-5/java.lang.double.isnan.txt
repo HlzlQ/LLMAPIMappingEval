@@ -1,0 +1,7 @@
+  Sure! Here are the 5 C# APIs that I believe are the closest matches to the Java API you provided:
+
+1. System.Double.IsNaN()
+2. System.Single.IsNaN()
+3. System.Math.IsNaN(double)
+4. System.Math.IsNaN(float)
+5. System.Numerics.Complex.IsNaN(System.Numerics.Complex)

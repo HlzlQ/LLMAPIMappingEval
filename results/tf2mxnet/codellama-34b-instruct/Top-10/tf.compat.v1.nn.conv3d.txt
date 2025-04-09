@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for 3D convolution:
+
+1. `mxnet.ndarray.Convolution`
+2. `mxnet.symbol.Convolution`
+3. `mxnet.ndarray.Conv3D`
+4. `mxnet.symbol.Conv3D`
+5. `mxnet.ndarray.Conv3DTranspose`
+6. `mxnet.symbol.Conv3DTranspose`
+7. `mxnet.ndarray.Conv3DWithBias`
+8. `mxnet.symbol.Conv3DWithBias`
+9. `mxnet.ndarray.Conv3DWithoutBias`
+10. `mxnet.symbol.Conv3DWithoutBias`

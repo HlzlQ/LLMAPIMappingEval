@@ -1,0 +1,5 @@
+System.Buffer.BlockCopy  
+System.Array.Copy  
+Array.Copy  
+Buffer.BlockCopy  
+System.Runtime.InteropServices.Marshal.Copy

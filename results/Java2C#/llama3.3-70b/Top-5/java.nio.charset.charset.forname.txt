@@ -1,0 +1,5 @@
+1. System.Text.Encoding.GetEncoding
+2. System.Text.Encoding.GetType
+3. System.Text.Encoding.GetName
+4. System.Text.EncodingConverter
+5. System.Text.CodePagesEncodingProvider.Instance.GetEncoding

@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.char.tolower` in C#:
+
+1. java.lang.Character.toLowerCase()
+2. java.lang.String.toLowerCase()
+3. java.text.Normalizer.normalize()
+4. java.nio.charset.CharsetDecoder.decode()
+5. org.apache.commons.lang3.StringUtils.lowerCase()

@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.CTCLoss | mxnet.ndarray.ctc_loss |
+  | torch.nn.CTCLoss.forward | mxnet.ndarray.ctc_loss_forward |
+  | torch.nn.CTCLoss.backward | mxnet.ndarray.ctc_loss_backward |
+  | torch.nn.CTCLoss.get_workspace_size | mxnet.ndarray.ctc_loss_get_workspace_size |
+  | torch.nn.CTCLoss.set_workspace_size | mxnet.ndarray.ctc_loss_set_workspace_size |
+  | torch.nn.CTCLoss.get_batch_size | mxnet.ndarray.ctc_loss_get_batch_size |
+  | torch.nn.CTCLoss.set_batch_size | mxnet.ndarray.ctc_loss_set_batch_size |
+  | torch.nn.CTCLoss.get_num_classes | mxnet.ndarray.ctc_loss_get_num_classes |
+  | torch.nn.CTCLoss.set_num_classes | mxnet.ndarray.ctc_loss_set_num_classes |

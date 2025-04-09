@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for implementing a GRU layer:
+
+1. `mxnet.gluon.rnn.GRU`
+2. `mxnet.gluon.rnn.GRUCell`
+3. `mxnet.gluon.rnn.MultiGRU`
+4. `mxnet.gluon.rnn.SequentialRNN`
+5. `mxnet.gluon.rnn.Bidirectional`

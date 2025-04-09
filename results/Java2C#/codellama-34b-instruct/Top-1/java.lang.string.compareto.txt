@@ -1,0 +1,1 @@
+C# has a similar method called `String.CompareTo` which compares two strings and returns an integer indicating their relative order.

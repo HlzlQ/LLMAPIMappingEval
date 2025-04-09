@@ -1,0 +1,5 @@
+torch.distributions.normal.Normal  
+torch.nn.functional.gaussian_nll_loss  
+torch.nn.modules.loss.GaussianNLLLoss  
+torch.tensor.normal_  
+torch.randn_like

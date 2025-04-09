@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.IO.StringReader.Read` in C#:
+
+1. java.io.StringReader.read()
+2. java.io.BufferedReader.read()
+3. java.io.InputStreamReader.read()
+4. java.io.FileReader.read()
+5. java.nio.CharBuffer.get()
+6. java.util.Scanner.next()
+7. java.io.Reader.read()
+8. java.io.InputStream.read()
+9. java.nio.channels.Channels.newReader()
+10. java.io.BufferedInputStream.read()

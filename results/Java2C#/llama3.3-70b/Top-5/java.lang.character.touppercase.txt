@@ -1,0 +1,5 @@
+1. System.Char.ToUpper
+2. System.String.ToUpper
+3. System.String.ToUpperInvariant
+4. System.Globalization.TextInfo.ToTitleCase
+5. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToUpper

@@ -1,0 +1,10 @@
+System.String.StartsWith
+System.String.StartsWith(System.Char)
+System.String.StartsWith(System.String)
+System.String.StartsWith(System.String, System.StringComparison)
+System.String.StartsWith(System.ReadOnlySpan<System.Char>)
+System.String.StartsWith(System.ReadOnlySpan<System.Char>, System.StringComparison)
+System.String.StartsWith(System.String, System.Boolean, System.Globalization.CultureInfo)
+System.String.StartsWith(System.Char, System.StringComparison)
+System.String.StartsWith(System.String, System.Boolean, System.Globalization.CultureInfo)
+System.String.StartsWith(System.ReadOnlySpan<System.Char>, System.Boolean, System.Globalization.CultureInfo)

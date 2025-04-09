@@ -1,0 +1,8 @@
+
+
+## 解题答案
+
+1. tf.nn.leaky_relu
+2. tf.keras.layers.LeakyReLU
+3. torch.nn.functional.leaky_relu
+4. torch.nn.LeakyReLU

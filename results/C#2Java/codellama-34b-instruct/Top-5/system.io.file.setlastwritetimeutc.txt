@@ -1,0 +1,11 @@
+  The C# API `system.io.file.setlastwritetimeutc` is used to set the last write time of a file in UTC format. In Java, this can be achieved using the `java.nio.file.Files` class and its `setLastModifiedTime()` method.
+
+Here are five possible APIs that could be used to achieve the same functionality as `system.io.file.setlastwritetimeutc` in Java:
+
+1. `java.nio.file.Files.setLastModifiedTime(Path, FileTime)`: This method sets the last modified time of a file to the specified `FileTime` object. The `FileTime` object can be created using the `FileTime.fromMillis()` method, which takes a millisecond value representing the desired last modified time.
+2. `java.nio.file.Files.setLastModifiedTime(Path, long)`: This method sets the last modified time of a file to the specified millisecond value.
+3. `java.nio.file.Files.setLastModifiedTimeUTC(Path, FileTime)`: This method sets the last modified time of a file to the specified `FileTime` object in UTC format.
+4. `java.nio.file.Files.setLastModifiedTimeUTC(Path, long)`: This method sets the last modified time of a file to the specified millisecond value in UTC format.
+5. `java.io.File.setLastModified(long)`: This method sets the last modified time of a file to the specified millisecond value.
+
+Note that these APIs are not exact replacements for `system.io.file.setlastwritetimeutc`, but they can be used to achieve similar functionality in Java.

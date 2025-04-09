@@ -1,0 +1,5 @@
+1. String.Concat(String[], String)
+2. String.Join(String, String[])
+3. StringBuilder.Append(String)
+4. String.Format(String, Object[])
+5. String.Concat(IEnumerable<String>)

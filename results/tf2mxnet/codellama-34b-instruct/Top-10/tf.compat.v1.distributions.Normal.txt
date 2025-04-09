@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that are similar to the TensorFlow API for normal distributions:
+
+1. mxnet.ndarray.normal
+2. mxnet.random.normal
+3. mxnet.distributions.Normal
+4. mxnet.stats.normal
+5. mxnet.math.normal
+6. mxnet.random.randn
+7. mxnet.random.standard_normal
+8. mxnet.random.normal_variate
+9. mxnet.random.normal_distribution
+10. mxnet.stats.normal_distribution

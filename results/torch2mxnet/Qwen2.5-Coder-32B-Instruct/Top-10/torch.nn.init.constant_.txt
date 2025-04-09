@@ -1,0 +1,10 @@
+mxnet.ndarray.fill
+mxnet.ndarray.ones_like
+mxnet.ndarray.zeros_like
+mxnet.ndarray.full
+mxnet.ndarray.uniform
+mxnet.ndarray.normal
+mxnet.ndarray.random_uniform
+mxnet.ndarray.random_normal
+mxnet.ndarray.random_exponential
+mxnet.ndarray.random_gamma

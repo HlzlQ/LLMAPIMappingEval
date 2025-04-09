@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# AvgPool2d -> tf.keras.layers.AveragePooling2D
+print("tf.keras.layers.AveragePooling2D")
+<jupyter_output>
+tf.keras.layers.AveragePooling2D

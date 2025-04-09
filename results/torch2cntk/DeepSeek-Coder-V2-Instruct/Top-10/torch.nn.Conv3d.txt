@@ -1,0 +1,15 @@
+
+"""
+
+cntk_conv3d_apis = [
+    "Convolution",
+    "MaxPooling",
+    "AveragePooling",
+    "BatchNormalization",
+    "ReLU",
+    "Sigmoid",
+    "Tanh",
+    "Dropout",
+    "Flatten",
+    "Dense"
+]

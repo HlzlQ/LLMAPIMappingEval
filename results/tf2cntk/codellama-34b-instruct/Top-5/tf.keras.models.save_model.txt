@@ -1,0 +1,5 @@
+  cntk.ops.functions.Function.save
+  cntk.io.serialize.save_model
+  cntk.train.trainer.Trainer.save
+  cntk.eval.evaluator.Evaluator.save
+  cntk.layers.blocks.BlockFunction.save

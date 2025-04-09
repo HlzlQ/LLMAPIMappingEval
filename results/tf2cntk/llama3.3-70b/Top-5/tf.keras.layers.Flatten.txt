@@ -1,0 +1,5 @@
+1. CNTK.Sequence.reshape
+2. CNTK.reshape
+3. CNTK.layers.Flatten
+4. CNTK.layers.Reshape
+5. CNTK.transpose

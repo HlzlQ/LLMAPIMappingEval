@@ -1,0 +1,12 @@
+
+
+1. tf.keras.layers.Dense
+2. tf.layers.dense
+3. torch.nn.Linear
+4. tf.compat.v1.layers.dense
+5. tf.keras.layers.Dense
+6. torch.nn.Linear
+7. tf.layers.dense
+8. tf.compat.v1.layers.dense
+9. tf.keras.layers.Dense
+10. torch.nn.Linear

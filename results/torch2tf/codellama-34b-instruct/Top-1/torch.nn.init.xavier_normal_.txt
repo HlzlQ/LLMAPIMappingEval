@@ -1,0 +1,2 @@
+
+The equivalent function in TensorFlow for `torch.nn.init.xavier_normal` is `tf.keras.initializers.GlorotNormal`.

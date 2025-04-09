@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("CNTK.ops.max_pooling")
+<jupyter_output>
+CNTK.ops.max_pooling

@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.nn.LeakyReLU
+2. mxnet.gluon.nn.ELU
+3. mxnet.gluon.nn.PReLU
+4. mxnet.gluon.nn.Activation
+5. mxnet.gluon.nn.HybridLambda
+6. mxnet.ndarray.LeakyReLU
+7. mxnet.ndarray.ELU
+8. mxnet.ndarray.PReLU
+9. mxnet.ndarray.Activation
+10. mxnet.symbol.LeakyReLU

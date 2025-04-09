@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. torch.nn.functional.relu
+2. torch.nn.functional.sigmoid
+3. torch.nn.functional.tanh
+4. torch.nn.functional.softmax
+5. torch.nn.functional.log_softmax
+6. torch.nn.functional.mse_loss
+7. torch.nn.functional.cross_entropy
+8. torch.nn.functional.nll_loss
+9. torch.nn.functional.conv2d
+10. torch.nn.functional.linear

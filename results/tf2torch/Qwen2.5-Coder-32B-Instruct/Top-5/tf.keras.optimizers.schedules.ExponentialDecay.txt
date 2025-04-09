@@ -1,0 +1,5 @@
+torch.optim.lr_scheduler.ExponentialLR  
+torch.optim.lr_scheduler.StepLR  
+torch.optim.lr_scheduler.MultiStepLR  
+torch.optim.lr_scheduler.LambdaLR  
+torch.optim.lr_scheduler.ReduceLROnPlateau

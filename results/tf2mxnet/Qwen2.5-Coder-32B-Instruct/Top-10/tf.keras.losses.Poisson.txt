@@ -1,0 +1,10 @@
+mxnet.gluon.loss.PoissonNLLLoss  
+mxnet.ndarray.random.poisson  
+mxnet.symbol.random.poisson  
+mxnet.ndarray.exp  
+mxnet.symbol.exp  
+mxnet.ndarray.log  
+mxnet.symbol.log  
+mxnet.ndarray.mean  
+mxnet.symbol.mean  
+mxnet.ndarray.sum

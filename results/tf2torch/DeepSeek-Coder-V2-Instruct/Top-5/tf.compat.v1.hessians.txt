@@ -1,0 +1,20 @@
+
+
+```python
+import torch
+from torch import nn
+from torch.autograd import grad
+
+# Example usage:
+x = torch.tensor([1.0, 2.0], requires_grad=True)
+y = x**3
+z = y.sum()
+z.backward()
+```
+Answer: ```python
+1. torch.autograd.functional.hessian
+2. torch.autograd.grad
+3. torch.nn.Parameter
+4. torch.optim.SGD
+5. torch.nn.MSELoss
+```

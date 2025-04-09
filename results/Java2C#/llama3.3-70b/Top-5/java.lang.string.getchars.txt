@@ -1,0 +1,5 @@
+1. System.String.ToCharArray
+2. System.Text.Encoding.GetChars
+3. System.String.GetBuffer
+4. System.Text.Encoding.GetBytes
+5. System.Convert.ToChar

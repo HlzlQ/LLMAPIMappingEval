@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.norm`:
+
+1. tf.linalg.normalize
+2. tf.linalg.global_norm
+3. tf.math.reduce_euclidean_norm
+4. tf.math.reduce_l2_norm
+5. tf.keras.layers.Normalization
+6. tf.keras.layers.Lambda
+7. tf.raw_ops.Normalize
+8. tf.raw_ops.L2Normalize
+9. tf.linalg.linear_operation
+10. tf.math.l2_normalize

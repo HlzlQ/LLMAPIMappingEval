@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.gluon.rnn.RNNCell
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.gluon.rnn.GRUCell
+4. mxnet.gluon.rnn.SequentialRNNCell
+5. mxnet.gluon.rnn.HybridSequential
+6. mxnet.gluon.rnn.HybridRNNCell
+7. mxnet.gluon.rnn.HybridLSTMCell
+8. mxnet.gluon.rnn.HybridGRUCell
+9. mxnet.gluon.rnn.Recurrent
+10. mxnet.gluon.rnn.SequentialRNNLayer

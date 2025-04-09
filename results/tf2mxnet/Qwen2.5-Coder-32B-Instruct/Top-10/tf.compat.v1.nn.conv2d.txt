@@ -1,0 +1,10 @@
+mxnet.ndarray.Convolution
+mxnet.gluon.nn.Conv2D
+mxnet.symbol.Convolution
+mxnet.gluon.contrib.nn.GroupedConv2D
+mxnet.gluon.nn.Conv1D
+mxnet.gluon.nn.Conv3D
+mxnet.gluon.nn.Deconv2D
+mxnet.gluon.nn.Deconv3D
+mxnet.ndarray.deconvolution
+mxnet.symbol.Deconvolution

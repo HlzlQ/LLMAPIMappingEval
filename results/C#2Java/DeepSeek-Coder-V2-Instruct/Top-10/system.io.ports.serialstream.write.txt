@@ -1,0 +1,10 @@
+1. java.io.OutputStream.write
+2. javax.swing.text.Document.write
+3. org.w3c.dom.Node.writeContent
+4. com.sun.xml.internal.ws.api.streaming.XMLStreamWriter.write
+5. org.apache.http.impl.io.SessionOutputBuffer.write
+6. java.nio.channels.WritableByteChannel.write
+7. javax.servlet.ServletOutputStream.write
+8. com.thoughtworks.xstream.io.HierarchicalStreamWriter.write
+9. org.springframework.web.servlet.view.xml.MarshallingView.write
+10. org.apache.hadoop.fs.FSDataOutputStream.write

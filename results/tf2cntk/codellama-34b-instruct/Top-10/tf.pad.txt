@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow `pad` API:
+
+1. `cntk.padding`
+2. `cntk.pad`
+3. `cntk.zero_pad`
+4. `cntk.reflect_pad`
+5. `cntk.replicate_pad`
+6. `cntk.circular_pad`
+7. `cntk.symmetric_pad`
+8. `cntk.asymmetric_pad`
+9. `cntk.reflect_1d_pad`
+10. `cntk.reflect_2d_pad`

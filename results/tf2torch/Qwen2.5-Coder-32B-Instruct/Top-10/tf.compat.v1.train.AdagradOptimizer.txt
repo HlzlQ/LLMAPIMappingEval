@@ -1,0 +1,10 @@
+torch.optim.Adagrad  
+torch.nn.Module.parameters  
+torch.autograd.Variable  
+torch.Tensor.data  
+torch.optim.Optimizer.step  
+torch.optim.Optimizer.zero_grad  
+torch.nn.functional.cross_entropy  
+torch.utils.data.DataLoader  
+torch.nn.Sequential  
+torch.save

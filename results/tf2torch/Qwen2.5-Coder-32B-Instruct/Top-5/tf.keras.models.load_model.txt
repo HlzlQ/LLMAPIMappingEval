@@ -1,0 +1,5 @@
+torch.jit.load  
+torch.load  
+torch.nn.Module.load_state_dict  
+torch.save  
+torch.jit.trace

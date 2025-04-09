@@ -1,0 +1,5 @@
+  tf.nn.relu6(x)
+tf.nn.softsign(x)
+tf.nn.sigmoid(x)
+tf.nn.tanh(x)
+tf.nn.softmax(x)

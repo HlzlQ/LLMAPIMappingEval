@@ -1,0 +1,2 @@
+
+Answer: mxnet.ndarray.dot, mxnet.symbol.dot, mxnet.gluon.nn.DotProductAttention, mxnet.contrib.ndarray.DotProductScorer, mxnet.sym.make_loss

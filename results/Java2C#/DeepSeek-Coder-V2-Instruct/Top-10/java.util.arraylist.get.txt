@@ -1,0 +1,11 @@
+ArrayList<T>.GetEnumerator()
+List<T>.GetEnumerator()
+IEnumerator<T>.MoveNext()
+IEnumerator<T>.Current
+IEnumerable<T>.GetEnumerator()
+Array.GetValue(Int32)
+List<T>.Item[Int32]
+Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)
+ConcurrentQueue<T>.TryDequeue(out T)
+BlockingCollection<T>.Take()
+Queue<T>.Dequeue()

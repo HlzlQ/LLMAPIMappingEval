@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.CopyTo
+2. System.Array.Copy
+3. System.Collections.ArrayList.CopyTo
+4. System.Linq.Enumerable.ToArray
+5. System.Collections.Generic.Dictionary<TKey,TValue>.ToList
+6. System.Data.DataTable.Copy
+7. System.IO.File.Copy
+8. System.Reflection.Assembly.LoadFrom
+9. System.Runtime.InteropServices.Marshal.Copy
+10. System.Windows.Forms.Clipboard.SetText

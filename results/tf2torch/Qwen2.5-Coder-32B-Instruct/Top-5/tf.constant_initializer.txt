@@ -1,0 +1,5 @@
+torch.nn.init.constant_
+torch.full
+torch.ones_like
+torch.zeros_like
+torch.fill_

@@ -1,0 +1,5 @@
+1. torch.nn.ReLU
+2. torch.relu
+3. torch.nn.functional.relu
+4. torch.sigmoid
+5. torch.tanh

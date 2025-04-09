@@ -1,0 +1,10 @@
+tf.keras.layers.BatchNormalization  
+tf.nn.batch_normalization  
+tf.compat.v1.layers.batch_normalization  
+tf.contrib.layers.batch_norm  
+tf.layers.batch_normalization  
+tf.keras.backend.batch_normalization  
+tf.nn.fused_batch_norm  
+tf.nn.fused_batch_norm_v2  
+tf.nn.fused_batch_norm_v3  
+tf.compat.v1.nn.batch_normalization

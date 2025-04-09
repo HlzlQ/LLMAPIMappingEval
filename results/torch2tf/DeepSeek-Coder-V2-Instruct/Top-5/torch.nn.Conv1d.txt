@@ -1,0 +1,2 @@
+
+Answer: torch.nn.Conv1d, tf.keras.layers.Conv1D

@@ -1,0 +1,5 @@
+tf.nn.depth_to_space  
+tf.image.resize  
+tf.keras.layers.UpSampling2D  
+tf.keras.layers.Conv2DTranspose  
+tf.nn.conv2d_transpose

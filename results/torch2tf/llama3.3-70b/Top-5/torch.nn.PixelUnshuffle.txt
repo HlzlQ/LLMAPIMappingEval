@@ -1,0 +1,5 @@
+1. tf.nn.depth_to_space
+2. tf.keras.layers.Reshape
+3. tf.keras.layers.Permute
+4. tf.image.resize
+5. tf.transpose

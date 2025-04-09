@@ -1,0 +1,7 @@
+
+<jupyter_code>
+# Replace None with the correct API name
+mxnet_api = "init.Normal"
+print(mxnet_api)
+<jupyter_output>
+init.Normal

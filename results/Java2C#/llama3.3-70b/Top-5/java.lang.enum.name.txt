@@ -1,0 +1,5 @@
+1. System.Enum.GetName
+2. System.Enum.GetNames
+3. System.Reflection.MemberInfo.Name
+4. System.Type.Name
+5. System.Reflection.FieldInfo.Name

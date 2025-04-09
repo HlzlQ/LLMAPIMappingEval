@@ -1,0 +1,10 @@
+java.lang.Character.toUpperCase
+java.lang.String.toUpperCase
+java.text.Normalizer.Form.valueOf
+java.util.Locale.forLanguageTag
+java.util.Locale.getDefault
+java.util.Locale.getDisplayCountry
+java.util.Locale.getDisplayName
+java.util.Locale.getDisplayLanguage
+java.util.Locale.getDisplayVariant
+java.util.Locale.LanguageRange.parse

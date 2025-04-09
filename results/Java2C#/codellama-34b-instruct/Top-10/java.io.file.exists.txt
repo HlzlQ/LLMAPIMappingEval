@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java `java.io.File.exists()` method:
+
+1. `System.IO.File.Exists(string path)`
+2. `System.IO.Directory.Exists(string path)`
+3. `System.IO.Path.GetFullPath(string path)`
+4. `System.IO.Path.HasExtension(string path)`
+5. `System.IO.Path.IsPathRooted(string path)`
+6. `System.IO.FileInfo.Exists`
+7. `System.IO.DirectoryInfo.Exists`
+8. `System.IO.FileSystemInfo.Exists`
+9. `System.IO.FileStream.CanRead`
+10. `System.IO.FileStream.CanWrite`

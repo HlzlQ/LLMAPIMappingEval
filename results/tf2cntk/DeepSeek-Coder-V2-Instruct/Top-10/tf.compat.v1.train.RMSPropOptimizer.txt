@@ -1,0 +1,17 @@
+
+```python
+import tensorflow as tf
+tf_optimizer = tf.train.RMSPropOptimizer(learning_rate=0.01)
+cntk_optimizer = None
+```
+Answer: 
+1. `tf.train.RMSPropOptimizer`
+2. `tf.train.AdamOptimizer`
+3. `tf.train.GradientDescentOptimizer`
+4. `tf.train.AdagradOptimizer`
+5. `tf.train.MomentumOptimizer`
+6. `tf.train.ProximalAdagradOptimizer`
+7. `tf.train.AdadeltaOptimizer`
+8. `tf.train.AdamaxOptimizer`
+9. `tf.train.FtrlOptimizer`
+10. `tf.train.NadamOptimizer`

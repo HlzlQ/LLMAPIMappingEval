@@ -1,0 +1,10 @@
+1. Dictionary<TKey, TValue>.Add
+2. SortedDictionary<TKey, TValue>.Add
+3. ConcurrentDictionary<TKey, TValue>.TryAdd
+4. Hashtable.Add
+5. HashSet<T>.Add
+6. LinkedList<T>.AddLast
+7. Queue<T>.Enqueue
+8. Stack<T>.Push
+9. ObservableCollection<T>.Insert
+10. List<T>.Add

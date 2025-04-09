@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Upsampling in MXNet
+print("UpSampling")
+<jupyter_output>
+UpSampling

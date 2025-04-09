@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.PReLU`:
+
+1. `cntk.layers.PReLU`
+2. `cntk.layers.ParametricRectifiedLinearUnit`
+3. `cntk.layers.PReLUWithNegativeSlope`
+4. `cntk.layers.PReLUWithPositiveSlope`
+5. `cntk.layers.PReLUWithSlope`
+6. `cntk.layers.PReLUWithSlopeAndBias`
+7. `cntk.layers.PReLUWithSlopeAndBiasAndActivation`
+8. `cntk.layers.PReLUWithSlopeAndBiasAndActivationAndDropout`
+9. `cntk.layers.PReLUWithSlopeAndBiasAndActivationAndDropoutAndBatchNorm`
+10. `cntk.layers.PReLUWithSlopeAndBiasAndActivationAndDropoutAndBatchNormAndConvolution`

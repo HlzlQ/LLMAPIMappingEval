@@ -1,0 +1,9 @@
+
+Answer: ```python
+tfp = tf.keras.layers
+```
+1. `tfp.OneHotCategorical`
+2. `tf.one_hot`
+3. `tf.argmax`
+4. `tf.reduce_sum`
+5. `tf.nn.softmax`

@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.optim.Adadelta`:
+
+1. `tf.train.AdadeltaOptimizer`
+2. `tf.keras.optimizers.Adadelta`
+3. `tf.train.GradientDescentOptimizer` with `tf.train.Adadelta` learning rate decay
+4. `tf.keras.optimizers.SGD` with `tf.keras.optimizers.Adadelta` learning rate decay
+5. `tf.train.MomentumOptimizer` with `tf.train.Adadelta` learning rate decay
+6. `tf.keras.optimizers.RMSprop` with `tf.keras.optimizers.Adadelta` learning rate decay
+7. `tf.train.AdagradOptimizer` with `tf.train.Adadelta` learning rate decay
+8. `tf.keras.optimizers.Adam` with `tf.keras.optimizers.Adadelta` learning rate decay
+9. `tf.train.AdamaxOptimizer` with `tf.train.Adadelta` learning rate decay
+10. `tf.keras.optimizers.Nadam` with `tf.keras.optimizers.Adadelta` learning rate decay

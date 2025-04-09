@@ -1,0 +1,22 @@
+
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+
+# Example usage:
+# Define a simple model
+net = gluon.nn.Sequential()
+net.add(gluon.nn.Dense(10))
+net.initialize()
+
+# Create an optimizer with the same parameters as torch.optim.Adagrad
+optimizer = mx.optimizer.Adagrad(learning_rate=0.1)
+```
+Answer: 
+1. `mx.optimizer.Adagrad`
+2. `gluon.Trainer`
+3. `ndarray.zeros_like`
+4. `gluon.ParameterDict`
+5. `ndarray.attach_grad`

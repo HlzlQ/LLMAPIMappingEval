@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow RNN API:
+
+1. torch.nn.RNN
+2. torch.nn.LSTM
+3. torch.nn.GRU
+4. torch.nn.RNNCell
+5. torch.nn.LSTMCell
+6. torch.nn.GRUCell
+7. torch.nn.MultiHeadAttention
+8. torch.nn.TransformerEncoderLayer
+9. torch.nn.TransformerDecoderLayer
+10. torch.nn.Transformer

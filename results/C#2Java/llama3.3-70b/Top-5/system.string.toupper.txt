@@ -1,0 +1,5 @@
+1. java.lang.String.toUpperCase()
+2. java.lang.String.toUpperCase(Locale)
+3. java.text.MessageFormat.format()
+4. java.nio.charset.Charset.decode()
+5. java.util.regex.Pattern.compile()

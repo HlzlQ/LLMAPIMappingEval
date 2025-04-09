@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for loading a model:
+
+1. `cntk.load_model`
+2. `cntk.models.load_model`
+3. `cntk.io.load_model`
+4. `cntk.data.load_model`
+5. `cntk.utils.load_model`
+6. `cntk.layers.load_model`
+7. `cntk.models.Sequential.load_model`
+8. `cntk.models.Functional.load_model`
+9. `cntk.models.Model.load_model`
+10. `cntk.models.load_model_from_file`

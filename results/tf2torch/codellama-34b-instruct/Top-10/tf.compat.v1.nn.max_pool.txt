@@ -1,0 +1,13 @@
+
+Here are ten possible PyTorch APIs that can be used for max pooling:
+
+1. torch.nn.MaxPool2d
+2. torch.nn.functional.max_pool2d
+3. torch.nn.MaxUnpool2d
+4. torch.nn.functional.max_unpool2d
+5. torch.nn.MaxPool3d
+6. torch.nn.functional.max_pool3d
+7. torch.nn.MaxUnpool3d
+8. torch.nn.functional.max_unpool3d
+9. torch.nn.MaxPool1d
+10. torch.nn.functional.max_pool1d

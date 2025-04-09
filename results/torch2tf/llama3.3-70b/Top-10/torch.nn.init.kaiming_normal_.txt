@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.init.kaiming_normal_`:
+
+1. tf.keras.initializers.VarianceScaling
+2. tf.keras.initializers.GlorotNormal
+3. tf.keras.initializers.GlorotUniform
+4. tf.initializers.variance_scaling
+5. tf.initializers.glorot_normal
+6. tf.initializers.glorot_uniform
+7. tf.keras.layers.Dense.kernel_initializer
+8. tf.compat.v1.keras.initializers.VarianceScaling
+9. tf.compat.v1.keras.initializers.glorot_normal
+10. tf.compat.v1.initializers.variance_scaling

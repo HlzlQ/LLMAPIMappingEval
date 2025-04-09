@@ -1,0 +1,5 @@
+torch.nn.MaxPool1d  
+torch.nn.functional.max_pool1d  
+torch.nn.AdaptiveMaxPool1d  
+torch.nn.functional.adaptive_max_pool1d  
+torch.nn.utils.spectral_norm (not directly related but sometimes used in conjunction)

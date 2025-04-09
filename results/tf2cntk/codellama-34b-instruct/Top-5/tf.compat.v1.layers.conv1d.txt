@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for convolutional layers:
+
+1. `cntk.layers.Convolution1D`
+2. `cntk.layers.Conv1D`
+3. `cntk.layers.ConvolutionalLayer1D`
+4. `cntk.layers.Conv1DTranspose`
+5. `cntk.layers.ConvolutionalTransposedLayer1D`

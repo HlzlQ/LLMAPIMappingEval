@@ -1,0 +1,5 @@
+1. mx.nd.FullyConnected
+2. mx.gluon.nn.Dense
+3. mx.gluon.nn.Flatten
+4. mx.ndarray.FullyConnected
+5. mx gluon.nn.Linear

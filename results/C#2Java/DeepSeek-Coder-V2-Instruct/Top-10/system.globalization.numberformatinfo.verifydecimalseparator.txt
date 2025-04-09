@@ -1,0 +1,10 @@
+1. java.text.DecimalFormatSymbols.setDecimalSeparator
+2. java.text.DecimalFormat.getDecimalSeparator
+3. java.util.Locale.getDefault
+4. java.text.NumberFormat.setMinimumFractionDigits
+5. java.text.NumberFormat.getCurrencyInstance
+6. java.text.DecimalFormat.applyPattern
+7. java.text.DecimalFormatSymbols.getDecimalSeparator
+8. java.text.NumberFormat.setMaximumFractionDigits
+9. java.util.Locale.getAvailableLocales
+10. java.text.NumberFormat.getInstance

@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Conv2D`:
+
+1. `torch.nn.Conv2d`
+2. `torch.nn.modules.conv.Conv2d`
+3. `torch.nn.functional.conv2d`
+4. `torch.nn.modules.Conv2d`
+5. `torch.nn.Conv2dModule`
+6. `torch.nn.Conv2dLayer`
+7. `torch.nn.Conv2dBlock`
+8. `torch.nn.Conv2dCell`
+9. `torch.nn.Conv2dKernel`
+10. `torch.nn.Conv2dBias`

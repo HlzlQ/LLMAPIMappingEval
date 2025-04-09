@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.List.Set` in C#:
+
+1. java.util.ArrayList.set
+2. java.util.LinkedList.set
+3. java.util.Vector.set
+4. java.util.Stack.set
+5. java.util.AbstractList.set
+6. java.util.Collections.singletonList.set
+7. java.util.concurrent.CopyOnWriteArrayList.set
+8. java.util.concurrent.atomic.AtomicReferenceArray.set
+9. javax.swing.DefaultListModel.set
+10. org.apache.commons.collections4.list.FixedSizeList.set

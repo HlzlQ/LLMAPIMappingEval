@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.sigmoid`:
+
+1. `cntk.ops.sigmoid`
+2. `cntk.layers.activation.Sigmoid`
+3. `cntk.layers.ActivationLayer(cntk.ops.sigmoid)`
+4. `cntk.layers.Dense(cntk.ops.sigmoid, ...)`
+5. `cntk.layers.Conv2D(cntk.ops.sigmoid, ...)`
+6. `cntk.layers.BatchNormalization(cntk.ops.sigmoid, ...)`
+7. `cntk.layers.InstanceNormalization(cntk.ops.sigmoid, ...)`
+8. `cntk.layers.LayerNorm(cntk.ops.sigmoid, ...)`
+9. `cntk.layers.GroupNorm(cntk.ops.sigmoid, ...)`
+10. `cntk.layers.SigmoidCrossEntropyWithLogits`

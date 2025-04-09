@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.text.stringbuilder.remove` in C#:
+
+1. java.lang.StringBuilder.delete
+2. java.lang.StringBuilder.deleteCharAt
+3. java.lang.StringBuffer.delete
+4. java.lang.StringBuffer.deleteCharAt
+5. org.apache.commons.lang3.StringUtils.remove
+6. org.apache.commons.lang3.StringUtils.removeAll
+7. org.apache.commons.text.StringUtils.remove
+8. org.apache.commons.text.StringUtils.removeAll
+9. java.util.regex.Matcher.replaceAll
+10. java.util.regex.Pattern.compile

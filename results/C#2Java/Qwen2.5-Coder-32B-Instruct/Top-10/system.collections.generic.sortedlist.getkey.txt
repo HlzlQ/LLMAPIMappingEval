@@ -1,0 +1,10 @@
+java.util.SortedMap.firstKey  
+java.util.SortedMap.lastKey  
+java.util.TreeMap.firstKey  
+java.util.TreeMap.lastKey  
+java.util.NavigableMap.firstEntry  
+java.util.NavigableMap.lastEntry  
+java.util.NavigableMap.floorKey  
+java.util.NavigableMap.ceilingKey  
+java.util.NavigableMap.lowerKey  
+java.util.NavigableMap.higherKey

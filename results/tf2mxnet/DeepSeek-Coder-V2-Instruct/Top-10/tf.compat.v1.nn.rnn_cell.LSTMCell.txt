@@ -1,0 +1,12 @@
+
+
+1. mxnet.gluon.rnn.LSTMCell
+2. mxnet.ndarray.RNNCell
+3. mxnet.ndarray.GRUCell
+4. mxnet.ndarray.RNN
+5. mxnet.ndarray.Embedding
+6. mxnet.ndarray.FullyConnected
+7. mxnet.ndarray.Activation
+8. mxnet.ndarray.BatchNorm
+9. mxnet.ndarray.Dropout
+10. mxnet.ndarray.Flatten

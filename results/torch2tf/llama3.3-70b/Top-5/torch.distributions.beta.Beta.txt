@@ -1,0 +1,5 @@
+1. tfp.distributions.Beta
+2. tf.random.beta
+3. tfp.distributions.TransformedDistribution
+4. tfp.bijectors.Sigmoid
+5. tfp.distributions.JointDistributionNamed

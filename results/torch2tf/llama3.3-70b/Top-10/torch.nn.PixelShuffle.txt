@@ -1,0 +1,12 @@
+Here are the top 10 TensorFlow APIs that match the functionality of `torch.nn.PixelShuffle`:
+
+1. tf.depth_to_space
+2. tf.keras.layers.DepthToSpace
+3. tf.image.resize_nearest_neighbor
+4. tf.compat.v1.depth_to_space
+5. tf.nn.depth_to_space
+6. tf.keras.layers.UpSampling2D
+7. tf.image.resize_bilinear
+8. tf.image.resize_bicubic
+9. tf.keras.layers.Reshape
+10. tf.transpose

@@ -1,0 +1,10 @@
+System.Diagnostics.Trace.Assert
+System.Diagnostics.Debug.Assert
+NUnit.Framework.Assert.AreEqual
+NUnit.Framework.Assert.AreSame
+Xunit.Assert.Equal
+Xunit.Assert.Same
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+NUnitLite.Runner.Assert.AreEqual
+NUnitLite.Runner.Assert.AreSame

@@ -1,0 +1,2 @@
+
+In PyTorch, the equivalent of `tensorflow.compat.v1.hessians` is `torch.autograd.functional.hessian`.

@@ -1,0 +1,2 @@
+
+Answer: torch.nn.init.kaiming_normal_, cntk.initializer.he_uniform, cntk.initializer.glorot_uniform

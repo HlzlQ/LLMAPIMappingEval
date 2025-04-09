@@ -1,0 +1,10 @@
+cntk.ops.pad
+cntk.layers.Pad
+cntk.layers.Sequential
+cntk.layers.Function
+cntk.layers.Dropout
+cntk.layers.Convolution2D
+cntk.layers.MaxPooling
+cntk.layers.AveragePooling
+cntk.layers.GlobalAveragePooling
+cntk.layers.BatchNormalization

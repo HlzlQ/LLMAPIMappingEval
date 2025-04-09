@@ -1,0 +1,5 @@
+1. System.Environment.GetEnvironmentVariable
+2. Environment.GetFolderPath
+3. ConfigurationManager.AppSettings["key"]
+4. AppContext.BaseDirectory
+5. Directory.GetCurrentDirectory

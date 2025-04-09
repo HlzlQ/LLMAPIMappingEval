@@ -1,0 +1,10 @@
+java.util.HashMap.put
+java.util.LinkedHashMap.put
+java.util.TreeMap.put
+java.util.concurrent.ConcurrentHashMap.put
+java.util.Hashtable.put
+java.util.Properties.put
+java.util.IdentityHashMap.put
+java.util.WeakHashMap.put
+java.util.EnumMap.put
+java.util.Collections.synchronizedMap.put

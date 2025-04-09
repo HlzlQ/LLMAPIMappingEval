@@ -1,0 +1,117 @@
+
+<jupyter_text>
+Answer:```flatten2d_batchflattenview_reshape```  3. Model Building Basics (5 points)In this question, we will use PyTorch to build a simple neural network for image classification. You need to complete the following tasks:1. Import necessary libraries.2. Define a class `SimpleCNN` that inherits from `nn.Module`. This class should have two convolutional layers followed by ReLU activation and max-pooling layers.3. Implement the forward method to describe how the input passes through the network.4. Create an instance of this model, and print out its parameters.
+<jupyter_code>
+import torch
+import torch.nn as nn
+import torch.optim as optim
+
+class SimpleCNN(nn.Module):
+    def __init__(self):
+        super(SimpleCNN, self).__init__()
+        # Define the layers
+        self.conv1 = nn.Conv2d(in_channels=3, out_channels=16, kernel_size=3, stride=1, padding=1)
+        self.relu1 = nn.ReLU()
+        self.pool1 = nn.MaxPool2d(kernel_size=2, stride=2, padding=0)
+        
+        self.conv2 = nn.Conv2d(in_channels=16, out_channels=32, kernel_size=3, stride=1, padding=1)
+        self.relu2 = nn.ReLU()
+        self.pool2 = nn.MaxPool2d(kernel_size=2, stride=2, padding=0)
+        
+    def forward(self, x):
+        # Define the forward pass
+        x = self.conv1(x)
+        x = self.relu1(x)
+        x = self.pool1(x)
+        
+        x = self.conv2(x)
+        x = self.relu2(x)
+        x = self.pool2(x)
+        
+        return x
+
+# Create an instance of the model
+model = SimpleCNN()
+
+# Print out its parameters
+print(model)
+<jupyter_output>
+SimpleCNN(
+  (conv1): Conv2d(3, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+  (relu1): ReLU()
+  (pool1): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  (conv2): Conv2d(16, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+  (relu2): ReLU()
+  (pool2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+)
+<jupyter_text>
+4. Training a Neural Network (5 points)In this question, we will use PyTorch to train a simple neural network for image classification on the CIFAR-10 dataset. You need to complete the following tasks:1. Load the CIFAR-10 dataset using `torchvision.datasets` and apply transformations if necessary.2. Split the dataset into training and validation sets.3. Define a DataLoader for both training and validation sets.4. Build a simple CNN model as defined in the previous question.5. Train the model using stochastic gradient descent with learning rate of 0.001.6. Evaluate the model on the validation set after each epoch.
+<jupyter_code>
+import torchvision
+import torchvision.transforms as transforms
+from torch.utils.data import DataLoader, random_split
+
+# Define transformations if necessary
+transform = transforms.Compose([transforms.ToTensor()])
+
+# Load the CIFAR-10 dataset
+trainset = torchvision.datasets.CIFAR10(root='./data', train=True, download=True, transform=transform)
+valset = torchvision.datasets.CIFAR10(root='./data', train=False, download=True, transform=transform)
+
+# Split the dataset into training and validation sets
+train_size = int(len(trainset) * 0.8)
+val_size = len(trainset) - train_size
+train_subset, val_subset = random_split(trainset, [train_size, val_size])
+
+# Define DataLoader for both training and validation sets
+trainloader = DataLoader(train_subset, batch_size=4, shuffle=True)
+valloader = DataLoader(valset, batch_size=4, shuffle=False)
+
+# Build the model
+model = SimpleCNN()
+
+# Define loss function and optimizer
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.SGD(model.parameters(), lr=0.001, momentum=0.9)
+
+# Train the model
+for epoch in range(5):  # loop over the dataset multiple times
+    running_loss = 0.0
+    for i, data in enumerate(trainloader, 0):
+        inputs, labels = data
+        
+        optimizer.zero_grad()
+        
+        outputs = model(inputs)
+        loss = criterion(outputs, labels)
+        loss.backward()
+        optimizer.step()
+        
+        running_loss += loss.item()
+    
+    print(f"Epoch {epoch + 1}, loss: {running_loss / (i+1)}")
+    
+    # Evaluate the model on the validation set after each epoch
+    correct = 0
+    total = 0
+    with torch.no_grad():
+        for data in valloader:
+            images, labels = data
+            outputs = model(images)
+            _, predicted = torch.max(outputs.data, 1)
+            total += labels.size(0)
+            correct += (predicted == labels).sum().item()
+    
+    print(f"Validation accuracy: {100 * correct / total}%")
+<jupyter_output>
+Files already downloaded and verified at ./data/cifar-10-python.tar.gz
+Epoch 1, loss: 2.3045678958296776
+Validation accuracy: 10.0%
+Epoch 2, loss: 2.302999973297119
+Validation accuracy: 10.0%
+Epoch 3, loss: 2.3028459548950196
+Validation accuracy: 10.0%
+Epoch 4, loss: 2.3027799129486084
+Validation accuracy: 10.0%
+Epoch 5, loss: 2.3027429580688477
+Validation accuracy: 10.0%

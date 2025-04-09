@@ -1,0 +1,5 @@
+1. System.String.IndexOf
+2. System.Text.StringBuilder.IndexOf
+3. System.String.LastIndexOf
+4. System.Text.RegularExpressions.Regex.IndexOf
+5. System.Globalization.CompareInfo.IndexOf

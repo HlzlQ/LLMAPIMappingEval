@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.List<T>.Insert(int index, T item)
+2. System.Collections.ArrayList.Insert(int index, object value)
+3. System.Collections.Specialized.StringCollection.Insert(int index, string value)
+4. System.Collections.Specialized.NameObjectCollectionBase.Insert(int index, string name, object value)
+5. System.Collections.Generic.LinkedList<T>.AddAfter(LinkedListNode<T> node, T value)
+6. System.Collections.Generic.SortedList<TKey, TValue>.Insert(int index, TKey key, TValue value)
+7. System.Collections.Generic.Stack<T>.Push(T item)
+8. System.Collections.Generic.Queue<T>.Enqueue(T item)
+9. System.Collections.Specialized.StringCollection.AddRange(string[] values)
+10. System.Collections.Specialized.NameObjectCollectionBase.Add(string name, object value)

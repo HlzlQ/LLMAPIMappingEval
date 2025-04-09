@@ -1,0 +1,4 @@
+Sure! Here's the mapping:
+
+Java API: java.util.TreeMap.put()
+C# API: System.Collections.Generic.SortedDictionary<TKey, TValue>.Add()

@@ -1,0 +1,5 @@
+torch.nn.init.constant_
+torch.nn.init.ones_
+torch.nn.init.zeros_
+torch.nn.Parameter
+torch.tensor

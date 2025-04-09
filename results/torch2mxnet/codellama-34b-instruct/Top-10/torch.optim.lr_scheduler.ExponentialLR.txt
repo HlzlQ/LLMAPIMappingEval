@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for exponential learning rate scheduling:
+
+1. mxnet.optimizer.lr_scheduler.ExponentialLR
+2. mxnet.optimizer.lr_scheduler.ExponentialDecay
+3. mxnet.optimizer.lr_scheduler.ExponentialStepLR
+4. mxnet.optimizer.lr_scheduler.ExponentialCosineAnnealingLR
+5. mxnet.optimizer.lr_scheduler.ExponentialCyclicalLR
+6. mxnet.optimizer.lr_scheduler.ExponentialTriangularLR
+7. mxnet.optimizer.lr_scheduler.ExponentialSigmoidLR
+8. mxnet.optimizer.lr_scheduler.ExponentialReLULR
+9. mxnet.optimizer.lr_scheduler.ExponentialSoftmaxLR
+10. mxnet.optimizer.lr_scheduler.ExponentialSwishLR

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Character.isWhitespace()`:
+
+1. `System.Char.IsWhiteSpace(char)`
+2. `System.Char.IsSeparator(char)`
+3. `System.Char.IsControl(char)`
+4. `System.Char.IsFormat(char)`
+5. `System.Char.IsSurrogate(char)`
+6. `System.Char.IsHighSurrogate(char)`
+7. `System.Char.IsLowSurrogate(char)`
+8. `System.Char.IsLetterOrDigit(char)`
+9. `System.Char.IsNumber(char)`
+10. `System.Char.IsPunctuation(char)`

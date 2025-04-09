@@ -1,0 +1,10 @@
+
+```python
+import torch
+```
+
+1. `torch.matmul`
+2. `torch.mm`
+3. `torch.bmm`
+4. `torch.einsum`
+5. `torch.dot`

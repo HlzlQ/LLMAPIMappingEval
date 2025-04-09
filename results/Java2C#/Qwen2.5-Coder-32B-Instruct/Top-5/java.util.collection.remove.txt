@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.Remove  
+System.Collections.ArrayList.Remove  
+System.Collections.Generic.HashSet<T>.Remove  
+System.Collections.Generic.LinkedList<T>.Remove  
+System.Collections.Generic.Queue<T>.Dequeue

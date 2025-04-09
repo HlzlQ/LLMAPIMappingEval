@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.diagnostics.process.start` in C#:
+
+1. java.lang.Runtime.exec()
+2. java.lang.ProcessBuilder.start()
+3. java.io.IOException.exec()
+4. javax.swing.JOptionPane.execute()
+5. java.awt.Desktop.open()
+6. java.net.URLClassLoader.loadClass()
+7. org.apache.commons.exec.DefaultExecutor.execute()
+8. java.util.concurrent.ExecutorService.submit()
+9. com.sun.management.OperatingSystemMXBean.getProcessCpuTime()
+10. java.lang.ProcessImpl.start()

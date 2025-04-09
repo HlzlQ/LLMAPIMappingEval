@@ -1,0 +1,10 @@
+torch.nn.init.uniform_
+torch.rand
+torch.FloatTensor
+torch.randn
+torch.empty
+torch.full
+torch.zeros
+torch.ones
+torch.Tensor
+torch.DoubleTensor

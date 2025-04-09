@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreSame
+NUnit.Framework.Assert.AreSame
+Xunit.Assert.Same
+FluentAssertions.AssertionsExtensions.BeSameAs
+ApprovalTests.Namers.StackTraceNamer.AssertSame
+Shouldly.ShouldlyExtensions.ShouldBeSameAs
+NSubstitute.Received.InOrderExtensions.ShouldBeSameAs
+AutoFixture.Idioms.FixtureCustomizationExtensions.AssertAreSame
+TestStack.BDDfy.Xunit.AssertionHelper.AssertSame

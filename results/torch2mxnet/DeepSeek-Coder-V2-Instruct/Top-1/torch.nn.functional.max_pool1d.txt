@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# The corresponding MXNet API for torch.nn.functional.max_pool1d is mxnet.ndarray.MaxPooling1D
+print("mxnet.ndarray.MaxPooling1D")
+<jupyter_output>
+mxnet.ndarray.MaxPooling1D

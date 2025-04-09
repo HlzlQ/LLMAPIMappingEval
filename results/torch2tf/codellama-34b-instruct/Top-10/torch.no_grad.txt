@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that correspond to the PyTorch API `torch.no_grad`:
+
+1. `tf.GradientTape`
+2. `tf.stop_gradient`
+3. `tf.disable_gradient`
+4. `tf.trainable_variables`
+5. `tf.get_variable`
+6. `tf.Variable`
+7. `tf.keras.layers.Layer`
+8. `tf.keras.models.Model`
+9. `tf.keras.optimizers.Optimizer`
+10. `tf.keras.callbacks.Callback`

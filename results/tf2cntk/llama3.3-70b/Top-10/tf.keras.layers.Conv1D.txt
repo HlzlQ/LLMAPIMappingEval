@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.Conv1D`:
+
+1. Convolution
+2. Convolution1D
+3. SequentialConvolution
+4. ConvolutionLayer
+5. Conv1DLayer
+6. TemporalConvolution
+7. TimeConvolution
+8. ConvolutionalLayer1D
+9. OneDConvolution
+10. ConvolutionOperator

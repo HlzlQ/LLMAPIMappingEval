@@ -1,0 +1,5 @@
+1. java.util.HashSet.iterator()
+2. java.util.Set.iterator()
+3. java.util.Collection.iterator()
+4. java.util.AbstractSet.iterator()
+5. java.util.EnumSet.iterator()

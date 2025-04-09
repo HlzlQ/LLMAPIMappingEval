@@ -1,0 +1,5 @@
+1. tf.keras.layers.Dense
+2. tf.layers.Dense
+3. tf.compat.v1.layers.dense
+4. tf.nn.relu
+5. tf.keras.layers.Flatten

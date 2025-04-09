@@ -1,0 +1,6 @@
+  tf.keras.layers.SimpleRNN
+  tf.keras.layers.LSTM
+  tf.keras.layers.GRU
+  mxnet.gluon.rnn.RNN
+  mxnet.gluon.rnn.LSTM
+  mxnet.gluon.rnn.GRU

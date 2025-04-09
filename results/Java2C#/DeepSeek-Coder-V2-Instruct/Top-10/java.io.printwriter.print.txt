@@ -1,0 +1,10 @@
+1. System.Console.WriteLine
+2. System.IO.TextWriter.Write
+3. System.IO.StreamWriter.Write
+4. System.Diagnostics.Debug.WriteLine
+5. System.Web.UI.HtmlTextWriter.Write
+6. System.Windows.Forms.Control.Text
+7. System.Data.Common.DbCommand.ExecuteNonQuery
+8. System.Net.Http.HttpClient.SendAsync
+9. System.Threading.Tasks.Task.Run
+10. System.IO.File.WriteAllText

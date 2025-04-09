@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.losses.Huber`:
+
+1. `torch.nn.HuberLoss`
+2. `torch.nn.SmoothL1Loss`
+3. `torch.nn.MSELoss`
+4. `torch.nn.L1Loss`
+5. `torch.nn.KLDivLoss`
+6. `torch.nn.BCELoss`
+7. `torch.nn.CrossEntropyLoss`
+8. `torch.nn.NLLLoss`
+9. `torch.nn.PoissonLoss`
+10. `torch.nn.GaussianLoss`

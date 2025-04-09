@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for normal distribution:
+
+1. `cntk.distributions.normal`
+2. `cntk.distributions.Normal`
+3. `cntk.distributions.Gaussian`
+4. `cntk.distributions.gaussian`
+5. `cntk.distributions.NormalDistribution`

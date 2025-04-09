@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.keras.layers.ZeroPadding2D`:
+
+1. `torch.nn.functional.pad`
+2. `torch.nn.functional.zero_padding`
+3. `torch.nn.modules.padding.ZeroPad2d`
+4. `torch.nn.modules.padding.ZeroPadding2D`
+5. `torch.nn.modules.padding.ZeroPadding3D`
+6. `torch.nn.modules.padding.ZeroPaddingND`
+7. `torch.nn.functional.pad_sequence`
+8. `torch.nn.functional.zero_pad_sequence`
+9. `torch.nn.modules.padding.ZeroPadSequence`
+10. `torch.nn.modules.padding.ZeroPaddingSequence`

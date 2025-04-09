@@ -1,0 +1,12 @@
+  Sure! Here are the top 10 C# APIs that match the functionality of the Java API `java.math.bigdecimal.divide`:
+
+1. `System.Numerics.BigInteger.Divide`
+2. `System.Decimal.Divide`
+3. `System.Math.Divide`
+4. `System.Numerics.Complex.Divide`
+5. `System.Numerics.Matrix.Divide`
+6. `System.Numerics.Vector.Divide`
+7. `System.Numerics.Quaternion.Divide`
+8. `System.Numerics.Rational.Divide`
+9. `System.Numerics.Fraction.Divide`
+10. `System.Numerics.Double.Divide`

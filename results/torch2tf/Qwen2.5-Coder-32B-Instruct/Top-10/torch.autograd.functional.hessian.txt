@@ -1,0 +1,10 @@
+tfp.math.value_and_gradient
+tfp.math.jacobian
+tfp.math.hessian
+tf.GradientTape
+tf.gradients
+tf.autodiff.ForwardAccumulator
+tf.autodiff.ReverseAccumulator
+tf.function
+tf.Module
+tf.TensorSpec

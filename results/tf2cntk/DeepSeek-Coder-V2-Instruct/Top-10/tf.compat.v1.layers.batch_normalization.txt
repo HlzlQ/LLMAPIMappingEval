@@ -1,0 +1,11 @@
+
+Answer: 1. cntk.ops.batch_normalization
+2. cntk.layers.BatchNormalization
+3. cntk.initializer.xavier
+4. cntk.initializer.glorot_uniform
+5. cntk.initializer.he_uniform
+6. cntk.initializer.constant
+7. cntk.ops.placeholder
+8. cntk.ops.input_variable
+9. cntk.layers.Convolution
+10. cntk.layers.Dense

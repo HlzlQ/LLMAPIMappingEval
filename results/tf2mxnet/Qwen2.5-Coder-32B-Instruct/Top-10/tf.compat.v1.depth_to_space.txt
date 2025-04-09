@@ -1,0 +1,10 @@
+mx.nd.DepthToSpace
+mx.symbol.DepthToSpace
+mx.gluon.nn.DepthToSpace
+mx.ndarray.DepthToSpace
+mx.symbol.contrib.DepthToSpace
+mx.gluon.contrib.nn.DepthToSpace
+mx.ndarray.contrib.DepthToSpace
+mx.nd.contrib.DepthToSpace
+mx.symbol.DepthToSpaceEx
+mx.ndarray.DepthToSpaceEx

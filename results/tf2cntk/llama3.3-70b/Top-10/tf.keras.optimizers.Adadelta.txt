@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for tensorflow.keras.optimizers.Adadelta:
+
+1. CNTK.adadelta
+2. CNTK.Optimizer.adadelta
+3. cntk.optimizers.Adadelta
+4. CNTK.Trainer(adadelta)
+5. cntk.train.adadelta
+6. CNTK.optimization_adadelta
+7. cntk.learning_rate_schedulers.adadelta
+8. CNTK.learners.adadelta
+9. cntk.optimizers.adadelta_optimizer
+10. CNTK.training_parameter_schedule_adadelta

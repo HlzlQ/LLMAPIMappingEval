@@ -1,0 +1,5 @@
+  tf.keras.models.save_model() -> torch.save()
+  tf.keras.models.load_model() -> torch.load()
+  tf.keras.models.Model.save() -> torch.save()
+  tf.keras.models.Model.load() -> torch.load()
+  tf.keras.models.Model.save_weights() -> torch.save()

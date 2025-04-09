@@ -1,0 +1,23 @@
+C# does not have a direct equivalent to the `java.sql.ResultSet` class. However, you can use the `SqlDataReader` class in C# to read data from a database and iterate through the results. Here is an example of how to use `SqlDataReader` to retrieve data from a database:
+```
+using (SqlConnection connection = new SqlConnection("your_connection_string"))
+{
+    connection.Open();
+    using (SqlCommand command = new SqlCommand("SELECT * FROM your_table", connection))
+    {
+        using (SqlDataReader reader = command.ExecuteReader())
+        {
+            while (reader.Read())
+            {
+                // Read data from the current row
+                Console.WriteLine(reader["column1"].ToString());
+            }
+        }
+    }
+}
+```
+In this example, we first create a `SqlConnection` object and open it. Then, we create a `SqlCommand` object with the SQL query to execute, and pass it to the `ExecuteReader` method of the `SqlConnection` object. This returns a `SqlDataReader` object that we can use to iterate through the results.
+
+Inside the `while` loop, we call the `Read` method of the `SqlDataReader` object to move to the next row in the result set. We then access the data in the current row using the indexer property of the `SqlDataReader` object (e.g., `reader["column1"]`). Finally, we close the connection and dispose of the objects.
+
+Note that this is just one way to retrieve data from a database in C#. There are many other ways to do this, depending on your specific requirements and preferences.

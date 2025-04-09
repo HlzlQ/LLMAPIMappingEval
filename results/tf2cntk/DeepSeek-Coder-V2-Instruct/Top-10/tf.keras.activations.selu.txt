@@ -1,0 +1,2 @@
+
+Answer: tensorflow.keras.activations.relu, tensorflow.keras.activations.sigmoid, tensorflow.keras.activations.tanh, tensorflow.keras.activations.softmax, tensorflow.keras.activations.elu, tensorflow.keras.activations.selu, tensorflow.keras.layers.Dense, tensorflow.keras.layers.Conv2D, cntk.ops.relu, cntk.ops.sigmoid

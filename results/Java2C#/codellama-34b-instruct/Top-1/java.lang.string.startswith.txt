@@ -1,0 +1,6 @@
+C# does not have a direct equivalent of the `startsWith` method in Java's `String` class. However, you can use the `StartsWith` method in C# to achieve similar functionality. Here is an example:
+```csharp
+string str = "Hello World";
+bool result = str.StartsWith("He"); // returns true
+```
+In this example, the `StartsWith` method checks if the string starts with the specified prefix ("He" in this case). If it does, the method returns `true`, otherwise it returns `false`.

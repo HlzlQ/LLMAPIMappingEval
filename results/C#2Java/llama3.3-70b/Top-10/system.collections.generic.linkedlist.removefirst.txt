@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.LinkedList.RemoveFirst` in C#:
+
+1. java.util.LinkedList.removeFirst()
+2. java.util.Deque.removeFirst()
+3. java.util.AbstractSequentialList.remove(int)
+4. java.util.ArrayList.remove(int)
+5. java.util.List.remove(Object)
+6. java.util.Collection.remove(Object)
+7. java.util.Queue.poll()
+8. java.util.Deque.pollFirst()
+9. java.util.LinkedList.pop()
+10. java.util.Stack.pop()

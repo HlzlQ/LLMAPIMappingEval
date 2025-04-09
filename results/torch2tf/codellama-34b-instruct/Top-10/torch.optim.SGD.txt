@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for optimizing a model using stochastic gradient descent (SGD):
+
+1. `tf.train.GradientDescentOptimizer`
+2. `tf.train.ProximalGradientDescentOptimizer`
+3. `tf.train.MomentumOptimizer`
+4. `tf.train.NesterovAcceleratedGradient`
+5. `tf.train.AdagradOptimizer`
+6. `tf.train.AdamOptimizer`
+7. `tf.train.RMSPropOptimizer`
+8. `tf.train.AdadeltaOptimizer`
+9. `tf.train.AdamaxOptimizer`
+10. `tf.train.NadamOptimizer`

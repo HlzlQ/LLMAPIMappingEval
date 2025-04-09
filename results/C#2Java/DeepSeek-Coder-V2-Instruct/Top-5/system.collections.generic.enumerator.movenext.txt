@@ -1,0 +1,5 @@
+1. Iterator.hasNext()
+2. Iterator.next()
+3. Enumeration.hasMoreElements()
+4. Enumeration.nextElement()
+5. ListIterator.hasNext()

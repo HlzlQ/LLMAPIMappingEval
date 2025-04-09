@@ -1,0 +1,5 @@
+1. ResultSet.getInt(String columnLabel)
+2. ResultSet.getInt(int columnIndex)
+3. PreparedStatement.setInt(int parameterIndex, int value)
+4. CallableStatement.setInt(String parameterName, int value)
+5. Statement.executeQuery(String sql)

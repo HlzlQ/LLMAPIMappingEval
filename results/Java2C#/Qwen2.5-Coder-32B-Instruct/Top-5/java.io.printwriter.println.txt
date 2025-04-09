@@ -1,0 +1,5 @@
+System.IO.StreamWriter.WriteLine  
+System.Console.WriteLine  
+System.Diagnostics.Debug.WriteLine  
+System.Diagnostics.Trace.WriteLine  
+System.Text.StringBuilder.AppendLine

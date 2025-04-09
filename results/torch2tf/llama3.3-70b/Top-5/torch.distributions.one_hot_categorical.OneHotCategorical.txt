@@ -1,0 +1,5 @@
+1. tfp.distributions.OneHotCategorical
+2. tf.keras.utils.to_categorical
+3. tf.one_hot
+4. tf.random.categorical
+5. tfp.distributions.Categorical

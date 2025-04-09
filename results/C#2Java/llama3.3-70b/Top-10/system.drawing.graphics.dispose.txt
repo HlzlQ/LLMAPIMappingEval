@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.drawing.graphics.dispose` in C#:
+
+1. java.awt.Graphics.dispose
+2. java.awt.image.BufferedImage.flush
+3. javax.swing.ImageIcon.flush
+4. java.awt.Image.flush
+5. java.awt.geom.GeneralPath.dispose
+6. java.awt.Font.dispose
+7. java.awt.Color.dispose
+8. java.awt.Stroke.dispose
+9. java.awt.RenderingHints.dispose
+10. java.awt.Graphics2D.dispose

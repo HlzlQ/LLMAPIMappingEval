@@ -1,0 +1,20 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+```python
+import mxnet as mx
+mx.__version__
+```
+
+```python
+# TensorFlow API to MXNet API mapping
+mapping = {
+    'tensorflow.compat.v1.nn.avg_pool': 'mxnet.ndarray.contrib.BilinearResize2D',
+}
+
+# Output the names of the 10 APIs that you think are the most likely ones
+print(list(mapping.values())[0])
+```

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.keras.layers.GRU`:
+
+1. torch.nn.GRU
+2. torch.nn.LSTM
+3. torch.nn.RNN
+4. torch.nn.Module
+5. torch.nn.Sequential
+6. torch.nn.Linear
+7. torch.nn.Dropout
+8. torch.nn.ReLU
+9. torch.nn.Tanh
+10. torch.nn.Sigmoid

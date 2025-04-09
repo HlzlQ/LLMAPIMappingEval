@@ -1,0 +1,13 @@
+
+Here are ten possible PyTorch APIs that can be used for convolutional neural networks (CNNs) and their corresponding TensorFlow API:
+
+1. `torch.nn.Conv2d` - `tensorflow.compat.v1.nn.conv2d`
+2. `torch.nn.MaxPool2d` - `tensorflow.compat.v1.nn.max_pool2d`
+3. `torch.nn.AvgPool2d` - `tensorflow.compat.v1.nn.avg_pool2d`
+4. `torch.nn.BatchNorm2d` - `tensorflow.compat.v1.nn.batch_normalization`
+5. `torch.nn.ReLU` - `tensorflow.compat.v1.nn.relu`
+6. `torch.nn.LeakyReLU` - `tensorflow.compat.v1.nn.leaky_relu`
+7. `torch.nn.Sigmoid` - `tensorflow.compat.v1.nn.sigmoid`
+8. `torch.nn.Tanh` - `tensorflow.compat.v1.nn.tanh`
+9. `torch.nn.Softmax` - `tensorflow.compat.v1.nn.softmax`
+10. `torch.nn.Dropout` - `tensorflow.compat.v1.nn.dropout`

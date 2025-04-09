@@ -1,0 +1,10 @@
+1. System.IO.File.Exists
+2. System.IO.Directory.Exists
+3. System.IO.Path.GetFileName
+4. System.IO.Path.GetFullPath
+5. System.IO.FileInfo.Exists
+6. System.IO.DirectoryInfo.Exists
+7. System.IO.File.GetAttributes
+8. System.IO.Directory.GetDirectories
+9. System.IO.File.OpenRead
+10. System.IO.File.OpenWrite

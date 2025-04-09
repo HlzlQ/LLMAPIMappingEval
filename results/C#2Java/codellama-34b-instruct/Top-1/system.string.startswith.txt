@@ -1,0 +1,10 @@
+Java does not have a direct equivalent to the `System.String.StartsWith` method in C#. However, you can use the `startsWith()` method of the `String` class in Java to achieve similar functionality. Here's an example:
+```java
+String str = "Hello World";
+if (str.startsWith("He")) {
+    System.out.println("The string starts with 'He'");
+} else {
+    System.out.println("The string does not start with 'He'");
+}
+```
+In this example, the `startsWith()` method is used to check if the string `str` starts with the substring `"He"`. If it does, then the first branch of the `if` statement is executed and the message "The string starts with 'He'" is printed. Otherwise, the second branch is executed and the message "The string does not start with 'He'" is printed.

@@ -1,0 +1,27 @@
+
+CNTK does not have an exact equivalent of TensorFlow's `Conv3DTranspose` function. However, you can achieve a similar result by using the `convolution_transpose` function in CNTK. Here is an example:
+```
+import cntk as C
+
+# Define input and output shapes
+input_shape = (10, 10, 10)
+output_shape = (20, 20, 20)
+
+# Define the convolutional layer
+conv_layer = C.layers.Convolution3D(num_filters=64, kernel_size=(3, 3, 3), activation='relu')
+
+# Define the transposed convolutional layer
+transpose_conv_layer = C.layers.ConvolutionTranspose3D(num_filters=64, kernel_size=(3, 3, 3), activation='relu')
+
+# Create a model with the convolutional and transposed convolutional layers
+model = C.models.Sequential([
+    conv_layer,
+    transpose_conv_layer
+])
+
+# Compile the model
+model.compile(loss='mse', optimizer='adam')
+```
+In this example, we define a 3D convolutional layer with 64 filters and a kernel size of (3, 3, 3). We then define a transposed convolutional layer with the same number of filters and kernel size. The `ConvolutionTranspose3D` function in CNTK is used to create the transposed convolutional layer.
+
+The model is then created by sequentially applying the convolutional and transposed convolutional layers. Finally, the model is compiled with a mean squared error loss function and an Adam optimizer.

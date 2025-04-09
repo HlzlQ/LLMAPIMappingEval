@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that are similar to `tensorflow.gradients`:
+
+1. `cntk.training_parameter_l2_regularization`
+2. `cntk.sequence.gradient`
+3. `cntk.layers.Parameter.grad`
+4. `cntk.functions.UserFunction.grad`
+5. `cntk.optimizers.learning_rate_schedule`
+6. `cntk.loss.cross_entropy_with_softmax`
+7. `cntk.metrics.classification_error`
+8. `cntk.training_session.get_gradients`
+9. `cntk.sequence.gradients`
+10. `cntk.layers.Recurrence.grad`

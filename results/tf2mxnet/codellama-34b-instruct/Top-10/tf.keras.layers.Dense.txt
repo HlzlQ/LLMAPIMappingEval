@@ -1,0 +1,13 @@
+
+Here are ten MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dense`:
+
+1. `mxnet.gluon.nn.Dense`
+2. `mxnet.ndarray.dense`
+3. `mxnet.symbol.dense`
+4. `mxnet.ndarray.dense_ndarray`
+5. `mxnet.ndarray.dense_matrix`
+6. `mxnet.ndarray.dense_tensor`
+7. `mxnet.gluon.nn.DenseBlock`
+8. `mxnet.gluon.nn.DenseNet`
+9. `mxnet.gluon.nn.DenseLayer`
+10. `mxnet.gluon.nn.DenseModule`

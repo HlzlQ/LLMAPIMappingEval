@@ -1,0 +1,10 @@
+1. System.Collections.Generic.KeyValuePair<TKey, TValue>.Key
+2. System.Linq.IGrouping<TKey, TElement>.Key
+3. System.Collections.IDictionaryEnumerator.Entry.Key
+4. System.Collections.Generic.Dictionary<TKey, TValue>.KeyCollection
+5. System.ComponentModel.BindingPath.Key
+6. System.Windows.Data.BindingPath.Key
+7. System.Xml.XPath.XPathNavigator.ValueAsKey
+8. System.Data.DataRowView.Row.Key
+9. System.Data.DataView.RowFilter.Key
+10. System.Collections.Specialized.NameValueCollection.AllKeys

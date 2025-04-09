@@ -1,0 +1,11 @@
+
+1. mxnet.gluon.nn.BatchNorm
+2. mxnet.ndarray.BatchNorm
+3. mxnet.symbol.InstanceNorm
+4. mxnet.symbol.LayerNorm
+5. mxnet.gluon.nn.InstanceNorm
+6. mxnet.gluon.nn.LayerNorm
+7. mxnet.ndarray.InstanceNorm
+8. mxnet.ndarray.LayerNorm
+9. mxnet.sym.BatchNorm
+10. mxnet.sym.InstanceNorm

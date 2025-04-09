@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("AveragePooling")
+<jupyter_output>
+AveragePooling

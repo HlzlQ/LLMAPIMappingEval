@@ -1,0 +1,5 @@
+1. System.arraycopy(Object src, int srcPos, Object dest, int destPos, int length)
+2. Arrays.copyOfRange(T[] original, int from, int to)
+3. Arrays.copyOf(T[] original, int newLength)
+4. List.subList(int fromIndex, int toIndex).stream().collect(Collectors.toList())
+5. ArrayList.toArray()

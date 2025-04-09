@@ -1,0 +1,7 @@
+
+
+1. torch.meshgrid
+2. torch.linspace
+3. torch.stack
+4. torch.tensor
+5. torch.unsqueeze

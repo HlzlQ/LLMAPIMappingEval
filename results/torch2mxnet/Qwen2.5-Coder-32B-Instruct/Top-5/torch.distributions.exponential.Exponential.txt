@@ -1,0 +1,5 @@
+mxnet.gluon.prob.Exponential
+mxnet.ndarray.random.exponential
+mxnet.symbol.random.exponential
+mxnet.numpy.random.exponential
+mxnet.random.exponential

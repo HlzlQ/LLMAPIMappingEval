@@ -1,0 +1,10 @@
+tfp.distributions.Normal  
+tf.random.normal  
+tf.math.exp  
+tf.math.log  
+tf.reduce_mean  
+tf.reduce_sum  
+tf.square  
+tf.sqrt  
+tf.matmul  
+tf.add

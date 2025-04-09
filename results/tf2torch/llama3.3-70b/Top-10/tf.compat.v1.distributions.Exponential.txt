@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.distributions.Exponential`:
+
+1. torch.distributions.Exponential
+2. torch.distributions.Normal
+3. torch.distributions.LogNormal
+4. torch.distributions.Gamma
+5. torch.distributions.Beta
+6. torch.distributions.Uniform
+7. torch.distributions.Pareto
+8. torch.distributions.Laplace
+9. torch.distributions.Cauchy
+10. torch.distributions.HalfNormal

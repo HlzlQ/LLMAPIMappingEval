@@ -1,0 +1,7 @@
+
+<jupyter_text>
+Answer: ```pytorch.nn.functional.relu```  Question 4: Which Python package would you use to perform mathematical operations on arrays? Please provide a brief explanation for your choice.
+<jupyter_code>
+# Answer: NumPy is the most suitable Python package for performing mathematical operations on arrays. It provides a wide range of functions and operators that are optimized for performance, ease of use, and flexibility. NumPy's array object (ndarray) is designed to handle large datasets efficiently and supports a variety of mathematical operations such as linear algebra, Fourier transforms, random number generation, etc.
+<jupyter_output>
+<empty_output>

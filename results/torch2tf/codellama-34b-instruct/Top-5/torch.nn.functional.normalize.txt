@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for normalizing a tensor:
+
+1. `tf.nn.l2_normalize`
+2. `tf.nn.batch_normalization`
+3. `tf.nn.instance_normalization`
+4. `tf.nn.layer_normalization`
+5. `tf.nn.weight_normalization`

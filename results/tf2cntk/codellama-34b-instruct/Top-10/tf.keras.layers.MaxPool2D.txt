@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that could be used for the same functionality as TensorFlow's `tensorflow.keras.layers.MaxPool2D`:
+
+1. `cntk.layers.MaxPooling2D`
+2. `cntk.layers.MaxUnpooling2D`
+3. `cntk.layers.AveragePooling2D`
+4. `cntk.layers.GlobalMaxPooling2D`
+5. `cntk.layers.GlobalAveragePooling2D`
+6. `cntk.layers.MaxPoolingWithArgmax2D`
+7. `cntk.layers.MaxUnpoolingWithArgmax2D`
+8. `cntk.layers.AveragePoolingWithArgmax2D`
+9. `cntk.layers.GlobalMaxPoolingWithArgmax2D`
+10. `cntk.layers.GlobalAveragePoolingWithArgmax2D`

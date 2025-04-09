@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Embedding | mxnet.ndarray.Embedding |
+  | torch.nn.functional.embedding | mxnet.ndarray.Functional.embedding |
+  | torch.nn.init.uniform_ | mxnet.initializer.Uniform |
+  | torch.nn.init.normal_ | mxnet.initializer.Normal |
+  | torch.nn.init.constant_ | mxnet.initializer.Constant |

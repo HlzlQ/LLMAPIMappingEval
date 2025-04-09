@@ -1,0 +1,10 @@
+mx.nd.L2Norm
+mx.nd.lp_norm
+mx.nd.norm
+mx.nd.FrobeniusNorm
+mx.nd.sqrt
+mx.nd.sum
+mx.nd.square
+mx.nd.abs
+mx.nd.power
+mx.nd.dot

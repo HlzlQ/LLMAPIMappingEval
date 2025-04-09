@@ -1,0 +1,5 @@
+mxnet.gluon.probability.Normal
+mxnet.ndarray.random.normal
+mxnet.symbol.random.normal
+mxnet.numpy.random.normal
+mxnet.random.normal

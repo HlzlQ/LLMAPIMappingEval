@@ -1,0 +1,5 @@
+System.Diagnostics.Contracts.Contract.Assert;
+System.Diagnostics.Contracts.Contract.Assume;
+System.Diagnostics.Contracts.Contract.Invariant;
+System.Diagnostics.Contracts.Contract.Requires;
+System.Diagnostics.Contracts.Contract.Ensures;

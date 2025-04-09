@@ -1,0 +1,14 @@
+
+MXNet does not have a direct equivalent of `torch.nn.functional.normalize`. However, you can achieve similar functionality using the `mxnet.ndarray.Norm` class. Here's an example:
+```python
+import mxnet as mx
+
+# Create a random tensor with shape (3, 4)
+data = mx.nd.random.normal(0, 1, size=(3, 4))
+
+# Compute the norm of the tensor along axis 1
+norms = mx.nd.Norm(data, axis=1)
+```
+In this example, `mx.nd.Norm` computes the norm of the input tensor `data` along the specified axis (in this case, axis 1). The resulting tensor `norms` will have shape `(3,)`, where each element is the norm of the corresponding row in `data`.
+
+Note that while MXNet does not have a direct equivalent of `torch.nn.functional.normalize`, you can still use the `mxnet.ndarray.Norm` class to compute the norm of a tensor along a specified axis, which is similar to what `torch.nn.functional.normalize` does.

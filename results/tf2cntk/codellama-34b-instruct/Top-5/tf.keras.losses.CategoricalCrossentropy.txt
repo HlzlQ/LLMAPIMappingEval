@@ -1,0 +1,6 @@
+
+* `categorical_cross_entropy`
+* `softmax_cross_entropy`
+* `sparse_categorical_cross_entropy`
+* `binary_cross_entropy`
+* `hinge_loss`

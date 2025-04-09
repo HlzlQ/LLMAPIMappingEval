@@ -1,0 +1,22 @@
+C# does not have a direct equivalent to the `java.lang.Double.parseDouble()` method. However, you can use the `double.Parse()` or `double.TryParse()` methods in C# to achieve similar functionality.
+
+Here's an example of how you could use these methods:
+```
+string doubleString = "3.14";
+double myDouble;
+
+// Using double.Parse()
+myDouble = double.Parse(doubleString);
+Console.WriteLine("Parsed double: {0}", myDouble);
+
+// Using double.TryParse()
+if (double.TryParse(doubleString, out myDouble))
+{
+    Console.WriteLine("Parsed double: {0}", myDouble);
+}
+else
+{
+    Console.WriteLine("Invalid input");
+}
+```
+Both of these methods will attempt to parse the input string as a `double` value. If the input is not a valid `double`, they will return an error or throw an exception, respectively.

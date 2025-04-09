@@ -1,0 +1,5 @@
+1. cntk.logging.disable_logging
+2. cntk.train.disable_train_mode
+3. cntk.learner.disable_gradient_clipping
+4. cntk.device.try_set_default_device
+5. cntk.functions.stop_gradient

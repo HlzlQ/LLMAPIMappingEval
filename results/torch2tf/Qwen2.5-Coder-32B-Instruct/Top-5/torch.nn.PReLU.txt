@@ -1,0 +1,5 @@
+tf.keras.layers.PReLU  
+tf.nn.relu6  
+tf.nn.leaky_relu  
+tf.nn.elu  
+tf.nn.swish

@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.PReLU`:
+
+1. `torch.nn.PReLU`
+2. `torch.nn.modules.activation.PReLU`
+3. `torch.nn.functional.prelu`
+4. `torch.nn.modules.PReLU`
+5. `torch.nn.modules.activation.PReLU2d`
+6. `torch.nn.modules.activation.PReLU3d`
+7. `torch.nn.modules.activation.PReLU4d`
+8. `torch.nn.modules.activation.PReLU5d`
+9. `torch.nn.modules.activation.PReLU6d`
+10. `torch.nn.modules.activation.PReLU7d`

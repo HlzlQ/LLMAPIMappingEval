@@ -1,0 +1,5 @@
+1. System.IO.Directory.Exists
+2. System.IO.File.Exists
+3. System.IO.FileInfo.IsReadOnly
+4. System.IO.DirectoryInfo.Exists
+5. System.IO.FileSystemInfo.Attributes

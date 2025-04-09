@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `AveragePooling1D`:
+
+1. `torch.nn.AvgPool1d`
+2. `torch.nn.MaxPool1d`
+3. `torch.nn.FractionalMaxPool1d`
+4. `torch.nn.FractionalAvgPool1d`
+5. `torch.nn.AdaptiveAvgPool1d`
+6. `torch.nn.AdaptiveMaxPool1d`
+7. `torch.nn.LPPool1d`
+8. `torch.nn.LSTMPool1d`
+9. `torch.nn.GRUPool1d`
+10. `torch.nn.TransformerEncoderLayer`

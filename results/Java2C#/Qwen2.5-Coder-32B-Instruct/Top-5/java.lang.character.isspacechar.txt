@@ -1,0 +1,5 @@
+System.Char.IsWhiteSpace  
+System.String.IsNullOrWhiteSpace  
+System.Text.RegularExpressions.Regex.IsMatch (with pattern @"\s")  
+System.Linq.Enumerable.Any (combined with Char.IsWhiteSpace)  
+Microsoft.VisualBasic.Information.IsNumeric (not exact but related for whitespace check in strings)

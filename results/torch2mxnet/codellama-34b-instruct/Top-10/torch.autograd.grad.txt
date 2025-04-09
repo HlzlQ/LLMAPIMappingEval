@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.autograd.grad | mxnet.autograd.grad |
+  | torch.autograd.backward | mxnet.autograd.backward |
+  | torch.autograd.Variable | mxnet.ndarray.NDArray |
+  | torch.autograd.Function | mxnet.gluon.Block |
+  | torch.autograd.grad_fn | mxnet.autograd.grad_fn |
+  | torch.autograd.grad_inputs | mxnet.autograd.grad_inputs |
+  | torch.autograd.grad_outputs | mxnet.autograd.grad_outputs |
+  | torch.autograd.grad_params | mxnet.autograd.grad_params |
+  | torch.autograd.grad_context | mxnet.autograd.grad_context |

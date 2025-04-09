@@ -1,0 +1,5 @@
+1. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+2. mxnet.ndarray.softmax_cross_entropy
+3. mxnet.gluon.loss.CrossEntropyLoss
+4. mxnet.ndarray.softmax_output
+5. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss

@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.elu, tensorflow.keras.layers.ELU, tensorflow.keras.activations.relu, tensorflow.keras.layers.ReLU, tensorflow.keras.layers.LeakyReLU, tensorflow.keras.layers.PReLU, tensorflow.keras.layers.ELU, tensorflow.keras.layers.ThresholdedReLU, tensorflow.keras.layers.Softmax, tensorflow.keras.layers.Swish

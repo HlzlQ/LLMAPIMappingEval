@@ -1,0 +1,5 @@
+cntk.ops.prelu  
+cntk.layers.PReLU  
+cntk.activations.prelu  
+cntk.functions.prelu  
+cntk.models.PReLU

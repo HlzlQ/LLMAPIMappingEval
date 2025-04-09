@@ -1,0 +1,10 @@
+System.Diagnostics.Contracts.Contract.Assert
+NUnit.Framework.Assert.AreNotSame
+Xunit.Sdk.TrueAssert.DoesNotContain
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame
+NUnitLite.Asserts.Assert.IsNotEmpty
+NUnitLite.Asserts.Assert.IsNotNull
+NUnitLite.Asserts.Assert.IsNull
+Xunit.Sdk.EqualThrowsAssert.DoesNotContain
+Xunit.Sdk.EqualThrowsAssert.DoesNotThrow
+NUnitLite.Asserts.Assert.AreSame

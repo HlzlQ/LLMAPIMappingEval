@@ -1,0 +1,10 @@
+tf.math.sigmoid  
+tf.sigmoid  
+tf.keras.activations.sigmoid  
+tf.nn.sigmoid  
+tf.compat.v1.nn.sigmoid  
+tf.compat.v2.math.sigmoid  
+tf.compat.v2.sigmoid  
+tf.compat.v2.keras.activations.sigmoid  
+tf.compat.v2.nn.sigmoid  
+tf.raw_ops.Sigmoid

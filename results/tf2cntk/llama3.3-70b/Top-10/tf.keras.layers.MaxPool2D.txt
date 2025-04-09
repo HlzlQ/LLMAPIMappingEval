@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.MaxPool2D`:
+
+1. `CNTK.Pooling`
+2. `CNTK.MaxPooling`
+3. `CNTK.Subsampling`
+4. `CNTK.MaxSubsampling`
+5. `CNTK.PoolingLayer`
+6. `CNTK.MaxPoolingLayer`
+7. `CNTK.ConvolutionalMaxPooling`
+8. `CNTK.SpatialMaxPooling`
+9. `CNTK.MaxPool`
+10. `CNTK.PoolingOperation`

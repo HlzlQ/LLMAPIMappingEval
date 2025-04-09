@@ -1,0 +1,8 @@
+
+Answer: ```
+1. tf.initializers.glorot_uniform()
+2. tf.initializers.GlorotNormal()
+3. tf.keras.initializers.HeUniform()
+4. tf.keras.initializers.he_normal()
+5. tf.keras.initializers.lecun_uniform()
+```

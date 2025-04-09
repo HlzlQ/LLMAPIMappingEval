@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for max pooling in 3D:
+
+1. `tf.nn.max_pool3d`
+2. `tf.nn.max_pooling3d`
+3. `tf.nn.max_pooling_with_argmax`
+4. `tf.nn.max_pooling_with_argmax_and_indices`
+5. `tf.nn.max_pooling_with_argmax_and_values`
+6. `tf.nn.max_pooling_with_argmax_and_values_and_indices`
+7. `tf.nn.max_pooling_with_argmax_and_values_and_indices_and_mask`
+8. `tf.nn.max_pooling_with_argmax_and_values_and_indices_and_mask_and_padding`
+9. `tf.nn.max_pooling_with_argmax_and_values_and_indices_and_mask_and_padding_and_stride`
+10. `tf.nn.max_pooling_with_argmax_and_values_and_indices_and_mask_and_padding_and_stride_and_dilation`

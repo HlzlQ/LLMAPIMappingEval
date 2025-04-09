@@ -1,0 +1,2 @@
+
+Answer: MeanSquaredError, SparseCategoricalAccuracy, CategoricalCrossentropy, BinaryCrossentropy, Accuracy, Precision, Recall, AUC, CosineSimilarity, MeanAbsoluteError

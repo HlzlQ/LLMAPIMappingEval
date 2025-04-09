@@ -1,0 +1,5 @@
+cntk.initializer.he_normal
+cntk.initializer.glorot_normal
+cntk.layers.default_options.init
+cntk.layers.Convolutional2D
+cntk.layers.Dense

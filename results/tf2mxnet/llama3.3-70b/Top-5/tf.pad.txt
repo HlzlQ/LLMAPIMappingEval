@@ -1,0 +1,7 @@
+Based on the TensorFlow API `tf.pad`, here are 5 possible equivalent MXNet APIs:
+
+1. mx.nd.Pad
+2. mx.ndarray.pad
+3. mx.sym.pad
+4. mx gluon.nn.Pad
+5. mx.gluon.utils.pad

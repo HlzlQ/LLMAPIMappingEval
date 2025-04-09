@@ -1,0 +1,10 @@
+torch.autograd.profiler.profile
+torch.autograd.profiler.emit_nvtx
+torch.autograd.profiler.record_function
+torch.cuda.nvtx.range_push
+torch.cuda.nvtx.range_pop
+torch.cuda.nvtx.start_range
+torch.cuda.nvtx.end_range
+torch.cuda.nvtx.mark
+torch.cuda.nvtx.name
+torch.cuda.nvtx.enabled

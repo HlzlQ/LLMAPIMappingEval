@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Dropout`:
+
+1. `mxnet.gluon.nn.Dropout`
+2. `mxnet.gluon.nn.dropout`
+3. `mxnet.gluon.nn.DropoutLayer`
+4. `mxnet.gluon.nn.dropout_layer`
+5. `mxnet.gluon.nn.DropoutBlock`
+6. `mxnet.gluon.nn.dropout_block`
+7. `mxnet.gluon.nn.DropoutCell`
+8. `mxnet.gluon.nn.dropout_cell`
+9. `mxnet.gluon.nn.DropoutModule`
+10. `mxnet.gluon.nn.dropout_module`

@@ -1,0 +1,2 @@
+
+Answer: torch.nn.ConvTranspose2d

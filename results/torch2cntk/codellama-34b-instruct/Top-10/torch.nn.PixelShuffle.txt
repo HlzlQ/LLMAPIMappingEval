@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.PixelShuffle`:
+
+1. `cntk.layers.pixel_shuffle`
+2. `cntk.layers.upsample`
+3. `cntk.layers.resize`
+4. `cntk.layers.scale`
+5. `cntk.layers.rescale`
+6. `cntk.layers.spatial_transformer`
+7. `cntk.layers.affine_transformer`
+8. `cntk.layers.translation_transformer`
+9. `cntk.layers.rotation_transformer`
+10. `cntk.layers.shear_transformer`

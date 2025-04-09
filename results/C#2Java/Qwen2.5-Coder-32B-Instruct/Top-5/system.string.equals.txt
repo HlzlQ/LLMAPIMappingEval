@@ -1,0 +1,5 @@
+java.lang.String.equals  
+java.util.Objects.equals  
+java.lang.String.equalsIgnoreCase  
+java.nio.file.Files.isSameFile  
+java.security.MessageDigest.equals

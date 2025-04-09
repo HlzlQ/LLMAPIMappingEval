@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for initializing a tensor with ones:
+
+1. `tf.ones_like()`
+2. `tf.fill()`
+3. `tf.constant()`
+4. `tf.zeros_like()`
+5. `tf.ones()`

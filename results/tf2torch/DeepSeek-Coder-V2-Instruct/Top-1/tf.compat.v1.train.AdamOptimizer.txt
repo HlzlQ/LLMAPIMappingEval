@@ -1,0 +1,8 @@
+
+```python
+adam_optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate=0.001)
+```
+Answer: ```python
+from torch import optim
+adam_optimizer = optim.Adam(params=[], lr=0.001)
+```

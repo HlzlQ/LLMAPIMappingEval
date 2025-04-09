@@ -1,0 +1,5 @@
+1. tf.ones
+2. tf.keras.initializers.Ones
+3. tf.keras.layers.Dense(kernel_initializer='ones')
+4. tf.Variable(tf.ones())
+5. tf.compat.v1.ones_initializer

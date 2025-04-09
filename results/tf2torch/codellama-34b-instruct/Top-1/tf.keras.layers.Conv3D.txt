@@ -1,0 +1,2 @@
+
+PyTorch equivalent of `tensorflow.keras.layers.Conv3D` is `torch.nn.Conv3d`.

@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.initializers.Ones`:
+
+1. `mxnet.init.Ones`
+2. `mxnet.initializer.Ones`
+3. `mxnet.initializers.ones`
+4. `mxnet.init.ones`
+5. `mxnet.initializer.ones`

@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.nn.CrossEntropyLoss`:
+
+1. `tf.keras.losses.CategoricalCrossentropy`
+2. `tf.keras.losses.SparseCategoricalCrossentropy`
+3. `tf.keras.losses.BinaryCrossentropy`
+4. `tf.keras.losses.KLDivergence`
+5. `tf.keras.losses.MSE`
+6. `tf.keras.losses.MAE`
+7. `tf.keras.losses.Huber`
+8. `tf.keras.losses.LogCosh`
+9. `tf.keras.losses.Poisson`
+10. `tf.keras.losses.KLU`

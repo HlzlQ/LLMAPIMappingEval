@@ -1,0 +1,10 @@
+mxnet.gluon.nn.Bernoulli
+mxnet.ndarray.random.bernoulli
+mxnet.symbol.random.bernoulli
+mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+mxnet.gluon.probability.distributions.Bernoulli
+mxnet.ndarray.contrib.sampling.multinomial_bernoulli_logistic
+mxnet.ndarray.contrib.sampling.multinomial_bernoulli_logistic_like
+mxnet.symbol.contrib.sampling.multinomial_bernoulli_logistic
+mxnet.symbol.contrib.sampling.multinomial_bernoulli_logistic_like
+mxnet.gluon.nn.Activation

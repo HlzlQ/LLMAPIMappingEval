@@ -1,0 +1,10 @@
+java.lang.Double.parseDouble  
+java.lang.Double.valueOf  
+java.text.NumberFormat.parse  
+java.math.BigDecimal.valueOf  
+java.math.BigInteger.valueOf  
+java.util.Scanner.nextDouble  
+javax.measure.Quantity.parse  
+org.apache.commons.lang3.math.NumberUtils.toDouble  
+com.google.common.primitives.Doubles.tryParse  
+io.vavr.control.Try.ofDouble

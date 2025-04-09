@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to `torch.nn.init.zeros_`:
+
+1. `mxnet.initializer.Zeros`
+2. `mxnet.initializer.zeros`
+3. `mxnet.initializer.Constant`
+4. `mxnet.initializer.constant`
+5. `mxnet.initializer.Zero`
+6. `mxnet.initializer.zero`
+7. `mxnet.initializer.ZerosLike`
+8. `mxnet.initializer.zeros_like`
+9. `mxnet.initializer.ConstantLike`
+10. `mxnet.initializer.constant_like`

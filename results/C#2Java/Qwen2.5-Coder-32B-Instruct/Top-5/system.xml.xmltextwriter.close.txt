@@ -1,0 +1,5 @@
+javax.xml.stream.XMLStreamWriter.close
+org.w3c.dom.ls.LSSerializer.endDocument
+com.sun.org.apache.xerces.internal.jaxp.transform.TransformerImpl.close
+java.io.Closeable.close
+java.lang.AutoCloseable.close

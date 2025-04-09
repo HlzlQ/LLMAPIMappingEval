@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the PyTorch API `torch.tensordot`:
+
+1. `mxnet.ndarray.tensordot`
+2. `mxnet.tensor.tensordot`
+3. `mxnet.linalg.tensordot`
+4. `mxnet.math.tensordot`
+5. `mxnet.numpy.tensordot`
+6. `mxnet.scipy.tensordot`
+7. `mxnet.tensor_dot`
+8. `mxnet.ndarray_dot`
+9. `mxnet.tensor_tensordot`
+10. `mxnet.ndarray_tensordot`

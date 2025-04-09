@@ -1,0 +1,2 @@
+  tf.random.normal
+mxnet.numpy.random.normal

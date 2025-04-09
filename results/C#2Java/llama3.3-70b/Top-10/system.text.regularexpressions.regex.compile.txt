@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.text.regularexpressions.regex.compile`:
+
+1. java.util.regex.Pattern.compile
+2. java.util.regex.Matcher.quoteReplacement
+3. java.util.regex.Matcher.replaceAll
+4. java.util.regex.Matcher.replaceFirst
+5. java.util.regex.Matcher.find
+6. java.util.regex.Matcher.matches
+7. java.util.regex.Matcher.lookingAt
+8. java.util.regex.Pattern.matches
+9. java.util.regex.Pattern.quote
+10. java.util.regex.Matcher.appendReplacement

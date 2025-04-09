@@ -1,0 +1,2 @@
+
+MXNet APIName: mxnet.ndarray.contrib.BilinearResize2D

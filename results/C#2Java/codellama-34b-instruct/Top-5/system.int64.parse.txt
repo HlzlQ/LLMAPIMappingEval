@@ -1,0 +1,13 @@
+  Sure! Here are the 5 most likely Java APIs for each of the C# APIs:
+
+1. System.Int64.Parse:
+	* Java API: Long.parseLong(String s)
+	* Java API: Integer.parseInt(String s, int radix)
+2. System.Double.Parse:
+	* Java API: Double.parseDouble(String s)
+3. System.DateTime.Parse:
+	* Java API: DateFormat.parse(String s)
+4. System.TimeSpan.Parse:
+	* Java API: Duration.parse(CharSequence text)
+5. System.Uri.Parse:
+	* Java API: URI.create(String uri)

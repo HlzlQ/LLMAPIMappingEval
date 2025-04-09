@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `System.Security.Cryptography.MD5.Create` in C#:
+
+1. java.security.MessageDigest.getInstance("MD5")
+2. javax.crypto.Mac.getInstance("HmacMD5")
+3. java.security.MessageDigest.getInstance("MD5", "SUN")
+4. javax.crypto.spec.MD5ParameterSpec
+5. org.apache.commons.codec.digest.DigestUtils.getMd5Digest

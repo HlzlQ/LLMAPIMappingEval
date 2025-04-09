@@ -1,0 +1,5 @@
+torch.unique
+torch.unique_consecutive
+torch.mode
+torch.argmax
+torch.argmin

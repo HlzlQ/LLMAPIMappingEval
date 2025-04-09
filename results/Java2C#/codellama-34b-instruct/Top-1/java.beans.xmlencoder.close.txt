@@ -1,0 +1,26 @@
+C# does not have a direct equivalent to the `java.beans.xmlencoder.close` method. However, you can use the `System.Xml.Serialization.XmlSerializer` class in C# to serialize an object to XML and then close the stream using the `Close()` method. Here's an example:
+```csharp
+using System;
+using System.IO;
+using System.Xml.Serialization;
+
+public class MyClass
+{
+    public string Name { get; set; }
+}
+
+public static void Main()
+{
+    var myObject = new MyClass { Name = "John" };
+
+    // Serialize the object to XML using XmlSerializer
+    var serializer = new XmlSerializer(typeof(MyClass));
+    using (var stream = new MemoryStream())
+    {
+        serializer.Serialize(stream, myObject);
+    }
+
+    // Close the stream
+    stream.Close();
+}
+```

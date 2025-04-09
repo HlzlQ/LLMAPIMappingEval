@@ -1,0 +1,10 @@
+java.lang.Character.toLowerCase
+java.lang.String.toLowerCase
+java.text.Normalizer.Form.NFD
+java.text.Normalizer.Form.NFKD
+java.text.Normalizer.Form.NFC
+java.text.Normalizer.Form.NFKC
+java.util.Locale.getDefault
+java.util.Locale.US
+java.util.Locale.UK
+java.util.Locale.CANADA_FRENCH

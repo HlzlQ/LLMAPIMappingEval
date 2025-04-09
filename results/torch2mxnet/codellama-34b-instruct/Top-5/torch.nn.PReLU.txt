@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.PReLU | mxnet.gluon.nn.PReLU |
+  | torch.nn.functional.prelu | mxnet.ndarray.prelu |
+  | torch.nn.init.prelu_parameters | mxnet.initializer.PReLU |
+  | torch.nn.utils.prelu_state | mxnet.gluon.contrib.prelu_state |
+  | torch.nn.modules.prelu | mxnet.gluon.nn.PReLU |

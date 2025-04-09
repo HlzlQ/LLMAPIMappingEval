@@ -1,0 +1,14 @@
+C# does not have a direct equivalent to the `concat` method of the `String` class in Java. However, you can use the `+` operator or the `string.Concat` method to concatenate strings in C#.
+
+Here are some examples:
+```
+// Using the + operator
+string s1 = "Hello";
+string s2 = "World";
+string result = s1 + s2; // result is "HelloWorld"
+
+// Using the string.Concat method
+string s3 = "Hello";
+string s4 = "World";
+string result = string.Concat(s3, s4); // result is "HelloWorld"
+```

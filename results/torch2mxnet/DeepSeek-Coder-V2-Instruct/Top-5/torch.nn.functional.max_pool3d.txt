@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.max_pool3d -> mxnet.ndarray.max_pooling3d

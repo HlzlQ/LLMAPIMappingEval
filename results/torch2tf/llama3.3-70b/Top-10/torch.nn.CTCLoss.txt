@@ -1,0 +1,12 @@
+Here are the top 10 TensorFlow API mappings for `torch.nn.CTCLoss`:
+
+1. tf.keras.losses.CategoricalCrossentropy
+2. tf.nn.ctc_loss_v2
+3. tf.nn.ctc_beam_search_decoder
+4. tf.keras.backend.ctc_loss
+5. tf.compat.v1.nn.ctc_loss
+6. tf.raw_ops.CTCLoss
+7. tf.keras.losses.SparseCategoricalCrossentropy
+8. tf.nn.softmax_cross_entropy_with_logits_v2
+9. tf.keras.metrics.categorical_crossentropy
+10. tf.nn.ctc_greedy_decoder

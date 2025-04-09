@@ -1,0 +1,5 @@
+1. torch.nn.PoissonNLLLoss
+2. torch.nn.KLDivLoss
+3. torch.nn.MSELoss
+4. torch.nn.L1Loss
+5. torch.nn.SmoothL1Loss

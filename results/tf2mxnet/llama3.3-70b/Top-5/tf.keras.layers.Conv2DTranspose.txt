@@ -1,0 +1,5 @@
+1. mxnet.gluon.nn.Conv2DTranspose
+2. mxnet.ndarray.Conv2DTranspose
+3. mxnet.gluon.contrib.nn.Deconv2D
+4. mxnet.gluon.nn.Deconv2D
+5. mxnet.ndarray.Deconv2D

@@ -1,0 +1,5 @@
+1. Regex.IsMatch
+2. Regex.Replace
+3. Regex.Match
+4. Regex.Split
+5. Regex.Group

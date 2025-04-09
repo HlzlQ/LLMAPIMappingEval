@@ -1,0 +1,10 @@
+  tf.keras.layers.LSTMCell
+tf.keras.layers.LSTM
+tf.keras.layers.RNN
+tf.keras.layers.SimpleRNN
+tf.keras.layers.GRU
+tf.keras.layers.GRUCell
+tf.keras.layers.LSTMCell
+tf.keras.layers.LSTM
+tf.keras.layers.RNN
+tf.keras.layers.SimpleRNN

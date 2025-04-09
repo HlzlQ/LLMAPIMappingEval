@@ -1,0 +1,5 @@
+1. java.net.URLEncoder.encode
+2. org.apache.commons.codec.net.URLCodec.encode
+3. java.nio.charset.StandardCharsets.UTF_8.encode
+4. javax.ws.rs.core.UriBuilder.build
+5. org.springframework.web.util.UriUtils.encode

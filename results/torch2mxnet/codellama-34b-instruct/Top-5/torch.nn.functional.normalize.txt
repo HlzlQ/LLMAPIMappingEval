@@ -1,0 +1,7 @@
+  Here are five possible MXNet APIs that correspond to the PyTorch API `torch.nn.functional.normalize`:
+
+1. `mxnet.ndarray.Norm`
+2. `mxnet.ndarray.Normalize`
+3. `mxnet.ndarray.LpNorm`
+4. `mxnet.ndarray.L2Norm`
+5. `mxnet.ndarray.L1Norm`

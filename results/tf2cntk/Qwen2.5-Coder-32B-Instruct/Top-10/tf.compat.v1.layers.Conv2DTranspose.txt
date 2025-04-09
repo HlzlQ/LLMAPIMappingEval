@@ -1,0 +1,10 @@
+cntk.layers.ConvolutionTranspose
+cntk.layers.Conv2DTranspose
+cntk.ops.convolution_transpose
+cntk.layers.Deconvolution
+cntk.layers.Upsampling
+cntk.layers.MaxPoolingWithUndo
+cntk.layers.AveragePoolingWithUndo
+cntk.layers.GlobalAveragePooling
+cntk.layers.GlobalMaxPooling
+cntk.layers.TransposeConvolution

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.PixelUnshuffle`:
+
+1. `cntk.layers.pixel_unshuffle`
+2. `cntk.layers.pixel_unshuffle_2d`
+3. `cntk.layers.pixel_unshuffle_3d`
+4. `cntk.layers.pixel_unshuffle_4d`
+5. `cntk.layers.pixel_unshuffle_5d`
+6. `cntk.layers.pixel_unshuffle_6d`
+7. `cntk.layers.pixel_unshuffle_7d`
+8. `cntk.layers.pixel_unshuffle_8d`
+9. `cntk.layers.pixel_unshuffle_9d`
+10. `cntk.layers.pixel_unshuffle_10d`

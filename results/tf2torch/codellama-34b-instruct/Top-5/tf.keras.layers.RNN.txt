@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.layers.RNN`:
+
+1. `torch.nn.RNN`
+2. `torch.nn.LSTM`
+3. `torch.nn.GRU`
+4. `torch.nn.RNNCell`
+5. `torch.nn.LSTMCell`

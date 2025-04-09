@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.nn.functional.ctc_loss`:
+
+1. `tf.keras.backend.ctc_loss`
+2. `tf.keras.layers.CTCLoss`
+3. `tf.keras.losses.CTCLoss`
+4. `tf.nn.ctc_loss`
+5. `tf.nn.ctc_loss_v2`
+6. `tf.nn.ctc_loss_with_logits`
+7. `tf.nn.ctc_loss_with_logits_v2`
+8. `tf.keras.backend.ctc_loss_with_logits`
+9. `tf.keras.backend.ctc_loss_with_logits_v2`
+10. `tf.nn.ctc_loss_with_softmax`

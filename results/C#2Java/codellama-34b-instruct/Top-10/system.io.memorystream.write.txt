@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.io.ByteArrayOutputStream.write(int b)
+2. java.io.DataOutputStream.write(int b)
+3. java.io.FileOutputStream.write(byte[] b)
+4. java.io.FilterOutputStream.write(int b)
+5. java.io.ObjectOutputStream.write(int b)
+6. java.io.PipedOutputStream.write(int b)
+7. java.io.BufferedOutputStream.write(int b)
+8. java.io.ByteArrayOutputStream.writeTo(OutputStream out)
+9. java.io.DataOutputStream.writeBoolean(boolean v)
+10. java.io.ObjectOutputStream.writeObject(Object obj)

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the C# API `system.text.regularexpressions.regex.matches`:
+
+1. `java.util.regex.Matcher` - This class provides methods for matching a regular expression against a string and retrieving the results of the match.
+2. `java.util.regex.Pattern` - This class provides methods for compiling and manipulating regular expressions, as well as creating matchers from them.
+3. `java.lang.String.matches(String regex)` - This method checks whether a string matches a given regular expression.
+4. `java.lang.String.replaceAll(String regex, String replacement)` - This method replaces all occurrences of a regular expression in a string with a given replacement string.
+5. `java.lang.String.replaceFirst(String regex, String replacement)` - This method replaces the first occurrence of a regular expression in a string with a given replacement string.
+6. `java.util.regex.Matcher.matches()` - This method checks whether a matcher has found a match for its pattern.
+7. `java.util.regex.Matcher.group(int group)` - This method returns the substring that matches a given capturing group in a regular expression.
+8. `java.util.regex.Matcher.start()` - This method returns the index of the first character in the input string that matched the pattern.
+9. `java.util.regex.Matcher.end()` - This method returns the index of the last character in the input string that matched the pattern.
+10. `java.util.regex.Matcher.groupCount()` - This method returns the number of capturing groups in a regular expression.

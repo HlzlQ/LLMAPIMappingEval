@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that correspond to the TensorFlow API `tensorflow.keras.layers.Flatten`:
+
+1. `mxnet.gluon.nn.Flatten`
+2. `mxnet.ndarray.flatten`
+3. `mxnet.symbol.Flatten`
+4. `mxnet.ndarray.reshape`
+5. `mxnet.symbol.Reshape`
+6. `mxnet.gluon.nn.Dense`
+7. `mxnet.ndarray.dense`
+8. `mxnet.symbol.Dense`
+9. `mxnet.gluon.nn.Conv2D`
+10. `mxnet.ndarray.conv2d`

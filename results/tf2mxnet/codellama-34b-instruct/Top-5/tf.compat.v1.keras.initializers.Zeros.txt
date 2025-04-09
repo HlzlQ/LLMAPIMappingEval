@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for initializing weights with zeros:
+
+1. `mxnet.initializers.Zeros`
+2. `mxnet.init.zeros_initializer`
+3. `mxnet.init.zeros`
+4. `mxnet.initializers.zeros`
+5. `mxnet.init.ZeroInitializer`

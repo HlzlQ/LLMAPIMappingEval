@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for Poisson NLL loss:
+
+1. `tf.keras.losses.Poisson`
+2. `tf.keras.losses.poisson_nll`
+3. `tf.keras.losses.PoissonNLLLoss`
+4. `tf.keras.losses.poisson_log_likelihood`
+5. `tf.keras.losses.PoissonLogLikelihood`
+6. `tf.keras.losses.poisson_nll_loss`
+7. `tf.keras.losses.PoissonNLLLoss`
+8. `tf.keras.losses.poisson_log_likelihood_loss`
+9. `tf.keras.losses.PoissonLogLikelihoodLoss`
+10. `tf.keras.losses.poisson_nll_loss`

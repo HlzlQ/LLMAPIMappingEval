@@ -1,0 +1,13 @@
+
+<jupyter_text>
+Answer: torch.nn.Embedding  Question 4: Which Python library would be suitable for deep learning tasks involving large datasets?
+<jupyter_code>
+print("TensorFlow")
+print("PyTorch")
+print("Scikit-learn")
+print("Pandas")
+<jupyter_output>
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas

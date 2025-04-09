@@ -1,0 +1,8 @@
+
+Answer: ```python
+1. tfp.distributions.Gamma
+2. tf.random.gamma
+3. tf.math.lgamma
+4. tf.math.digamma
+5. tf.math.erf
+```

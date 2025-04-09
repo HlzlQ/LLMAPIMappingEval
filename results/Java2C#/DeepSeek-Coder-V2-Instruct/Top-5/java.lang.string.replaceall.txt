@@ -1,0 +1,5 @@
+1. Regex.Replace(string input, string pattern, string replacement)
+2. String.Replace(char oldChar, char newChar)
+3. String.Replace(string oldValue, string newValue)
+4. Regex.Replace(string input, string pattern, MatchEvaluator evaluator)
+5. String.Replace(string oldValue, string newValue, StringComparison comparisonType)

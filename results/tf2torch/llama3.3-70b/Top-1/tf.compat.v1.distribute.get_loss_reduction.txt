@@ -1,0 +1,9 @@
+`reduce_mean` or `DataParallel` with `reduce` argument 
+
+However, a more direct equivalent would be:
+
+`torch.distributed.ReduceOp.SUM` in combination with `torch.nn.DataParallel` or `torch.distributed.all_reduce` 
+
+But the closest one is likely: 
+
+`torch.distributed.reduce`

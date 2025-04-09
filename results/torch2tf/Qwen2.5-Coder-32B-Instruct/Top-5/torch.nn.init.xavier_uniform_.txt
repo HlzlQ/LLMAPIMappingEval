@@ -1,0 +1,5 @@
+tf.keras.initializers.GlorotUniform  
+tf.glorot_uniform_initializer  
+tf.compat.v1.glorot_uniform_initializer  
+tf.keras.layers.Dense.kernel_initializer  
+tf.keras.layers.Conv2D.kernel_initializer

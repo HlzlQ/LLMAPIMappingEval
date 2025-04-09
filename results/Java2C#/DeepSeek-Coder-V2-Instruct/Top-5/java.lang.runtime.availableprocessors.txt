@@ -1,0 +1,7 @@
+1. System.Environment.ProcessorCount
+2. System.Diagnostics.Process.GetCurrentProcess().Threads.Count
+3. System.Threading.Tasks.Parallel.ForEach()
+4. System.Threading.ThreadPool.SetMinThreads()
+5. System.Threading.ThreadPool.SetMaxThreads()
+
+These mappings are based on the functionality of `java.lang.runtime.availableprocessors`, which likely refers to querying or managing the number of available processors in a system, and finding corresponding C# APIs that perform similar functions.

@@ -1,0 +1,5 @@
+1. ResultSet.getString()
+2. SQLDataReader.GetString()
+3. SqlDataReader.GetSqlString()
+4. SqlDataReader.GetString()
+5. DataRecord.getStringValue()

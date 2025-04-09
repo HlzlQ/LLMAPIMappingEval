@@ -1,0 +1,2 @@
+
+Answer: tf.initializers.RandomNormal, mx.init.Normal, mx.random.normal, np.random.normal, random.gauss

@@ -1,0 +1,10 @@
+mxnet.gluon.probability.Gamma
+mxnet.ndarray.random.gamma
+mxnet.symbol.random.gamma
+mxnet.gluon.nn.Gamma
+mxnet.gluon.loss.Gamma
+mxnet.gluon.data.vision.transforms.Gamma
+mxnet.gluon.model_zoo.vision.Gamma
+mxnet.gluon.rnn.Gamma
+mxnet.gluon.contrib.rnn.Gamma
+mxnet.gluon.contrib.nn.Gamma

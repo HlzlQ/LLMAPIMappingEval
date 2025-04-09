@@ -1,0 +1,22 @@
+C# does not have a direct equivalent to the `split` method in Java's `String` class. However, you can use the `Split` method in C#'s `System.Text.RegularExpressions` namespace to achieve similar functionality.
+
+Here is an example of how you could use the `Split` method in C#:
+```
+using System;
+using System.Text.RegularExpressions;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string input = "hello world";
+        string[] words = Regex.Split(input, @"\s+");
+
+        foreach (string word in words)
+        {
+            Console.WriteLine(word);
+        }
+    }
+}
+```
+This code will split the `input` string into an array of substrings using the regular expression `\s+`, which matches one or more whitespace characters. The resulting array is then iterated over and each element is printed to the console.

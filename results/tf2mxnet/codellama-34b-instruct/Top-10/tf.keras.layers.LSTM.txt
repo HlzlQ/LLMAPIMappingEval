@@ -1,0 +1,12 @@
+  Here are ten MXNet APIs that correspond to the TensorFlow LSTM API:
+
+1. mxnet.gluon.rnn.LSTM
+2. mxnet.gluon.rnn.LSTMCell
+3. mxnet.gluon.rnn.SequentialRNNCell
+4. mxnet.gluon.rnn.Bidirectional
+5. mxnet.gluon.rnn.Dropout
+6. mxnet.gluon.rnn.Zoneout
+7. mxnet.gluon.rnn.LayerNormLSTMCell
+8. mxnet.gluon.rnn.LSTMP
+9. mxnet.gluon.rnn.LSTMBlockCell
+10. mxnet.gluon.rnn.LSTMWithAttention

@@ -1,0 +1,5 @@
+List<T>.AddAll(IEnumerable<T> collection)
+List<T>.AddRange(IEnumerable<T> collection)
+ICollection<T>.AddAll(IEnumerable<T> collection)
+ICollection<T>.AddRange(IEnumerable<T> collection)
+IList<T>.AddAll(IEnumerable<T> collection)

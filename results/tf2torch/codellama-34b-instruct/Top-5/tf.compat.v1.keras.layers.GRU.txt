@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for implementing a GRU layer:
+
+1. `torch.nn.GRU`
+2. `torch.nn.RNN` with `nonlinearity='gru'`
+3. `torch.nn.LSTM` with `num_layers=1` and `bidirectional=False`
+4. `torch.nn.Sequential` with `torch.nn.GRU` as the first layer
+5. `torch.nn.ModuleList` with a single `torch.nn.GRU` layer

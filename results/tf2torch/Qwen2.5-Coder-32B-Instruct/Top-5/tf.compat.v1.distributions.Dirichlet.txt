@@ -1,0 +1,5 @@
+torch.distributions.dirichlet.Dirichlet  
+torch.distributions.categorical.Categorical  
+torch.nn.functional.softmax  
+torch.nn.functional.log_softmax  
+torch.multinomial

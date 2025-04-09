@@ -1,0 +1,10 @@
+mxnet.gluon.rnn.GRUCell
+mxnet.gluon.rnn.GRULayer
+mxnet.ndarray.contrib.rnn_gru
+mxnet.symbol.contrib.rnn_gru
+mxnet.ndarray.rnn.gru
+mxnet.symbol.rnn.gru
+mxnet.gluon.rnn.RNNCell
+mxnet.gluon.rnn.LSTMCell
+mxnet.ndarray.contrib.rnn_lstm
+mxnet.symbol.contrib.rnn_lstm

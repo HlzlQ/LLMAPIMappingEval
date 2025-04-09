@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.selu`:
+
+1. `cntk.layers.ELU`
+2. `cntk.layers.SELU`
+3. `cntk.layers.Selu`
+4. `cntk.layers.SoftExponential`
+5. `cntk.layers.SoftPlus`
+6. `cntk.layers.SoftSign`
+7. `cntk.layers.Swish`
+8. `cntk.layers.Tanh`
+9. `cntk.layers.Sigmoid`
+10. `cntk.layers.ReLU`

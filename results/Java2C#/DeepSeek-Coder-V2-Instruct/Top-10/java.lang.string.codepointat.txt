@@ -1,0 +1,10 @@
+1. String.CodePointAt(int index)
+2. Char.GetNumericValue(char c)
+3. Char.ConvertFromUtf32(int utf32)
+4. Encoding.GetBytes(string s)
+5. Encoding.GetString(byte[] bytes)
+6. UnicodeCategory GetUnicodeCategory(char c)
+7. StringInfo.StringLength
+8. StringInfo.SubstringByIndex
+9. StringInfo.SubstringByTextElements
+10. CharArray.IndexOfAny(char[] anyOf, int startIndex)

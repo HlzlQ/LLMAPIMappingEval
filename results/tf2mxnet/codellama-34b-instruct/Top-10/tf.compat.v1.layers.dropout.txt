@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for dropout:
+
+1. `mxnet.gluon.nn.Dropout`
+2. `mxnet.gluon.nn.AlphaDropout`
+3. `mxnet.gluon.nn.GaussianDropout`
+4. `mxnet.gluon.nn.BernoulliDropout`
+5. `mxnet.gluon.nn.DropConnect`
+6. `mxnet.gluon.nn.AlphaDropconnect`
+7. `mxnet.gluon.nn.GaussianDropconnect`
+8. `mxnet.gluon.nn.BernoulliDropconnect`
+9. `mxnet.gluon.nn.Dropout2D`
+10. `mxnet.gluon.nn.AlphaDropout2D`

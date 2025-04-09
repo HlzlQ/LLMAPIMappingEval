@@ -1,0 +1,8 @@
+
+The Java API "org.testng.assertjunit.asserttrue" can be mapped to the following C# APIs:
+
+* NUnit.Framework.Assert.True()
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue()
+* xunit.assert.True()
+
+All of these APIs provide a way to assert that a condition is true, and they are commonly used in C# unit testing frameworks.

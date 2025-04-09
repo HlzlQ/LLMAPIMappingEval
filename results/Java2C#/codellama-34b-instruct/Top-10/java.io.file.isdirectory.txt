@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.io.File.isDirectory()`:
+
+1. `System.IO.Directory.Exists(string path)`
+2. `System.IO.File.GetAttributes(string path)`
+3. `System.IO.FileInfo.IsDirectory`
+4. `System.IO.DirectoryInfo.Exists`
+5. `System.IO.Path.IsDirectorySeparator(char c)`
+6. `System.IO.Path.HasExtension(string path)`
+7. `System.IO.FileSystemInfo.Attributes`
+8. `System.IO.FileSystemInfo.IsReadOnly`
+9. `System.IO.FileSystemInfo.IsHidden`
+10. `System.IO.FileSystemInfo.IsSystem`

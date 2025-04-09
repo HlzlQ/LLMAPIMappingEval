@@ -1,0 +1,5 @@
+1. System.Random.NextDouble()
+2. System.Random.Next(int maxValue)
+3. System.Random.Next(int minValue, int maxValue)
+4. System.Random.NextBytes(byte[] buffer)
+5. System.Random.Sample()

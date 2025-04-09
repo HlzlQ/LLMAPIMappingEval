@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. java.io.OutputStream.write()
+2. java.io.ByteArrayOutputStream.write()
+3. java.io.DataOutputStream.write()
+4. java.io.BufferedOutputStream.write()
+5. java.io.FilterOutputStream.write()

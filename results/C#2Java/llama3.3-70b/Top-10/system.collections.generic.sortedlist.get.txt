@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.Collections.Generic.SortedList.Get` in C#:
+
+1. java.util.TreeMap.get
+2. java.util.SortedMap.get
+3. java.util.NavigableMap.get
+4. java.util.concurrent.ConcurrentSkipListMap.get
+5. java.util.LinkedHashMap.get
+6. java.util.HashMap.get
+7. java.util.Hashtable.get
+8. java.util.Properties.get
+9. java.util.AbstractMap.get
+10. java.util.concurrent.ConcurrentHashMap.get

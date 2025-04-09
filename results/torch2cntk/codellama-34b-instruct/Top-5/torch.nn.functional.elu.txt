@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.elu`:
+
+1. `cntk.ops.elu`
+2. `cntk.layers.elu`
+3. `cntk.activations.elu`
+4. `cntk.functions.elu`
+5. `cntk.nn.elu`

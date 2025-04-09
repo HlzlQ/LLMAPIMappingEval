@@ -1,0 +1,10 @@
+tf.keras.layers.Conv3DTranspose  
+tf.nn.conv3d_transpose  
+tf.layers.Conv3DTranspose  
+tf.compat.v1.layers.conv3d_transpose  
+tf.contrib.layers.conv3d_transpose  
+tf.keras.layers.UpSampling3D  
+tf.keras.layers.Conv3D  
+tf.keras.layers.MaxPooling3D  
+tf.keras.layers.AveragePooling3D  
+tf.keras.layers.ZeroPadding3D

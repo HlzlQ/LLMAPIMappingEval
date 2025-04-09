@@ -1,0 +1,7 @@
+C# does not have an exact equivalent to the Java `DecimalFormatSymbols` class. However, you can use the `NumberFormatInfo` class in C# to achieve similar functionality.
+
+Here is a mapping of the Java API to the C# API:
+
+* `java.text.DecimalFormatSymbols.getDecimalSeparator()` -> `System.Globalization.NumberFormatInfo.CurrencyDecimalSeparator`
+
+Note that the C# API uses the term "currency" instead of "decimal" in this case, but the functionality is similar.

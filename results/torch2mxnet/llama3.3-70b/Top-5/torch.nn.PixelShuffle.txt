@@ -1,0 +1,7 @@
+Based on the functionality of `torch.nn.PixelShuffle`, here are 5 possible equivalent APIs in MXNet:
+
+1. mx.ndarray.UpSampling
+2. mx.gluon.nn.Conv2DTranspose
+3. mx.gluon.nn.Upsample
+4. mx.nd.UpSampling
+5. mx.gluon.nn.Deconvolution2D

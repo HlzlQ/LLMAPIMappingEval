@@ -1,0 +1,10 @@
+cntk.ops.elu  
+cntk.activations.elu  
+cntk.layers.Elu  
+cntk.functions.elu  
+cntk.models.elu  
+cntk.losses.elu  
+cntk.metrics.elu  
+cntk.optimizers.elu  
+cntk.initializer.elu  
+cntk.sequence.elu

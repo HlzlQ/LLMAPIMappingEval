@@ -1,0 +1,19 @@
+
+<jupyter_text>
+Answer: torch.nn.init.zeros_
+<jupyter_code>
+import tensorflow as tf
+import torch
+from torch import nn
+
+# TensorFlow equivalent
+tf_initializer = tf.keras.initializers.Zeros()
+
+# PyTorch equivalent
+torch_initializer = nn.init.zeros_
+
+print(f"TensorFlow initializer: {tf_initializer}")
+print(f"PyTorch initializer: {torch_initializer}")
+<jupyter_output>
+TensorFlow initializer: <tensorflow.python.keras.initializers.constant.Zeros object at 0x7f8a9c1b3d60>
+PyTorch initializer: <bound method Initializer._no_grad_zero_fill of Zeros()>

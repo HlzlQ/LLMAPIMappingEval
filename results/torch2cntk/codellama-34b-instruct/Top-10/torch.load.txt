@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from the `torch.load` API to the CNTK API:
+
+1. `torch.load` -> `CNTK.LoadModel`
+2. `torch.load_state_dict` -> `CNTK.LoadStateDict`
+3. `torch.save` -> `CNTK.SaveModel`
+4. `torch.save_state_dict` -> `CNTK.SaveStateDict`
+5. `torch.load_parameters` -> `CNTK.LoadParameters`
+6. `torch.save_parameters` -> `CNTK.SaveParameters`
+7. `torch.load_optimizer` -> `CNTK.LoadOptimizer`
+8. `torch.save_optimizer` -> `CNTK.SaveOptimizer`
+9. `torch.load_scheduler` -> `CNTK.LoadScheduler`
+10. `torch.save_scheduler` -> `CNTK.SaveScheduler`

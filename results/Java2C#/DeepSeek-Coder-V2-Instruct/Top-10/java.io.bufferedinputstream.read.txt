@@ -1,0 +1,10 @@
+1. System.IO.BufferedStream.Read
+2. System.IO.FileStream.Read
+3. System.IO.MemoryStream.Read
+4. System.Net.Sockets.NetworkStream.Read
+5. System.Security.Cryptography.CryptoStream.Read
+6. System.IO.Compression.DeflateStream.Read
+7. System.IO.Compression.GZipStream.Read
+8. System.IO.Pipes.PipeStream.Read
+9. System.IO.UnmanagedMemoryStream.Read
+10. System.IO.IsolatedStorage.IsolatedStorageFileStream.Read

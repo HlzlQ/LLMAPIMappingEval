@@ -1,0 +1,10 @@
+tf.GradientTape
+tf.gradients
+tf.raw_ops.SymbolicGradient
+tf.raw_ops.GradSelect
+tf.raw_ops.PreventGradient
+tf.raw_ops.StopGradient
+tf.raw_ops.AddN
+tf.raw_ops.Subtract
+tf.raw_ops.Mul
+tf.raw_ops.Div

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that correspond to the given Java API:
+
+1. System.IO.File.GetPath()
+2. System.IO.FileInfo.FullName
+3. System.IO.DirectoryInfo.FullName
+4. System.IO.Path.GetFileName()
+5. System.IO.Path.GetFullPath()
+6. System.IO.Path.GetPathRoot()
+7. System.IO.Path.IsPathRooted()
+8. System.IO.FileSystemInfo.FullName
+9. System.IO.Directory.GetCurrentDirectory()
+10. System.IO.Path.Combine()

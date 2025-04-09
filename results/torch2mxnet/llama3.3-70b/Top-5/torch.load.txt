@@ -1,0 +1,5 @@
+1. mx.nd.load
+2. mx.model.load_checkpoint
+3. mx.gluon.utils.load_parameters
+4. mx.gluon.Parameter.load
+5. mxnet.ndarray.load

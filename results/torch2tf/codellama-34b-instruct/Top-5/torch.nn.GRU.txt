@@ -1,0 +1,5 @@
+  tf.keras.layers.GRU
+  tf.keras.layers.LSTM
+  tf.keras.layers.RNN
+  tf.keras.layers.SimpleRNN
+  tf.keras.layers.Bidirectional

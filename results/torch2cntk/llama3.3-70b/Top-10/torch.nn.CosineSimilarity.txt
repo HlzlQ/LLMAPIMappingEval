@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs that match the functionality of `torch.nn.CosineSimilarity`:
+
+1. `cntk.cosine_distance`
+2. `cntk.normalize`
+3. `cntk.dot`
+4. `cntk.reduce_sum`
+5. `cntk.sqrt`
+6. `cntk.element_times`
+7. `cntk.transpose`
+8. `cntk.times`
+9. `cntk.reduce_mean`
+10. `cntk.l2_normalize`

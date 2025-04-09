@@ -1,0 +1,5 @@
+1. HttpWebRequest.GetResponse()
+2. WebClient.DownloadData()
+3. HttpClient.GetAsync()
+4. HttpRequestMessage.GetResponse()
+5. WebRequest.Create().GetResponse()

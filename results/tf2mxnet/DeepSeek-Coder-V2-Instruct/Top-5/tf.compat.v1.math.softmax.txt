@@ -1,0 +1,9 @@
+
+"""
+
+# The five most likely MXNet APIs for the given TensorFlow API are:
+# 1. mxnet.ndarray.softmax
+# 2. mxnet.symbol.softmax
+# 3. mxnet.gluon.nn.Softmax
+# 4. mxnet.ndarray.Activation
+# 5. mxnet.symbol.Activation

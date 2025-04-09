@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for initializing a constant tensor:
+
+1. `tf.constant_initializer`
+2. `tf.zeros_initializer`
+3. `tf.ones_initializer`
+4. `tf.fill_initializer`
+5. `tf.random_normal_initializer`
+6. `tf.truncated_normal_initializer`
+7. `tf.variance_scaling_initializer`
+8. `tf.glorot_uniform_initializer`
+9. `tf.he_normal_initializer`
+10. `tf.lecun_normal_initializer`

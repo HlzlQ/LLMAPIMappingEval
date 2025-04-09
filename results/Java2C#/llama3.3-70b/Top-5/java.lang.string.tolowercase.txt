@@ -1,0 +1,5 @@
+1. System.String.ToLower
+2. System.String.ToLowerInvariant
+3. System.Text.RegularExpressions.Regex.Replace
+4. System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToLower
+5. System.Char.ToLower

@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for Conv3DTranspose:
+
+1. mxnet.ndarray.Convolution3DTranspose
+2. mxnet.symbol.Convolution3DTranspose
+3. mxnet.gluon.nn.Conv3DTranspose
+4. mxnet.gluon.nn.Convolution3DTranspose
+5. mxnet.ndarray.Conv3DTranspose
+6. mxnet.symbol.Conv3DTranspose
+7. mxnet.gluon.nn.Conv3DTranspose2D
+8. mxnet.gluon.nn.Convolution3DTranspose2D
+9. mxnet.ndarray.Conv3DTranspose2D
+10. mxnet.symbol.Conv3DTranspose2D

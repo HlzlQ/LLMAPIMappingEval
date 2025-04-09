@@ -1,0 +1,11 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_with_argmax |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_2d |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_3d |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_with_argmax_2d |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_with_argmax_3d |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_with_indices |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_with_indices_2d |
+  | torch.nn.MaxPool3d | mxnet.ndarray.max_pooling_with_indices_3d |

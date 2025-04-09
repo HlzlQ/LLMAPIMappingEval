@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.keras.layers.Conv2DTranspose
+<jupyter_output>
+<empty_output>

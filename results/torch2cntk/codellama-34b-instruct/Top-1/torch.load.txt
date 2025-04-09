@@ -1,0 +1,2 @@
+
+CNTK equivalent of `torch.load` is `cntk.io.load_model`.

@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.arraylist.setrange` in C#:
+
+1. java.util.ArrayList.set
+2. java.util.ArrayList.addAll
+3. java.util.ArrayList.removeRange
+4. java.util.Collections.replaceAll
+5. java.util.List.set
+6. java.util.List.addAll
+7. java.util.List.subList
+8. java.util.AbstractList.set
+9. java.util.AbstractList.replaceAll
+10. java.util.Arrays.fill

@@ -1,0 +1,10 @@
+1. Dictionary<TKey, TValue>.Key
+2. SortedDictionary<TKey, TValue>.Key
+3. ConcurrentDictionary<TKey, TValue>.Key
+4. Hashtable.Keys
+5. ImmutableDictionary<TKey, TValue>.Key
+6. ObservableCollection<T>.Item[]
+7. ListDictionary.DictionaryEntry.Key
+8. NameValueCollection.AllKeys
+9. OrderedDictionary.Key
+10. HybridDictionary.Keys

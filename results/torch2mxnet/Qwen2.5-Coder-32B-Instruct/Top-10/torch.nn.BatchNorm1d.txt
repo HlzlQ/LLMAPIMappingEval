@@ -1,0 +1,10 @@
+mxnet.gluon.nn.BatchNorm
+mxnet.ndarray.BatchNorm
+mxnet.symbol.BatchNorm
+mxnet.contrib.nn.BatchNorm
+mxnet.gluon.nn.HybridSequential.add
+mxnet.gluon.nn.Sequential.add
+mxnet.gluon.nn.Block.register_child
+mxnet.gluon.nn.Block.collect_params
+mxnet.gluon.nn.Block.initialize
+mxnet.gluon.nn.Block.hybridize

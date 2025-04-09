@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for Bernoulli distribution:
+
+1. `cntk.distributions.Bernoulli`
+2. `cntk.distributions.Binary`
+3. `cntk.distributions.Boolean`
+4. `cntk.distributions.DiscreteUniform`
+5. `cntk.distributions.PoissonBinomial`
+6. `cntk.distributions.Binomial`
+7. `cntk.distributions.NegativeBinomial`
+8. `cntk.distributions.Geometric`
+9. `cntk.distributions.Hypergeometric`
+10. `cntk.distributions.Logistic`

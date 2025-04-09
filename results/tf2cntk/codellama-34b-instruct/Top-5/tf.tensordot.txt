@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.tensordot`:
+
+1. `cntk.tensordot`
+2. `cntk.tensor_dot`
+3. `cntk.dot`
+4. `cntk.matmul`
+5. `cntk.batch_dot`

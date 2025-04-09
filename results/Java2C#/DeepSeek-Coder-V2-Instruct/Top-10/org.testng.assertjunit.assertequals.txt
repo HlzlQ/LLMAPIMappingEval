@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+NUnit.Framework.Assert.AreEqual
+Xunit.Assert.Equal
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+NUnitLite.Runner.Result.AreEqual
+FluentAssertions.EquivalencyAssertionOptions`1.ShouldBeEquivalentTo
+NSubstitute.Substitute.Received
+Moq.Mock`1.Verify
+xUnit.net Test Framework.EqualException
+NUnit.Framework.Assert.That

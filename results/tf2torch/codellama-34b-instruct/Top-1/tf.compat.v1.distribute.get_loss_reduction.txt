@@ -1,0 +1,2 @@
+
+In PyTorch, the equivalent of `tensorflow.compat.v1.distribute.get_loss_reduction` is `torch.nn.LossReduce`.

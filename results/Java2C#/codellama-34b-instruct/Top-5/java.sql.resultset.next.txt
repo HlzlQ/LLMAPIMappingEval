@@ -1,0 +1,7 @@
+The following are the five most likely C# APIs that correspond to the Java API `java.sql.resultset.next`:
+
+1. `System.Data.SqlClient.SqlDataReader.Read()`
+2. `System.Data.OleDb.OleDbDataReader.Read()`
+3. `System.Data.Odbc.OdbcDataReader.Read()`
+4. `System.Data.OracleClient.OracleDataReader.Read()`
+5. `MySql.Data.MySqlClient.MySqlDataReader.Read()`

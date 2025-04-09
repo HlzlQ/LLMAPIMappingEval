@@ -1,0 +1,7 @@
+
+
+1. torch.cuda.synchronize()
+2. torch.nn.functional.conv2d()
+3. torch.profiler.profile()
+4. torch.utils.bottleneck.check_bottleneck()
+5. torch.autograd.gradcheck()

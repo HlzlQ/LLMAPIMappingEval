@@ -1,0 +1,5 @@
+mxnet.ndarray.dot  
+mxnet.ndarray.batch_dot  
+mxnet.ndarray.FullyConnected  
+mxnet.symbol.FullyConnected  
+mxnet.gluon.nn.Dense

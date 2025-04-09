@@ -1,0 +1,10 @@
+cntk.ops.reshape
+cntk.ops.permute_axes
+cntk.ops.reorder_axes
+cntk.ops.expand_dims
+cntk.ops.squeeze
+cntk.ops.tile
+cntk.ops.stack
+cntk.ops.unstack
+cntk.ops.concat
+cntk.ops.split

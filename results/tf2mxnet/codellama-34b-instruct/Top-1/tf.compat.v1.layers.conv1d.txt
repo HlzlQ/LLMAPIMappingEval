@@ -1,0 +1,7 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.layers.conv1d`. However, you can use the following APIs to achieve similar functionality:
+
+* `mxnet.ndarray.Convolution`: This API performs a 1D convolution on a tensor. It takes the input tensor, kernel size, stride, and padding as arguments.
+* `mxnet.ndarray.Conv1D`: This API is similar to `mxnet.ndarray.Convolution`, but it only performs a 1D convolution along the first dimension of the input tensor.
+
+So, if you want to perform a 1D convolution on a tensor in MXNet, you can use either `mxnet.ndarray.Convolution` or `mxnet.ndarray.Conv1D`, depending on your specific requirements.

@@ -1,0 +1,5 @@
+java.util.Map.remove
+java.util.HashMap.remove
+java.util.LinkedHashMap.remove
+java.util.TreeMap.remove
+java.util.concurrent.ConcurrentHashMap.remove

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.compat.v1.layers.conv3d_transpose`:
+
+1. torch.nn.ConvTranspose3d
+2. torch.nn.functional.conv_transpose3d
+3. torch.nn.Upsample
+4. torch.nn.functional.interpolate
+5. torch.nn.TransposeConv3d
+6. torch.nn.Deconv3d
+7. torch.nn.functional.deconv3d
+8. torch.nn.Conv3dTranspose
+9. torch.nn.functional.conv3d_transpose
+10. torch.nn.modules.conv.ConvTranspose3d

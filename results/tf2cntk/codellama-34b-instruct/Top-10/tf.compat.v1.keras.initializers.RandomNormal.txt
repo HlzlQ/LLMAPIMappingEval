@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `tensorflow.compat.v1.keras.initializers.RandomNormal`:
+
+1. `cntk.initializer.random_normal`
+2. `cntk.initializer.glorot_normal`
+3. `cntk.initializer.he_normal`
+4. `cntk.initializer.lecun_normal`
+5. `cntk.initializer.kaiming_normal`
+6. `cntk.initializer.xavier_normal`
+7. `cntk.initializer.msra_normal`
+8. `cntk.initializer.random_uniform`
+9. `cntk.initializer.glorot_uniform`
+10. `cntk.initializer.he_uniform`

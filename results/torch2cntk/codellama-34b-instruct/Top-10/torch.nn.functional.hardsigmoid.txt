@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.hardsigmoid`:
+
+1. `cntk.layers.HardSigmoid`
+2. `cntk.layers.hard_sigmoid`
+3. `cntk.activations.hard_sigmoid`
+4. `cntk.nn.functional.hardsigmoid`
+5. `cntk.nn.HardSigmoid`
+6. `cntk.layers.Activation.hard_sigmoid`
+7. `cntk.layers.activations.hard_sigmoid`
+8. `cntk.nn.functional.activations.hardsigmoid`
+9. `cntk.nn.HardSigmoidActivation`
+10. `cntk.nn.activations.hard_sigmoid`

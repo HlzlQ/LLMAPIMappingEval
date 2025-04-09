@@ -1,0 +1,23 @@
+
+
+```python
+import torch
+model = torch.nn.Linear(10, 1)
+torch.save(model, 'model.pth')
+```
+Answer: ```json
+{
+  "APIs": [
+    "SaveCheckpoint",
+    "Save",
+    "Model.save",
+    "CNTK.Function.save",
+    "CNTK.Variable.save",
+    "CNTK.Value.save",
+    "CNTK.NDArrayView.save",
+    "CNTK.Function.Serialize",
+    "CNTK.Model.Save",
+    "CNTK.Trainer.Checkpoint"
+  ]
+}
+```

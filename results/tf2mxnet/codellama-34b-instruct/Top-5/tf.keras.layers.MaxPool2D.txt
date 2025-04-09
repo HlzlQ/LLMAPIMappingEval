@@ -1,0 +1,7 @@
+  tf.keras.layers.MaxPool2D() is a layer for max pooling in TensorFlow. The equivalent layers in MXNet are:
+
+1. mxnet.gluon.nn.MaxPool2D()
+2. mxnet.ndarray.max_pooling_2d()
+3. mxnet.ndarray.pooling.max_pooling_2d()
+4. mxnet.ndarray.pooling.MaxPooling2D()
+5. mxnet.gluon.nn.contrib.MaxPooling2D()

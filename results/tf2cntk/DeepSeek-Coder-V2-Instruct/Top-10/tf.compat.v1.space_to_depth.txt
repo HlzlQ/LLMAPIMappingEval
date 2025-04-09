@@ -1,0 +1,2 @@
+
+Answer: depth_to_space, space_to_batch, batch_to_space, space_to_depth, extract_image_patches, crop_and_resize, resize_images, pad, mirror_pad, concatenate

@@ -1,0 +1,5 @@
+tf.keras.layers.MaxPooling1D  
+tf.nn.max_pool1d  
+tf.raw_ops.MaxPool  
+tf.compat.v1.nn.max_pool  
+tf.compat.v2.nn.max_pool1d

@@ -1,0 +1,18 @@
+
+```python
+import tensorflow as tf
+tf_api = 'tensorflow.compat.v1.layers.AveragePooling1D'
+mxnet_api = None
+```
+Answer: ```python
+# TensorFlow API: tensorflow.compat.v1.layers.AveragePooling1D
+# MXNet API: mxnet.gluon.nn.AvgPool1D
+# TensorFlow API: tensorflow.keras.layers.AveragePooling1D
+# MXNet API: mxnet.ndarray.contrib.AveragePooling1D
+# TensorFlow API: tensorflow.compat.v2.layers.AveragePooling1D
+# MXNet API: mxnet.gluon.nn.AvgPool1D
+# TensorFlow API: tensorflow.keras.layers.AveragePooling1D
+# MXNet API: mxnet.ndarray.contrib.AveragePooling1D
+# TensorFlow API: tensorflow.compat.v1.layers.AveragePooling1D
+# MXNet API: mxnet.gluon.nn.AvgPool1D
+```

@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.GetRange  
+System.Collections.ArrayList.GetRange  
+System.Linq.Enumerable.SkipTakeExtensions.Take  
+System.Collections.ObjectModel.ReadOnlyCollection<T>.GetRange  
+System.Collections.Specialized.StringCollection.GetRange

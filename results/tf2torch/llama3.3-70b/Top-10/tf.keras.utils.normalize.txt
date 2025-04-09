@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.utils.normalize`:
+
+1. torch.nn.functional.normalize
+2. torch.linalg.norm
+3. torch.tensor.div
+4. torch.clamp
+5. torch.nn.BatchNorm1d
+6. torch.nn.InstanceNorm1d
+7. torch.nn.LayerNorm
+8. torch.nn.LocalResponseNorm
+9. torchvision.transforms.Normalize
+10. torch.nn.utils.weight_norm

@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+System.Diagnostics.Trace.Assert
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNull
+NUnit.Framework.Assert.IsNull
+Xunit.Assert.Null
+FluentAssertions.Assertions.AssertionScopeExtensions.BeNull
+NSubstitute.Received.InOrderExtensions.DidNotReceiveWithAnyArgs
+Moq.Language.Flow.ITimes.ReturnsExtensions.Returns
+AutoFixture.Idioms.FixtureVerification.IdiomaticAssertion`1.Verify
+Shouldly.ShouldBeNullExtensionMethods.ShouldBeNull

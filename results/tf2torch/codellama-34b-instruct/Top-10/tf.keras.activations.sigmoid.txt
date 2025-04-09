@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.activations.sigmoid`:
+
+1. `torch.nn.Sigmoid`
+2. `torch.nn.functional.sigmoid`
+3. `torch.nn.modules.activation.Sigmoid`
+4. `torch.nn.modules.activation.ReLU` (with a negative slope)
+5. `torch.nn.modules.activation.LeakyReLU` (with a negative slope)
+6. `torch.nn.modules.activation.Softmax`
+7. `torch.nn.modules.activation.LogSoftmax`
+8. `torch.nn.modules.activation.Tanh`
+9. `torch.nn.modules.activation.Hardtanh`
+10. `torch.nn.modules.activation.SigmoidWithDropout`

@@ -1,0 +1,5 @@
+1. java.lang.Long.parseLong
+2. java.lang.Integer.parseInt
+3. java.lang.Short.parseShort
+4. java.lang.Byte.parseByte
+5. java.lang.BigInteger.valueOf

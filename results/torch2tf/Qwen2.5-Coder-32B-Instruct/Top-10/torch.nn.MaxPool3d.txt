@@ -1,0 +1,10 @@
+tf.keras.layers.MaxPooling3D  
+tf.nn.max_pool3d  
+tf.raw_ops.MaxPool3D  
+tf.compat.v1.nn.max_pool3d  
+tf.compat.v2.nn.max_pool3d  
+tf.compat.v1.raw_ops.MaxPool3D  
+tf.compat.v2.raw_ops.MaxPool3D  
+tf.keras.layers.experimental.preprocessing.Resizing  
+tf.keras.layers.experimental.preprocessing.CenterCrop  
+tf.keras.layers.experimental.preprocessing.RandomCrop

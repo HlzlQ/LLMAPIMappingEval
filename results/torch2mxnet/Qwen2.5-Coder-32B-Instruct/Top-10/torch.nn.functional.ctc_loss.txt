@@ -1,0 +1,10 @@
+mxnet.gluon.loss.CTCLoss
+mxnet.ndarray.contrib.ctc_loss
+mxnet.symbol.contrib.ctc_loss
+mxnet.ndarray.CTCLoss
+mxnet.symbol.CTCLoss
+mxnet.gluon.rnn.CTCLoss
+mxnet.ndarray.SequenceLoss
+mxnet.symbol.SequenceLoss
+mxnet.ndarray.WarpCTC
+mxnet.symbol.WarpCTC

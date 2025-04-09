@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.Assert
+System.Threading.Monitor.Enter
+System.Threading.Monitor.Exit
+System.Threading.Mutex.WaitOne
+System.Threading.SemaphoreSlim.Wait
+System.Threading.ManualResetEventSlim.Wait
+System.Threading.AutoResetEvent.WaitOne
+System.Collections.Generic.Dictionary`2.TryGetValue
+System.Collections.Generic.HashSet`1.Add
+System.Collections.Generic.List`1.Add

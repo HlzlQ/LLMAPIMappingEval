@@ -1,0 +1,10 @@
+System.Reflection.ConstructorInfo.Invoke
+System.Activator.CreateInstance
+System.Runtime.Serialization.FormatterServices.GetUninitializedObject
+System.Runtime.Serialization.IFormatter.Deserialize
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize
+System.Runtime.Serialization.Formatters.Soap.SoapFormatter.Deserialize
+System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject
+System.Xml.Serialization.XmlSerializer.Deserialize
+System.Text.Json.JsonSerializer.Deserialize
+Newtonsoft.Json.JsonConvert.DeserializeObject

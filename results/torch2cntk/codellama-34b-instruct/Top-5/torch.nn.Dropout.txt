@@ -1,0 +1,5 @@
+  - cntk.layers.Dropout
+  - cntk.ops.dropout
+  - cntk.initializer.Dropout
+  - cntk.regularizers.Dropout
+  - cntk.callbacks.Dropout

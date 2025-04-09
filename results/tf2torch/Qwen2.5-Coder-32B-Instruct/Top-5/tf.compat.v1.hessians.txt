@@ -1,0 +1,5 @@
+torch.autograd.grad
+torch.autograd.functional.hessian
+torch.autograd.gradcheck
+torch.autograd.gradgradcheck
+torch.autograd.variable.Variable

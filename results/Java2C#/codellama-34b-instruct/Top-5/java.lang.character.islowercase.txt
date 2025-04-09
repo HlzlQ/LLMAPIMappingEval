@@ -1,0 +1,7 @@
+  Here are five C# APIs that have similar functionality to the Java API `java.lang.Character.isLowerCase()`:
+
+1. `char.IsLower()`: This method returns a boolean value indicating whether a character is lowercase.
+2. `Char.IsLower(char)`: This method returns a boolean value indicating whether a specified character is lowercase.
+3. `TextInfo.ToLower(string)`: This method converts a string to lowercase using the current culture's text information.
+4. `String.ToLower()`: This method converts a string to lowercase using the current culture's text information.
+5. `String.ToLowerInvariant()`: This method converts a string to lowercase using the invariant culture's text information.

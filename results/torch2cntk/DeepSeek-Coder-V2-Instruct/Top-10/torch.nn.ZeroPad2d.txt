@@ -1,0 +1,2 @@
+
+Answer: torch.nn.functional.pad, numpy.pad, cv2.copyMakeBorder, PIL.Image.extend, tensorflow.keras.layers.ZeroPadding2D, keras.layers.ZeroPadding2D, mxnet.ndarray.pad, paddle.nn.Pad2D, scipy.ndimage.median_filter, skimage.transform.resize

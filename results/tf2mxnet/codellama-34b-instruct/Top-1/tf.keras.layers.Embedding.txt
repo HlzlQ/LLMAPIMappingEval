@@ -1,0 +1,18 @@
+
+MXNet does not have an exact equivalent of the `tensorflow.keras.layers.Embedding` layer. However, you can use the `mxnet.ndarray.contrib.embedding` module to create an embedding layer. Here's an example:
+```python
+import mxnet as mx
+from mxnet.ndarray.contrib import embedding
+
+# Create a new embedding layer with 1000 input dimensions and 64 output dimensions
+emb = embedding(input_dim=1000, output_dim=64)
+```
+This will create an embedding layer that takes in a tensor of shape `(batch_size, sequence_length)` and outputs a tensor of shape `(batch_size, sequence_length, 64)`. The `input_dim` argument specifies the number of input dimensions, and the `output_dim` argument specifies the number of output dimensions.
+
+You can also specify additional arguments to the `embedding` function to customize the behavior of the layer. For example, you can use the `mask_zero` argument to specify whether or not to mask out zero-valued input elements:
+```python
+# Create a new embedding layer with 1000 input dimensions and 64 output dimensions,
+# and mask out zero-valued input elements
+emb = embedding(input_dim=1000, output_dim=64, mask_zero=True)
+```
+This will create an embedding layer that takes in a tensor of shape `(batch_size, sequence_length)` and outputs a tensor of shape `(batch_size, sequence_length, 64)`. The `mask_zero` argument specifies whether or not to mask out zero-valued input elements. If set to `True`, the layer will replace all zero-valued input elements with a special "mask" value before computing the embedding. This can be useful for handling variable-length input sequences.

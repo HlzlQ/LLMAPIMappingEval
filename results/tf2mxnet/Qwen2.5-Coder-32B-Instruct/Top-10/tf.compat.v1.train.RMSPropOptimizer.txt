@@ -1,0 +1,10 @@
+mxnet.optimizer.RMSProp  
+mxnet.gluon.Trainer  
+mxnet.ndarray.sqrt  
+mxnet.ndarray.square  
+mxnet.ndarray.mean  
+mxnet.ndarray.zeros_like  
+mxnet.ndarray.add  
+mxnet.ndarray.multiply  
+mxnet.ndarray.divide  
+mxnet.ndarray.subtract

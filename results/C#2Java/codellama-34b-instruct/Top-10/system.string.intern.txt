@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.lang.String.intern()
+2. java.lang.StringBuilder.toString()
+3. java.lang.StringBuffer.toString()
+4. java.util.regex.Pattern.compile(String regex)
+5. java.util.regex.Matcher.matches(CharSequence input)
+6. java.util.regex.Matcher.find()
+7. java.util.regex.Matcher.group()
+8. java.util.regex.Matcher.start()
+9. java.util.regex.Matcher.end()
+10. java.util.regex.PatternSyntaxException

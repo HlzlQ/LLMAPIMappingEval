@@ -1,0 +1,5 @@
+1. java.util.ArrayList.remove
+2. java.util.List.remove
+3. java.util.Collection.remove
+4. java.util.LinkedList.remove
+5. java.util.AbstractList.remove

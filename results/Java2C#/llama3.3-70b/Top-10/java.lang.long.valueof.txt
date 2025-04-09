@@ -1,0 +1,10 @@
+1. System.Convert.ToInt64
+2. System.Int64.Parse
+3. System.Int64.TryParse
+4. long.Parse
+5. long.TryParse
+6. System.Convert.ToInt32
+7. System.Int32.Parse
+8. System.Int32.TryParse
+9. int.Parse
+10. int.TryParse

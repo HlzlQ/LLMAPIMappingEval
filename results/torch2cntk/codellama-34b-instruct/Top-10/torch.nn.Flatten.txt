@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.nn.Flatten`:
+
+1. `cntk.layers.Flatten`
+2. `cntk.layers.Reshape`
+3. `cntk.layers.FlattenLayer`
+4. `cntk.layers.Reshaper`
+5. `cntk.layers.Flattening`
+6. `cntk.layers.ReshapeLayer`
+7. `cntk.layers.FlatteningLayer`
+8. `cntk.layers.ReshapeBlock`
+9. `cntk.layers.FlatteningBlock`
+10. `cntk.layers.ReshapeLayer`

@@ -1,0 +1,5 @@
+java.util.regex.Pattern.replaceAll
+java.lang.String.replaceAll
+java.util.regex.Matcher.replaceAll
+java.text.Normalizer.normalize
+java.nio.file.Files.readAllLines

@@ -1,0 +1,7 @@
+Based on the `tf.split` function in TensorFlow, here are 5 possible equivalent APIs in PyTorch:
+
+1. torch.chunk
+2. torch.split
+3. torch.tensor_split
+4. torch.cat
+5. torch.stack

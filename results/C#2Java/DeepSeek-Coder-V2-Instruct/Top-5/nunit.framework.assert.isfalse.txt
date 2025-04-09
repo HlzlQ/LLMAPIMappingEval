@@ -1,0 +1,5 @@
+1. org.junit.jupiter.api.Assertions.assertFalse
+2. org.junit.Assert.assertFalse
+3. org.testng.Assert.assertFalse
+4. ch.qos.logback.core.boolex.EvaluationException.isFalse
+5. junit.framework.Assert.assertFalse

@@ -1,0 +1,10 @@
+mxnet.gluon.nn.UpSampling
+mxnet.ndarray.upsampling
+mxnet.symbol.UpSampling
+mxnet.gluon.nn.InterpolationBlock
+mxnet.ndarray.contrib.BilinearResize2D
+mxnet.symbol.contrib.BilinearResize2D
+mxnet.ndarray.contrib.NearestResize2D
+mxnet.symbol.contrib.NearestResize2D
+mxnet.ndarray.contrib.LanczosResize2D
+mxnet.symbol.contrib.LanczosResize2D

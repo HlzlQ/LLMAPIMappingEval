@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.string.concat` in C#:
+
+1. java.lang.String.concat
+2. java.lang.StringBuilder.append
+3. java.lang.StringBuffer.append
+4. java.nio.CharBuffer.put
+5. java.util.StringJoiner.add
+6. org.apache.commons.lang3.StringUtils.join
+7. org.apache.commons.lang3.StringUtils.concatenate
+8. java.text.MessageFormat.format
+9. java.util.Formatter.format
+10. javax.swing.text.StringConcatenation.append

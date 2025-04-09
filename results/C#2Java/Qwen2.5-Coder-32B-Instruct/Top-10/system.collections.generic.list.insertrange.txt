@@ -1,0 +1,10 @@
+java.util.List.addAll
+java.util.ArrayList.addAll
+java.util.LinkedList.addAll
+java.util.Vector.addAll
+java.util.AbstractList.addAll
+java.util.AbstractCollection.addAll
+java.util.Collection.addAll
+java.util.Collections.addAll
+java.util.List.add
+java.util.ArrayList.add

@@ -1,0 +1,1 @@
+  pooling.FractionalMaxPool2D

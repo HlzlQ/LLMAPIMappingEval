@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Character.isISOControl()`:
+
+1. `System.Char.IsControl()`
+2. `System.Char.IsSeparator()`
+3. `System.Char.IsWhiteSpace()`
+4. `System.Char.IsSurrogate()`
+5. `System.Char.IsHighSurrogate()`
+6. `System.Char.IsLowSurrogate()`
+7. `System.Char.IsLetterOrDigit()`
+8. `System.Char.IsNumber()`
+9. `System.Char.IsPunctuation()`
+10. `System.Char.IsSymbol()`

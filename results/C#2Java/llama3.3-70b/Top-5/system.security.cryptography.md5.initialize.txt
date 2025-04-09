@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.security.cryptography.md5.initialize`:
+
+1. java.security.MessageDigest.getInstance("MD5")
+2. javax.crypto.Mac.getInstance("HmacMD5")
+3. java.security.MessageDigest.update(byte[])
+4. java.security.MessageDigest.digest(byte[])
+5. javax.crypto.spec.SecretKeySpec(java.security.Key, "MD5")

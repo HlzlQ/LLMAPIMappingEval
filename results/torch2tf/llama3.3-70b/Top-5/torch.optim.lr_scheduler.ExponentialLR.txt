@@ -1,0 +1,5 @@
+1. tf.keras.optimizers.schedules.ExponentialDecay
+2. tf.compat.v1.train.exponential_decay
+3. tf.keras.optimizers.schedules.PolynomialDecay
+4. tf.keras.optimizers.schedules.InverseTimeDecay
+5. tf.keras.optimizers.schedules.CosineDecayRestarts

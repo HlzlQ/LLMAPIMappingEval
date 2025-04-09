@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK APIs:
+
+1. Dense
+2. FullyConnected
+3. Linear
+4. DenseLayer
+5. FullyConnectedLayer

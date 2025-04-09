@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.layers.MaxPooling2D`:
+
+1. `CNTK.Pooling`
+2. `CNTK.MaxPooling`
+3. `CNTK.PoolingLayer`
+4. `CNTK.MaxPool`
+5. `CNTK.SubsamplingLayer`
+6. `CNTK.MaxSubsampling`
+7. `CNTK.SpatialMaxPooling`
+8. `CNTK.MaxSpatialPooling`
+9. `CNTK.PoolingOperation`
+10. `CNTK.MaxPool2D`

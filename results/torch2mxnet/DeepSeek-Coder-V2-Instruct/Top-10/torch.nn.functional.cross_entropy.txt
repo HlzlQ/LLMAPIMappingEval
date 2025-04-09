@@ -1,0 +1,13 @@
+
+
+## My Answer:
+1. `torch.nn.functional.cross_entropy`
+2. `mxnet.gluon.loss.SoftmaxCrossEntropyLoss`
+3. `mxnet.ndarray.softmax_cross_entropy`
+4. `mxnet.symbol.softmax_cross_entropy`
+5. `mxnet.gluon.loss.LogisticLoss`
+6. `mxnet.ndarray.logistic_loss`
+7. `mxnet.symbol.logistic_loss`
+8. `mxnet.gluon.loss.L2Loss`
+9. `mxnet.ndarray.square_loss`
+10. `mxnet.symbol.square_loss`

@@ -1,0 +1,10 @@
+mxnet.init.Zero
+mxnet.initializer.Zero
+mxnet.gluon.nn.initializer.Zero
+mxnet.ndarray.zeros
+mxnet.symbol.zeros
+mxnet.ndarray.full
+mxnet.symbol.full
+mxnet.ndarray.zeros_like
+mxnet.symbol.zeros_like
+mxnet.ndarray.ones_like

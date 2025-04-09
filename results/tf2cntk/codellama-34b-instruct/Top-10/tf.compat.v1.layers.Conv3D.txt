@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for Convolutional Neural Networks (CNNs) with 3D data:
+
+1. `cntk.layers.Convolution3D`
+2. `cntk.layers.Conv3D`
+3. `cntk.layers.ConvolutionTranspose3D`
+4. `cntk.layers.Deconvolution3D`
+5. `cntk.layers.MaxPooling3D`
+6. `cntk.layers.AveragePooling3D`
+7. `cntk.layers.GlobalMaxPooling3D`
+8. `cntk.layers.GlobalAveragePooling3D`
+9. `cntk.layers.BatchNormalization3D`
+10. `cntk.layers.InstanceNormalization3D`

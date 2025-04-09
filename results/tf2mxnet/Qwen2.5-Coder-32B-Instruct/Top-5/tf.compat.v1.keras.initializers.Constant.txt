@@ -1,0 +1,5 @@
+mxnet.init.Constant
+mxnet.gluon.nn.initializer.Constant
+mxnet.ndarray.contrib.Constant
+mxnet.symbol.contrib.Constant
+mxnet.random.Constant

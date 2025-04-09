@@ -1,0 +1,10 @@
+1. System.Collections.Generic.List<T>.Insert
+2. System.Collections.Generic.List<T>.RemoveAt
+3. System.Collections.Generic.List<T>.Add
+4. System.Collections.ArrayList.Insert
+5. System.Collections.ArrayList.RemoveAt
+6. System.Collections.ArrayList.Add
+7. System.Collections.ObjectModel.Collection<T>.InsertItem
+8. System.Windows.Controls.ItemCollection.Insert
+9. System.Windows.Controls.ItemCollection.Remove At
+10. System.Collections.Generic.IList<T>.Insert

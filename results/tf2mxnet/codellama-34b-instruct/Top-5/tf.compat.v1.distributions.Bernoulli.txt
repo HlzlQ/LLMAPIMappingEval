@@ -1,0 +1,8 @@
+
+Here are five possible MXNet APIs that can be used for Bernoulli distribution:
+
+1. `mxnet.distributions.Bernoulli`
+2. `mxnet.distributions.bernoulli_distribution`
+3. `mxnet.distributions.Binomial`
+4. `mxnet.distributions.binomial_distribution`
+5. `mxnet.distributions.DiscreteUniform`

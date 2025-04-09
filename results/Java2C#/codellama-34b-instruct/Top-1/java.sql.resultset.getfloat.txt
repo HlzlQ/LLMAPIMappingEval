@@ -1,0 +1,23 @@
+C# does not have a direct equivalent to the `java.sql.resultset.getfloat` method. However, you can use the `GetFloat` method provided by the `System.Data.SqlClient` namespace in C# to retrieve a floating-point value from a SQL Server database. Here's an example:
+```csharp
+using System.Data;
+using System.Data.SqlClient;
+
+// Create a new SqlConnection object
+SqlConnection conn = new SqlConnection("Server=myServerAddress;Database=myDatabase;User Id=myUsername;Password=myPassword;");
+
+// Open the connection
+conn.Open();
+
+// Create a new SqlCommand object
+SqlCommand cmd = new SqlCommand("SELECT myColumn FROM myTable", conn);
+
+// Execute the command and retrieve the result set
+SqlDataReader reader = cmd.ExecuteReader();
+
+// Read the first row of the result set
+reader.Read();
+
+// Get the value of the first column as a float
+float myValue = (float)reader["myColumn"];
+```

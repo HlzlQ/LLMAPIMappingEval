@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.functional.cosine_similarity
+2. F.pairwise_distance
+3. nn.CosineEmbeddingLoss
+4. nn.MSELoss
+5. nn.L1Loss

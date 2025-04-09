@@ -1,0 +1,10 @@
+1. java.util.LinkedList.get
+2. java.util.ArrayList.get
+3. java.util.HashMap.get
+4. java.util.HashSet.contains
+5. java.util.TreeMap.get
+6. java.util.TreeSet.contains
+7. java.util.concurrent.ConcurrentHashMap.get
+8. java.util.concurrent.CopyOnWriteArrayList.get
+9. java.util.concurrent.LinkedBlockingQueue.poll
+10. java.util.concurrent.PriorityBlockingQueue.peek

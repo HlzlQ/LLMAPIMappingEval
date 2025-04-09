@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Match.Success  
+System.Text.RegularExpressions.Regex.IsMatch  
+System.Text.RegularExpressions.Match.NextMatch  
+System.Text.RegularExpressions.MatchCollection.GetEnumerator  
+System.Text.RegularExpressions.Match.Result

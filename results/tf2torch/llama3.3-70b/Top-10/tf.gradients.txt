@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that are equivalent to `tensorflow.gradients`:
+
+1. torch.autograd.grad
+2. torch.autograd.backward
+3. torch.autograd.functional.jacobian
+4. torch.autograd.functional.hessian
+5. torch.autograd.Function
+6. torch.Tensor.backward
+7. torch.optim.Optimizer.step
+8. torch.autograd.Variable.grad
+9. torch.autograd.grad_mode
+10. torch.autograd.set_detect_anomaly

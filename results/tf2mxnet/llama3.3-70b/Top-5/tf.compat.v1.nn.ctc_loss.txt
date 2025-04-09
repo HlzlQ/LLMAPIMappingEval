@@ -1,0 +1,7 @@
+Here are the 5 most likely MXNet API mappings for `tensorflow.compat.v1.nn.ctc_loss`:
+
+1. mxnet.ndarray.contrib CTCLoss
+2. mxnet.gluon.loss.CTCLoss
+3. mxnet.ndarray.CTCLoss
+4. mxnet.gluon.contrib.loss.CTCLoss
+5. mxnet gluon.loss.ctc_loss

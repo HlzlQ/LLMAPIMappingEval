@@ -1,0 +1,5 @@
+1. cntk.relu
+2. cntk.leaky_relu
+3. cntk.elu
+4. cntk.softplus
+5. cntk.tanh

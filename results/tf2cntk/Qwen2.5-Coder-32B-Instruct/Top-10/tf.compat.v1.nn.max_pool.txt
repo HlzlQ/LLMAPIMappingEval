@@ -1,0 +1,10 @@
+cntk.layers.MaxPooling
+cntk.ops.argmax_over_axis
+cntk.reduce_max
+cntk.layers.ReduceMax
+cntk.layers.Pooling
+cntk.layers.GlobalAveragePooling
+cntk.layers.GlobalMaxPooling
+cntk.layers.ConvolutionalStacking
+cntk.layers.Sequential
+cntk.layers.FunctionalBlock

@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent TensorFlow APIs for `torch.distributions.gamma.Gamma`:
+
+1. tfp.distributions.Gamma
+2. tf.random.gamma
+3. tf.math.gamma
+4. tfp.distributions.InverseGamma
+5. tfp.distributions.LogNormal
+6. tfp.distributions.Erlang
+7. tfp.distributions.Changedistribution
+8. tfp.bijectors.Gamma
+9. tfp.bijectors.Invert
+10. tfp.distributions.TransformedDistribution

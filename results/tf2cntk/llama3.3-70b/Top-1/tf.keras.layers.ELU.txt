@@ -1,0 +1,1 @@
+ELU (cntk.layers.elu)

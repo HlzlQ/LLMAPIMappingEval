@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.nn.functional.selu`:
+
+1. `tf.keras.layers.SELU`
+2. `tf.keras.activations.selu`
+3. `tf.nn.selu`
+4. `tf.keras.backend.selu`
+5. `tf.keras.utils.selu`
+6. `tf.nn.functional.selu`
+7. `tf.keras.layers.DenseSELU`
+8. `tf.keras.activations.DenseSELU`
+9. `tf.nn.DenseSELU`
+10. `tf.keras.backend.DenseSELU`

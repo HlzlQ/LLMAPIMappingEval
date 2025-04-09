@@ -1,0 +1,5 @@
+1. Dense
+2. FullyConnected
+3. LinearLayer
+4. DenseLayer
+5. FullyConnectedLayer

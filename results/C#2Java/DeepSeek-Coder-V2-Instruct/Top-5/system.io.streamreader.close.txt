@@ -1,0 +1,5 @@
+java.io.BufferedReader.close
+java.io.FileInputStream.close
+java.io.OutputStream.close
+java.io.PrintWriter.close
+java.nio.channels.Channel.close

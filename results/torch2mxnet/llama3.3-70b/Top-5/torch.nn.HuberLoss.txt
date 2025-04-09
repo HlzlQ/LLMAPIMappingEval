@@ -1,0 +1,5 @@
+1. mx.gluon.loss.HuberLoss
+2. mxnet.gluon.loss.HuberLoss
+3. gluon.loss.HuberLoss
+4. mx.gluon.nn.HuberLoss
+5. mxnet.gluon.nn.HuberLoss

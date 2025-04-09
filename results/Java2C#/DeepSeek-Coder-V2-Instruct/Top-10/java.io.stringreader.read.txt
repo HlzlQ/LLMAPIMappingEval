@@ -1,0 +1,10 @@
+1. System.IO.StringReader.Read
+2. System.Text.StringBuilder.Append
+3. System.Text.StringBuilder.ToString
+4. System.Text.StringBuilder.Insert
+5. System.Text.StringBuilder.Remove
+6. System.Text.StringBuilder.Replace
+7. System.Text.StringBuilder.Capacity
+8. System.Text.StringBuilder.Length
+9. System.Text.StringBuilder.EnsureCapacity
+10. System.Text.StringBuilder.TrimToSize

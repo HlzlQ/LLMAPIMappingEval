@@ -1,0 +1,5 @@
+1. java.lang.Enum.toString()
+2. java.lang.Class.getEnumConstants()
+3. java.lang.reflect.Method.invoke(Object, Object[])
+4. java.lang.String.valueOf(Object)
+5. java.lang.StringBuilder.append(Object)

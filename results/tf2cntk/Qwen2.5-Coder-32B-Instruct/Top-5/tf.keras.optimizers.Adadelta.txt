@@ -1,0 +1,5 @@
+cntk.adagrad
+cntk.adam
+cntk.rmsprop
+cntk.sgd
+cntk.fsadagrad

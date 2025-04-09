@@ -1,0 +1,2 @@
+
+Answer: Adam, SGD, Adadelta, RMSprop, LBFGS, Adamax, ASGD, Rprop, NAdam, SparseAdam

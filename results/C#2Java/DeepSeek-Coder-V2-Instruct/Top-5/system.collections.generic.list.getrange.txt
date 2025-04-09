@@ -1,0 +1,5 @@
+1. java.util.List.subList
+2. java.util.List.get
+3. java.util.List.indexOf
+4. java.util.List.lastIndexOf
+5. java.util.List.addAll

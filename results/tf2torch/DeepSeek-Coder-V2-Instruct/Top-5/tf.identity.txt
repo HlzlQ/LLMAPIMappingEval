@@ -1,0 +1,7 @@
+
+
+1. torch.Tensor.detach()
+2. torch.nn.Parameter()
+3. torch.tensor()
+4. torch.clone()
+5. torch.Tensor.requires_grad_()

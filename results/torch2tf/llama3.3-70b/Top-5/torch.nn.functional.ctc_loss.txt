@@ -1,0 +1,5 @@
+1. tf.keras.backend.ctc_batch_cost
+2. tf.nn.ctc_loss_v2
+3. tf.compat.v1.nn.ctc_loss
+4. tf.raw_ops.CTCLoss
+5. tf.nn.ctc_beam_search_decoder

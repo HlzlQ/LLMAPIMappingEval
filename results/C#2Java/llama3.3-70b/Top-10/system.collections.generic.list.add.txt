@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.collections.generic.list.add` in C#:
+
+1. java.util.ArrayList.add
+2. java.util.LinkedList.add
+3. java.util.Vector.add
+4. java.util.Stack.add
+5. java.util.PriorityQueue.add
+6. java.util.concurrent.CopyOnWriteArrayList.add
+7. java.util.concurrent.ConcurrentLinkedQueue.add
+8. java.util.ArrayDeque.add
+9. java.util.LinkedHashSet.add
+10. java.util.TreeSet.add

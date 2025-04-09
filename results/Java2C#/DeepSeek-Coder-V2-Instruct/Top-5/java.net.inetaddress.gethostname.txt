@@ -1,0 +1,5 @@
+1. System.Net.Dns.GetHostName()
+2. System.Net.Dns.GetHostByAddress(System.Net.IPAddress)
+3. System.Net.Dns.Resolve(System.String)
+4. System.Net.Dns.GetHostEntry(System.String)
+5. System.Net.Dns.GetHostEntry(System.Net.IPAddress)

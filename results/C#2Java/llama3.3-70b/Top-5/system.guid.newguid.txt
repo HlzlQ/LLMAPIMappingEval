@@ -1,0 +1,7 @@
+Here are 5 Java APIs that match the functionality of `system.guid.newguid` in C#:
+
+1. java.util.UUID.randomUUID()
+2. java.util.UUID.nameUUIDFromBytes()
+3. java.nio.ByteBuffer.allocate().putLong().putLong()
+4. javax.xml.datatype.DatatypeFactory.newInstance().newUUID()
+5. com.google.common.base.Uuids.randomUuid()

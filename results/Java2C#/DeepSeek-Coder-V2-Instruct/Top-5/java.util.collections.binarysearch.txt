@@ -1,0 +1,5 @@
+1. System.Array.BinarySearch
+2. List<T>.BinarySearch
+3. Dictionary<TKey, TValue>.TryGetValue
+4. HashSet<T>.Contains
+5. SortedList<TKey, TValue>.IndexOfKey

@@ -1,0 +1,16 @@
+
+PyTorch does not have a direct equivalent of `tf.norm`. However, you can use the following APIs to achieve similar functionality:
+
+* `torch.linalg.norm`: Computes the matrix norm of a tensor.
+* `torch.linalg.vector_norm`: Computes the vector norm of a tensor.
+* `torch.linalg.matrix_norm`: Computes the matrix norm of a tensor.
+
+For example, to compute the L2 norm of a tensor in PyTorch, you can use the following code:
+```
+import torch
+
+tensor = torch.randn(3, 4)
+norm = torch.linalg.vector_norm(tensor, dim=1)
+print(norm)
+```
+This will output a tensor with shape `(3,)` containing the L2 norm of each row in `tensor`.

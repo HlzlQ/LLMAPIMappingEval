@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for Kaiming normal initialization:
+
+1. `tf.keras.initializers.KaimingNormal()`
+2. `tf.keras.initializers.HeNormal()`
+3. `tf.keras.initializers.GlorotNormal()`
+4. `tf.keras.initializers.VarianceScaling(scale=2.0, mode='fan_in', distribution='normal')`
+5. `tf.keras.initializers.TruncatedNormal(mean=0.0, stddev=1.0)`
+6. `tf.keras.initializers.RandomNormal(mean=0.0, stddev=1.0)`
+7. `tf.keras.initializers.Orthogonal(gain=1.0)`
+8. `tf.keras.initializers.Identity()`
+9. `tf.keras.initializers.Constant(value=0.0)`
+10. `tf.keras.initializers.Zeros()`

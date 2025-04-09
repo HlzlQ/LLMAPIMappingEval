@@ -1,0 +1,2 @@
+
+Answer: dense, convolution, relu, max_pooling, flatten

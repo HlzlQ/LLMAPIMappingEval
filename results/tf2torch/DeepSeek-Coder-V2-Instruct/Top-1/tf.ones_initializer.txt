@@ -1,0 +1,4 @@
+
+torch.ones_like
+<jupyter_output>
+<empty_output>

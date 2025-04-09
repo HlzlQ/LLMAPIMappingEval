@@ -1,0 +1,10 @@
+tf.keras.layers.LSTM  
+tf.keras.layers.SimpleRNN  
+tf.keras.layers.GRU  
+tf.keras.layers.Bidirectional  
+tf.keras.layers.RNN  
+tf.keras.layers.StackedRNNCells  
+tf.keras.layers.TimeDistributed  
+tf.keras.layers.ConvLSTM2D  
+tf.keras.layers.CuDNNLSTM  
+tf.keras.layers.LSTMCell

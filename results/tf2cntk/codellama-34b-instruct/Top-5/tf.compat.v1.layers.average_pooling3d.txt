@@ -1,0 +1,6 @@
+
+* cntk.ops.average_pooling3d
+* cntk.layers.average_pooling3d
+* cntk.layers.pooling.average_pooling3d
+* cntk.layers.convolutional.average_pooling3d
+* cntk.ops.convolutional.average_pooling3d

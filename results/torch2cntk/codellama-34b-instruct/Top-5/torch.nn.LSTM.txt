@@ -1,0 +1,5 @@
+  cntk.ops.sequence.lstm
+  cntk.ops.sequence.lstm_with_self_stabilization
+  cntk.ops.sequence.lstm_with_peepholes
+  cntk.ops.sequence.lstm_with_projection
+  cntk.ops.sequence.lstm_with_zoneout

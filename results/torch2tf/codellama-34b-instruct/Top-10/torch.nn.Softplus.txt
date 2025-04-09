@@ -1,0 +1,9 @@
+  tf.keras.activations.softplus
+  tf.nn.softplus
+  tf.keras.layers.Softmax
+  tf.nn.softmax
+  tf.keras.layers.Dense
+  tf.keras.layers.Activation
+  tf.nn.relu
+  tf.keras.activations.relu
+  tf.keras.layers.ReLU

@@ -1,0 +1,11 @@
+
+Answer: 1. torch.nn.Conv3d
+2. torch.nn.functional.conv3d
+3. tf.keras.layers.Conv3D
+4. tf.keras.layers.Conv3DTranspose
+5. tf.keras.layers.SeparableConv3D
+6. tf.keras.layers.DepthwiseConv3D
+7. torch.nn.modules.conv.Conv3d
+8. torch.nn.functional.conv3d_transpose
+9. tf.keras.layers.Conv2D
+10. tf.keras.layers.Conv2DTranspose

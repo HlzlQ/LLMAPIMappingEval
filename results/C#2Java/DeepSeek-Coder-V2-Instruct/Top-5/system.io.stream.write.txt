@@ -1,0 +1,5 @@
+java.io.OutputStream.write
+javax.servlet.ServletOutputStream.write
+java.nio.channels.WritableByteChannel.write
+java.lang.Appendable.append
+java.io.PrintStream.write

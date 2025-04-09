@@ -1,0 +1,5 @@
+tf.math.log_softmax  
+tf.nn.log_softmax  
+tf.sparse.softmax  
+tf.sparse.log_softmax  
+tf.raw_ops.SparseLogSoftmax

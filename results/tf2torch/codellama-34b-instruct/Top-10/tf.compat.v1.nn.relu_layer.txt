@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that are similar to TensorFlow's `nn.relu_layer`:
+
+1. `torch.nn.ReLU()`
+2. `torch.nn.functional.relu()`
+3. `torch.nn.modules.activation.ReLU()`
+4. `torch.nn.modules.activation.LeakyReLU()`
+5. `torch.nn.modules.activation.PReLU()`
+6. `torch.nn.modules.activation.RReLU()`
+7. `torch.nn.modules.activation.SELU()`
+8. `torch.nn.modules.activation.CELU()`
+9. `torch.nn.modules.activation.Sigmoid()`
+10. `torch.nn.modules.activation.Tanh()`

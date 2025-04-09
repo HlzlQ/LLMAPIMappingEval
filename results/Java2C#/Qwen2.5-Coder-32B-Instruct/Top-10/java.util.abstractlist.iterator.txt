@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.GetEnumerator  
+System.Collections.ArrayList.GetEnumerator  
+System.Collections.Generic.IList<T>.GetEnumerator  
+System.Collections.ICollection.GetEnumerator  
+System.Collections.Generic.Collection<T>.GetEnumerator  
+System.Collections.Generic.LinkedList<T>.GetEnumerator  
+System.Collections.Generic.Queue<T>.GetEnumerator  
+System.Collections.Generic.Stack<T>.GetEnumerator  
+System.Collections.Specialized.StringCollection.GetEnumerator  
+System.Collections.ObjectModel.ReadOnlyCollection<T>.GetEnumerator

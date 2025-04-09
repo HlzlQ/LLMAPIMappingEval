@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `System.IO.DirectoryInfo.GetDisplayName` in C#:
+
+1. java.io.File.getName
+2. java.io.File.getCanonicalName
+3. java.nio.file.Path.getFileName
+4. java.nio.file.Path.toString
+5. java.io.File.getAbsolutePath
+6. java.io.File.getParent
+7. java.nio.file.Files.getFileName
+8. java.nio.file.Paths.getFileName
+9. java.io.File.list
+10. java.nio.file.FileSystem.getDefault().getPath("")

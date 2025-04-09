@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.nn.dropout`:
+
+1. mxnet.ndarray.Dropout
+2. mxnet.gluon.nn.Dropout
+3. mxnet.sym.Dropout
+4. mxnet.ndarray.random.dropout
+5. mxnet.gluon.loss.SigmoidBinaryCrossEntropyLoss
+6. mxnet.gluon.nn.HybridSequential
+7. mxnet.gluon.nn.Activation
+8. mxnet.ndarray.L2Normalization
+9. mxnet.gluon.nn.BatchNorm
+10. mxnet.sym.ElementWiseSum

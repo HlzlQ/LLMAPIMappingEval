@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the functionality of `system.net.dns.gethostbyname` in C#:
+
+1. java.net.InetAddress.getByName
+2. java.net.InetAddress.getAllByName
+3. java.net.InetAddress.getLocalHost
+4. java.net.InetAddress.getCanonicalHostName
+5. java.net.DatagramSocket.getRemoteSocketAddress

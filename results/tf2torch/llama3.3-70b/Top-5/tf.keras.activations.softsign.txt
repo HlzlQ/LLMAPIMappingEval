@@ -1,0 +1,5 @@
+1. torch.nn.Softsign
+2. torch.sigmoid
+3. torch.tanh
+4. torch.nn.Tanh
+5. torch.nn.Sigmoid

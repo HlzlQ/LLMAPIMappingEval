@@ -1,0 +1,10 @@
+java.net.URLEncoder.encode  
+java.nio.charset.StandardCharsets.UTF_8  
+javax.servlet.http.HttpServletResponse.encodeURL  
+javax.servlet.http.HttpServletResponse.encodeRedirectURL  
+org.apache.commons.codec.net.URLCodec.encode  
+org.springframework.web.util.UriUtils.encodeQuery  
+org.springframework.web.util.UriComponentsBuilder.fromUriString  
+com.google.common.net.UrlEscapers.urlFormParameterEscaper  
+java.nio.file.Paths.get  
+java.io.File.toURI

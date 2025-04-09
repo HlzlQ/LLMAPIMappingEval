@@ -1,0 +1,7 @@
+Here are the 5 most likely CNTK API mappings for `tensorflow.compat.v1.math.softmax`:
+
+1. `CNTK.softmax`
+2. `CNTK.Softmax`
+3. `cntk.ops.softmax`
+4. `cntk.layers.Softmax`
+5. `cntk.functions.softmax`

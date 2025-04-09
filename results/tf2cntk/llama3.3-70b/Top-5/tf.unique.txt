@@ -1,0 +1,5 @@
+1. cntk.unique
+2. cntk.gather
+3. cntk.scatter
+4. cntk.one_hot
+5. cntk.topk

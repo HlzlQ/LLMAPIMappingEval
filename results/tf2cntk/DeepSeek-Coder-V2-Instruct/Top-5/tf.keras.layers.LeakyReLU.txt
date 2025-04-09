@@ -1,0 +1,2 @@
+
+Answer: BatchNormalization, Conv2D, Dense, LeakyReLU, Dropout

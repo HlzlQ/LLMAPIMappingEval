@@ -1,0 +1,9 @@
+
+Answer: ```python
+tfp = tf.contrib.distributions
+```
+1. `Dirichlet`
+2. `tfp.dirichlet.Dirichlet`
+3. `tfp.distributions.Dirichlet`
+4. `tf.contrib.distributions.Dirichlet`
+5. `tf.distribute.Dirichlet`

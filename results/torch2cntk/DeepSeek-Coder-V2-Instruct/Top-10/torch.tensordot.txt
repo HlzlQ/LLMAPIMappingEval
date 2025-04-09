@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. `torch.add` -> `CNTK.plus`
+2. `torch.sub` -> `CNTK.minus`
+3. `torch.mul` -> `CNTK.times`
+4. `torch.div` -> `CNTK.divide`
+5. `torch.mm` -> `CNTK.times` (matrix multiplication)
+6. `torch.matmul` -> `CNTK.times` (matrix multiplication)
+7. `torch.bmm` -> Not directly available in CNTK, but can be achieved using `CNTK.times` with reshaping and transposing tensors.
+8. `torch.dot` -> `CNTK.times` (element-wise product followed by sum)
+9. `torch.norm` -> `CNTK.sqrt` (square root of the sum of squares)
+10. `torch.tensordot` -> Not directly available in CNTK, but can be achieved using custom operations or reshaping tensors to fit the required functionality.

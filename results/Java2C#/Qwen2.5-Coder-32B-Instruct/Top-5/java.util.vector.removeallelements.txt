@@ -1,0 +1,5 @@
+System.Collections.ArrayList.Clear  
+System.Collections.Generic.List<T>.Clear  
+System.Collections.Hashtable.Clear  
+System.Collections.SortedList.Clear  
+System.Data.DataTable.Clear

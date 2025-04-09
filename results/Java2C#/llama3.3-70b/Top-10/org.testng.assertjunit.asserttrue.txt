@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+2. NUnit.Framework.Assert.IsTrue
+3. xunit.assert.True
+4. FluentAssertions.Bool.ShouldBeTrue
+5. Shouldly.Should.BeTrue
+6. System.Diagnostics.Debug.Assert
+7. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+8. NUnit.Framework.Assert.AreEqual
+9. xunit.assert.Equal
+10. FluentAssertions.Object.ShouldBeEquivalentTo

@@ -1,0 +1,5 @@
+java.io.BufferedReader.readLine()
+java.nio.file.Files.readString(Path)
+java.util.Scanner.nextLine()
+java.io.InputStreamReader.readLine()
+java.io.InputStream.read()

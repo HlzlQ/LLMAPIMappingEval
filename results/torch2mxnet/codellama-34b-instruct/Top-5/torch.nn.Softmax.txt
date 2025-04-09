@@ -1,0 +1,7 @@
+  | PyTorch API | MXNet API |
+  | --- | --- |
+  | torch.nn.Softmax | mxnet.ndarray.softmax |
+  | torch.nn.LogSoftmax | mxnet.ndarray.log_softmax |
+  | torch.nn.SoftmaxCrossEntropyLoss | mxnet.gluon.loss.SoftmaxCrossEntropyLoss |
+  | torch.nn.NLLLoss | mxnet.gluon.loss.NLLLoss |
+  | torch.nn.CrossEntropyLoss | mxnet.gluon.loss.CrossEntropyLoss |

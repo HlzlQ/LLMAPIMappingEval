@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. org.junit.Assert.assertSame
+2. org.testng.Assert.assertSame
+3. org.easymock.EasyMock.expectLastCall
+4. org.mockito.Mockito.verifyNoMoreInteractions
+5. org.powermock.api.easymock.PowerMock.replayAll
+6. org.powermock.api.mockito.PowerMockito.verifyNoMoreInteractions
+7. org.jmock.Expectations.allowing
+8. org.jmock.Expectations.never
+9. org.jmock.Expectations.atLeastOnce
+10. org.jmock.Expectations.times

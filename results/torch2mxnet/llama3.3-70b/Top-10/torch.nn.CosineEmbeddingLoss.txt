@@ -1,0 +1,12 @@
+Here are the top 10 MXNet APIs that match the functionality of `torch.nn.CosineEmbeddingLoss`:
+
+1. mxnet.gluon.loss.CosineEmbeddingLoss
+2. mxnet.ndarray.cosine_similarity
+3. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+4. mxnet.ndarray.L2Normalization
+5. mxnet.gluon.loss.HuberLoss
+6. mxnet.ndarray.dot
+7. mxnet.gluon.loss.MSE
+8. mxnet.ndarray.normalize
+9. mxnet.gluon.loss.KLDivLoss
+10. mxnet.ndarray.inner_product

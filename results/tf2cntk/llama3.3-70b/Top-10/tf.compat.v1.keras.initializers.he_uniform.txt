@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings:
+
+1. cntk.initializers.he_normal
+2. cntk.initializers.glorot_uniform
+3. cntk.initializers.glorot_normal
+4. cntk.layers.initializers.he_normal
+5. cntk.layers.initializers.glorot_uniform
+6. cntk.layers.initializers.glorot_normal
+7. cntk.initializers.xavier_uniform
+8. cntk.initializers.xavier_normal
+9. cntk.layers.initializers.xavier_uniform
+10. cntk.layers.initializers.xavier_normal

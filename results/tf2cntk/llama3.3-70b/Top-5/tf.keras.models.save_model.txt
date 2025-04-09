@@ -1,0 +1,5 @@
+1. cntk.Function.save
+2. cntk.Model.save
+3. cntk.utils.save_model
+4. cntk.train.training_session.save_checkpoint
+5. cntk.train.training_session.save_model

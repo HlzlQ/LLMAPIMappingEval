@@ -1,0 +1,5 @@
+1. java.lang.Math.min(int, int)
+2. java.lang.Math.min(long, long)
+3. java.lang.Math.min(float, float)
+4. java.lang.Math.min(double, double)
+5. java.util.Arrays.min(int[])

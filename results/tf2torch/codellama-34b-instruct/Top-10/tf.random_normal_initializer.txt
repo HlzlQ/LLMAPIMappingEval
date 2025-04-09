@@ -1,0 +1,2 @@
+  tf.keras.initializers.RandomNormal(mean=0.0, stddev=1.0)
+  torch.nn.init.normal_(tensor, mean=0.0, std=1.0)

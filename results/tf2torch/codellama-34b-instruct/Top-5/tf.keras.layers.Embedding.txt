@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for embedding layers:
+
+1. `torch.nn.Embedding`
+2. `torch.nn.EmbeddingBag`
+3. `torch.nn.EmbeddingLookup`
+4. `torch.nn.EmbeddingFromTensor`
+5. `torch.nn.EmbeddingToTensor`

@@ -1,0 +1,10 @@
+System.Collections.Generic.List<T>.Add  
+System.Collections.ArrayList.Add  
+System.Collections.Generic.LinkedList<T>.AddLast  
+System.Collections.Generic.Queue<T>.Enqueue  
+System.Collections.Generic.Stack<T>.Push  
+System.Collections.ObjectModel.Collection<T>.Add  
+System.Collections.Specialized.StringCollection.Add  
+System.Web.UI.WebControls.ListViewItemCollection.Add  
+System.Windows.Forms.Control.ControlCollection.Add  
+System.Data.DataTable.Rows.Add

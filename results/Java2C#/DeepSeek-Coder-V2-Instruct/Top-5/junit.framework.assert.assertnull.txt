@@ -1,0 +1,5 @@
+1. System.NullReferenceException
+2. ArgumentNullException
+3. Nullable.GetUnderlyingType
+4. Marshal.PtrToStructure
+5. XmlSerializer.Serialize

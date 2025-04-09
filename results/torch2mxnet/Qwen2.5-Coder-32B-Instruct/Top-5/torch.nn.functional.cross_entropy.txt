@@ -1,0 +1,5 @@
+mxnet.gluon.loss.SoftmaxCrossEntropyLoss  
+mxnet.ndarray.softmax_cross_entropy  
+mxnet.symbol.softmax_cross_entropy  
+mxnet.metric.CrossEntropy  
+mxnet.autograd.Function.softmax_cross_entropy

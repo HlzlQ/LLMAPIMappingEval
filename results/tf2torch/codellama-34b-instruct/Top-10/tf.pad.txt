@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `pad` API:
+
+1. `torch.nn.functional.pad`
+2. `torch.nn.functional.zero_pad`
+3. `torch.nn.functional.reflect_pad`
+4. `torch.nn.functional.replicate_pad`
+5. `torch.nn.functional.circular_pad`
+6. `torch.nn.functional.symmetric_pad`
+7. `torch.nn.functional.asymmetric_pad`
+8. `torch.nn.functional.reflect1d_pad`
+9. `torch.nn.functional.replicate1d_pad`
+10. `torch.nn.functional.circular1d_pad`

@@ -1,0 +1,10 @@
+1. System.Char.IsControl
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.Char.IsLetterOrDigit
+4. System.Char.IsSymbol
+5. System.Char.IsPunctuation
+6. System.Char.IsWhiteSpace
+7. System.Char.IsLower
+8. System.Char.IsUpper
+9. System.Char.IsDigit
+10. System.Char.IsLetter

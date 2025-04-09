@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# GRUCell in MXNet equivalent API
+print("GRU")
+<jupyter_output>
+GRU

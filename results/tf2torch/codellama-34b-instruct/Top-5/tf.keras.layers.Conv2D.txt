@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to TensorFlow's `Conv2D` API:
+
+1. `torch.nn.Conv2d`
+2. `torch.nn.ConvTranspose2d`
+3. `torch.nn.Conv1d`
+4. `torch.nn.Conv3d`
+5. `torch.nn.Conv2dSame`

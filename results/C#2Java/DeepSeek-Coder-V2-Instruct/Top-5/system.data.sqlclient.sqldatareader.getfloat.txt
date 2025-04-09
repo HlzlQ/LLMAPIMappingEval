@@ -1,0 +1,5 @@
+1. ResultSet.getFloat()
+2. SqlDataReader.GetFloat()
+3. DataRecord.GetFloat()
+4. PreparedStatement.getFloat()
+5. CallableStatement.getFloat()

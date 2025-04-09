@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.math.round` in C#:
+
+1. java.lang.Math.round
+2. java.lang.Double.parseDouble
+3. java.lang.Float.parseFloat
+4. java.text.DecimalFormat.round
+5. java.math.BigDecimal.setScale
+6. java.math.RoundingMode.HALF_UP
+7. java.math.RoundingMode.HALF_DOWN
+8. java.math.BigInteger.valueOf
+9. java.util.Formatter.format
+10. org.apache.commons.math3.util.FastMath.round

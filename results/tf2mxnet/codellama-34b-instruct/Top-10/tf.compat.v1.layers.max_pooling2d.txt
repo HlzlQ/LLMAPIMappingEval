@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for max pooling:
+
+1. mxnet.ndarray.max_pooling2d
+2. mxnet.symbol.MaxPooling2D
+3. mxnet.gluon.nn.MaxPool2D
+4. mxnet.gluon.nn.MaxPooling2D
+5. mxnet.ndarray.max_pooling1d
+6. mxnet.symbol.MaxPooling1D
+7. mxnet.gluon.nn.MaxPool1D
+8. mxnet.gluon.nn.MaxPooling1D
+9. mxnet.ndarray.max_pooling3d
+10. mxnet.symbol.MaxPooling3D

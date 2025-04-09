@@ -1,0 +1,1 @@
+`CNTK.Slice` or more likely `CNTK.Reshape` with specific parameters, but closest match would be  `CNTK.reshape` with a custom axis specification to mimic pixel unshuffling behavior, however there isn't an exact equivalent in CNTK so it can also be achieved using `CNTK.transpose` and then `CNTK.reshape`.

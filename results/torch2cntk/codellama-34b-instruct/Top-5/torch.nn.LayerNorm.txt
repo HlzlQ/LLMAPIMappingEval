@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `torch.nn.LayerNorm` API:
+
+1. `cntk.layers.LayerNormalization`
+2. `cntk.layers.BatchNormalization`
+3. `cntk.layers.InstanceNormalization`
+4. `cntk.layers.GroupNormalization`
+5. `cntk.layers.LayerNorm`

@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.Flatten`:
+
+1. mxnet.ndarray.flatten
+2. mxnet.gluon.nn.Flatten
+3. mxnet.nd.Flatten
+4. mxnet.gluon.Flatten
+5. mxnet.ndarray.api.flatten
+6. mxnet.ndarray.Flatten
+7. mxnet.gluon.nn.layers.Flatten
+8. mxnet.nd.array.api.flatten
+9. mxnet.gluon.nn.FlattenLayer
+10. mxnet.gluon.nn.layers.FlattenData

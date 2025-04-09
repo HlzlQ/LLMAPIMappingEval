@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.nn.CosineSimilarity`:
+
+1. tf.keras.losses.CosineSimilarity
+2. tf.metrics.CosineSimilarity
+3. tf.keras.layers.CosineSimilarity
+4. tf.cosine_similarity
+5. tf.linalg.normalize
+6. tf.math.l2_normalize
+7. tf.keras.losses.MeanSquaredError
+8. tf.keras.optimizers.Adam
+9. tf.reduce_sum
+10. tf.tensordot

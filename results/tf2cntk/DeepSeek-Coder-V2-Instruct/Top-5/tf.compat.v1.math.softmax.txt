@@ -1,0 +1,6 @@
+
+Answer: 1. softmax
+2. tf.nn.softmax_cross_entropy_with_logits
+3. tf.keras.activations.softmax
+4. tf.math.softmax
+5. tf.compat.v1.nn.softmax

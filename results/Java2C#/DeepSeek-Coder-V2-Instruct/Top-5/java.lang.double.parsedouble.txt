@@ -1,0 +1,5 @@
+1. System.Double.Parse(string s)
+2. System.Convert.ToDouble(string value)
+3. System.Double.TryParse(string s, out double result)
+4. System.String.ToDouble() (assuming this is a method that exists in C# for converting strings to doubles)
+5. System.Double.Parse(System.IFormatProvider provider, string s)

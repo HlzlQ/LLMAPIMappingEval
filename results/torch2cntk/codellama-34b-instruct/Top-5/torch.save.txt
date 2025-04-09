@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch `torch.save` function:
+
+1. `cntk.save_model`: Saves a trained model to a file.
+2. `cntk.save_weights`: Saves the weights of a trained model to a file.
+3. `cntk.save_optimizer`: Saves the optimizer state of a trained model to a file.
+4. `cntk.save_loss`: Saves the loss function of a trained model to a file.
+5. `cntk.save_metrics`: Saves the metrics of a trained model to a file.

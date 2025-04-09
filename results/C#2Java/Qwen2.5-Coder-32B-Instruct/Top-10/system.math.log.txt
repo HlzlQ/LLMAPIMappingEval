@@ -1,0 +1,10 @@
+java.lang.Math.log
+java.lang.Math.log1p
+java.lang.Math.log10
+java.lang.Math.log2
+java.math.BigDecimal.log
+java.math.BigInteger.log
+java.util.logging.Logger.log
+java.util.logging.Level.log
+java.awt.geom.Point2D.distanceSq(double, double)
+java.awt.geom.Point2D.distance(double, double)

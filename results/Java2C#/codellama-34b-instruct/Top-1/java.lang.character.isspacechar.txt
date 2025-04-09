@@ -1,0 +1,12 @@
+C# does not have a direct equivalent of the `Character.isSpaceChar()` method in Java. However, you can use the following methods to achieve similar functionality:
+
+* `char.IsWhiteSpace(char)`: This method checks if a character is a whitespace character (such as space, tab, or line feed).
+* `char.IsControl(char)`: This method checks if a character is a control character (such as a newline or carriage return).
+* `char.IsSeparator(char)`: This method checks if a character is a separator character (such as a comma or semicolon).
+
+For example, to check if a character is a whitespace character in C#, you can use the following code:
+```
+if (char.IsWhiteSpace(' ')) {
+    // The character is a whitespace character
+}
+```

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch API `torch.tensordot`:
+
+1. `cntk.tensordot`
+2. `cntk.dot`
+3. `cntk.inner_product`
+4. `cntk.matmul`
+5. `cntk.tensor_dot`
+6. `cntk.tensor_product`
+7. `cntk.outer_product`
+8. `cntk.hadamard_product`
+9. `cntk.elementwise_product`
+10. `cntk.tensor_contraction`

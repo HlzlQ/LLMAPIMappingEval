@@ -1,0 +1,5 @@
+1. System.Data.IDataReader.IsDBNull
+2. System.Data.Common.DbDataReader.IsDBNull
+3. System.Data.SqlClient.SqlDataReader.IsDBNull
+4. System.Data.OleDb.OleDbDataReader.IsDBNull
+5. System.Data.Odbc.OdbcDataReader.IsDBNull

@@ -1,0 +1,10 @@
+System.Reflection.PropertyInfo.GetSetMethod
+System.ComponentModel.PropertyDescriptor.SetValue
+System.ComponentModel.TypeConverter.ConvertFrom
+System.ComponentModel.TypeConverter.ConvertTo
+System.ComponentModel.ITypeDescriptorContext.GetService
+System.ComponentModel.AttributeCollection[Attribute]
+System.ComponentModel.Component.Site
+System.ComponentModel.Design.Serialization.CodeDomSerializer.Deserialize
+System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance
+System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer

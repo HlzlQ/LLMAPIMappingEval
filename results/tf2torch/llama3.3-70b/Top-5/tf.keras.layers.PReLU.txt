@@ -1,0 +1,5 @@
+1. torch.nn.PReLU
+2. torch.nn.ReLU
+3. torch.nn.LeakyReLU
+4. torch.nn.Softplus
+5. torch.nn.Sigmoid

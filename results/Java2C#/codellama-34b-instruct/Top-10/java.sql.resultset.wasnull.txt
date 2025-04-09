@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Data.SqlClient.SqlDataReader.IsDBNull()
+2. System.Data.OleDb.OleDbDataReader.IsDBNull()
+3. System.Data.Odbc.OdbcDataReader.IsDBNull()
+4. System.Data.OracleClient.OracleDataReader.IsDBNull()
+5. System.Data.SqlTypes.SqlBoolean.IsNull()
+6. System.Data.SqlTypes.SqlByte.IsNull()
+7. System.Data.SqlTypes.SqlDateTime.IsNull()
+8. System.Data.SqlTypes.SqlDecimal.IsNull()
+9. System.Data.SqlTypes.SqlDouble.IsNull()
+10. System.Data.SqlTypes.SqlInt32.IsNull()

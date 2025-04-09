@@ -1,0 +1,5 @@
+1. System.Security.Cryptography.HashAlgorithm.Clear()
+2. System.Security.Cryptography.SHA1.Create().Initialize()
+3. System.Security.Cryptography.MD5.Create().Reset()
+4. System.Security.Cryptography.SHA256.Create().Dispose()
+5. System.Security.Cryptography.HashAlgorithm.ComputeHash(byte[])

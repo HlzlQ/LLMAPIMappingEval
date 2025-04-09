@@ -1,0 +1,5 @@
+cntk.layers.max_pooling
+cntk.layers.pooling
+cntk.ops.max_pooling
+cntk.layers.reduce_max
+cntk.layers.sequence.last

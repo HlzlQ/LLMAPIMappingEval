@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to `tensorflow.ones_initializer`:
+
+1. `torch.ones`
+2. `torch.zeros`
+3. `torch.eye`
+4. `torch.randn`
+5. `torch.rand`
+6. `torch.normal`
+7. `torch.uniform`
+8. `torch.ones_like`
+9. `torch.zeros_like`
+10. `torch.eye_like`

@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow APIs that match the functionality of `torch.no_grad`:
+
+1. `tf.autograph.set_verbosity`
+2. `tf.config.experimental_run_functions_eagerly`
+3. `tf.disable_v2_behavior`
+4. `tf.compat.v1.disable_eager_execution`
+5. `tf.function`
+6. `tf.autograph.to_graph`
+7. `tf.autograph.to_code`
+8. `tf.config.set_soft_device_placement`
+9. `tf.config.optimizer.set_jit`
+10. `tf.compat.v1.train.MonitoredTrainingSession`

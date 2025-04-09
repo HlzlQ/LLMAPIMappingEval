@@ -1,0 +1,11 @@
+
+Answer: 1. tf.math.l2_normalize
+2. tf.nn.l2_normalize
+3. tf.keras.layers.BatchNormalization
+4. tf.nn.batch_normalization
+5. tf.nn.softmax
+6. tf.nn.relu
+7. tf.nn.sigmoid
+8. tf.nn.tanh
+9. tf.nn.dropout
+10. tf.keras.layers.Dropout

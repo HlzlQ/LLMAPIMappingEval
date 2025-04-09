@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.layers.UpSampling2D`:
+
+1. torch.nn.Upsample
+2. torch.nn.functional.interpolate
+3. torch.nn.functional.upsample
+4. torchvision.transforms.Resize
+5. torchvision.transforms.Upsample
+6. torch.nn.PixelShuffle
+7. torch.nn.functional.pixel_shuffle
+8. torch.nn.UpsamplingBilinear2d
+9. torch.nn.UpsamplingNearest2d
+10. torch.nn.functional.up_sample

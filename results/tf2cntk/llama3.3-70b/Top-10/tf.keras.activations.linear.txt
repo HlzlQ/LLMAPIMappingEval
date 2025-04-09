@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.activations.linear`:
+
+1. CNTK.Linear
+2. CNTK.Identity
+3. CNTK.ElementTimes
+4. CNTK.Scale
+5. CNTK.ConstantTimes
+6. CNTK.PlusConstant
+7. CNTK.TimesConstant
+8. CNTK.LinearLayer
+9. CNTK.Dense
+10. CNTK.LinearActivation

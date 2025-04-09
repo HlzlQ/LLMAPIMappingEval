@@ -1,0 +1,3 @@
+System.Data.SqlClient.SqlDataReader.GetBoolean()
+
+Java equivalent: java.sql.ResultSet.getBoolean()

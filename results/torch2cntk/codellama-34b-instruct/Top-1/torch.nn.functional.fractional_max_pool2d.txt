@@ -1,0 +1,1 @@
+  cntk.ops.fractional_max_pool2d

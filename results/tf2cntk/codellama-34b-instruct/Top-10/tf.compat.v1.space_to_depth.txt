@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `space_to_depth` API:
+
+1. `cntk.layers.SpaceToDepth`
+2. `cntk.ops.space_to_depth`
+3. `cntk.layers.ConvolutionalLayer` with `stride=2` and `padding='SAME'`
+4. `cntk.ops.convolution` with `stride=2` and `padding='SAME'`
+5. `cntk.layers.MaxPoolingLayer` with `pool_size=2` and `stride=2`
+6. `cntk.ops.max_pooling` with `pool_size=2` and `stride=2`
+7. `cntk.layers.AveragePoolingLayer` with `pool_size=2` and `stride=2`
+8. `cntk.ops.average_pooling` with `pool_size=2` and `stride=2`
+9. `cntk.layers.GlobalMaxPoolingLayer` with `pool_size=2` and `stride=2`
+10. `cntk.ops.global_max_pooling` with `pool_size=2` and `stride=2`

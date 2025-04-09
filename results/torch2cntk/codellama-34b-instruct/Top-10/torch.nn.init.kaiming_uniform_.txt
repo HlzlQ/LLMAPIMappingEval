@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for Kaiming initialization:
+
+1. `cntk.initializer.kaiming_uniform`
+2. `cntk.initializer.kaiming_normal`
+3. `cntk.initializer.kaiming_xavier`
+4. `cntk.initializer.kaiming_msra`
+5. `cntk.initializer.kaiming_he`
+6. `cntk.initializer.kaiming_lecun`
+7. `cntk.initializer.kaiming_glorot`
+8. `cntk.initializer.kaiming_selu`
+9. `cntk.initializer.kaiming_softplus`
+10. `cntk.initializer.kaiming_swish`

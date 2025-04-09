@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that match the functionality of the Java API `java.lang.String.indexOf`:
+
+1. `System.String.IndexOf`
+2. `System.String.LastIndexOf`
+3. `System.String.Contains`
+4. `System.String.StartsWith`
+5. `System.String.EndsWith`
+6. `System.String.Substring`
+7. `System.String.Replace`
+8. `System.String.Split`
+9. `System.String.Trim`
+10. `System.String.ToLower`

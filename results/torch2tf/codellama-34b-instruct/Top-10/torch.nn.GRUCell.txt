@@ -1,0 +1,9 @@
+  tf.keras.layers.GRUCell
+tf.keras.layers.SimpleRNNCell
+tf.keras.layers.LSTMCell
+tf.keras.layers.Bidirectional
+tf.keras.layers.StackedRNNCells
+tf.keras.layers.TimeDistributed
+tf.keras.layers.Masking
+tf.keras.layers.Embedding
+tf.keras.layers.Dense

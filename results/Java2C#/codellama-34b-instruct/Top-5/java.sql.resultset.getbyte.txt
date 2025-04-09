@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Data.SqlClient.SqlDataReader.GetByte`
+2. `System.Data.OleDb.OleDbDataReader.GetByte`
+3. `System.Data.Odbc.OdbcDataReader.GetByte`
+4. `System.Data.OracleClient.OracleDataReader.GetByte`
+5. `System.Data.SqlServerCe.SqlCeDataReader.GetByte`

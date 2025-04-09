@@ -1,0 +1,5 @@
+1. Dictionary<TKey, TValue>.Remove(TKey key)
+2. ConcurrentDictionary<TKey, TValue>.TryRemove(TKey key, out TValue value)
+3. SortedDictionary<TKey, TValue>.Remove(TKey key)
+4. HashSet<T>.Remove(T item)
+5. Queue<T>.Dequeue()

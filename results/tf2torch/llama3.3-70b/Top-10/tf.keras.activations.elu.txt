@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.activations.elu`:
+
+1. torch.nn.ELU
+2. torch.nn.functional.elu
+3. torch.relu
+4. torch.sigmoid
+5. torch.tanh
+6. torch.nn.LeakyReLU
+7. torch.nn.ReLU
+8. torch.nn.Sigmoid
+9. torch.nn.Tanh
+10. torch.nn.functional.leaky_relu

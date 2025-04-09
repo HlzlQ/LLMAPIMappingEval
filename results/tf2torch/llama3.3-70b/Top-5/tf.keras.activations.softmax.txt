@@ -1,0 +1,5 @@
+1. torch.nn.functional.softmax
+2. torch.nn.Softmax
+3. torch.softmax
+4. torch.nn.functional.log_softmax
+5. torch.nn.LogSoftmax

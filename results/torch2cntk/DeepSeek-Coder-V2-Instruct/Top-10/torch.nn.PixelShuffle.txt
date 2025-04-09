@@ -1,0 +1,2 @@
+
+Answer: torch.nn.PixelShuffle -> cntk.ops.reshape_dims

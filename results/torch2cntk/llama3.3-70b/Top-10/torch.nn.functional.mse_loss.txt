@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `torch.nn.functional.mse_loss`:
+
+1. `cntk.losses.mean_squared_error`
+2. `cntk.metrics.mean_squared_error`
+3. `cntk.losses.squared_error`
+4. `cntk.metrics.squared_error`
+5. `cntk.losses.l2_distance`
+6. `cntk.metrics.l2_distance`
+7. `cntk.losses.euclidean_distance`
+8. `cntk.metrics.euclidean_distance`
+9. `cntk.losses.mean_squared_diff`
+10. `cntk.metrics.mean_squared_diff`

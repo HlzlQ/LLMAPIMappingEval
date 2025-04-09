@@ -1,0 +1,5 @@
+System.Net.Sockets.Socket.Send
+System.Net.Sockets.Socket.BeginSend
+System.Net.Sockets.Socket.EndSend
+System.Net.Sockets.Socket.Receive
+System.Net.Sockets.Socket.BeginReceive

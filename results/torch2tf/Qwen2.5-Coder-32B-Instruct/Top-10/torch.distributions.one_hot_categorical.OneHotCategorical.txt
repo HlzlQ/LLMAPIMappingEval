@@ -1,0 +1,10 @@
+tfp.distributions.Categorical
+tf.nn.softmax
+tf.random.categorical
+tf.one_hot
+tf.argmax
+tf.reduce_sum
+tf.math.log
+tf.exp
+tf.linalg.matmul
+tf.gather

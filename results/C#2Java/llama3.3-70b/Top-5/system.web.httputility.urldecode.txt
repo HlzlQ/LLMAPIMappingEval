@@ -1,0 +1,5 @@
+1. java.net.URLDecoder.decode
+2. org.apache.commons.codec.net.URLCodec.decode
+3. javax.servlet.http.HttpServletRequest.decodeURL
+4. java.io.UnsupportedEncodingException.decode
+5. org.springframework.web.util.UriUtils.decode

@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.nn.fractional_max_pool`:
+
+1. torch.nn.functional.fractional_max_pool2d
+2. torch.nn.MaxPool2d
+3. torch.nn.FractionalMaxPool2d
+4. torch.nn.AdaptiveMaxPool2d
+5. torch.nn.functional.max_pool2d
+6. torch.nn.functional.adaptive_max_pool2d
+7. torch.nn.functional.fractional_max_pool3d
+8. torch.nn.MaxPool3d
+9. torch.nn.FractionalMaxPool3d
+10. torch.nn.functional.adaptive_max_pool3d

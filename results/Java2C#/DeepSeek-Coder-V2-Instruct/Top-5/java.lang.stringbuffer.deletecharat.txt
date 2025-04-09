@@ -1,0 +1,5 @@
+1. StringBuilder.Remove(int index, int length)
+2. String.Remove(int startIndex, int count)
+3. CharArray.RemoveAt(int index)
+4. List<char>.RemoveAt(int index)
+5. String.Substring(int startIndex, int length)

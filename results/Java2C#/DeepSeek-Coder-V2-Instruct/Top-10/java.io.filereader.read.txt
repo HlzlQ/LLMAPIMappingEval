@@ -1,0 +1,10 @@
+1. System.IO.File.OpenText
+2. System.IO.StreamReader
+3. System.IO.FileStream
+4. System.IO.BufferedStream
+5. System.IO.MemoryStream
+6. System.IO.BinaryReader
+7. System.IO.StringReader
+8. System.IO.IsolatedStorageFile
+9. System.IO.FileSystemWatcher
+10. System.IO.DirectoryInfo

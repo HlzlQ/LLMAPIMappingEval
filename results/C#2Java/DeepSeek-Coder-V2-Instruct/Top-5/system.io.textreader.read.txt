@@ -1,0 +1,5 @@
+1. java.io.BufferedReader.readLine()
+2. java.nio.file.Files.readAllLines(Path path)
+3. java.util.Scanner.nextLine()
+4. javax.swing.JTextArea.getText()
+5. org.jsoup.Jsoup.parse(String html).text()

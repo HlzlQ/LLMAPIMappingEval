@@ -1,0 +1,12 @@
+
+Answer: 
+1. mxnet.ndarray.eye
+2. mxnet.sym.eye
+3. mxnet.image.eye_new
+4. mxnet.gluon.init.EyeInitializer
+5. mxnet.initializer.Eye
+6. mxnet.contrib.eye
+7. mxnet.ndarray.eye_like
+8. mxnet.symbol.eye
+9. mxnet.image.eye_like
+10. mxnet.gluon.init.EyeLikeInitializer

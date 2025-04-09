@@ -1,0 +1,12 @@
+
+Answer: 
+1. mxnet.ndarray.zeros
+2. mxnet.init.zeros
+3. mxnet.initializer.Zero
+4. mxnet.contrib.ndarray.op.zeros_like
+5. mxnet.ndarray.full_like
+6. mxnet.ndarray.ones_like
+7. mxnet.ndarray.full
+8. mxnet.ndarray.ones
+9. mxnet.ndarray.zeros_like
+10. mxnet.ndarray.empty_like

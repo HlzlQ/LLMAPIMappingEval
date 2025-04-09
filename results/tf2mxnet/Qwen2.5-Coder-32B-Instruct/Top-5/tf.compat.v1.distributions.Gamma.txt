@@ -1,0 +1,5 @@
+mxnet.gluon.probability.Gamma
+mxnet.ndarray.random.gamma
+mxnet.symbol.random.gamma
+mxnet.numpy.random.gamma
+mxnet.np.random.gamma

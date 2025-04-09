@@ -1,0 +1,6 @@
+
+Answer: 1. mxnet.gluon.probability.Bernoulli
+2. mxnet.ndarray.bernoulli
+3. mxnet.sym.Sample
+4. mxnet.symbol.random.bernoulli
+5. mxnet.ndarray.random.multinomial

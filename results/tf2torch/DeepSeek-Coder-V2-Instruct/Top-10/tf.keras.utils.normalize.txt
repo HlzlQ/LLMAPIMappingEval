@@ -1,0 +1,2 @@
+
+Answer: tensorflow.keras.layers.Dense, tensorflow.keras.models.Sequential, tensorflow.keras.optimizers.Adam, tensorflow.keras.losses.SparseCategoricalCrossentropy, tensorflow.keras.metrics.Accuracy, tensorflow.keras.callbacks.EarlyStopping, tensorflow.keras.preprocessing.image_dataset_from_directory, tensorflow.keras.applications.VGG16, tensorflow.keras.utils.plot_model, tensorflow.keras.utils.normalize

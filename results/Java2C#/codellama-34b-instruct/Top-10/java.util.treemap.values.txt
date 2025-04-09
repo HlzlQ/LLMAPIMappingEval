@@ -1,0 +1,12 @@
+Here are ten possible C# APIs that correspond to the Java API `java.util.treemap.values`:
+
+1. `System.Collections.Generic.SortedDictionary<TKey, TValue>.Values`
+2. `System.Collections.Generic.SortedList<TKey, TValue>.Values`
+3. `System.Collections.Generic.TreeMap<TKey, TValue>.Values`
+4. `System.Collections.Generic.SynchronizedSortedDictionary<TKey, TValue>.Values`
+5. `System.Collections.Generic.SynchronizedSortedList<TKey, TValue>.Values`
+6. `System.Collections.Generic.SynchronizedTreeMap<TKey, TValue>.Values`
+7. `System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Values`
+8. `System.Collections.Concurrent.ConcurrentSortedDictionary<TKey, TValue>.Values`
+9. `System.Collections.Concurrent.ConcurrentSortedList<TKey, TValue>.Values`
+10. `System.Collections.Concurrent.ConcurrentTreeMap<TKey, TValue>.Values`

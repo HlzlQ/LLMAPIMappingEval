@@ -1,0 +1,1 @@
+System.Math.Log in C# corresponds to java.lang.Math.log() in Java.

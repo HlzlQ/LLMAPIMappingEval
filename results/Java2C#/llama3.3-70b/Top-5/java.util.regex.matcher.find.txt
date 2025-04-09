@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Match.NextMatch
+System.Text.RegularExpressions.Matcher.Find
+System.Text.RegularExpressions.Regex.IsMatch
+System.Text.RegularExpressions.Regex.Matches
+System.Text.RegularExpressions.Match.Success

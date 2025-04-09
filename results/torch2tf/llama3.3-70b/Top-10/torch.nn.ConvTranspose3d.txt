@@ -1,0 +1,12 @@
+Here are the 10 most likely TensorFlow API mappings for `torch.nn.ConvTranspose3d`:
+
+1. tf.keras.layers.Conv3DTranspose
+2. tf.compat.v1.keras.layers.Conv3DTranspose
+3. tf.nn.conv3d_transpose
+4. tf.keras.layers.Deconv3D
+5. tf.layers.Conv3DTranspose
+6. tf.contrib.layers.conv3d_transpose
+7. tf.keras.layers.TransposeConv3D
+8. tf.nn.conv_transpose3d
+9. tf.keras.layers.Upsample3D
+10. tf.image.resize_3d

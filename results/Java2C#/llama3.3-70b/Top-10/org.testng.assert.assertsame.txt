@@ -1,0 +1,10 @@
+1. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreEqual
+2. NUnit.Framework.Assert.AreEqual
+3. xunit.assert.Equal
+4. FluentAssertions.Primitives.ObjectAssertions.BeEqualTo
+5. Shouldly.ShouldBe
+6. System.Diagnostics.Debug.Assert
+7. Microsoft.VisualStudio.TestTools.UnitTesting.CollectionAssert.AreEqual
+8. NUnit.Framework.Collections.AreEqual
+9. xunit.assert.CollectionEqual
+10. FluentAssertions.Collections.CollectionAssertions.BeEquivalentTo

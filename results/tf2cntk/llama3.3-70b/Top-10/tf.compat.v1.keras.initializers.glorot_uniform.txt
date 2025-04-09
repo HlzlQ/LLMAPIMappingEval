@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings:
+
+1. CNTK.DefaultInitializer()
+2. CNTK.GlorotUniformInitializer()
+3. CNTK.HeUniformInitializer()
+4. CNTK.XavierInitializer()
+5. CNTK.RandomNormalInitializer()
+6. CNTK.ConstantInitializer()
+7. CNTK.UniformInitializer()
+8. CNTK.NormalInitializer()
+9. CNTK.ScaledRandomNormalInitializer()
+10. CNTK.ScaledUniformInitializer()

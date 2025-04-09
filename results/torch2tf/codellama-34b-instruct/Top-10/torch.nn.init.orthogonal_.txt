@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for orthogonal initialization:
+
+1. `tf.initializers.orthogonal`
+2. `tf.keras.initializers.Orthogonal`
+3. `tf.keras.layers.Dense.orthogonal_initializer`
+4. `tf.keras.layers.Conv2D.orthogonal_initializer`
+5. `tf.keras.layers.LSTMCell.orthogonal_initializer`
+6. `tf.keras.layers.GRUCell.orthogonal_initializer`
+7. `tf.keras.layers.SimpleRNNCell.orthogonal_initializer`
+8. `tf.keras.layers.LSTM.orthogonal_initializer`
+9. `tf.keras.layers.GRU.orthogonal_initializer`
+10. `tf.keras.layers.SimpleRNN.orthogonal_initializer`

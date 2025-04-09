@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.UpSampling2D`:
+
+1. mxnet.ndarray.UpSampling
+2. mxnet.gluon.nn.Upsample
+3. mxnet.gluon.nnUpsamplingBilinear2D
+4. mxnet.gluon.nn.UpsamplingNearest2D
+5. mxnet.ndarray.BilinearScale
+6. mxnet.ndarray.NearestNeighborScale
+7. mxnet.gluon.nn.Deconvolution2D
+8. mxnet.gluon.nn.Conv2DTranspose
+9. mxnet.ndarray.Deconvolve
+10. mxnet.gluon.nn.UpsampleWithAlign

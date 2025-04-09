@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.layers.conv2d`:
+
+1. `torch.nn.Conv2d`
+2. `torch.nn.functional.conv2d`
+3. `torch.nn.modules.conv.Conv2d`
+4. `torch.nn.modules.conv.ConvTranspose2d`
+5. `torch.nn.modules.conv.Conv1d`
+6. `torch.nn.modules.conv.Conv3d`
+7. `torch.nn.modules.conv.ConvTranspose1d`
+8. `torch.nn.modules.conv.ConvTranspose3d`
+9. `torch.nn.modules.conv.Conv2dWithBias`
+10. `torch.nn.modules.conv.Conv2dWithoutBias`

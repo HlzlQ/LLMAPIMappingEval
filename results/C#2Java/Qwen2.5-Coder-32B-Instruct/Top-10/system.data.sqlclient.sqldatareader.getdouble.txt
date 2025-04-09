@@ -1,0 +1,10 @@
+java.sql.ResultSet.getDouble
+java.sql.CallableStatement.getDouble
+java.sql.PreparedStatement.getDouble
+java.sql.Statement.executeQuery
+java.sql.Connection.createStatement
+java.sql.DriverManager.getConnection
+java.sql.DatabaseMetaData.getDoubleAttribute
+java.sql.SQLInput.readDouble
+java.sql.SQLOutput.writeDouble
+java.sql.Array.getArray

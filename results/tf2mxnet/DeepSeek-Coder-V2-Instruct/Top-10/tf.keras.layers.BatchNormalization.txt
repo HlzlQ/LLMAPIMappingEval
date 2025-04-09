@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.BatchNorm
+2. mxnet.symbol.BatchNorm
+3. mxnet.gluon.nn.BatchNorm
+4. mxnet.gluon.Block
+5. mxnet.initializer.BatchNorm
+6. mxnet.rnn.BatchNormCell
+7. mxnet.contrib.batch_norm.BatchNorm
+8. mxnet.ndarray.BatchNormTrain
+9. mxnet.ndarray.BatchNormEvalMode
+10. mxnet.ndarray.BatchNormSpatial

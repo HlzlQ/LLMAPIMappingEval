@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.distributions.Uniform`:
+
+1. mxnet.ndarray.uniform
+2. mxnet.random.uniform
+3. mxnet.gluon.utils.uniform
+4. mxnet.ndarray.sample_uniform
+5. mxnet.random.sample_uniform
+6. mxnet.gluon.nn.Uniform
+7. mxnet.ndarray.RandomUniform
+8. mxnet.random.RandomUniform
+9. mxnet.gluon.loss.UniformLoss
+10. mxnet.ndarray.sample_multinomial

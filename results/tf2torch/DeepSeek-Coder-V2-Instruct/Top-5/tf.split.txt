@@ -1,0 +1,7 @@
+
+
+1. torch.tensor
+2. torch.cat
+3. torch.unsqueeze
+4. torch.stack
+5. torch.split

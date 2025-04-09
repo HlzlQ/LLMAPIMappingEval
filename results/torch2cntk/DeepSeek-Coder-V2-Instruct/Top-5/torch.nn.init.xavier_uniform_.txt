@@ -1,0 +1,2 @@
+
+Answer: torch.nn.init.xavier_uniform_, cntk.initializer.glorot_uniform(), cntk.initializer.he_uniform(), cntk.initializer.random_normal(), cntk.initializer.constant

@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.distributions.Uniform`:
+
+1. CNTK UniformDistribution
+2. CNTK DistributionUniform
+3. CNTK Uniform
+4. CNTK distributions.Uniform
+5. CNTK Random.Uniform
+6. CNTK UniformSampler
+7. CNTK distribution.Uniform
+8. CNTK SamplerUniform
+9. CNTK UniformDistributionOp
+10. CNTK distributions.uniform_distribution

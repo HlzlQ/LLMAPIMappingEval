@@ -1,0 +1,22 @@
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+
+# Your code here
+```
+Answer: ```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+
+# Mapping TensorFlow API to MXNet API
+# 1. tf.keras.activations.relu -> mx.nd.relu
+# 2. tf.keras.activations.sigmoid -> mx.nd.sigmoid
+# 3. tf.keras.activations.tanh -> mx.nd.tanh
+# 4. tf.keras.activations.softmax -> mx.nd.softmax
+# 5. tf.keras.activations.hard_sigmoid -> mx.nd.contrib.activation(hard_sigmoid)
+```

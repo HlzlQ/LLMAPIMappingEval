@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK APIs with similar functionality to `torch.nn.AvgPool1d`:
+
+1. `CNTK.layers.AveragePooling`
+2. `CNTK.layers.Pooling`
+3. `CNTK.layers.AvgPool`
+4. `CNTK.layers.PoolingLayer`
+5. `CNTK.layers.AveragePool`
+6. `CNTK.layers.GlobalAveragePooling`
+7. `CNTK.layers.AveragePool1D`
+8. `CNTK.layers.Pooling1D`
+9. `CNTK.layers.AvgPool1d`
+10. `CNTK.layers.AveragePooling1D`

@@ -1,0 +1,10 @@
+1. System.Data.IDataReader.GetInt32
+2. System.Data.SqlClient.SqlDataReader.GetInt32
+3. System.Data.Common.DbDataReader.GetInt32
+4. System.Data.OleDb.OleDbDataReader.GetInt32
+5. System.Data.Odbc.OdbcDataReader.GetInt32
+6. System.Data.SQLite.SQLiteDataReader.GetInt32
+7. Npgsql.NpgsqlDataReader.GetInt32
+8. MySql.Data.MySqlClient.MySqlDataReader.GetInt32
+9. Oracle.ManagedDataAccess.Client.OracleDataReader.GetInt32
+10. Microsoft.Data.SqlClient.SqlDataReader.GetInt32

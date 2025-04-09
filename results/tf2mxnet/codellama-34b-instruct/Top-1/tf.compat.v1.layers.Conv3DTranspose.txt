@@ -1,0 +1,7 @@
+
+MXNet does not have an exact equivalent of `tensorflow.compat.v1.layers.Conv3DTranspose`. However, you can use the following APIs to achieve a similar result:
+
+* `mxnet.ndarray.Convolution`: This API performs a 3D convolution operation on a 5D input tensor.
+* `mxnet.ndarray.Deconvolution`: This API performs a 3D deconvolution operation on a 5D input tensor.
+
+You can use these APIs to implement the transposed convolution operation by specifying the appropriate parameters for the convolution or deconvolution operation. For example, you can set the `stride` parameter to a value greater than 1 to achieve the transposed convolution effect.

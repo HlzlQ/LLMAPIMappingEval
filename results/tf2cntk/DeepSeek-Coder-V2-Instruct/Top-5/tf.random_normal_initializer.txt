@@ -1,0 +1,2 @@
+
+Answer: tensorflow.initializers.RandomNormal, cntk.glorot_uniform_initializer, cntk.he_normal_initializer, cntk.random_normal_initializer, cntk.random_uniform_initializer

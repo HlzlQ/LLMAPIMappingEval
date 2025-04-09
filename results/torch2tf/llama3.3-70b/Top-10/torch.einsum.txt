@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that match the functionality of `torch.einsum`:
+
+1. tf.einsum
+2. tf.tensordot
+3. tf.matmul
+4. tf.dot
+5. tf.reduce_sum
+6. tf.multiply
+7. tf.add
+8. tf.reduce_mean
+9. tf.contract
+10. tf.linalg.matmul

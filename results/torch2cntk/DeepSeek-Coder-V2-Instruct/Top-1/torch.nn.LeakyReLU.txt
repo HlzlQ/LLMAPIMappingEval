@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# LeakyReLU in PyTorch -> API in CNTK
+print("LeakyReLU")
+<jupyter_output>
+LeakyReLU

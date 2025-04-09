@@ -1,0 +1,10 @@
+mxnet.init.Xavier
+mxnet.init.MSRAPrelu
+mxnet.init.Uniform
+mxnet.init.Normal
+mxnet.init.Constant
+mxnet.init.Zero
+mxnet.init.One
+mxnet.init.RandInt
+mxnet.init.LecunUniform
+mxnet.init.VarianceScaling

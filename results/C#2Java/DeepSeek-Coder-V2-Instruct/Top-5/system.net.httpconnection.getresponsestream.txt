@@ -1,0 +1,5 @@
+java.net.HttpURLConnection.getInputStream()
+java.net.HttpURLConnection.getResponseCode()
+java.net.HttpURLConnection.getErrorStream()
+java.net.HttpURLConnection.getOutputStream()
+java.net.HttpURLConnection.setDoOutput(boolean doOutput)

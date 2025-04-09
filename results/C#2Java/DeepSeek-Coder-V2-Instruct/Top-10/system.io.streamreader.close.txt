@@ -1,0 +1,10 @@
+java.io.BufferedReader.close
+java.io.FileInputStream.close
+java.io.FileOutputStream.close
+java.io.InputStreamReader.close
+java.io.OutputStreamWriter.close
+java.io.PrintStream.close
+java.io.RandomAccessFile.close
+java.nio.channels.Channel.close
+java.sql.Connection.close
+javax.xml.transform.Source.close

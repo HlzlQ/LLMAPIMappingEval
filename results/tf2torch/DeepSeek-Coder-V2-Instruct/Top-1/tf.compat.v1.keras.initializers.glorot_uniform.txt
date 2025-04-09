@@ -1,0 +1,18 @@
+
+```python
+import tensorflow as tf
+tf.__version__
+```
+
+```python
+import torch
+torch.__version__
+```
+
+```python
+# TensorFlow API: tensorflow.compat.v1.keras.initializers.glorot_uniform
+```
+
+```python
+# PyTorch equivalent API: torch.nn.init.xavier_uniform_
+```

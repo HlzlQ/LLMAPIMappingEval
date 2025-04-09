@@ -1,0 +1,13 @@
+
+Here are ten possible PyTorch APIs that can be used for the same purpose as TensorFlow's `he_normal` initializer:
+
+1. `torch.nn.init.kaiming_uniform_`
+2. `torch.nn.init.kaiming_normal_`
+3. `torch.nn.init.xavier_uniform_`
+4. `torch.nn.init.xavier_normal_`
+5. `torch.nn.init.he_uniform_`
+6. `torch.nn.init.he_normal_`
+7. `torch.nn.init.lecun_uniform_`
+8. `torch.nn.init.lecun_normal_`
+9. `torch.nn.init.glorot_uniform_`
+10. `torch.nn.init.glorot_normal_`

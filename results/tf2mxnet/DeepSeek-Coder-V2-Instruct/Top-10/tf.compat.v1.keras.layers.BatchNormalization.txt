@@ -1,0 +1,12 @@
+
+
+1. mxnet.gluon.nn.BatchNorm
+2. mxnet.ndarray.batch_norm
+3. mxnet.symbol.InstanceNorm
+4. mxnet.symbol.LayerNorm
+5. mxnet.gluon.nn.SyncBatchNorm
+6. mxnet.ndarray.sync_batch_norm
+7. mxnet.gluon.contrib.nn.FrozenBatchNorm
+8. mxnet.ndarray.contrib.frozebn_batch_norm
+9. mxnet.gluon.nn.Dropout
+10. mxnet.ndarray.dropout

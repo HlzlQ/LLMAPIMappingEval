@@ -1,0 +1,14 @@
+
+MXNet does not have a direct equivalent of PyTorch's `nn.Softmax` module. However, you can achieve similar functionality using the `mxnet.ndarray.softmax` function.
+
+Here is an example of how to use `mxnet.ndarray.softmax` in MXNet:
+```
+import mxnet as mx
+
+# Create a random tensor with shape (3, 4)
+data = mx.nd.random.normal(shape=(3, 4))
+
+# Apply softmax function to the last dimension of the tensor
+softmax_output = mx.nd.softmax(data, axis=-1)
+```
+In this example, `mx.nd.softmax` is applied to the last dimension of the input tensor `data`. The resulting output tensor will have the same shape as the input tensor, but with each element representing a probability value between 0 and 1.

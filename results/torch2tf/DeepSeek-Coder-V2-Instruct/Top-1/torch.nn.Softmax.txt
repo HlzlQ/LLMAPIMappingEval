@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Softmax in TensorFlow
+<jupyter_output>
+<empty_output>

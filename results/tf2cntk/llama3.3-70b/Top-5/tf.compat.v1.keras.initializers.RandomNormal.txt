@@ -1,0 +1,5 @@
+1. cntk.default_options.random_normal_initializer
+2. cntk.initializer.glorot_normal_initializer
+3. cntk.initializer.normal_initializer
+4. cntk.layers.initializers.NormalInitializer
+5. cntk.initializer.random_normal_initializer

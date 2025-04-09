@@ -1,0 +1,17 @@
+
+MXNet does not have a direct equivalent to TensorFlow's `PReLU` layer. However, you can achieve similar functionality using the `LeakyReLU` layer with a negative slope.
+
+Here is an example of how to use the `LeakyReLU` layer in MXNet:
+```
+import mxnet as mx
+
+# Create a LeakyReLU layer with a negative slope of 0.2
+leaky_relu = mx.gluon.nn.LeakyReLU(alpha=0.2)
+
+# Use the layer to transform an input tensor
+input_tensor = mx.nd.array([[1, 2], [3, 4]])
+output_tensor = leaky_relu(input_tensor)
+```
+In this example, the `LeakyReLU` layer is created with a negative slope of 0.2, which means that the output will be scaled by 0.8 for input values greater than or equal to 0, and scaled by 0.2 for input values less than 0. This is similar to the behavior of the `PReLU` layer in TensorFlow.
+
+Note that MXNet's `LeakyReLU` layer does not have a built-in parameter for setting the negative slope, so you will need to use the `alpha` parameter to set it manually.

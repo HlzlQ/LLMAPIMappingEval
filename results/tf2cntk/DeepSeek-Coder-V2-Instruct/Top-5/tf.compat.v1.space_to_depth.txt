@@ -1,0 +1,41 @@
+
+
+## Step 2: Generate a list of candidate APIs in CNTK
+Based on your understanding of CNTK and its functionalities, generate a list of candidate APIs that might have similar functions to those TensorFlow API mentioned above. Please output the names of these 5 APIs.
+
+## Step 3: Justify your choices for both steps
+Provide a brief justification for why you chose each API in step 1 and step 2.
+
+```python
+# Your code here for Steps 1, 2, and 3
+```
+
+```python
+# Step 1: Map TensorFlow API to CNTK API
+tensorflow_to_cntk = {
+    "tf.space_to_depth": "CNTK.SpaceToDepth",
+    # Assuming other APIs are not directly mapped in this example
+}
+
+# Step 2: Generate a list of candidate APIs in CNTK
+cntk_candidate_apis = [
+    "CNTK.Reshape",
+    "CNTK.Transpose",
+    "CNTK.Slice",
+    "CNTK.ExpandDims",
+    "CNTK.Squeeze"
+]
+
+# Step 3: Justify the choices
+# For TensorFlow to CNTK mapping:
+# - "tf.space_to_depth" is mapped to "CNTK.SpaceToDepth" because both functions perform a spatial rearrangement of inputs.
+
+# For candidate APIs in CNTK:
+# - "CNTK.Reshape": Similar to TensorFlow's reshape, it changes the shape of the tensor.
+# - "CNTK.Transpose": Allows the manipulation of axes (dimensions) of a tensor, similar to tf.transpose.
+# - "CNTK.Slice": Extracts parts of a tensor, akin to tf.slice or tf.strided_slice in TensorFlow.
+# - "CNTK.ExpandDims": Adds an additional dimension at a specific position, analogous to tf.expand_dims.
+# - "CNTK.Squeeze": Removes single-dimensional entries from the shape of a tensor, similar to tf.squeeze.
+```
+
+This code provides a mapping and candidate APIs based on functional similarity between TensorFlow and CNTK, along with justifications for these mappings and selections.

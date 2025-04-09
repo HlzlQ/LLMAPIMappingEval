@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to the TensorFlow API `tensorflow.compat.v1.keras.initializers.he_uniform`:
+
+1. `torch.nn.init.kaiming_uniform`
+2. `torch.nn.init.xavier_uniform`
+3. `torch.nn.init.normal`
+4. `torch.nn.init.truncated_normal`
+5. `torch.nn.init.variance_scaling`
+6. `torch.nn.init.orthogonal`
+7. `torch.nn.init.glorot_uniform`
+8. `torch.nn.init.lecun_uniform`
+9. `torch.nn.init.he_uniform`
+10. `torch.nn.init.kaiming_normal`

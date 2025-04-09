@@ -1,0 +1,10 @@
+java.nio.file.Files.exists  
+java.io.File.exists  
+java.nio.file.Paths.get  
+java.nio.file.Path.toFile  
+java.nio.file.Files.isDirectory  
+java.nio.file.Files.readAttributes  
+java.nio.file.Files.isReadable  
+java.nio.file.Files.isWritable  
+java.nio.file.Files.isHidden  
+java.nio.file.Files.getLastModifiedTime

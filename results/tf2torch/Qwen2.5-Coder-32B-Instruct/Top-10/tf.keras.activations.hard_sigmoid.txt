@@ -1,0 +1,10 @@
+torch.nn.functional.hardsigmoid  
+torch.sigmoid  
+torch.nn.HardSigmoid  
+torch.nn.Sigmoid  
+torch.nn.functional.sigmoid  
+torch.nn.modules.activation.HardSigmoid  
+torch.nn.modules.activation.Sigmoid  
+torch.nn.functional.relu6  
+torch.nn.ReLU6  
+torch.nn.modules.activation.ReLU6

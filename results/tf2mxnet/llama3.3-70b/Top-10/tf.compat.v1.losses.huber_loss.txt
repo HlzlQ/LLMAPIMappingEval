@@ -1,0 +1,12 @@
+Here are the top 10 MXNet API mappings for `tensorflow.compat.v1.losses.huber_loss`:
+
+1. mxnet.gluon.loss.HuberLoss
+2. mxnet.ndarray.HuberLoss
+3. mxnet.gluon.loss.L2Loss
+4. mxnet.gluon.loss.L1Loss
+5. mxnet.ndarray.L2Loss
+6. mxnet.ndarray.L1Loss
+7. mxnet.gluon.loss.SquaredL2Loss
+8. mxnet.gluon.loss.AbsoluteDifference
+9. mxnet.ndarray.SmoothL1Loss
+10. mxnet.gluon.loss.HuberLossWithDelta

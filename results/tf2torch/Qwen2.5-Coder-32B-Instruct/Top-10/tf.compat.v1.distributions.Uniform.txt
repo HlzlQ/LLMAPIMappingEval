@@ -1,0 +1,10 @@
+torch.distributions.uniform.Uniform
+torch.rand
+torch.randint
+torch.randn
+torch.randperm
+torch.full
+torch.zeros
+torch.ones
+torch.linspace
+torch.logspace

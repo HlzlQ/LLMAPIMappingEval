@@ -1,0 +1,10 @@
+torch.nn.Dropout
+torch.nn.functional.dropout
+torch.nn.AlphaDropout
+torch.nn.functional.alpha_dropout
+torch.nn.FeatureAlphaDropout
+torch.nn.functional.feature_alpha_dropout
+torch.nn.utils.weight_norm
+torch.nn.utils.spectral_norm
+torch.nn.init.xavier_uniform_
+torch.nn.init.kaiming_normal_

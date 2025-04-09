@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Softmax in CNTK
+print("Softmax")
+<jupyter_output>
+Softmax

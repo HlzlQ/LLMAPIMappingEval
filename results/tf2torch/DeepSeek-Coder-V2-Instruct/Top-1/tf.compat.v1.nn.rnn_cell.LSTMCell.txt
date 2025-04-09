@@ -1,0 +1,17 @@
+
+```python
+class LSTMCell(tf.compat.v1.nn.rnn_cell.LSTMCell):
+    def __init__(self, num_units, forget_bias=1.0, state_is_tuple=True, activation=None, reuse=None):
+        super(LSTMCell, self).__init__(num_units, forget_bias=forget_bias, state_is_tuple=state_is_tuple, activation=activation, reuse=reuse)
+```
+Answer: ```python
+class LSTMCell(torch.nn.Module):
+    def __init__(self, input_size, hidden_size, bias=True, dropout=0.0, bidirectional=False):
+        super(LSTMCell, self).__init__()
+        self.input_size = input_size
+        self.hidden_size = hidden_size
+        self.bias = bias
+        self.dropout = dropout
+        self.bidirectional = bidirectional
+        self.lstm_cell = torch.nn.LSTMCell(input_size, hidden_size, bias)
+```

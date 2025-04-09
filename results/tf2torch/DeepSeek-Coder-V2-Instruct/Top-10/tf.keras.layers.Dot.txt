@@ -1,0 +1,15 @@
+
+```python
+import torch
+```
+
+1. `torch.nn.functional.linear`
+2. `torch.matmul`
+3. `torch.bmm`
+4. `torch.einsum`
+5. `torch.stack`
+6. `torch.cat`
+7. `torch.chunk`
+8. `torch.split`
+9. `torch.reshape`
+10. `torch.permute`

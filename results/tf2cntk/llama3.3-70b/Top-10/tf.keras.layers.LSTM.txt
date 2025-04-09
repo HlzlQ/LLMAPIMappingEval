@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.LSTM`:
+
+1. CNTK.Recurrence
+2. CNTK.LSTM
+3. CNTK.GRU
+4. CNTK.RecurrentLayer
+5. CNTK.SequenceOverRecurrence
+6. CNTK.FastLSTM
+7. CNTK.FastRNN
+8. CNTK.StackedLSTM
+9. CNTK.RecurrenceWithOutput
+10. CNTK.LSTMP_component

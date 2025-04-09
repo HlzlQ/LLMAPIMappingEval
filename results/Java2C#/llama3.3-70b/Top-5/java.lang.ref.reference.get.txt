@@ -1,0 +1,5 @@
+System.Runtime.InteropServices.GCHandle.AddrOfPinnedObject
+System.Runtime.InteropServices.GCHandle.Target
+System.WeakReference.Target
+System.Runtime.InteropServices.GCHandle.Free
+System.Runtime.InteropServices.GCHandle.Alloc

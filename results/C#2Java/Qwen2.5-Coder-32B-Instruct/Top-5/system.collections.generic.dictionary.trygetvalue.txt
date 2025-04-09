@@ -1,0 +1,5 @@
+java.util.Map.getOrDefault  
+java.util.Map.containsKey  
+java.util.Map.containsValue  
+java.util.Map.putIfAbsent  
+java.util.Map.computeIfPresent

@@ -1,0 +1,5 @@
+1. System.IO.Stream.Write
+2. System.IO.FileStream.Write
+3. System.IO.MemoryStream.Write
+4. System.Net.Sockets.NetworkStream.Write
+5. System.IO.BinaryWriter.Write

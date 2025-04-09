@@ -1,0 +1,7 @@
+  Here are five possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Add()
+2. System.Collections.Specialized.NameObjectCollectionBase.Add()
+3. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryAdd()
+4. System.Collections.Immutable.ImmutableDictionary<TKey, TValue>.Add()
+5. System.Collections.Generic.SortedList<TKey, TValue>.Add()

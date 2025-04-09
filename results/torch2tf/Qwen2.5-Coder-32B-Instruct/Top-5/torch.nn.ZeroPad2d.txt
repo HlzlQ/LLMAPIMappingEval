@@ -1,0 +1,5 @@
+tf.pad  
+tf.keras.layers.ZeroPadding2D  
+tf.raw_ops.Pad  
+tf.nn.conv2d_transpose  
+tf.image.resize_with_pad

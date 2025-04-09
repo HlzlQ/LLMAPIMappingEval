@@ -1,0 +1,5 @@
+1. mxnet.ndarray LSTM
+2. mxnet.gluon.rnn.LSTM
+3. mxnet.gluon.rnn.LSTMBias
+4. mxnet.gluon.rnn.LSTMCell
+5. mxnet.gluon.rnn.LSTMState

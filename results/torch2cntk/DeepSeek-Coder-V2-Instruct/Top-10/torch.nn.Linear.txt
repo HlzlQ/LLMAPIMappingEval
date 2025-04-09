@@ -1,0 +1,15 @@
+
+"""
+
+cntk_linear_apis = [
+    "Dense",
+    "Plus",
+    "ReLU",
+    "Sigmoid",
+    "Tanh",
+    "Affine",
+    "Linear",
+    "Convolution",
+    "MaxPooling",
+    "AveragePooling"
+]

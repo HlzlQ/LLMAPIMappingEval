@@ -1,0 +1,5 @@
+cntk.grad
+cntk.gradient
+cntk.gradients_function
+cntk.gradients
+cntk.functions.gradients

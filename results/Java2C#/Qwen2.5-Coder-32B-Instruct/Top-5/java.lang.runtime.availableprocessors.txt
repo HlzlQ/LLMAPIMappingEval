@@ -1,0 +1,5 @@
+System.Environment.ProcessorCount  
+System.Threading.Thread.CurrentThread.ManagedThreadId  
+System.Diagnostics.Process.GetCurrentProcess().ProcessorAffinity  
+System.Runtime.InteropServices.Marshal.SizeOf  
+System.Runtime.InteropServices.Marshal.AllocHGlobal

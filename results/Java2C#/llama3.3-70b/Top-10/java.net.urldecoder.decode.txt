@@ -1,0 +1,10 @@
+1. System.Web.HttpUtility.UrlDecode
+2. System.Net.WebUtility.UrlDecode
+3. System.Uri.UnescapeDataString
+4. System.Text.Encoding.UTF8.GetString
+5. System.Convert.FromBase64String
+6. System.Security.Cryptography.Base64Url.Decode
+7. Microsoft.AspNetCore.WebUtilities.WebEncoders.Base64UrlDecode
+8. System.Net.Mime.HeaderCollection.DecodeValue
+9. System.Net.Mail.MailAddress.DecodeMailbox
+10. System.ComponentModel.Design.Serialization.TypeCodeDecoder.Decode

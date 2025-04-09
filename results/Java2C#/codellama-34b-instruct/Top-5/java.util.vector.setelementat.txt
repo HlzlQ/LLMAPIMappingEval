@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Collections.Generic.List<T>.set_Item(int index, T value)`
+2. `System.Collections.ArrayList.set_Item(int index, object value)`
+3. `System.Collections.Specialized.NameObjectCollectionBase.set_Item(string name, object value)`
+4. `System.Collections.Hashtable.set_Item(object key, object value)`
+5. `System.Collections.SortedList.set_Item(int index, object value)`

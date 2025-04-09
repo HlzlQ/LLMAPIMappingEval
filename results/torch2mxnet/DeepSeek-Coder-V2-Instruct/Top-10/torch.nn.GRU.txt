@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.GRU` -> `mxnet.gluon.rnn.GRU`
+2. `torch.nn.Linear` -> `mxnet.gluon.nn.Dense`
+3. `torch.nn.Conv1d` -> `mxnet.gluon.nn.Conv1D`
+4. `torch.nn.Conv2d` -> `mxnet.gluon.nn.Conv2D`
+5. `torch.nn.BatchNorm1d` -> `mxnet.gluon.nn.BatchNorm`
+6. `torch.nn.BatchNorm2d` -> `mxnet.gluon.nn.BatchNorm`
+7. `torch.nn.ReLU` -> `mxnet.gluon.nn.Activation('relu')`
+8. `torch.nn.Sigmoid` -> `mxnet.gluon.nn.Activation('sigmoid')`
+9. `torch.nn.Tanh` -> `mxnet.gluon.nn.Activation('tanh')`
+10. `torch.nn.Dropout` -> `mxnet.gluon.nn.Dropout`

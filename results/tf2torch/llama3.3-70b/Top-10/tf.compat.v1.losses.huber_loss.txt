@@ -1,0 +1,12 @@
+Here are the top 10 PyTorch API mappings for `tensorflow.compat.v1.losses.huber_loss`:
+
+1. torch.nn.HuberLoss
+2. torch.nn.SmoothL1Loss
+3. torch.nn.L1Loss
+4. torch.nn.MSELoss
+5. torch.nn.KLDivLoss
+6. torch.nn.PoissonNLLLoss
+7. torch.nn.GaussianNLLLoss
+8. torch.nn.CosineEmbeddingLoss
+9. torch.nn.HingeEmbeddingLoss
+10. torch.nn.MultiMarginLoss

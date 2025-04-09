@@ -1,0 +1,11 @@
+
+Answer: 1. torch.distributions.uniform.Uniform
+2. torch.distributions.uniform_full.UniformFull
+3. torch.distributions.uniform_logspace.UniformLogSpace
+4. torch.distributions.uniform_sample.UniformSample
+5. torch.distributions.uniform_entropy.UniformEntropy
+6. torch.distributions.uniform_transform.UniformTransform
+7. torch.distributions.uniform_enumerate.UniformEnumerate
+8. torch.distributions.uniform_enumerate_mean.UniformEnumerateMean
+9. torch.distributions.uniform_enumerate_stddev.UniformEnumerateStdDev
+10. torch.distributions.uniform_enumerate_variance.UniformEnumerateVariance

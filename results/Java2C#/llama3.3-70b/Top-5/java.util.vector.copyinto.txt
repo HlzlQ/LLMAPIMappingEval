@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.CopyTo
+System.Array.Copy
+System.Collections.ArrayList.CopyTo
+System.Linq.Enumerable.ToArray
+System.Collections.Generic.Dictionary<TKey,TValue>.ToList

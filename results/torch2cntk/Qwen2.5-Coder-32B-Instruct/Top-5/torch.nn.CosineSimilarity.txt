@@ -1,0 +1,5 @@
+cntk.ops.cosine_distance  
+cntk.layers.CosineSimilarity  
+cntk.losses.cosine_distance  
+cntk.metrics.cosine_similarity  
+cntk.functions.cosine_distance

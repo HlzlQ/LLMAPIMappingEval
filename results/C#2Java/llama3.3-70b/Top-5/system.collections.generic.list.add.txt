@@ -1,0 +1,5 @@
+1. java.util.ArrayList.add
+2. java.util.LinkedList.add
+3. java.util.Vector.add
+4. java.util.Stack.push
+5. java.util.ArrayDeque.add

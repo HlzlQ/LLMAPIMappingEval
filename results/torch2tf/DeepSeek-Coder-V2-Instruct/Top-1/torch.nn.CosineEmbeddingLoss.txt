@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.keras.losses.CosineEmbeddingLoss
+<jupyter_output>
+<empty_output>

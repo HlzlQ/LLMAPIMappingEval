@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.sql.ResultSet.getBytes()
+2. java.sql.Blob.getBytes()
+3. java.sql.Clob.getBytes()
+4. java.sql.NClob.getBytes()
+5. java.sql.SQLXML.getBytes()
+6. javax.sql.rowset.serial.SerialBlob.getBytes()
+7. javax.sql.rowset.serial.SerialClob.getBytes()
+8. javax.sql.rowset.serial.SerialNClob.getBytes()
+9. javax.sql.rowset.serial.SerialSQLXML.getBytes()
+10. oracle.jdbc.OracleBlob.getBytes()

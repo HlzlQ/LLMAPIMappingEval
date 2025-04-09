@@ -1,0 +1,10 @@
+1. System.Text.RegularExpressions.Match.NextMatch
+2. System.Text.RegularExpressions.Matcher.Find
+3. System.Text.RegularExpressions.Regex.IsMatch
+4. System.Text.RegularExpressions.Regex.Matches
+5. System.Text.RegularExpressions.Match.Success
+6. System.Text.RegularExpressions.Regex.FindAll
+7. System.Text.RegularExpressions.MatchCollection.Count
+8. System.Text.RegularExpressions.Regex.Match
+9. System.Text.RegularExpressions.Match.Next
+10. System.Text.RegularExpressions.Regex.Find

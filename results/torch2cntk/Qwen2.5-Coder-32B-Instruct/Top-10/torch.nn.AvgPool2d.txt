@@ -1,0 +1,10 @@
+cntk.layers.AveragePooling
+cntk.ops.average_pooling
+cntk.layers.pooling
+cntk.layers.max_pooling
+cntk.layers.global_average_pooling
+cntk.layers.global_max_pooling
+cntk.layers.convolutional_2d
+cntk.layers.convolution_transpose
+cntk.layers.batch_normalization
+cntk.layers.dropout

@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: mxnet.ndarray.Embedding
+<jupyter_output>
+<empty_output>

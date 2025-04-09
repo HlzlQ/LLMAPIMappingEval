@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for the same functionality as TensorFlow's `tf.compat.v1.layers.conv3d_transpose`:
+
+1. `mxnet.ndarray.ConvolutionTranspose`
+2. `mxnet.symbol.ConvolutionTranspose`
+3. `mxnet.gluon.nn.ConvTranspose3D`
+4. `mxnet.gluon.nn.ConvTranspose2D`
+5. `mxnet.ndarray.ConvTranspose3D`
+6. `mxnet.ndarray.ConvTranspose2D`
+7. `mxnet.symbol.ConvTranspose3D`
+8. `mxnet.symbol.ConvTranspose2D`
+9. `mxnet.gluon.nn.ConvolutionTranspose`
+10. `mxnet.gluon.nn.ConvolutionTranspose3D`

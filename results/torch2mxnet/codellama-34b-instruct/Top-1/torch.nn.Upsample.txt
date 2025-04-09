@@ -1,0 +1,12 @@
+
+MXNet does not have a direct equivalent of `torch.nn.Upsample`. However, you can achieve similar functionality using the `mxnet.ndarray.UpSampling` module. Here's an example:
+```python
+import mxnet as mx
+
+# Create a 2D tensor with shape (1, 3)
+data = mx.nd.array([[1, 2, 3]])
+
+# Upsample the data by a factor of 2 along both dimensions
+upsampled_data = mx.nd.UpSampling(data, scale=2)
+```
+In this example, `mx.nd.UpSampling` is used to upsample the input tensor `data` by a factor of 2 along both dimensions. The resulting tensor will have shape `(1, 6)`.

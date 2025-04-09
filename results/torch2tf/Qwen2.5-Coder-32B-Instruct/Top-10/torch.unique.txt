@@ -1,0 +1,10 @@
+tf.unique
+tf.raw_ops.Unique
+tf.math.segment_min
+tf.math.segment_max
+tf.math.segment_mean
+tf.math.segment_sum
+tf.math.unsorted_segment_sum
+tf.math.unsorted_segment_mean
+tf.math.unsorted_segment_min
+tf.math.unsorted_segment_max

@@ -1,0 +1,5 @@
+torch.norm  
+torch.linalg.norm  
+torch.cdist  
+torch.pdist  
+torch.nn.functional.normalize

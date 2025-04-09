@@ -1,0 +1,12 @@
+Here are the 10 CNTK APIs that may have similar functionality to `tensorflow.keras.models.load_model`:
+
+1. `cntk.load_model`
+2. `cntk.Function.load`
+3. `cntk.Model.load`
+4. `cntk.utils.load_model`
+5. `cntk.io.load_model`
+6. `cntk.train.load_model`
+7. `cntk.ops.load_model`
+8. `cntk.layers.load_model`
+9. `cntk.models.load`
+10. `cntk.serialization.load_model`

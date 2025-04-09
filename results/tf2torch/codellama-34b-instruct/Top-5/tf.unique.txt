@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to TensorFlow's `unique`:
+
+1. `torch.unique` - This API returns the unique elements of a tensor, along with their indices in the original tensor.
+2. `torch.unique_dim` - This API returns the unique elements of a specific dimension of a tensor, along with their indices in the original tensor.
+3. `torch.unique_rows` - This API returns the unique rows of a 2D tensor, along with their indices in the original tensor.
+4. `torch.unique_cols` - This API returns the unique columns of a 2D tensor, along with their indices in the original tensor.
+5. `torch.unique_values` - This API returns the unique values of a tensor, along with their indices in the original tensor.

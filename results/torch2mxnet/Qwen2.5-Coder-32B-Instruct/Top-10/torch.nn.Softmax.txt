@@ -1,0 +1,10 @@
+mxnet.ndarray.softmax
+mxnet.symbol.softmax
+mxnet.gluon.nn.SoftmaxActivation
+mxnet.gluon.nn.Activation
+mxnet.ndarray.SpecialFunctions.softmax
+mxnet.ndarray.NN.softmax
+mxnet.ndarray.Loss.softmax_cross_entropy
+mxnet.ndarray.Loss.softmax_output
+mxnet.ndarray.Loss.softmax
+mxnet.ndarray.Activation.softmax

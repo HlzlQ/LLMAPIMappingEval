@@ -1,0 +1,10 @@
+1. GetInt32
+2. GetOrdinal
+3. GetValue
+4. GetFieldType
+5. GetName
+6. GetDataTypeName
+7. IsDBNull
+8. Close
+9. Read
+10. Next

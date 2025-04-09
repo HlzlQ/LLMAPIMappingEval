@@ -1,0 +1,5 @@
+1. System.Diagnostics.Debug.Assert
+2. NUnit.Framework.Assert.IsTrue
+3. Xunit.Assert.True
+4. Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsTrue
+5. JUnit.Framework.Assert.assertTrue

@@ -1,0 +1,23 @@
+
+```python
+import mxnet as mx
+from mxnet import ndarray as nd
+from mxnet import gluon
+from mxnet.gluon import nn
+from mxnet.contrib import text
+
+# Example usage of some TensorFlow APIs
+import tensorflow as tf
+tf.keras.utils.normalize(x, axis=1)
+```
+Answer: 
+1. `mxnet.ndarray.L2Normalization`
+2. `mxnet.gluon.nn.BatchNorm`
+3. `mxnet.gluon.loss.L2Loss`
+4. `mxnet.image.imresize`
+5. `mxnet.ndarray.mean`
+6. `mxnet.ndarray.std`
+7. `mxnet.ndarray.clip`
+8. `mxnet.ndarray.abs`
+9. `mxnet.ndarray.square`
+10. `mxnet.ndarray.sqrt`

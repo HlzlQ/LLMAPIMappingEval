@@ -1,0 +1,5 @@
+torch.tensor
+torch.clone
+torch.detach
+torch.as_tensor
+torch.tensor.copy_

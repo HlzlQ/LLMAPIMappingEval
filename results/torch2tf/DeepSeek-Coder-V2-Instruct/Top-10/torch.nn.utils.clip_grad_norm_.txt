@@ -1,0 +1,12 @@
+
+
+1. tf.clip_by_global_norm
+2. tf.train.Optimizer.compute_gradients
+3. tf.train.Optimizer.apply_gradients
+4. tf.keras.optimizers.Optimizer.get_gradients
+5. tf.keras.optimizers.Optimizer.apply_gradients
+6. tf.clip_by_value
+7. tf.clip_by_norm
+8. tf.train.GradientDescentOptimizer.compute_gradients
+9. tf.train.GradientDescentOptimizer.apply_gradients
+10. tf.keras.optimizers.SGD.compute_gradients

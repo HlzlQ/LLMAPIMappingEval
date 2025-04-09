@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.ArrayList.ToArray()
+2. System.Collections.Hashtable.ToArray()
+3. System.Collections.Queue.ToArray()
+4. System.Collections.SortedList.ToArray()
+5. System.Collections.Stack.ToArray()
+6. System.Collections.Specialized.NameObjectCollectionBase.ToArray()
+7. System.Collections.Specialized.StringCollection.ToArray()
+8. System.Collections.Generic.List<T>.ToArray()
+9. System.Collections.Generic.LinkedList<T>.ToArray()
+10. System.Collections.Generic.SortedSet<T>.ToArray()

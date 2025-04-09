@@ -1,0 +1,10 @@
+cntk.axis_slice
+cntk.slice
+cntk.ops.slice
+cntk.sequence.slice
+cntk.sequence.axis_slice
+cntk.sequence.first
+cntk.sequence.last
+cntk.sequence.get_elements
+cntk.sequence.gather
+cntk.sequence.scatter_elements

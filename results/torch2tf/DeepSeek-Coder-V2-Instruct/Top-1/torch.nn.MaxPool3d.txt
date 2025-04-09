@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Answer: tf.keras.layers.MaxPooling3D
+<jupyter_output>
+<empty_output>

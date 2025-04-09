@@ -1,0 +1,5 @@
+System.Globalization.NumberFormatInfo.NumberGroupSeparator  
+System.Globalization.CultureInfo.NumberFormat.NumberGroupSeparator  
+System.Threading.Thread.CurrentThread.CurrentCulture.NumberFormat.NumberGroupSeparator  
+System.Globalization.RegionInfo.NumberFormat.NumberGroupSeparator  
+System.IFormatProvider.GetFormat(System.Type).NumberGroupSeparator

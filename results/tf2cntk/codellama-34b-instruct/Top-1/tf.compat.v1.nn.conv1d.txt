@@ -1,0 +1,2 @@
+
+CNTK's equivalent of `tensorflow.compat.v1.nn.conv1d` is `cntk.layers.Convolution1D`.

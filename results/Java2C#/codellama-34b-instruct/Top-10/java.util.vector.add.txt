@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.List<T>.Add()
+2. System.Collections.ArrayList.Add()
+3. System.Collections.Specialized.NameObjectCollectionBase.Add()
+4. System.Collections.Specialized.StringCollection.Add()
+5. System.Collections.Specialized.StringDictionary.Add()
+6. System.Collections.Generic.LinkedList<T>.AddAfter()
+7. System.Collections.Generic.LinkedList<T>.AddBefore()
+8. System.Collections.Generic.LinkedList<T>.AddFirst()
+9. System.Collections.Generic.LinkedList<T>.AddLast()
+10. System.Collections.Specialized.OrderedDictionary.Add()

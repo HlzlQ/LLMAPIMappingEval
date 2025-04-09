@@ -1,0 +1,5 @@
+1. Dropout
+2. DropOutLayer
+3. dropout_layer
+4. CNTKDropout
+5. drop_path

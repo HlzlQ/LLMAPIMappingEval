@@ -1,0 +1,5 @@
+tf.math.l2_normalize  
+tf.linalg.norm  
+tf.keras.layers.LayerNormalization  
+tf.nn.local_response_normalization  
+tf.nn.batch_normalization

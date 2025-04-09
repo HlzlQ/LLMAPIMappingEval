@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for the same purpose as TensorFlow's `AdamOptimizer`:
+
+1. `torch.optim.Adam`
+2. `torch.optim.AdamW`
+3. `torch.optim.Adagrad`
+4. `torch.optim.RMSprop`
+5. `torch.optim.SGD`

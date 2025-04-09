@@ -1,0 +1,5 @@
+1. System.Char.ToLower
+2. System.String.ToLower
+3. System.String.ToLowerInvariant
+4. System.Globalization.TextInfo.ToLower
+5. System.Text.RegularExpressions.Regex.ReplaceWithOptions.ToLower

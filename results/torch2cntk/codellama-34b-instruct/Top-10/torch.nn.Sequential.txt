@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the PyTorch `nn.Sequential` API:
+
+1. `cntk.layers.Sequential`
+2. `cntk.models.Sequential`
+3. `cntk.modules.Sequential`
+4. `cntk.neural_networks.Sequential`
+5. `cntk.nn.Sequential`
+6. `cntk.sequential.Sequential`
+7. `cntk.layers.SequentialLayer`
+8. `cntk.models.SequentialModel`
+9. `cntk.modules.SequentialModule`
+10. `cntk.neural_networks.SequentialNetwork`

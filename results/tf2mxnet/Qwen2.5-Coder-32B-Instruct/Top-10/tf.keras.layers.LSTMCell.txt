@@ -1,0 +1,10 @@
+mxnet.gluon.rnn.LSTMCell
+mxnet.gluon.rnn.LSTM
+mxnet.ndarray.contrib.lstm_cell
+mxnet.symbol.contrib.lstm_cell
+mxnet.gluon.rnn.HybridSequential
+mxnet.gluon.rnn.SequentialRNNCell
+mxnet.gluon.rnn.RNNCell
+mxnet.gluon.rnn.GRUCell
+mxnet.gluon.rnn.BidirectionalCell
+mxnet.ndarray.LSTM

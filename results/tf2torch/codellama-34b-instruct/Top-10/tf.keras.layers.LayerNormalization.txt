@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that have similar functionality to TensorFlow's `tensorflow.keras.layers.LayerNormalization`:
+
+1. `nn.LayerNorm`
+2. `nn.InstanceNorm`
+3. `nn.BatchNorm`
+4. `nn.GroupNorm`
+5. `nn.LocalResponseNorm`
+6. `nn.CrossMapLRN`
+7. `nn.SpatialCrossMapLRN`
+8. `nn.TemporalCrossMapLRN`
+9. `nn.LayerNorm2d`
+10. `nn.InstanceNorm2d`

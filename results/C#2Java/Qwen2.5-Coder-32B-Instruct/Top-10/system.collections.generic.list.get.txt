@@ -1,0 +1,10 @@
+java.util.List.get
+java.util.ArrayList.get
+java.util.LinkedList.get
+java.util.Vector.get
+java.util.Stack.get
+java.util.AbstractList.get
+java.util.Collections.singletonList.get
+java.util.Arrays.asList.get
+java.util.concurrent.CopyOnWriteArrayList.get
+java.util.concurrent.CopyOnWriteArraySet.get

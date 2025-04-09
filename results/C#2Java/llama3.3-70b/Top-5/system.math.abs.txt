@@ -1,0 +1,5 @@
+1. java.lang.Math.abs
+2. java.lang.StrictMath.abs
+3. android.util.MathUtils.abs
+4. org.apache.commons.math3.util.FastMath.abs
+5. Jama.Matrix.abs

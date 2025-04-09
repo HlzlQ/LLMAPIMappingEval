@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.ndarray.flatten
+2. mxnet.symbol.reshape
+3. mxnet.gluon.nn.Flatten
+4. mxnet.image.imresize
+5. mxnet.ndarray.transpose
+6. mxnet.ndarray.expand_dims
+7. mxnet.ndarray.concat
+8. mxnet.ndarray.slice
+9. mxnet.ndarray.mean
+10. mxnet.ndarray.norm

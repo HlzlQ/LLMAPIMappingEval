@@ -1,0 +1,12 @@
+  Sure, here are the top 10 APIs in Java that correspond to the C# API `system.collections.generic.hashset.remove`:
+
+1. `java.util.HashSet.remove(Object o)`: Removes the specified element from this set if it is present.
+2. `java.util.HashMap.remove(Object key)`: Removes the mapping for the specified key from this map if it is present.
+3. `java.util.LinkedHashSet.remove(Object o)`: Removes the specified element from this set if it is present.
+4. `java.util.TreeSet.remove(Object o)`: Removes the specified element from this set if it is present.
+5. `java.util.concurrent.ConcurrentHashMap.remove(Object key, Object value)`: Removes the mapping for the specified key from this map if it is present.
+6. `java.util.concurrent.CopyOnWriteArraySet.remove(Object o)`: Removes the specified element from this set if it is present.
+7. `java.util.concurrent.ConcurrentSkipListSet.remove(Object o)`: Removes the specified element from this set if it is present.
+8. `java.util.WeakHashMap.remove(Object key, Object value)`: Removes the mapping for the specified key from this map if it is present.
+9. `java.util.IdentityHashMap.remove(Object key, Object value)`: Removes the mapping for the specified key from this map if it is present.
+10. `java.util.LinkedHashMap.remove(Object o)`: Removes the specified element from this map if it is present.

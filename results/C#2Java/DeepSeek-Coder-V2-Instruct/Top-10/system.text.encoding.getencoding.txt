@@ -1,0 +1,11 @@
+java.nio.charset.Charset.defaultCharset
+java.nio.charset.Charset.forName
+java.nio.charset.CharsetEncoder
+java.nio.charset.CharsetDecoder
+java.nio.charset.CharsetProvider
+java.nio.charset.CodingErrorAction
+java.nio.charset.StandardCharsets
+java.nio.ByteBuffer
+java.nio.CharBuffer
+java.nio.DoubleBuffer
+java.nio.FloatBuffer

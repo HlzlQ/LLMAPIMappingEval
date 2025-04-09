@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.nn.functional.selu`:
+
+1. mxnet.ndarray SELU
+2. mxnet.gluon.nn.SELU
+3. mxnet.sym.SELU
+4. mx.nd.SELU
+5. mx.gluon.nnActivation.SELU
+6. mx.symbol.SELU
+7. mxnet.ndarray.Activation.selu
+8. mxnet.gluon.nn.ActivationSELU
+9. mx.nd Activation.selu
+10. mx.sym ActivationSELU

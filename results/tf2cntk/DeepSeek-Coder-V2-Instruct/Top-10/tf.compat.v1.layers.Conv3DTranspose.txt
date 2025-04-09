@@ -1,0 +1,12 @@
+
+
+1. cntk.ops.convolutional.transposed_convolutional3d
+2. cntk.layers.Convolution3DTranspose
+3. cntk.layers.Deconvolution3D
+4. cntk.layers.TransposedConvolution3D
+5. cntk.layers.Conv3DTranspose
+6. cntk.ops.transposed_convolutional3d
+7. cntk.layers.Convolution3D
+8. cntk.layers.Deconvolution3D
+9. cntk.layers.TransposedConvolution3D
+10. cntk.layers.Conv3DTranspose

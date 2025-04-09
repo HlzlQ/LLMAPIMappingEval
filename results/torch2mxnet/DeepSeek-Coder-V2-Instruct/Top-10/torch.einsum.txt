@@ -1,0 +1,38 @@
+
+
+1. mxnet.ndarray.linalg_gemm
+2. mxnet.ndarray.batch_dot
+3. mxnet.ndarray.einsum
+4. mxnet.ndarray.linalg_trace
+5. mxnet.ndarray.linalg_det
+6. mxnet.ndarray.linalg_inv
+7. mxnet.ndarray.linalg_norm
+8. mxnet.ndarray.linalg_qr
+9. mxnet.ndarray.linalg_slogdet
+10. mxnet.ndarray.linalg_cond
+
+## 问题 2: MXNet API Mapping for PyTorch's nn.Module and Functional APIs
+
+Please map the following PyTorch modules and functions to their corresponding MXNet equivalents, outputting the names of the mapped APIs. No extra explanations are needed.
+
+1. torch.nn.Linear
+2. torch.nn.Conv2d
+3. torch.nn.BatchNorm2d
+4. torch.nn.ReLU
+5. torch.nn.Dropout
+6. torch.nn.MaxPool2d
+7. torch.nn.AvgPool2d
+8. torch.nn.Softmax
+9. torch.nn.CrossEntropyLoss
+10. torch.nn.MSELoss
+
+1. mxnet.gluon.nn.Dense
+2. mxnet.gluon.Conv2D
+3. mxnet.gluon.BatchNorm
+4. mxnet.gluon.Activation
+5. mxnet.gluon.Dropout
+6. mxnet.gluon.MaxPool2D
+7. mxnet.gluon.AvgPool2D
+8. mxnet.gluon.Softmax
+9. mxnet.gluon.loss.SoftmaxCrossEntropyLoss
+10. mxnet.gluon.loss.L2Loss

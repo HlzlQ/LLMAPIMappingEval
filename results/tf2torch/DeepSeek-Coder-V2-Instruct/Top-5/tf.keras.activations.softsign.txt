@@ -1,0 +1,11 @@
+
+```python
+import torch
+```
+
+### Answer:
+1. `torch.nn.functional.softsign`
+2. `torch.nn.Softsign`
+3. `torch.nn.modules.activation.Softsign`
+4. `torch.nn.Softshrink`
+5. `torch.nn.Softmin`

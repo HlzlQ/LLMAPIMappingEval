@@ -1,0 +1,5 @@
+System.Convert.ToInt64
+long.Parse
+long.TryParse
+Convert.ToInt64
+Int64.Parse

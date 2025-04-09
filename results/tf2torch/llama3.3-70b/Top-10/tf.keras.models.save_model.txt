@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.models.save_model`:
+
+1. torch.save
+2. torch.nn.Module.state_dict
+3. torch.nn.Module.load_state_dict
+4. torch.serialization.save
+5. torch.serialization.load
+6. torch.onnx.export
+7. torch.jit.save
+8. torch.jit.load
+9. torch.hub.save
+10. torch.hub.load_state_dict

@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow Keras Sequential API:
+
+1. torch.nn.Sequential
+2. torch.nn.ModuleList
+3. torch.nn.ModuleDict
+4. torch.nn.DataParallel
+5. torch.nn.DistributedDataParallel

@@ -1,0 +1,8 @@
+
+Here are five TensorFlow APIs that correspond to the PyTorch API `torch.distributions.exponential.Exponential`:
+
+1. `tf.random.exponential`
+2. `tf.random.exponential_variate`
+3. `tf.random.exponential_sample`
+4. `tf.random.exponential_distribution`
+5. `tf.random.exponential_cdf`

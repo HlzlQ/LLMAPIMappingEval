@@ -1,0 +1,5 @@
+
+
+## 解题答案
+
+1. `torch.nn.functional.pad`

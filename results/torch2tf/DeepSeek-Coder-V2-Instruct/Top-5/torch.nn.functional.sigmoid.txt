@@ -1,0 +1,2 @@
+
+Answer: torch.nn.Sigmoid, tf.math.sigmoid, tensorflow.keras.activations.sigmoid, keras.layers.Activation('sigmoid'), tf.keras.activations.sigmoid

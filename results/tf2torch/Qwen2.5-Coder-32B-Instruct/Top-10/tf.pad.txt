@@ -1,0 +1,10 @@
+torch.nn.functional.pad  
+torch.Tensor.new_full  
+torch.cat  
+torch.stack  
+torch.roll  
+torch.chunk  
+torch.split  
+torch.gather  
+torch.scatter  
+torch.index_select

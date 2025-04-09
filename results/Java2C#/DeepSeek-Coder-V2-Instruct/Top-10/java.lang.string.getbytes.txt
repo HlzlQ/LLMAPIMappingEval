@@ -1,0 +1,10 @@
+System.Text.Encoding.UTF8.GetBytes
+System.Convert.ToByte
+System.String.ToCharArray
+System.Text.ASCIIEncoding.GetBytes
+System.Text.UnicodeEncoding.GetBytes
+System.Text.UTF32Encoding.GetBytes
+System.Text.UTF8Encoding.GetBytes
+System.Text.UTF7Encoding.GetBytes
+System.Text.UTF16Encoding.GetBytes
+System.String.ToByteArray

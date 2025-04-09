@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for splitting tensors:
+
+1. `tf.split`
+2. `tf.unstack`
+3. `tf.split_v2`
+4. `tf.unstack_v2`
+5. `tf.tensor_split`
+6. `tf.tensor_unstack`
+7. `tf.split_axis`
+8. `tf.unstack_axis`
+9. `tf.tensor_split_axis`
+10. `tf.tensor_unstack_axis`

@@ -1,0 +1,5 @@
+System.Array.BinarySearch
+System.Collections.Generic.List<T>.BinarySearch
+System.Collections.ArrayList.BinarySearch
+System.Collections.Generic.SortedList<TKey,TValue>.BinarySearch
+System.Collections.Generic.SortedDictionary<TKey,TValue>.ContainsKey

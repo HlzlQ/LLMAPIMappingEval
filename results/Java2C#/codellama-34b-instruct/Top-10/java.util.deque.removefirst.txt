@@ -1,0 +1,12 @@
+Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.Queue<T>.Dequeue()
+2. System.Collections.Concurrent.BlockingCollection<T>.Take()
+3. System.Collections.Concurrent.ConcurrentQueue<T>.TryDequeue()
+4. System.Collections.Generic.Stack<T>.Pop()
+5. System.Collections.Concurrent.BlockingCollection<T>.TakeLast()
+6. System.Collections.Concurrent.ConcurrentStack<T>.TryPop()
+7. System.Collections.Generic.LinkedList<T>.RemoveFirst()
+8. System.Collections.Generic.List<T>.RemoveAt(0)
+9. System.Collections.Generic.HashSet<T>.RemoveWhere(x => x == default(T))
+10. System.Collections.Generic.SortedSet<T>.RemoveWhere(x => x == default(T))

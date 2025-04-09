@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used for convolutional neural networks:
+
+1. `cntk.layers.Convolution3D`
+2. `cntk.layers.Conv3D`
+3. `cntk.layers.ConvolutionTranspose3D`
+4. `cntk.layers.Deconvolution3D`
+5. `cntk.layers.ConvolutionalLayer3D`
+6. `cntk.layers.ConvolutionalBlock3D`
+7. `cntk.layers.ConvolutionalResidualBlock3D`
+8. `cntk.layers.ConvolutionalBottleneckBlock3D`
+9. `cntk.layers.ConvolutionalInceptionBlock3D`
+10. `cntk.layers.ConvolutionalSqueezeAndExcitationBlock3D`

@@ -1,0 +1,12 @@
+Here are the 10 most likely equivalent PyTorch APIs for `tensorflow.keras.activations.tanh`:
+
+1. torch.tanh
+2. torch.nn.Tanh
+3. torch.relu
+4. torch.nn.ReLU
+5. torch.sigmoid
+6. torch.nn.Sigmoid
+7. torch.nn.LeakyReLU
+8. torch.nn.PReLU
+9. torch.nn.Softmax
+10. torch.nn.LogSoftmax

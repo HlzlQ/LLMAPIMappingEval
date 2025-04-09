@@ -1,0 +1,10 @@
+
+MXNet does not have an exact equivalent of the `GRUCell` class from TensorFlow's Keras API. However, MXNet provides a similar functionality through its `RNN` module. Specifically, you can use the `mxnet.rnn.GRUCell` class to create a GRU cell in MXNet.
+
+Here is an example of how to create a GRU cell in MXNet:
+```
+import mxnet as mx
+
+cell = mx.rnn.GRUCell(num_hidden=128, input_size=784)
+```
+In this example, `num_hidden` is the number of hidden units in the GRU cell, and `input_size` is the size of the input data. You can adjust these parameters to suit your specific use case.

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the TensorFlow API `tensorflow.keras.optimizers.Adagrad`:
+
+1. `cntk.learners.adagrad`
+2. `cntk.learners.adagrad_momentum`
+3. `cntk.learners.adagrad_nesterov`
+4. `cntk.learners.adagrad_rmsprop`
+5. `cntk.learners.adagrad_adam`

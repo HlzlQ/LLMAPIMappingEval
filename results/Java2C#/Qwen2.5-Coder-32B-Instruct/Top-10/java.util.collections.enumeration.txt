@@ -1,0 +1,10 @@
+System.Collections.IEnumerator
+System.Collections.Generic.IEnumerator<T>
+System.Collections.ArrayList.GetEnumerator
+System.Collections.Hashtable.GetEnumerator
+System.Collections.SortedList.GetEnumerator
+System.Collections.Stack.GetEnumerator
+System.Collections.Queue.GetEnumerator
+System.Collections.BitArray.GetEnumerator
+System.Collections.Specialized.NameValueCollection.GetEnumerator
+System.Collections.Concurrent.ConcurrentQueue<T>.GetEnumerator

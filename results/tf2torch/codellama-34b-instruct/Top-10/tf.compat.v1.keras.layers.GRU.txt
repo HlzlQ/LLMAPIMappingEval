@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.keras.layers.GRU`:
+
+1. `torch.nn.GRU`
+2. `torch.nn.RNNCell`
+3. `torch.nn.LSTMCell`
+4. `torch.nn.GRUCell`
+5. `torch.nn.Sequential`
+6. `torch.nn.ModuleList`
+7. `torch.nn.ParameterList`
+8. `torch.nn.utils.rnn.pack_padded_sequence`
+9. `torch.nn.utils.rnn.pad_packed_sequence`
+10. `torch.nn.utils.rnn.GRU`

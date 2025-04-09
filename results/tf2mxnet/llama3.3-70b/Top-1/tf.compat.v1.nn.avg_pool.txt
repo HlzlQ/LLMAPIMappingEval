@@ -1,0 +1,1 @@
+mxnet.ndarray.Pooling(data=None, kernel=(2, 2), stride=(2, 2), pad=(0, 0), pool_type='avg')

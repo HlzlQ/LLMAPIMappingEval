@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that can be used for batch normalization:
+
+1. `nn.BatchNorm2d`
+2. `nn.BatchNorm3d`
+3. `nn.BatchNorm1d`
+4. `nn.InstanceNorm2d`
+5. `nn.InstanceNorm3d`

@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that can be used for padding:
+
+1. `cntk.ops.pad`
+2. `cntk.ops.padding`
+3. `cntk.ops.zero_pad`
+4. `cntk.ops.reflect_pad`
+5. `cntk.ops.replicate_pad`

@@ -1,0 +1,12 @@
+  Here are ten C# APIs that have similar functionality to the Java API `java.lang.Character.isDigit()`:
+
+1. `System.Char.IsDigit(char c)`
+2. `Microsoft.VisualBasic.Strings.IsNumeric(string s)`
+3. `System.Text.RegularExpressions.Regex.IsMatch(string input, string pattern)`
+4. `System.Globalization.CultureInfo.CurrentCulture.NumberFormat.IsDigit(char c)`
+5. `System.Globalization.NumberFormatInfo.InvariantInfo.IsDigit(char c)`
+6. `System.Char.GetUnicodeCategory(char c) == System.Globalization.UnicodeCategory.DecimalDigitNumber`
+7. `System.Char.IsNumber(char c)`
+8. `System.Text.RegularExpressions.Regex.IsMatch(string input, string pattern, System.Text.RegularExpressions.RegexOptions.IgnoreCase)`
+9. `System.Globalization.CultureInfo.CurrentCulture.NumberFormat.IsDigit(char c, System.Globalization.NumberStyles.Integer)`
+10. `System.Globalization.NumberFormatInfo.InvariantInfo.IsDigit(char c, System.Globalization.NumberStyles.Integer)`

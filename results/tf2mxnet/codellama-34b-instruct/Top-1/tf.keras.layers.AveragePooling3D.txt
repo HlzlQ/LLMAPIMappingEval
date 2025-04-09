@@ -1,0 +1,16 @@
+
+MXNet does not have a direct equivalent of TensorFlow's `AveragePooling3D` layer. However, you can achieve similar functionality using MXNet's `pooling` layer with the `mode` parameter set to `'avg'` and the `kernel_size` parameter set to `(2, 2, 2)`.
+
+Here is an example of how you could use the `pooling` layer in MXNet to perform average pooling on a 3D tensor:
+```
+import mxnet as mx
+
+# Create a 3D tensor with shape (10, 10, 10)
+data = mx.nd.random_normal(shape=(10, 10, 10))
+
+# Define the pooling layer with average pooling and kernel size of (2, 2, 2)
+pool = mx.gluon.nn.Pooling(mode='avg', kernel_size=(2, 2, 2))
+
+# Apply the pooling layer to the input data
+output = pool(data)
+```

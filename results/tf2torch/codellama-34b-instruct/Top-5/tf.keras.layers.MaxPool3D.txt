@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that have similar functionality to `tensorflow.keras.layers.MaxPool3D`:
+
+1. `torch.nn.MaxPool3d`
+2. `torch.nn.functional.max_pool3d`
+3. `torch.nn.modules.pooling.MaxPool3d`
+4. `torch.nn.modules.pooling.MaxUnpool3d`
+5. `torch.nn.modules.pooling.MaxPool3dWithIndices`

@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.lang.String.copyValueOf()
+2. java.lang.String.getChars()
+3. java.lang.String.toCharArray()
+4. java.lang.StringBuffer.append()
+5. java.lang.StringBuilder.append()
+6. java.lang.String.substring()
+7. java.lang.String.replace()
+8. java.lang.String.split()
+9. java.lang.String.indexOf()
+10. java.lang.String.lastIndexOf()

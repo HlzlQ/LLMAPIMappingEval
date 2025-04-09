@@ -1,0 +1,7 @@
+Here are five possible C# APIs that correspond to the given Java API:
+
+1. `System.Data.SqlClient.SqlDataReader.IsDBNull`
+2. `System.Data.OleDb.OleDbDataReader.IsDBNull`
+3. `System.Data.Odbc.OdbcDataReader.IsDBNull`
+4. `System.Data.Common.DbDataReader.IsDBNull`
+5. `System.Data.SqlClient.SqlDataReader.GetValue`

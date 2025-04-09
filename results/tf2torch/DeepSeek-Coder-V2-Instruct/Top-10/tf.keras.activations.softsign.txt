@@ -1,0 +1,12 @@
+
+
+1. ReLU
+2. Sigmoid
+3. Tanh
+4. Softmax
+5. LeakyReLU
+6. ELU
+7. PReLU
+8. Swish
+9. Mish
+10. Softsign

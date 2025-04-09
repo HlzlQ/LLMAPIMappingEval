@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.compat.v1.nn.rnn_cell.RNNCell`:
+
+1. mxnet.ndarray.rnn.RNNCell
+2. mxnet.gluon.rnn.RNNCell
+3. mxnet.gluon.rnn.LSTMCell
+4. mxnet.gluon.rnn.GRUCell
+5. mxnet.gluon.rnn.BasicRNNCell
+6. mxnet.ndarray.rnn.LSTMCell
+7. mxnet.ndarray.rnn.GRUCell
+8. mxnet.gluon.contrib.rnn.RNNCell
+9. mxnet.gluon.contrib.rnn.VariationalDropoutCell
+10. mxnet.gluon.rnn.ResidualCell

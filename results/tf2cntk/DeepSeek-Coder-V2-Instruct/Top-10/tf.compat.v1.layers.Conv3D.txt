@@ -1,0 +1,12 @@
+
+
+1. cntk.layers.Convolutional3D
+2. cntk.ops.convolution_transpose
+3. cntk.ops.pooling
+4. cntk.ops.batch_normalization
+5. cntk.ops.relu
+6. cntk.ops.max_pooling
+7. cntk.layers.Dense
+8. cntk.ops.flatten
+9. cntk.ops.dropout
+10. cntk.ops.sigmoid

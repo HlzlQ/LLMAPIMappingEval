@@ -1,0 +1,29 @@
+C# does not have a direct equivalent to the `java.util.regex.matcher.find` method. However, you can use the `System.Text.RegularExpressions.Regex` class in C# to perform regular expression matching.
+
+Here is an example of how you might use the `Regex` class to find all occurrences of a pattern in a string:
+```
+using System;
+using System.Text.RegularExpressions;
+
+class Example
+{
+    static void Main()
+    {
+        // Define the regular expression pattern
+        Regex regex = new Regex("\\d+");
+
+        // Define the input string
+        string input = "The answer is 42.";
+
+        // Find all occurrences of the pattern in the input string
+        MatchCollection matches = regex.Matches(input);
+
+        // Iterate over the matches and print them to the console
+        foreach (Match match in matches)
+        {
+            Console.WriteLine(match.Value);
+        }
+    }
+}
+```
+This code will output `42` to the console, since that is the only occurrence of the pattern `\d+` in the input string.

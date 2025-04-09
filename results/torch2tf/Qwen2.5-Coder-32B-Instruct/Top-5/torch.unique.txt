@@ -1,0 +1,5 @@
+tf.unique
+tf.unique_with_counts
+tf.math.is_unique
+tf.sets.difference
+tf.sets.intersection

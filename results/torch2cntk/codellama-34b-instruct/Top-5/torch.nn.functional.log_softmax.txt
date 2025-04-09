@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to the PyTorch API `torch.nn.functional.log_softmax`:
+
+1. `cntk.ops.LogSoftmax`
+2. `cntk.ops.Softmax` followed by `cntk.ops.Log`
+3. `cntk.ops.SoftmaxCrossEntropyWithLogits`
+4. `cntk.ops.SigmoidCrossEntropyWithLogits`
+5. `cntk.ops.SoftmaxCrossEntropy`

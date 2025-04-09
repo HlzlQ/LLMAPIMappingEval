@@ -1,0 +1,10 @@
+tfp.distributions.Exponential
+tf.random.exponential
+tf.math.exp
+tf.nn.relu6
+tf.nn.elu
+tf.nn.crelu
+tf.nn.softplus
+tf.nn.softmax
+tf.nn.log_softmax
+tf.nn.sigmoid

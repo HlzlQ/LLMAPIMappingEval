@@ -1,0 +1,10 @@
+System.Diagnostics.Debug.AssertNotSame
+NUnit.Framework.Assert.AreNotSame
+Microsoft.VisualStudio.TestTools.UnitTesting.Assert.AreNotSame
+Xunit.Assert.NotSame
+FluentAssertions.Assertions.SameOrDifferentExtensions.ShouldNotBeSameAs
+NSubstitute.Received.InOrderExtensions.DidNotReceiveSame
+Moq.Language.Flow.ITimes.ShouldBeCalledTimesExtensions.ShouldNotHaveBeenCalledWithSame
+AutoFixture.Idioms.FixtureAssertionExtensions.VerifyNoDuplicateRegistrations
+Castle.Core.AssertionHelper.AreNotSame
+TestStack.BDDfy.Scanners.StepScanner.ShouldNotBeSameAs

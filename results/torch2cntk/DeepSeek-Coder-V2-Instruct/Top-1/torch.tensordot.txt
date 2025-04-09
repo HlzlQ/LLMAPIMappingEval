@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("torch.tensordot")
+<jupyter_output>
+torch.tensordot

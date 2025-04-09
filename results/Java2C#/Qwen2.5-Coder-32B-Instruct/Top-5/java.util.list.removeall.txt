@@ -1,0 +1,5 @@
+System.Collections.Generic.List<T>.RemoveAll
+System.Linq.Enumerable.Except
+System.Collections.ArrayList.RemoveAll
+System.Collections.Generic.IList<T>.RemoveAll
+System.Collections.Specialized.StringCollection.RemoveRange

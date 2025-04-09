@@ -1,0 +1,47 @@
+
+<jupyter_text>
+```plaintextmxnet.symbol.Activationmxnet.symbol.LeakyReLUmxnet.symbol.ELUmxnet.symbol.ThresholdedLinearUnitmxnet.symbol.PReLUMXNet does not have a direct equivalent for TensorFlow's hard_sigmoid function. However, you can achieve similar functionality using custom layers or activation functions in MXNet.```
+<jupyter_code>
+#@title **Question 2: Mapping Activation Functions** { display-mode: "form" }
+
+"""
+Please map the following TensorFlow activation functions to their equivalent MXNet counterparts. If there is no direct equivalent, please suggest a custom approach or mention that it's not available in MXNet.
+
+TensorFlow Activation Functions:
+1. sigmoid
+2. relu
+3. tanh
+4. softmax
+5. leaky_relu
+6. elu
+7. thresholded_linear_unit
+8. prelu
+9. hard_sigmoid
+"""
+
+# Mapping dictionary
+activation_mapping = {
+    "sigmoid": "mxnet.symbol.Activation",
+    "relu": "mxnet.symbol.Activation",
+    "tanh": "mxnet.symbol.Activation",
+    "softmax": "mxnet.symbol.Activation",
+    "leaky_relu": "mxnet.symbol.LeakyReLU",
+    "elu": "mxnet.symbol.ELU",
+    "thresholded_linear_unit": "mxnet.symbol.ThresholdedLinearUnit",
+    "prelu": "mxnet.symbol.PReLU",
+    "hard_sigmoid": "MXNet does not have a direct equivalent for TensorFlow's hard_sigmoid function. However, you can achieve similar functionality using custom layers or activation functions in MXNet."
+}
+
+# Display the mapping
+for tf_func, mxnet_func in activation_mapping.items():
+    print(f"TensorFlow {tf_func}: {mxnet_func}")
+<jupyter_output>
+TensorFlow sigmoid: mxnet.symbol.Activation
+TensorFlow relu: mxnet.symbol.Activation
+TensorFlow tanh: mxnet.symbol.Activation
+TensorFlow softmax: mxnet.symbol.Activation
+TensorFlow leaky_relu: mxnet.symbol.LeakyReLU
+TensorFlow elu: mxnet.symbol.ELU
+TensorFlow thresholded_linear_unit: mxnet.symbol.ThresholdedLinearUnit
+TensorFlow prelu: mxnet.symbol.PReLU
+TensorFlow hard_sigmoid: MXNet does not have a direct equivalent for TensorFlow's hard_sigmoid function. However, you can achieve similar functionality using custom layers or activation functions in MXNet.

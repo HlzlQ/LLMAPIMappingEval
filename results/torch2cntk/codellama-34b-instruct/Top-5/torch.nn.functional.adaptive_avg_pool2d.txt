@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that correspond to `torch.nn.functional.adaptive_avg_pool2d`:
+
+1. `cntk.ops.adaptive_avg_pool2d`
+2. `cntk.layers.AdaptiveAvgPool2D`
+3. `cntk.ops.pooling.AdaptiveAvgPool2D`
+4. `cntk.layers.Pooling.adaptive_avg_pool2d`
+5. `cntk.ops.pooling.adaptive_avg_pool2d`

@@ -1,0 +1,10 @@
+mxnet.gluon.Trainer
+mxnet.optimizer.Optimizer
+mxnet.optimizer.Adadelta
+mxnet.gluon.nn.Block
+mxnet.ndarray.NDArray
+mxnet.autograd.record
+mxnet.metric.EvalMetric
+mxnet.symbol.Symbol
+mxnet.io.DataIter
+mxnet.module.Module

@@ -1,0 +1,5 @@
+java.net.HttpURLConnection.getInputStream
+java.net.URLConnection.getInputStream
+javax.net.ssl.HttpsURLConnection.getInputStream
+java.net.HttpURLConnection.getErrorStream
+java.net.URLConnection.getErrorStream

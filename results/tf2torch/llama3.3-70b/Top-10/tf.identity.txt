@@ -1,0 +1,12 @@
+Here are the 10 PyTorch APIs that are similar to `tensorflow.identity`:
+
+1. torch.tensor
+2. torch.clone
+3. torch.detach
+4. torch.as_tensor
+5. torch.from_numpy
+6. torch.tensor.copy_
+7. torch.autograd.Variable
+8. torch.no_grad
+9. torch.tensor.data
+10. torch.tensor.clone()

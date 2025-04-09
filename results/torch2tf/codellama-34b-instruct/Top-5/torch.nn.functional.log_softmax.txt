@@ -1,0 +1,1 @@
+  tf.math.log_softmax

@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Your answer here:
+print("tf.keras.layers.AlphaDropout")
+<jupyter_output>
+tf.keras.layers.AlphaDropout

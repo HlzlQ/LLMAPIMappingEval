@@ -1,0 +1,5 @@
+1. java.nio.file.Paths.get(String first, String... more)
+2. java.io.File.getAbsolutePath()
+3. java.lang.Class.getResource(String name).toExternalForm()
+4. java.nio.file.Files.probeContentType(Path path)
+5. java.nio.file.Paths.get(URI uri)

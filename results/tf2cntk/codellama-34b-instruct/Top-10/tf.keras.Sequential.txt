@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that correspond to the TensorFlow Keras Sequential API:
+
+1. cntk.layers.Sequential
+2. cntk.models.Sequential
+3. cntk.networks.Sequential
+4. cntk.modules.Sequential
+5. cntk.blocks.Sequential
+6. cntk.layers.SequentialLayer
+7. cntk.models.SequentialModel
+8. cntk.networks.SequentialNetwork
+9. cntk.modules.SequentialModule
+10. cntk.blocks.SequentialBlock

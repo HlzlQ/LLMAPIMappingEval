@@ -1,0 +1,8 @@
+
+Here are five possible PyTorch APIs that can be used for loading a saved model:
+
+1. `torch.load()`
+2. `torch.jit.load()`
+3. `torch.nn.Module.load_state_dict()`
+4. `torch.nn.Module.load_parameters()`
+5. `torch.utils.data.DataLoader.load()`

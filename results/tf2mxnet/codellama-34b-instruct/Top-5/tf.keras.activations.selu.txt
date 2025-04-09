@@ -1,0 +1,9 @@
+  tf.keras.activations.selu is not a valid TensorFlow API. The correct API is `tf.keras.activations.serelu`.
+
+Here are the 5 MXNet APIs that you might be looking for:
+
+1. mxnet.ndarray.SELU
+2. mxnet.gluon.nn.SELU
+3. mxnet.symbol.SELU
+4. mxnet.ndarray.selu
+5. mxnet.gluon.nn.selu

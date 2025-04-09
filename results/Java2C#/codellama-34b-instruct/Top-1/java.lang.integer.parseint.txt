@@ -1,0 +1,20 @@
+C# does not have a direct equivalent to Java's `Integer.parseInt()` method. However, you can use the `int.Parse()` or `int.TryParse()` methods in C# to achieve similar functionality.
+
+Here is an example of how you could use `int.Parse()` in C#:
+```
+string input = "123";
+int number = int.Parse(input);
+Console.WriteLine(number); // Output: 123
+```
+And here is an example of how you could use `int.TryParse()` in C#:
+```
+string input = "123";
+if (int.TryParse(input, out int number))
+{
+    Console.WriteLine(number); // Output: 123
+}
+else
+{
+    Console.WriteLine("Invalid input");
+}
+```

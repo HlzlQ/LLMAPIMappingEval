@@ -1,0 +1,14 @@
+
+
+## Solution
+
+1. `torch.nn.Linear` -> `mxnet.gluon.nn.Dense`
+2. `torch.nn.Conv1d` -> `mxnet.gluon.nn.Conv1D`
+3. `torch.nn.Conv2d` -> `mxnet.gluon.nn.Conv2D`
+4. `torch.nn.ConvTranspose1d` -> `mxnet.gluon.nn.Conv1DTranspose`
+5. `torch.nn.ConvTranspose2d` -> `mxnet.gluon.nn.Conv2DTranspose`
+6. `torch.nn.BatchNorm1d` -> `mxnet.gluon.nn.BatchNorm`
+7. `torch.nn.BatchNorm2d` -> `mxnet.gluon.nn.BatchNorm`
+8. `torch.nn.Dropout` -> `mxnet.gluon.nn.Dropout`
+9. `torch.nn.LSTM` -> `mxnet.gluon.rnn.LSTM`
+10. `torch.nn.GRU` -> `mxnet.gluon.rnn.GRU`

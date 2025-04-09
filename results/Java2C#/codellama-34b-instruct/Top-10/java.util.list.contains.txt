@@ -1,0 +1,12 @@
+  Sure, here are the top 10 C# APIs that are similar to the Java API `java.util.list.contains`:
+
+1. `System.Collections.Generic.List<T>.Contains`
+2. `System.Linq.Enumerable.Contains`
+3. `System.Collections.ArrayList.Contains`
+4. `System.Collections.Specialized.StringCollection.Contains`
+5. `System.Collections.Hashtable.Contains`
+6. `System.Collections.SortedList.Contains`
+7. `System.Collections.Generic.Dictionary<TKey, TValue>.ContainsKey`
+8. `System.Collections.Specialized.NameObjectCollectionBase.Contains`
+9. `System.Collections.Specialized.StringDictionary.Contains`
+10. `System.Collections.Concurrent.ConcurrentBag<T>.Contains`

@@ -1,0 +1,11 @@
+
+Answer: 1. mxnet.init.Zero
+2. mxnet.initializer.Constant
+3. mxnet.initializer.Uniform
+4. mxnet.initializer.Normal
+5. mxnet.initializer.Orthogonal
+6. mxnet.initializer.Identity
+7. mxnet.initializer.Xavier
+8. mxnet.initializer.GlorotUniform
+9. mxnet.initializer.GlorotNormal
+10. mxnet.initializer.HeUniform

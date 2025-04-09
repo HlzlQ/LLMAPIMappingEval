@@ -1,0 +1,10 @@
+System.IO.File.Create  
+System.IO.File.CreateText  
+System.IO.File.OpenWrite  
+System.IO.FileStream..ctor(string, FileMode)  
+System.IO.FileStream..ctor(string, FileMode, FileAccess)  
+System.IO.FileStream..ctor(string, FileMode, FileAccess, FileShare)  
+System.IO.FileInfo.Create  
+System.IO.FileInfo.OpenWrite  
+System.IO.File.Open  
+System.IO.File.OpenText

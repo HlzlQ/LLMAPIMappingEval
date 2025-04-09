@@ -1,0 +1,5 @@
+System.Collections.Concurrent.BlockingCollection<T>.Take
+System.Collections.Concurrent.BlockingCollection<T>.TryTake
+System.Collections.Concurrent.BlockingCollection<T>.TakeFromAny
+System.Collections.Concurrent.BlockingCollection<T>.TryTakeFromAny
+System.Collections.Concurrent.BlockingCollection<T>.CompleteAdding

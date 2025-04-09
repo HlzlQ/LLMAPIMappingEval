@@ -1,0 +1,12 @@
+Here are the 10 TensorFlow API names that are similar to `torch.nn.utils.clip_grad_norm_`:
+
+1. tf.clip_by_global_norm
+2. tf.clip_by_value
+3. tf.clip_by_norm
+4. tf.keras.optimizers.Adam.clip_norm
+5. tf.keras.optimizers.SGD.clip_norm
+6. tf.keras.constraints.MaxNorm
+7. tf.keras.constraints.UnitNorm
+8. tf.linalg.global_norm
+9. tf.math.reduce_max
+10. tf.math.reduce_sum

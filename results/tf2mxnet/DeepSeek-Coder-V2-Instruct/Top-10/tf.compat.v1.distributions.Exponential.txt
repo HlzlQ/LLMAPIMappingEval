@@ -1,0 +1,12 @@
+
+
+1. mxnet.gluon.loss.L2Loss
+2. mxnet.ndarray.linalg_norm
+3. mxnet.ndarray.abs
+4. mxnet.ndarray.maximum
+5. mxnet.ndarray.minimum
+6. mxnet.ndarray.clip
+7. mxnet.ndarray.sqrt
+8. mxnet.ndarray.square
+9. mxnet.ndarray.exp
+10. mxnet.ndarray.log

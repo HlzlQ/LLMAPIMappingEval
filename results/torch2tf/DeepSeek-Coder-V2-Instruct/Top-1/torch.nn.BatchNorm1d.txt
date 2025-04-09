@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Answer:
+print("tf.keras.layers.BatchNormalization")
+<jupyter_output>
+tf.keras.layers.BatchNormalization

@@ -1,0 +1,10 @@
+torch.distributions.laplace.Laplace
+torch.nn.functional.l1_loss
+torch.nn.modules.loss._Loss
+torch.Tensor.abs
+torch.Tensor.log
+torch.Tensor.exp
+torch.Tensor.mean
+torch.Tensor.std
+torch.Tensor.var
+torch.Tensor.median

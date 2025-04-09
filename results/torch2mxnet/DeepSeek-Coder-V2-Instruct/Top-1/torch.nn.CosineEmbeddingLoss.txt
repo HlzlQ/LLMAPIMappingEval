@@ -1,0 +1,6 @@
+
+<jupyter_code>
+# Most likely MXNet equivalent for torch.nn.CosineEmbeddingLoss
+print("mxnet.gluon.loss.CosineEmbeddingLoss")
+<jupyter_output>
+mxnet.gluon.loss.CosineEmbeddingLoss

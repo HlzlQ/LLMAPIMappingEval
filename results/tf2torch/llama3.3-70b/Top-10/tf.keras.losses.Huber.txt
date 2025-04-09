@@ -1,0 +1,12 @@
+Here are the 10 PyTorch API names that match the functionality of `tensorflow.keras.losses.Huber`:
+
+1. torch.nn.HuberLoss
+2. torch.nn.MSELoss
+3. torch.nn.L1Loss
+4. torch.nn.SmoothL1Loss
+5. torch.nn.KLDivLoss
+6. torch.nn.NLLLoss
+7. torch.nn.PoissonNLLLoss
+8. torch.nn.GaussianNLLLoss
+9. torch.nn.CosineEmbeddingLoss
+10. torch.nn.MarginRankingLoss

@@ -1,0 +1,5 @@
+mxnet.gluon.probability.Bernoulli
+mxnet.ndarray.random.bernoulli
+mxnet.symbol.random.bernoulli
+mxnet.numpy.random.Generator.bernoulli
+mxnet.numpy.random.bernoulli

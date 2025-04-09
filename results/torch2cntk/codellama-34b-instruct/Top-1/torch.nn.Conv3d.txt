@@ -1,0 +1,26 @@
+
+CNTK does not have a direct equivalent to `torch.nn.Conv3d`. However, you can use the `Convolution` function in CNTK to achieve similar functionality. Here's an example:
+```csharp
+using CNTK;
+
+// Define the convolutional layer
+var conv = new Convolution(
+    numFilters: 64,
+    kernelSize: (3, 3, 3),
+    strides: (1, 1, 1),
+    padding: (1, 1, 1)
+);
+
+// Define the input and output shapes
+var inputShape = new int[] { 32, 32, 32 };
+var outputShape = conv.OutputShape(inputShape);
+
+// Create a variable for the input data
+var inputData = Variable.InputVariable(inputShape, DataType.Float);
+
+// Create a variable for the output data
+var outputData = conv.Forward(inputData);
+```
+In this example, we define a convolutional layer with 64 filters, a kernel size of (3, 3, 3), and strides of (1, 1, 1). We also define the input and output shapes for the layer. Then, we create variables for the input and output data, and use the `Forward` method to apply the convolutional layer to the input data.
+
+Note that CNTK's `Convolution` function is more flexible than PyTorch's `nn.Conv3d`, as it allows you to specify different padding and stride values for each dimension of the input data. However, the basic idea of applying a convolutional layer to an input signal is similar in both frameworks.

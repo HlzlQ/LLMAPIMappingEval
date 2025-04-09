@@ -1,0 +1,8 @@
+
+Here are five possible TensorFlow APIs that can be used for the same purpose as PyTorch's `torch.distributions.uniform.Uniform`:
+
+1. `tf.random.uniform`
+2. `tf.distributions.Uniform`
+3. `tf.random.normal`
+4. `tf.distributions.Normal`
+5. `tf.random.truncated_normal`

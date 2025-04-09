@@ -1,0 +1,8 @@
+  Sure! Here are the five most likely Java APIs for the given C# API:
+
+1. `java.util.regex.Matcher.group(int group)`
+2. `java.util.regex.Matcher.group(String name)`
+3. `java.util.regex.Pattern.matcher(CharSequence input).group(int group)`
+4. `java.util.regex.Pattern.matcher(CharSequence input).group(String name)`
+5. `java.util.regex.MatchResult.group(int group)`
+6. `java.util.regex.MatchResult.group(String name)`

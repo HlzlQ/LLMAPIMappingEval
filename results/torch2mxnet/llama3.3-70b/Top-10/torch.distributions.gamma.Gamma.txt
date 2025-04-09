@@ -1,0 +1,12 @@
+Here are the top 10 matching MXNet APIs for `torch.distributions.gamma.Gamma`:
+
+1. mxnet.ndarray.random.gamma
+2. mxnet.sym.random.gamma
+3. mxnet.gluon.loss.GammaLoss
+4. mxnet.gluon.nn.Gamma
+5. mxnet.ndarray.LinalgGamma
+6. mxnet.sym.LinalgGamma
+7. mxnet.ndarray.RandomGenerator.gamma
+8. mxnet.sym.RandomGenerator.gamma
+9. mxnet.gluon.utils.gammaln
+10. mxnet.ndarray.special.gammaln

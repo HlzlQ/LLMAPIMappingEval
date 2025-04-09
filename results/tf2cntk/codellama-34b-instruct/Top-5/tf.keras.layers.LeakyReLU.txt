@@ -1,0 +1,8 @@
+
+Here are five possible CNTK APIs that could be used as alternatives to `tensorflow.keras.layers.LeakyReLU`:
+
+1. `cntk.layers.LeakyReLU`
+2. `cntk.layers.PReLU`
+3. `cntk.layers.ParametricReLU`
+4. `cntk.layers.Softplus`
+5. `cntk.layers.Swish`

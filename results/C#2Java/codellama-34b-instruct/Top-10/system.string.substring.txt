@@ -1,0 +1,14 @@
+  Sure, here are the 10 most likely Java APIs for the C# `System.String.Substring` method:
+
+1. `java.lang.String.substring(int beginIndex)`
+2. `java.lang.String.substring(int beginIndex, int endIndex)`
+3. `java.lang.String.subSequence(int beginIndex, int endIndex)`
+4. `java.lang.String.substring(int beginIndex, int endIndex, boolean isEndInclusive)`
+5. `java.lang.String.subSequence(int beginIndex, int endIndex, boolean isEndInclusive)`
+6. `java.lang.String.substring(int beginIndex, int endIndex, String charsetName)`
+7. `java.lang.String.subSequence(int beginIndex, int endIndex, String charsetName)`
+8. `java.lang.String.substring(int beginIndex, int endIndex, Charset charset)`
+9. `java.lang.String.subSequence(int beginIndex, int endIndex, Charset charset)`
+10. `java.lang.String.substring(int beginIndex, int endIndex, Locale locale)`
+
+Note that some of these APIs may not be exact equivalents of the C# `System.String.Substring` method, but they are similar and can be used to achieve a similar result in Java.

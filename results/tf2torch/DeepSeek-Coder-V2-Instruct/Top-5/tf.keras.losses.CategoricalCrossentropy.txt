@@ -1,0 +1,6 @@
+
+Answer: 1. torch.nn.functional.cross_entropy
+2. F.nll_loss
+3. nn.BCELoss
+4. nn.MSELoss
+5. nn.L1Loss

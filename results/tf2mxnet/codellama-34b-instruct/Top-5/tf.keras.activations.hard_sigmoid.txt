@@ -1,0 +1,7 @@
+  tf.keras.activations.hard_sigmoid is a TensorFlow API for a hard sigmoid activation function. The equivalent MXNet API is:
+
+* mxnet.ndarray.Activation.hard_sigmoid
+* mxnet.gluon.nn.Activation.hard_sigmoid
+* mxnet.symbol.Activation.hard_sigmoid
+* mxnet.ndarray.Activation.relu
+* mxnet.gluon.nn.Activation.relu

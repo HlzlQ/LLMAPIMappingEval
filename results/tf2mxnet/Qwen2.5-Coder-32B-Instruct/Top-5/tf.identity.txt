@@ -1,0 +1,5 @@
+mxnet.symbol.identity
+mxnet.ndarray.identity
+mxnet.gluon.nn.Identity
+mxnet.operator.identity
+mxnet.symbol.copy

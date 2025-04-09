@@ -1,0 +1,10 @@
+  tf.keras.layers.MaxPooling1D
+  tf.keras.layers.GlobalMaxPooling1D
+  tf.keras.layers.AveragePooling1D
+  tf.keras.layers.GlobalAveragePooling1D
+  tf.nn.max_pool1d
+  tf.nn.avg_pool1d
+  tf.nn.max_pool2d
+  tf.nn.avg_pool2d
+  tf.nn.max_pool3d
+  tf.nn.avg_pool3d

@@ -1,0 +1,12 @@
+Here are the 10 most likely PyTorch API mappings for `tensorflow.keras.initializers.RandomNormal`:
+
+1. torch.nn.init.normal_
+2. torch.randn
+3. torch.distributions.Normal
+4. torch.nn.init.xavier_normal_
+5. torch.nn.init.kaiming_normal_
+6. torch.tensor.normal_
+7. torch.autograd.Variable.normal_
+8. torch.distributions.Normal.loc
+9. torch.distributions.Normal.scale
+10. torch.nn.Parameter(torch.randn)

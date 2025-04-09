@@ -1,0 +1,8 @@
+
+Here are five PyTorch APIs that correspond to the TensorFlow API `tensorflow.keras.losses.BinaryCrossentropy`:
+
+1. `torch.nn.BCELoss`
+2. `torch.nn.BCEWithLogitsLoss`
+3. `torch.nn.BinaryCrossEntropyLoss`
+4. `torch.nn.CrossEntropyLoss`
+5. `torch.nn.MultiLabelSoftMarginLoss`

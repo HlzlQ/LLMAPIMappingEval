@@ -1,0 +1,5 @@
+1. java.nio.charset.Charset.encode
+2. java.lang.String.getBytes
+3. java.nio.ByteBuffer.wrap
+4. java.io.OutputStreamWriter.write
+5. java.nio.charset.StandardCharsets.UTF_8.encode

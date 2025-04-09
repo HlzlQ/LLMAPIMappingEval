@@ -1,0 +1,5 @@
+java.util.LinkedList.getFirst  
+java.util.LinkedList.getLast  
+java.util.LinkedList.get  
+java.util.LinkedList.indexOf  
+java.util.LinkedList.lastIndexOf

@@ -1,0 +1,10 @@
+java.lang.System.getProperty
+java.lang.System.getenv
+java.lang.ProcessBuilder.environment
+java.nio.file.Files.readString
+java.util.Properties.load
+java.util.Map.putIfAbsent
+java.util.Optional.orElseGet
+javax.naming.Context.lookup
+javax.script.ScriptEngineManager.getEngineByName
+javax.xml.bind.JAXBContext.createMarshaller

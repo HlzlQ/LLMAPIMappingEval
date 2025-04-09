@@ -1,0 +1,5 @@
+1. System.IO.Path.GetFileName
+2. System.IO.FileInfo.Name
+3. System.IO.DirectoryInfo.Name
+4. System.IO.FileSystemInfo.FullName
+5. System.IO.Path.GetFileNameWithoutExtension

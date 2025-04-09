@@ -1,0 +1,10 @@
+System.Nullable<T>.HasValue
+System.Nullable<T>.Value
+System.Object.Equals(System.Object)
+System.Object.ReferenceEquals(System.Object, System.Object)
+System.String.IsNullOrEmpty(System.String)
+System.String.IsNullOrWhiteSpace(System.String)
+System.Array.Exists(System.Array, System.Predicate<T>)
+System.Array.Find(System.Array, System.Predicate<T>)
+System.Array.FindAll(System.Array, System.Predicate<T>)
+System.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource,bool>)

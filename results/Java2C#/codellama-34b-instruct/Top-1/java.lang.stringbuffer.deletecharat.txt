@@ -1,0 +1,15 @@
+C# does not have a direct equivalent to the `java.lang.StringBuffer` class or its `deleteCharAt()` method. However, you can achieve similar functionality using the `System.Text.StringBuilder` class in C#.
+
+Here is an example of how you could use the `StringBuilder` class to delete a character at a specific index:
+```
+using System.Text;
+
+// Create a new StringBuilder object with the string "hello"
+StringBuilder sb = new StringBuilder("hello");
+
+// Delete the character at index 2 (the third character)
+sb.Remove(2, 1);
+
+// Print the modified string
+Console.WriteLine(sb.ToString()); // Output: helo
+```

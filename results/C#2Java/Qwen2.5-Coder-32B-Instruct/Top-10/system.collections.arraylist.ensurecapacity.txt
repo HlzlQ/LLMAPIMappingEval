@@ -1,0 +1,10 @@
+java.util.ArrayList.ensureCapacity
+java.util.Vector.ensureCapacity
+java.util.LinkedList.ensureCapacity
+java.util.ArrayDeque.ensureCapacity
+java.util.PriorityQueue.ensureCapacity
+java.util.concurrent.CopyOnWriteArrayList.ensureCapacity
+java.util.concurrent.LinkedBlockingQueue.ensureCapacity
+java.util.concurrent.ArrayBlockingQueue.ensureCapacity
+java.util.concurrent.PriorityBlockingQueue.ensureCapacity
+java.util.concurrent.DelayQueue.ensureCapacity

@@ -1,0 +1,5 @@
+  tf.keras.optimizers.SGD(learning_rate=0.01)
+mxnet.optimizer.SGD(learning_rate=0.01)
+mxnet.optimizer.Momentum(learning_rate=0.01, momentum=0.9)
+mxnet.optimizer.NesterovMomentum(learning_rate=0.01, momentum=0.9)
+mxnet.optimizer.AdaGrad(learning_rate=0.01)

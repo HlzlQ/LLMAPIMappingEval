@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.keras.layers.Softmax`:
+
+1. CNTK.softmax
+2. CNTK.Sigmoid
+3. CNTK.Logistic
+4. CNTK.Rectifier
+5. CNTK.Tanh
+6. CNTK.HardTanh
+7. CNTK.LeakyReLU
+8. CNTK.PReLU
+9. CNTK.Softplus
+10. CNTK.Softsign

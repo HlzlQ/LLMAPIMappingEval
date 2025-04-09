@@ -1,0 +1,5 @@
+1. java.text.DecimalFormatSymbols.setGroupingSeparator
+2. java.text.NumberFormat.isGroupingUsed
+3. java.util.Locale.getNumberingSystem
+4. java.util.Currency.getInstance
+5. java.math.BigInteger.toString

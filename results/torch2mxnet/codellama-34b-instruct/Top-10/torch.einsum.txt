@@ -1,0 +1,12 @@
+  The following are ten MXNet APIs that correspond to the PyTorch API `torch.einsum`:
+
+1. `mxnet.ndarray.einsum`
+2. `mxnet.numpy.einsum`
+3. `mxnet.tensor.einsum`
+4. `mxnet.linalg.einsum`
+5. `mxnet.math.einsum`
+6. `mxnet.array_ops.einsum`
+7. `mxnet.matrix_ops.einsum`
+8. `mxnet.tensor_ops.einsum`
+9. `mxnet.linalg.tensor_einsum`
+10. `mxnet.math.tensor_einsum`

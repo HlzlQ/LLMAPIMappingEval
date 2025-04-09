@@ -1,0 +1,5 @@
+mxnet.gluon.rnn.LSTMCell
+mxnet.gluon.rnn.LSTM
+mxnet.ndarray.contrib.lstm_cell
+mxnet.symbol.contrib.lstm_cell
+mxnet.gluon.rnn.HybridSequential.add(mxnet.gluon.rnn.LSTMCell)

@@ -1,0 +1,10 @@
+System.Data.IDataRecord.GetInt64  
+System.Data.SqlClient.SqlDataReader.GetInt64  
+System.Data.OleDb.OleDbDataReader.GetInt64  
+System.Data.OracleClient.OracleDataReader.GetInt64  
+System.Data.SQLite.SQLiteDataReader.GetInt64  
+Npgsql.NpgsqlDataReader.GetInt64  
+MySql.Data.MySqlClient.MySqlDataReader.GetInt64  
+Microsoft.Data.SqlClient.SqlDataReader.GetInt64  
+System.Data.Common.DbDataReader.GetInt64  
+System.Data.IDataRecord.GetFieldValue<long>

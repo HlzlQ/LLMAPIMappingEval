@@ -1,0 +1,12 @@
+
+
+1. tf.image.resize_images
+2. tf.depth_to_space
+3. tf.keras.layers.Conv2DTranspose
+4. tf.nn.conv2d_transpose
+5. tf.image.resize_nearest_neighbor
+6. tf.image.resize_bilinear
+7. tf.image.crop_and_resize
+8. tf.space_to_depth
+9. tf.keras.layers.UpSampling2D
+10. tf.image.resize_bicubic

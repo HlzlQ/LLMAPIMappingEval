@@ -1,0 +1,5 @@
+1. torch.clamp
+2. torch.nn.functional.threshold
+3. torch.nn.Hardtanh
+4. torch.nn.Tanh
+5. torch.nn.functional.hardtanh

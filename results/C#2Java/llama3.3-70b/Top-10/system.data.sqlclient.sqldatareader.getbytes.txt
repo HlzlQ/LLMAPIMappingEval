@@ -1,0 +1,12 @@
+Here are the 10 Java APIs that match the functionality of `system.data.sqlclient.sqldatareader.getbytes`:
+
+1. java.sql.ResultSet.getBytes
+2. java.sql.CallableStatement.getBytes
+3. java.sql.PreparedStatement.getBytes
+4. java.sql.Statement.getBytes
+5. javax.sql.rowset.BaseRowSet.getBytes
+6. javax.sql.RowSet.getBytes
+7. java.sql.SQLInput.getBytes
+8. java.io.InputStream.getBytes
+9. java.nio.ByteBuffer.get
+10. java.sql.Blob.getBytes

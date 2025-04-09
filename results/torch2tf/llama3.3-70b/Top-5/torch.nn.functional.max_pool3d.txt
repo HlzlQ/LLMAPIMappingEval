@@ -1,0 +1,5 @@
+1. tf.nn.max_pool3d
+2. tf.keras.layers.MaxPooling3D
+3. tf.compat.v1.nn.max_pool3d
+4. tf.raw_ops.MaxPool3D
+5. tf.nn.pool

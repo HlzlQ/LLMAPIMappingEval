@@ -1,0 +1,13 @@
+
+Here are ten possible MXNet APIs that can be used for adaptive average pooling:
+
+1. `mxnet.ndarray.adaptive_avg_pool2d`
+2. `mxnet.ndarray.adaptive_avg_pool3d`
+3. `mxnet.ndarray.adaptive_max_pool2d`
+4. `mxnet.ndarray.adaptive_max_pool3d`
+5. `mxnet.ndarray.adaptive_mean_pool2d`
+6. `mxnet.ndarray.adaptive_mean_pool3d`
+7. `mxnet.ndarray.adaptive_sum_pool2d`
+8. `mxnet.ndarray.adaptive_sum_pool3d`
+9. `mxnet.ndarray.adaptive_prod_pool2d`
+10. `mxnet.ndarray.adaptive_prod_pool3d`

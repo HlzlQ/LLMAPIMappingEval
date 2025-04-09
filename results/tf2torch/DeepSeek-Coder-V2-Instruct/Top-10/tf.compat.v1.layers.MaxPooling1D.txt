@@ -1,0 +1,12 @@
+
+
+1. torch.nn.MaxPool1d
+2. torch.nn.AvgPool1d
+3. torch.nn.AdaptiveMaxPool1d
+4. torch.nn.AdaptiveAvgPool1d
+5. torch.nn.functional.max_pool1d
+6. torch.nn.functional.avg_pool1d
+7. torch.nn.functional.adaptive_max_pool1d
+8. torch.nn.functional.adaptive_avg_pool1d
+9. tensorflow.compat.v1.layers.MaxPooling1D
+10. tensorflow.keras.layers.MaxPooling1D

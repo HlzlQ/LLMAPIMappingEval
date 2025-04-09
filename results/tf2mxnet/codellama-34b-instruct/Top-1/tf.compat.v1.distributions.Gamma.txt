@@ -1,0 +1,13 @@
+
+MXNet does not have a direct equivalent of TensorFlow's `tf.compat.v1.distributions.Gamma` API. However, MXNet provides a similar distribution class called `mxnet.ndarray.random.gamma`. The `gamma` function in MXNet takes the same arguments as the `Gamma` distribution in TensorFlow, including `shape`, `scale`, and `seed`.
+
+Therefore, to map the TensorFlow API to MXNet, you can use the following code:
+```python
+import mxnet.ndarray.random as random
+
+# TensorFlow API
+tf_gamma = tf.compat.v1.distributions.Gamma(shape=shape, scale=scale, seed=seed)
+
+# MXNet API
+mx_gamma = random.gamma(shape=shape, scale=scale, seed=seed)
+```

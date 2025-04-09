@@ -1,0 +1,10 @@
+1. System.Collections.Generic.LinkedList<T>.First
+2. System.Linq.Enumerable.First
+3. System.Collections.Generic.Queue<T>.Peek
+4. System.Collections.Generic.Stack<T>.Peek
+5. System.Collections.Generic.List<T>.GetRange
+6. System.Collections.Generic.IEnumerator<T>.Current
+7. System.Collections.Generic.ICollection<T>.GetEnumerator
+8. System.Linq.Enumerable.FirstOrDefault
+9. System.Collections.Generic.LinkedList<T>.Find
+10. System.Collections.Generic.IList<T>.IndexOf

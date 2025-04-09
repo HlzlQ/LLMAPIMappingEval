@@ -1,0 +1,5 @@
+cntk.ops.average_pooling
+cntk.layers.AveragePooling
+cntk.layers.pooling
+cntk.layers.sequence.last
+cntk.layers.sequence.first

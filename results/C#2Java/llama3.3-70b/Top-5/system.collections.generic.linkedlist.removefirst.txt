@@ -1,0 +1,5 @@
+1. java.util.LinkedList.removeFirst()
+2. java.util.Deque.removeFirst()
+3. java.util.List.remove(0)
+4. org.apache.commons.collections4.list.LinkedListItemRemoveListener
+5. javax.swing.DefaultListModel.remove(0)

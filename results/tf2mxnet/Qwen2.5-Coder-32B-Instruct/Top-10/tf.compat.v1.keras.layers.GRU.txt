@@ -1,0 +1,10 @@
+mxnet.gluon.rnn.GRU
+mxnet.gluon.rnn.GRULayer
+mxnet.gluon.rnn.RNN
+mxnet.gluon.rnn.LSTM
+mxnet.gluon.rnn.SequentialRNNCell
+mxnet.gluon.rnn.HybridSequentialRNNCell
+mxnet.gluon.rnn.BasicRNNCell
+mxnet.gluon.rnn.BasicLSTMCell
+mxnet.gluon.rnn.BasicGRUCell
+mxnet.gluon.rnn.DropoutCell

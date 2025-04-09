@@ -1,0 +1,10 @@
+cntk.ops.identity
+cntk.layers.Dense
+cntk.layers.Dropout
+cntk.layers.For
+cntk.layers.Function
+cntk.layers.LSTM
+cntk.layers.Sequential
+cntk.layers.SharedDense
+cntk.layers.SharedDropout
+cntk.layers.SharedSequential

@@ -1,0 +1,6 @@
+
+Answer: 1. tf.train.GradientDescentOptimizer
+2. tf.train.AdamOptimizer
+3. tf.train.MomentumOptimizer
+4. tf.train.RMSPropOptimizer
+5. tf.train.AdagradOptimizer

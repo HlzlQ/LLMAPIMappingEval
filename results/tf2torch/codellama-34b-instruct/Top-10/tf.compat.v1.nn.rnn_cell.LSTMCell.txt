@@ -1,0 +1,13 @@
+
+Here are ten PyTorch APIs that correspond to the TensorFlow API `tensorflow.compat.v1.nn.rnn_cell.LSTMCell`:
+
+1. `torch.nn.LSTMCell`
+2. `torch.nn.RNNCell`
+3. `torch.nn.ModuleList`
+4. `torch.nn.Sequential`
+5. `torch.nn.Linear`
+6. `torch.nn.ReLU`
+7. `torch.nn.Tanh`
+8. `torch.nn.Sigmoid`
+9. `torch.nn.Dropout`
+10. `torch.nn.BatchNorm1d`

@@ -1,0 +1,5 @@
+
+<jupyter_code>
+# Flatten API in TensorFlow
+<jupyter_output>
+<empty_output>

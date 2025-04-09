@@ -1,0 +1,11 @@
+JUnit is a unit testing framework for Java, and it provides an assertNotNull method to verify that an object reference is not null. In C#, the equivalent API would be:
+
+* Microsoft.VisualStudio.TestTools.UnitTesting.Assert.IsNotNull()
+* NUnit.Framework.Assert.That(actual, Is.Not.Null)
+* xunit.assert.NotNull()
+* FluentAssertions.AssertionExtensions.Should().NotBeNull()
+* NSubstitute.Received.InOrder(() => { }).NotNull();
+* Moq.Mock.VerifySet(mock => mock.Object, Times.Never());
+* Autofac.Extras.Moq.Mock.VerifySet(mock => mock.Object, Times.Never());
+* Machine.Specifications.It.Should_be_not_null();
+* Shouldly.ShouldBeNotNull();

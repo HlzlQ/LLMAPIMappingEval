@@ -1,0 +1,5 @@
+1. java.nio.charset.Charset.defaultCharset()
+2. java.nio.charset.Charset.forName()
+3. java.nio.charset.Charset.isSupported()
+4. java.lang.String.getBytes()
+5. java.nio.charset.Charset.availableCharsets()

@@ -1,0 +1,13 @@
+
+
+## Solution:
+1. PoissonNLLLoss
+2. NLLLoss
+3. CrossEntropyLoss
+4. MSELoss
+5. L1Loss
+6. SmoothL1Loss
+7. HuberLoss
+8. BCELoss
+9. BCEWithLogitsLoss
+10. SoftMarginLoss

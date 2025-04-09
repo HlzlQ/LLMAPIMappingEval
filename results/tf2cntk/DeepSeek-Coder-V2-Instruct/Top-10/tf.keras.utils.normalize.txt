@@ -1,0 +1,13 @@
+
+Answer: ```
+1. keras.layers.Dense
+2. keras.models.Sequential
+3. keras.optimizers.Adam
+4. keras.losses.SparseCategoricalCrossentropy
+5. keras.metrics.Accuracy
+6. keras.callbacks.ModelCheckpoint
+7. keras.preprocessing.image_dataset_from_directory
+8. keras.layers.Conv2D
+9. keras.layers.MaxPooling2D
+10. keras.layers.Flatten
+```

@@ -1,0 +1,5 @@
+System.Text.RegularExpressions.Regex.IsMatch  
+System.String.Contains  
+System.String.StartsWith  
+System.String.EndsWith  
+System.String.Equals

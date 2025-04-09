@@ -1,0 +1,2 @@
+
+PyTorch equivalent of `tensorflow.einsum`: `torch.einsum`

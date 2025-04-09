@@ -1,0 +1,5 @@
+1. CNTK.Linear
+2. CNTK.Identity
+3. CNTK.ElementTimes
+4. CNTK.Scale
+5. CNTK.ConstantScalarMultiplyByConstant

@@ -1,0 +1,13 @@
+
+Here are ten possible CNTK APIs that can be used as alternatives to TensorFlow's `RMSPropOptimizer`:
+
+1. `cntk.learners.rmsprop`
+2. `cntk.optimizers.rmsprop`
+3. `cntk.trainers.rmsprop`
+4. `cntk.learners.adam`
+5. `cntk.optimizers.adam`
+6. `cntk.trainers.adam`
+7. `cntk.learners.sgd`
+8. `cntk.optimizers.sgd`
+9. `cntk.trainers.sgd`
+10. `cntk.learners.momentum_sgd`

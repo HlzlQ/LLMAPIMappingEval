@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used as alternatives to PyTorch's `torch.optim.Adagrad`:
+
+1. `tf.train.GradientDescentOptimizer`
+2. `tf.train.MomentumOptimizer`
+3. `tf.train.NesterovAcceleratedGradient`
+4. `tf.train.RMSPropOptimizer`
+5. `tf.train.AdamOptimizer`
+6. `tf.train.AdagradDAOptimizer`
+7. `tf.train.AdadeltaOptimizer`
+8. `tf.train.ProximalGradientDescentOptimizer`
+9. `tf.train.StochasticGradientDescentOptimizer`
+10. `tf.train.LazyAdamOptimizer`

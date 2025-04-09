@@ -1,0 +1,22 @@
+
+CNTK does not have a direct equivalent to TensorFlow's `tf.keras.layers.GRU` layer. However, CNTK has a similar layer called `cntk.layers.Recurrent`.
+
+Here is an example of how you can use the `cntk.layers.Recurrent` layer in CNTK to create a GRU layer:
+```
+import cntk as C
+
+# Define the input and output shapes
+input_shape = (None, 10)
+output_shape = (None, 20)
+
+# Create the Recurrent layer
+gru = C.layers.Recurrent(C.layers.GRUCell(units=20), return_sequences=True)
+
+# Define the model
+model = C.models.Sequential()
+model.add(gru)
+model.add(C.layers.Dense(output_shape[1], activation='softmax'))
+```
+In this example, we define a `Recurrent` layer with a `GRUCell` and set the `return_sequences` argument to `True`. This will create a GRU layer that processes sequences of length 20. We then add a `Dense` layer with an output shape of (None, 20) to project the output of the GRU layer to the desired shape.
+
+Note that CNTK's `Recurrent` layer is more flexible than TensorFlow's `tf.keras.layers.GRU` layer, as it allows you to specify a custom cell type and return sequences argument. However, the basic idea of using a recurrent layer to process sequential data is the same in both frameworks.

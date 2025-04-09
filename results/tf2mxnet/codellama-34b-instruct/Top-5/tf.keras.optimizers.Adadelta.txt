@@ -1,0 +1,7 @@
+  tf.keras.optimizers.Adadelta is a variant of the Adagrad optimizer that uses moving averages of gradient squares instead of individual gradient squares. Here are five MXNet APIs that have similar functions to tf.keras.optimizers.Adadelta:
+
+1. mxnet.optimizer.AdaDelta
+2. mxnet.optimizer.AdaGrad
+3. mxnet.optimizer.RMSProp
+4. mxnet.optimizer.SGD
+5. mxnet.optimizer.Adam

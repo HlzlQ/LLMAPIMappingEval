@@ -1,0 +1,12 @@
+  Here are ten possible Java APIs that correspond to the given C# API:
+
+1. java.io.StringWriter.toString()
+2. java.lang.Object.toString()
+3. java.lang.String.toString()
+4. java.util.StringTokenizer.toString()
+5. java.net.URL.toString()
+6. java.nio.charset.Charset.toString()
+7. java.text.MessageFormat.format()
+8. java.time.LocalDateTime.toString()
+9. java.time.ZoneId.toString()
+10. java.util.Locale.toString()

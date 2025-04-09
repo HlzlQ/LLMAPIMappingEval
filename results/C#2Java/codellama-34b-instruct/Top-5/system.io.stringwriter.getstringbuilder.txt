@@ -1,0 +1,7 @@
+  Here are five possible Java APIs that correspond to the given C# API:
+
+1. java.io.StringWriter.getBuffer()
+2. java.lang.StringBuilder.toString()
+3. java.lang.StringBuilder.length()
+4. java.lang.StringBuilder.capacity()
+5. java.lang.StringBuilder.setLength(int newLength)

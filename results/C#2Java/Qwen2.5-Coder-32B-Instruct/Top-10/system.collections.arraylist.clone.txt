@@ -1,0 +1,10 @@
+java.util.ArrayList.clone
+java.lang.Object.clone
+java.util.List.copyOf
+java.util.ArrayList.<init>
+java.util.Collections.copy
+java.util.ArrayList.subList
+java.util.ArrayList.toArray
+java.util.ArrayList.iterator
+java.util.ArrayList.listIterator
+java.util.ArrayList.spliterator

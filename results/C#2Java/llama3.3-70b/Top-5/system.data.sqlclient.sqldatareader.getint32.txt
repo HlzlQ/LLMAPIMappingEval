@@ -1,0 +1,7 @@
+Here are the 5 Java APIs that match the function of `system.data.sqlclient.sqldatareader.getint32`:
+
+1. java.sql.ResultSet.getInt()
+2. java.sql.ResultSet.getInt(int)
+3. java.sql.CallableStatement.getInt()
+4. java.sql.CallableStatement.getInt(int)
+5. java.sql.PreparedStatement.getInt()

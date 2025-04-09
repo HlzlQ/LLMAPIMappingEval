@@ -1,0 +1,10 @@
+cntk.layers.AveragePooling
+cntk.ops.reduce_mean
+cntk.layers.GlobalAveragePooling
+cntk.layers.Pooling
+cntk.layers.MaxPooling
+cntk.layers.Reduction
+cntk.layers.ConvolutionalStacking
+cntk.layers.Sequential
+cntk.layers.Function
+cntk.layers.Dropout

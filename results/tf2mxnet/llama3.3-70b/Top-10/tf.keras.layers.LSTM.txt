@@ -1,0 +1,12 @@
+Here are the 10 most likely MXNet API mappings for `tensorflow.keras.layers.LSTM`:
+
+1. mxnet.ndarray.LSTM
+2. mxnet.gluon.rnn.LSTM
+3. mxnet.gluon.nn.LSTM
+4. mxnet.contrib.rnn.LSTM
+5. mxnet.gluon.rnn.LSTMBasicCell
+6. mxnet.gluon.rnn.LSTMCell
+7. mxnet.ndarray.rnn.LSTM
+8. mxnet.gluon.nn.RNN
+9. mxnet.gluon.rnn.GRU
+10. mxnet.gluon.rnn.RecurrentCell

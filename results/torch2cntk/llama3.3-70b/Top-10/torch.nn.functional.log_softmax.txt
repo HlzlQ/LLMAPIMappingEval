@@ -1,0 +1,12 @@
+Here are the top 10 CNTK APIs that match the functionality of `torch.nn.functional.log_softmax`:
+
+1. `cntk.softmax`
+2. `cntk.log_softmax`
+3. `cntk.cross_entropy_with_softmax`
+4. `cntk.softmax_cross_entropy`
+5. `cntk.log`
+6. `cntk.exp`
+7. `cntk.normalize`
+8. `cntk.scale`
+9. `cntk.reduce_log_sum_exp`
+10. `cntk.log_normalizer`

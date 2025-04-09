@@ -1,0 +1,1 @@
+cntk.layers.pooling.max_pooling_with_indices

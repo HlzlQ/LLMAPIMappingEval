@@ -1,0 +1,6 @@
+
+1. torch.nn.GRU -> mxnet.gluon.rnn.GRU
+2. torch.nn.LSTM -> mxnet.gluon.rnn.LSTM
+3. torch.optim.Adam -> mxnet.optimizer.adam
+4. torch.optim.SGD -> mxnet.optimizer.sgd
+5. torch.nn.Linear -> mxnet.gluon.nn.Dense

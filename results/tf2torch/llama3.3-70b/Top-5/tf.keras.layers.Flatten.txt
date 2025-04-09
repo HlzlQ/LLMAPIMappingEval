@@ -1,0 +1,5 @@
+1. torch.nn.Flatten
+2. torch.flatten
+3. torch.nn.Linear
+4. torch.reshape
+5. torch.view

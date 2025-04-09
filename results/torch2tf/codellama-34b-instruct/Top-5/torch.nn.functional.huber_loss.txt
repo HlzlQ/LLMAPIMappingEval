@@ -1,0 +1,5 @@
+  tf.keras.losses.Huber
+  tf.keras.losses.MeanSquaredError
+  tf.keras.losses.MeanAbsoluteError
+  tf.keras.losses.BinaryCrossentropy
+  tf.keras.losses.CategoricalCrossentropy

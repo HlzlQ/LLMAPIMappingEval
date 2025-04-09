@@ -1,0 +1,10 @@
+tf.keras.layers.Embedding  
+tf.compat.v1.nn.embedding_lookup  
+tf.nn.embedding_lookup  
+tf.nn.embedding_lookup_sparse  
+tf.raw_ops.GatherNd  
+tf.raw_ops.GatherV2  
+tf.raw_ops.ResourceGatherNd  
+tf.raw_ops.ResourceGatherV2  
+tf.sparse.reorder  
+tf.sparse.to_dense

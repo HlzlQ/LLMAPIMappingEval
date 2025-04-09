@@ -1,0 +1,23 @@
+
+CNTK does not have a direct equivalent to the `GRU` layer in TensorFlow. However, you can achieve similar functionality using the `Recurrence` layer in CNTK. Here's an example of how to use the `Recurrence` layer to implement a GRU-like architecture:
+```
+import cntk as C
+
+# Define the input and output shapes
+input_shape = (None, 10)
+output_shape = (None, 20)
+
+# Create the Recurrence layer
+gru = C.layers.Recurrence(C.layers.GRUCell(units=50), return_sequences=True)
+
+# Define the model
+model = C.models.Sequential()
+model.add(gru)
+model.add(C.layers.Dense(20, activation='softmax'))
+
+# Compile the model
+model.compile(loss='categorical_crossentropy', optimizer='adam')
+```
+In this example, we define a `Recurrence` layer with a `GRUCell` and set `return_sequences=True` to return the output of each time step. We then add a `Dense` layer with 20 units and an activation function to convert the output to a probability distribution. Finally, we compile the model using the categorical cross-entropy loss function and the Adam optimizer.
+
+Note that this is just one possible way to implement a GRU-like architecture in CNTK, and there may be other ways to achieve similar results depending on your specific use case.

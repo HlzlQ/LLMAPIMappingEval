@@ -1,0 +1,1 @@
+cntk.layers.max_pooling_with_dynamic_shape

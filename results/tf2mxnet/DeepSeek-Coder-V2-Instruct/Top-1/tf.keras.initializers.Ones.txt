@@ -1,0 +1,3 @@
+
+
+MXNet_API = "mxnet.init.One"

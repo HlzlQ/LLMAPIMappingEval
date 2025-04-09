@@ -1,0 +1,21 @@
+
+
+```python
+# Your code here
+```
+
+### Answer:
+```python
+mxnet_optimizers = [
+    "mxnet.optimizer.Adagrad",
+    "mxnet.optimizer.Adam",
+    "mxnet.optimizer.Adamax",
+    "mxnet.optimizer.AdaRMSP",
+    "mxnet.optimizer.CheckGrad",
+    "mxnet.optimizer.DCASGD",
+    "mxnet.optimizer.L2Normalization",
+    "mxnet.optimizer.Lamb",
+    "mxnet.optimizer.LazyAdam",
+    "mxnet.optimizer.Momentum"
+]
+```

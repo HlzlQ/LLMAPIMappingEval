@@ -1,0 +1,12 @@
+Here are the 10 most likely CNTK API mappings for `tensorflow.compat.v1.distributions.Normal`:
+
+1. CNTK.NormalDistribution
+2. CNTK.Distribution.Normal
+3. CNTK.GaussianDistribution
+4. CNTK.Normal
+5. CNTK.Distributions.Normal
+6. CNTK.NormalDist
+7. CNTK.Gaussian
+8. CNTK.ContinuousDistribution.Normal
+9. CNTK.NormalVariable
+10. CNTK.Distribution.Gaussian

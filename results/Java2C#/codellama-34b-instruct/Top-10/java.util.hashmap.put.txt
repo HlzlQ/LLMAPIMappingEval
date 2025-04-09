@@ -1,0 +1,12 @@
+  Here are ten possible C# APIs that correspond to the given Java API:
+
+1. System.Collections.Generic.Dictionary<TKey, TValue>.Add()
+2. System.Collections.Generic.Dictionary<TKey, TValue>.Insert()
+3. System.Collections.Generic.Dictionary<TKey, TValue>.Put()
+4. System.Collections.Generic.Dictionary<TKey, TValue>.Set()
+5. System.Collections.Generic.Dictionary<TKey, TValue>.Update()
+6. System.Collections.Generic.Dictionary<TKey, TValue>.AddOrUpdate()
+7. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.AddOrUpdate()
+8. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd()
+9. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryAdd()
+10. System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryUpdate()

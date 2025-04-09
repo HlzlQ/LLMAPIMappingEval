@@ -1,0 +1,5 @@
+1. mx.nd.random.bernoulli
+2. mx.gluon.loss.SigmoidBinaryCrossEntropyLoss
+3. mx.gluon.nn.Bernoulli
+4. mxnet.ndarray.sample_bernoulli
+5. mx.gluon.loss.LogisticLoss

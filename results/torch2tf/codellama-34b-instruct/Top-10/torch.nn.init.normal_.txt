@@ -1,0 +1,13 @@
+
+Here are ten possible TensorFlow APIs that can be used for initializing weights with a normal distribution:
+
+1. `tf.keras.initializers.RandomNormal`
+2. `tf.keras.initializers.TruncatedNormal`
+3. `tf.keras.initializers.VarianceScaling`
+4. `tf.keras.initializers.GlorotUniform`
+5. `tf.keras.initializers.HeNormal`
+6. `tf.keras.initializers.LeCunNormal`
+7. `tf.keras.initializers.XavierNormal`
+8. `tf.keras.initializers.MSRA`
+9. `tf.keras.initializers.KaimingHe`
+10. `tf.keras.initializers.LeCunUniform`

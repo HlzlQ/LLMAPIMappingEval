@@ -1,0 +1,13 @@
+
+Here are ten possible mappings from PyTorch's `torch.tensordot` API to TensorFlow's APIs:
+
+1. `tf.tensordot(a, b)`
+2. `tf.matmul(a, b)`
+3. `tf.einsum(a, b)`
+4. `tf.dot(a, b)`
+5. `tf.inner_product(a, b)`
+6. `tf.outer_product(a, b)`
+7. `tf.tensor_dot(a, b)`
+8. `tf.tensordot(a, b, axes=1)`
+9. `tf.tensordot(a, b, axes=2)`
+10. `tf.tensordot(a, b, axes=3)`

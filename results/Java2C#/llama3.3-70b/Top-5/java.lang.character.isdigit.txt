@@ -1,0 +1,5 @@
+1. System.Char.IsDigit
+2. System.Text.RegularExpressions.Regex.IsMatch
+3. System.Linq.Enumerable.All
+4. System.String.IndexOfAny
+5. System.Globalization.CharUnicodeInfo.GetUnicodeCategory
